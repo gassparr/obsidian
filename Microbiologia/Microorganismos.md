@@ -3,7 +3,7 @@
  - interior [[citosol]]
  - [[Pared Celular]]
 
-# tipos=
+# Tipos
 - ## [[Procariotas]]: 
      - m
 - ## [[Eucariotas]]:
