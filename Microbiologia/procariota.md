@@ -20,6 +20,6 @@ Las procariotas varian desde _0.2 -> 700 um_ de diametro, este limite superior e
 
 # Pared Celular:
 - [[grampositiva]]
-- [[gramnegativa]]
+- [[gramnegativa]]:
 
 
