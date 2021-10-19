@@ -4,7 +4,7 @@ su forma y su pequeño tamaño son los 2 factores mas notables de este tipo de c
 ## Grandes Rasgos;
 - coco: forma esfericas
 - bacilo: forma cilindrica
-- e
+- espirilo: baci
 ## Agrupaciones
 debido a las agrupaciones tras la division celular, se forman nombrandolos por prefijos:
 - strepto: cadenas largas
