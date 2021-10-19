@@ -22,4 +22,4 @@ Tambien llamada tincion diferencial donde los colorantes teñiran de distintos c
 
 - ### grampositiva: Color violeta 
 - ### gramnegativa: Color rosado
-la diferencia de color se debe a diferencias en la estructura de la [[Pared Celular]] sdff
+la diferencia de color se debe a diferencias en la estructura de la [[Pared Celular]] 
