@@ -1,1 +1,1 @@
-tipo de celula [[procariota]] a diferencia de las [[grampositiva]] 
+tipo de celula [[procariota]] a diferencia de las [[grampositiva]] solo una pequeñ
