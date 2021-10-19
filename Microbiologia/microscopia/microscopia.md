@@ -8,7 +8,7 @@ Utilizan lentes que amplifican la imagen, aun asi estan limitados por la resoluc
      - [[campo oscuro]]
      - [[fluorescencia]]
 - ## Electronicos:
-     - Micro
+     - Microscopio electronico d
 
 # Tincion:
 colorantes para teñir celulas y mejorar el contraste de las mismas, lo cual facilita la observacion en microscopio de [[campo claro]]. Muchos colorantes tienen carga positiva por lo que son *colorantes basicos*, Estos se uniran a componentes cargados negativamente como acidos nucleicos, poliscaridos acidos y superficies celulares.
