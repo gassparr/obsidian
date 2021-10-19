@@ -23,7 +23,6 @@ Las procariotas varian desde _0.2 -> 700 um_ de diametro, este limite superior e
 - [[grampositiva]]: 1 capa gruesa
 - [[gramnegativa]]: 2 capas finas
 
-sera una capa rigida que le otorga resistencia a la celula en 2 dimensiones.
-
+sera una capa rigida que le otorga resistencia a la celula en 2 dimensiones. Aun asi exist
 
 
