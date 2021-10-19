@@ -1,0 +1,2 @@
+tipos de [[microscopia]] donde la luz recibida por la muestra llega desde los lados, de modo que la muestra aparece clara, mientras que el fondo sera oscuro.
+ La resolucion de esta por lo comun es mejor que la de campo claro 

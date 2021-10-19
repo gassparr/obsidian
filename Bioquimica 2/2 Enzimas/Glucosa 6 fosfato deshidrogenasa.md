@@ -1,0 +1,1 @@
+primera enzima en la [[via de pentosas fosfato]]

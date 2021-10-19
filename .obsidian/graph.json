@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Bioquimica 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Microbiologia",
+      "color": {
+        "a": 1,
+        "rgb": 4390820
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 2.17307692307692,
+  "lineSizeMultiplier": 4.9014367816092,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 8.93258426966292,
+  "linkStrength": 1,
+  "linkDistance": 163,
+  "scale": 0.25402790476163895,
+  "close": true
+}
