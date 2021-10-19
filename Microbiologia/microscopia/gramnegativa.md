@@ -1,1 +1,1 @@
-tipo de celula [[procariota]]
+tipo de celula [[procariota]] a diferen
