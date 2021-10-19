@@ -1,1 +1,1 @@
-La membrana c
+La [[membrana citoplasmatica]] r
