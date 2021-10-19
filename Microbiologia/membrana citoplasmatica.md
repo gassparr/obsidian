@@ -7,3 +7,4 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funciones y esta
  - Proteinas Integrales: 
 Embedidas en la membrana
  - Proteinas Perifericas:
+No se encuentran em
