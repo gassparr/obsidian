@@ -16,4 +16,4 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 
 # Funciones
 - barrera de permeabilidad
-- punto de anclaje para 
+- punto de anclaje para proteinas
