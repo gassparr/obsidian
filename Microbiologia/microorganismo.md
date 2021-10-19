@@ -4,7 +4,7 @@
  - [[Pared Celular]]
 
 # Tipos
-- ## [[procariotas]]
+- ## [[Procariotas]]
 - ## [[Eucariotas]]
 
 # Observacion:
