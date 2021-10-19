@@ -20,3 +20,11 @@ a traves de un motor de rotacion, formador por dos componentes principales
 > 2.  el estator: Proteinas motoras que rodean cuerpo basal y generan torcion.
 
 la energia procede de la fuerza protonmotriz (movimiento de protones a travez de la [[membrana citoplasmatica]] 
+
+# Deslizamiento
+[[procariota]] que no pueden lograr la natacion
+
+## mecanismo de deslizamiento
+existen distintos tipos de mecanismos. 
+-  secretando polisacarido mucoso la cual por traccion con el medio permite motilidad.
+- Mixobacterias mueven por tirones de extension y retraccion de pelos tipo IV
