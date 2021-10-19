@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/microscopia.md",
+            "file": "Microbiologia/campo claro.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "179c9af45d355ac0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Microbiologia/campo oscuro.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/microscopia.md",
+                "file": "Microbiologia/campo oscuro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/microscopia.md",
+                "file": "Microbiologia/campo oscuro.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/microscopia.md"
+                "file": "Microbiologia/campo oscuro.md"
               }
             }
           }
@@ -109,15 +120,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c8c7a9a3042c196",
+  "active": "179c9af45d355ac0",
   "lastOpenFiles": [
+    "Microbiologia/campo oscuro.md",
+    "Microbiologia/campo claro.md",
     "Microbiologia/microscopia.md",
     "Microbiologia/Microorganismos.md",
     "Microbiologia/contraste por interferencia diferencial.md",
     "Microbiologia/fluorescencia.md",
-    "Microbiologia/campo oscuro.md",
     "Microbiologia/contraste de fases.md",
-    "Microbiologia/campo claro.md",
     "Microbiologia/microscopios.md",
     "Untitled.md",
     "1 Vias/gluconeogenesis.md"
