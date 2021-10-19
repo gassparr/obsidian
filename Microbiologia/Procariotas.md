@@ -10,4 +10,4 @@ debido a las agrupaciones tras la division celular, se forman nombrandolos por p
 - strepto: cadenas largas
 - sarcina: cubos tridimensionales
 - staphylo: racimos
-''
+
