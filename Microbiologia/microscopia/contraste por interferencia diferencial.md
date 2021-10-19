@@ -1,1 +1,1 @@
- tipo de [[microscopia]] que tuiliza un 
+ tipo de [[microscopia]] que utiliz
