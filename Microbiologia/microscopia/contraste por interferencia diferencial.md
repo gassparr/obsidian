@@ -1,1 +1,1 @@
- tipo de [[microscopia]] que utiliz
+ tipo de [[microscopia]] que utiliza un pol
