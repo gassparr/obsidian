@@ -11,4 +11,4 @@ debido a las agrupaciones tras la division celular, se forman nombrandolos por p
 - sarcina: cubos tridimensionales
 - staphylo: racimos
 
-Las procariotas varian desde *0.2 -> 700 um* de diametro, este limite superior estara dado debido a la menor capacidad de una celu
+Las procariotas varian desde *0.2 -> 700 um* de diametro, este limite superior estara dado debido a la menor capacidad de una celula de gran tamaño de transportar nutri
