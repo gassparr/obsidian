@@ -16,6 +16,6 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 
 # Funciones
 - barrera de permeabilidad:
-> pequeñas moleculas 
+> pequeñas moleculas hidrofobasatraviezan la memb
 - punto de anclaje para proteinas:
 >
