@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/campo claro.md",
+            "file": "Microbiologia/microscopia/campo claro.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/campo oscuro.md",
+            "file": "Microbiologia/microscopia/campo oscuro.md",
             "mode": "source"
           }
         }
@@ -31,7 +31,29 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/campo claro.md",
+            "file": "Microbiologia/microscopia/campo claro.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f29dcf0fbf460d1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "33aec0ca6d8a81f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Microbiologia/microscopia/fluorescencia.md",
             "mode": "source"
           }
         }
@@ -90,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/campo claro.md",
+                "file": "Microbiologia/microscopia/fluorescencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/campo claro.md",
+                "file": "Microbiologia/microscopia/fluorescencia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/campo claro.md"
+                "file": "Microbiologia/microscopia/fluorescencia.md"
               }
             }
           }
@@ -131,15 +153,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3259e2614f4be556",
+  "active": "33aec0ca6d8a81f7",
   "lastOpenFiles": [
-    "Microbiologia/campo claro.md",
+    "Microbiologia/microscopia/fluorescencia.md",
+    "Microbiologia/microscopia/contraste por interferencia diferencial.md",
+    "Microbiologia/microscopia/campo claro.md",
     "Microbiologia/Microorganismos.md",
-    "Microbiologia/campo oscuro.md",
-    "Microbiologia/microscopia.md",
-    "Microbiologia/contraste por interferencia diferencial.md",
-    "Microbiologia/fluorescencia.md",
-    "Microbiologia/contraste de fases.md",
+    "Microbiologia/microscopia/campo oscuro.md",
+    "Microbiologia/microscopia/microscopia.md",
+    "Microbiologia/microscopia/contraste de fases.md",
     "Microbiologia/microscopios.md",
     "Untitled.md",
     "1 Vias/gluconeogenesis.md"
