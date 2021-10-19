@@ -1,1 +1,1 @@
-su forma y su peq
+su forma y su pequeño tamaño 
