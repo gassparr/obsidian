@@ -27,6 +27,6 @@ Sera una capa rigida la cual se encuentra solo en el dominio *[[bacteria]]* que 
 
 ## Capas S (archaea)
 formada por moleculas entrelazadas de proteinas o glicoproteinas. 
-Las capas s brindan proteccion frente a la lisis osmotica ademas de generar una interfase y el medio, actuando asi como filtro selectivo permitiendo el paso de 
+Las capas s brindan proteccion frente a la lisis osmotica ademas de generar una interfase y el medio, actuando asi como filtro selectivo permitiendo el paso de solutos de bajo PM
 
 
