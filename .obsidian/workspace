@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "38cb48b6a2bb75da",
+        "id": "bd6ac2706bd16ffd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185,
-    "collapsed": true
+    "width": 185
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -110,17 +109,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "38cb48b6a2bb75da",
+  "active": "bd6ac2706bd16ffd",
   "lastOpenFiles": [
     "Microbiologia/Movimiento celular.md",
     "Microbiologia/procariota.md",
-    "Microbiologia/eucariota.md",
     "Microbiologia/microorganismo.md",
-    "Microbiologia/Endosporas.md",
-    "Bioquimica 2/1 Vias/glucogenogenesis.md",
-    "Microbiologia/).md",
     "Microbiologia/grampositiva.md",
     "Microbiologia/microscopia/microscopia.md",
-    "Microbiologia/microscopia/Pared Celular.md"
+    "Microbiologia/microscopia/fluorescencia.md",
+    "Microbiologia/microscopia/campo oscuro.md",
+    "Microbiologia/microscopia/contraste por interferencia diferencial.md",
+    "Microbiologia/microscopia/contraste de fases.md",
+    "Microbiologia/microscopia/campo claro.md"
   ]
 }
