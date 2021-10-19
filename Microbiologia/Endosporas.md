@@ -19,3 +19,6 @@ En [[microscopia]] se ven como estructuras fuertemente refractantes, ademas como
 - Contiene grandes cantidades de SASP:
  1. protegen ADN de daño por radiacion UV, desecacion y calor.
  2. actua como fuente de carbono y energia para el crecimiente de subsecuente celula vegetativa
+
+# Esporulacion
+Proceso de diferenciacion celular. Se puede dividir en varias etapas 
