@@ -24,4 +24,4 @@ Tambien llamada tincion diferencial donde los colorantes teñiran de distintos c
 
 - ### [[grampositiva]]: Color violeta 
 - ### [[gramnegativa]]: Color rosado
-la diferencia de color se debe a diferencias en la estructura de la [[Pared Celular]] ya que se forma un complejo entre el cristal violeta y el yodo celular; en las celulas [[gramnegativa]] el complejo se extrae con alcohol. Ya que en las celulas [[grampositiva]] no se  
+la diferencia de color se debe a diferencias en la estructura de la [[Pared Celular]] ya que se forma un complejo entre el cristal violeta y el yodo celular; en las celulas [[gramnegativa]] el complejo se extrae con alcohol. Ya que en las celulas [[grampositiva]] no se puede extraer debido a su gran tama 
