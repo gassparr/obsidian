@@ -25,6 +25,6 @@ Las procariotas varian desde _0.2 -> 700 um_ de diametro, este limite superior e
 
 Sera una capa rigida la cual se encuentra solo en el dominio *[[bacteria]]* que le otorga resistencia a la celula en 2 dimensiones. Aun asi existen agentes que podran destruirlo, entre ellos el *lisozima*  
 
-## Capas S
+## Capas S ()
 
 
