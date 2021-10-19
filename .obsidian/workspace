@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Endosporas.md",
+            "file": "Microbiologia/procariota.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Endosporas.md",
+                "file": "Microbiologia/procariota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Endosporas.md",
+                "file": "Microbiologia/procariota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Endosporas.md"
+                "file": "Microbiologia/procariota.md"
               }
             }
           }
@@ -112,15 +112,15 @@
   },
   "active": "38cb48b6a2bb75da",
   "lastOpenFiles": [
-    "Microbiologia/Endosporas.md",
     "Microbiologia/procariota.md",
+    "Microbiologia/eucariota.md",
+    "Microbiologia/microorganismo.md",
+    "Microbiologia/Endosporas.md",
+    "Bioquimica 2/1 Vias/glucogenogenesis.md",
+    "Microbiologia/).md",
     "Microbiologia/grampositiva.md",
     "Microbiologia/microscopia/microscopia.md",
     "Microbiologia/microscopia/Pared Celular.md",
-    "Microbiologia/microorganismo.md",
-    "Microbiologia/microscopia/gramnegativa.md",
-    "Microbiologia/Pared Celular.md",
-    "Microbiologia/membrana citoplasmatica.md",
-    "Bioquimica 2/1 Vias/glucogenogenesis.md"
+    "Microbiologia/microscopia/gramnegativa.md"
   ]
 }

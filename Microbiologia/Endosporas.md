@@ -22,3 +22,5 @@ En [[microscopia]] se ven como estructuras fuertemente refractantes, ademas como
 
 # Esporulacion
 Proceso de diferenciacion celular. Se puede dividir en varias etapas 
+![](https://i.imgur.com/AjO2at4.jpg)
+

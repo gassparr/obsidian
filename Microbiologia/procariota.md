@@ -56,3 +56,9 @@ Los cuerpos de inclusion mas comunes son el **PHB** y el **[[glucogeno]]**
 estructuras de forma conica constituida por proteinas, son huevas pero rigidas
 
 # [[Endosporas]]
+
+# Movimiento celular
+- natacion: utiliza  flagelos para lograrlo
+>en bacterias son finos y largos, no se pueden observar por [[microscopia]] optica. hay 2 tipos de flagelos
+> 1. flagelacion polar: flagelos en uno o los dos extremos celulares.
+> 2. flagelacion peritrica: flagelos se unen en multiples sitios 
