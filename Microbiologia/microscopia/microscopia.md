@@ -22,6 +22,6 @@ Tambien llamada tincion diferencial donde los colorantes teñiran de distintos c
 > - Decolorar brevemente con alcohol (unos 20 segundos)
 > - Realizar tinción de contraste con safranina durante 1 a 2 minutos
 
-- ### grampositiva: Color violeta 
-- ### gramnegativa: Color rosado
+- ### [[grampositiva]]: Color violeta 
+- ### [[gramnegativa]]: Color rosado
 la diferencia de color se debe a diferencias en la estructura de la [[Pared Celular]] 
