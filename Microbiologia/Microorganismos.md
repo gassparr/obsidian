@@ -3,7 +3,7 @@
  - interior [[citosol]]
  - [[Pared Celular]]
 
-# Elementos Unicos
+# tipos=
 - ## [[Procariotas]]: 
      - m
 - ## [[Eucariotas]]:
