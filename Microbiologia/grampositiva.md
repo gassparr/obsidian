@@ -1,1 +1,1 @@
-tipo de celula [[procariota]] la cual tendra importantes diferencias en la pared celular 
+tipo de celula [[procariota]] la cual tendra importantes diferencias en la pared celular c
