@@ -5,5 +5,5 @@ sera una bicapa fosfolipidica, la cual tendra componentes hidrofobicos e hidrofi
 ## Proteinas intermembrana.
 la bicapa contiene muchas proteinas las cuales tendran diversas funciones y estaran en distintas disposiciones:
  - Proteinas Integrales: 
-Embe
+Embedidas en la membrana
  - Proteinas Perifericas:
