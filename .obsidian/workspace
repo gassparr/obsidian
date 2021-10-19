@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/procariota.md",
+            "file": "Microbiologia/Movimiento celular.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/procariota.md",
+                "file": "Microbiologia/Movimiento celular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/procariota.md",
+                "file": "Microbiologia/Movimiento celular.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/procariota.md"
+                "file": "Microbiologia/Movimiento celular.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "38cb48b6a2bb75da",
   "lastOpenFiles": [
+    "Microbiologia/Movimiento celular.md",
     "Microbiologia/procariota.md",
     "Microbiologia/eucariota.md",
     "Microbiologia/microorganismo.md",
@@ -120,7 +121,6 @@
     "Microbiologia/).md",
     "Microbiologia/grampositiva.md",
     "Microbiologia/microscopia/microscopia.md",
-    "Microbiologia/microscopia/Pared Celular.md",
-    "Microbiologia/microscopia/gramnegativa.md"
+    "Microbiologia/microscopia/Pared Celular.md"
   ]
 }
