@@ -1,2 +1,3 @@
 tipo de celula [[procariota]] la cual tendra importantes diferencias con las celulas [[gramnegativa]] en la pared celular.
 
+# Pared celular
