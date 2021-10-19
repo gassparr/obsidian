@@ -29,3 +29,4 @@ Sera una capa rigida la cual se encuentra solo en el dominio *[[bacteria]]* que 
 formada por moleculas entrelazadas de proteinas o glicoproteinas. 
 
 
+
