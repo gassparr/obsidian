@@ -1,1 +1,1 @@
-tipo de celular [[procariota]]
+tipo de celula [[procariota]]
