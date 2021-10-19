@@ -2,3 +2,4 @@ La [[membrana citoplasmatica]] rodea el [[citosol]] y lo separa de su entorno, l
 
 # Composicion:
 sera una bicapa fosfolipidica, la cual tendra componentes hidrofobicos e hidrofilos. La misma contiene  hopanoides, los cuales son moleculas parecidas a los esteroles, los cuales le confieren rigides.
+## Proteinas 
