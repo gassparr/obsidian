@@ -1,1 +1,1 @@
-su forma y su pequeño tamaño 
+su forma y su pequeño tamaño son los 2 factores mas notabl
