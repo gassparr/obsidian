@@ -19,6 +19,6 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 > Pequeñas moleculas hidrofobas atraviezan la membrana. Moleculas polares deberan ser transportadas
 > > para transportar se utilizan proteinas [[transportador]], los cuales tienen 2 caracteristicas 
 > >  1. Tienen efecto de saturacion
-> >  2. 
+> >  2. Alta espefici
 - punto de anclaje para proteinas:
 >
