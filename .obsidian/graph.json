@@ -26,7 +26,7 @@
   "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 2.17307692307692,
-  "lineSizeMultiplier": 0.1,
+  "lineSizeMultiplier": 1.12307692307692,
   "collapse-forces": true,
   "centerStrength": 0,
   "repelStrength": 8.93258426966292,
