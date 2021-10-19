@@ -1,2 +1,2 @@
  tipo de [[microscopia]] que utiliza un polarizador. 
-  La luz polarizada 
+  La luz polarizada pasa por un 
