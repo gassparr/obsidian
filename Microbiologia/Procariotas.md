@@ -1,4 +1,4 @@
-tipo de [[Microorganismos]] su forma y su pequeño tamaño son los 2 factores mas notables de este tipo de celulas.
+tipo de [[microorganismo]] su forma y su pequeño tamaño son los 2 factores mas notables de este tipo de celulas.
 
 # Morfologia:
 ## Grandes Rasgos;
