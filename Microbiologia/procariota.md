@@ -30,4 +30,8 @@ formada por moleculas entrelazadas de proteinas o glicoproteinas.
 Las capas s brindan proteccion frente a la lisis osmotica ademas de generar una interfase y el medio, actuando asi como filtro selectivo permitiendo el paso de solutos de bajo PM
 
 # Estructuras de la superficie celular
+## capsulas y capas mucosas
+- capsula: matriz tensa que impide paso de particulas pequeñas
+- capa mucosa: capa de facil deformacion la cual no impide el paso de particulas
+
 
