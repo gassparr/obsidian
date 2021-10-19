@@ -40,9 +40,30 @@ Las capas s brindan proteccion frente a la lisis osmotica ademas de generar una 
 - capa mucosa: capa de facil deformacion la cual no impide el paso de particulas
 
 ### Biofilms
-Cuando surge la oportunidad las  bacterias se unen en superficies solidas formando capas gruesas, denominadas biofilms, en donde los polisacaridos extracelulares cumplen un rol fundamental en el desarrollo y mantenimiento
+
+Cuando surge la oportunidad las bacterias se unen en superficies solidas formando capas gruesas, denominadas biofilms, en donde los polisacaridos extracelulares cumplen un rol fundamental en el desarrollo y mantenimiento
 
 ## Fimbrias y Pelos
+
 - fimbrias: permiten adhesion hacia superficies solidas o formar biofilms sobre superficies solidas y liquidas
 - pelos: mas largos que los pelos y solo hay uno o unos pocos en cada celular
 
+# Inclusiones celulares
+reservas energeticas y de carbono.
+Los cuerpos de inclusion mas comunes son el **PHB** y el **[[glucogeno]]** 
+
+# Vesiculas de gas
+estructuras de forma conica constituida por proteinas, son huevas pero rigidas
+
+# Endosporas
+especies de [[bacteria]] producen endosporas a travez de la *esporulacion*. 
+Las endosporas son celulas diferenciadas, muy resistentes al calor, a sustancias quimicas y radiacion. Por lo que son estructuras de supervivencia las cuales permiten a la celula sobreviva a condiciones desfavorables.
+
+## Formacion.
+3 pasos:
+1. activacion:
+>Producto del calentamiento durante varios min. a una temperatura elevada no letal. Las endosporas quedan activadas hacia ciertos nutrientes.
+2. germinacion: 
+>perdida de la refringencia y resistencias, aumento de captacion de colorantes 
+3. crecimiento:
+>

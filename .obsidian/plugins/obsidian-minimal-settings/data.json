@@ -19,7 +19,7 @@
   "bordersToggle": true,
   "minimalStatus": true,
   "focusMode": true,
-  "underlineInternal": true,
+  "underlineInternal": false,
   "underlineExternal": true,
   "useSystemTheme": true,
   "folding": true,
