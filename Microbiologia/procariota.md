@@ -19,7 +19,7 @@ debido a las agrupaciones tras la division celular, se forman nombrandolos por p
 Las procariotas varian desde _0.2 -> 700 um_ de diametro, este limite superior estara dado debido a la menor capacidad de una celula de gran tamaño de transportar nutrientes 
 
 # Pared Celular:
-G
+[[grampositiva]]
 
 
 
