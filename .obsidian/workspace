@@ -7,11 +7,8 @@
         "id": "38cb48b6a2bb75da",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Microbiologia/procariota.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185,
-    "collapsed": true
+    "width": 185
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/procariota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/procariota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Microbiologia/procariota.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -111,10 +103,10 @@
   },
   "active": "38cb48b6a2bb75da",
   "lastOpenFiles": [
+    "Microbiologia/Pared Celular.md",
     "Microbiologia/procariota.md",
     "Microbiologia/microorganismo.md",
     "Microbiologia/microscopia/microscopia.md",
-    "Microbiologia/Pared Celular.md",
     "Microbiologia/membrana citoplasmatica.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Bioquimica 2/1 Vias/via de pentosas fosfato.md",
