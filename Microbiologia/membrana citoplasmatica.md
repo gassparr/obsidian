@@ -25,4 +25,4 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
     > > 1.  Tienen efecto de saturacion
     > > 2.  Alta espeficidad
 
-    >
+  
