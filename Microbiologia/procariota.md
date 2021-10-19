@@ -23,6 +23,6 @@ Las procariotas varian desde _0.2 -> 700 um_ de diametro, este limite superior e
 - [[grampositiva]]: 1 capa gruesa
 - [[gramnegativa]]: 2 capas finas
 
-Sera una capa rigida la cual se encuentra solo en el dominio [[bacteria]] que le otorga resistencia a la celula en 2 dimensiones. Aun asi existen agentes que podran destruirlo, entre ellos el *lisozima* 
+Sera una capa rigida la cual se encuentra solo en el dominio *[[bacteria]]* que le otorga resistencia a la celula en 2 dimensiones. Aun asi existen agentes que podran destruirlo, entre ellos el *lisozima* 
 
 
