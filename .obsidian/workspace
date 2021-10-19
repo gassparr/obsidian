@@ -7,11 +7,8 @@
         "id": "38cb48b6a2bb75da",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md"
-              }
+              "state": {}
             }
           }
         ],
