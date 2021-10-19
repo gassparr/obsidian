@@ -1,1 +1,1 @@
-La [[membrana citoplasmatica]] rodea el [[citosol]] y lo separa de su entorno, la membrana es estructurale
+La [[membrana citoplasmatica]] rodea el [[citosol]] y lo separa de su entorno, la membrana es estructuralmente debil y confiere 
