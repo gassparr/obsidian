@@ -1,1 +1,1 @@
-La [[membrana citoplasmatica]] rodea el [[citosol]] lo separa 
+La [[membrana citoplasmatica]] rodea el [[citosol]] lo separa del entorno
