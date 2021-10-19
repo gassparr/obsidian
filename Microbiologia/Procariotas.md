@@ -11,4 +11,4 @@ debido a las agrupaciones tras la division celular, se forman nombrandolos por p
 - sarcina: cubos tridimensionales
 - staphylo: racimos
 
-Las procariotas varian desde *0.2 -> 700 um*
+Las procariotas varian desde *0.2 -> 700 um* de a
