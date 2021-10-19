@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/microscopia/microscopia.md",
+            "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/microscopia/microscopia.md",
+                "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/microscopia/microscopia.md",
+                "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/microscopia/microscopia.md"
+                "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md"
               }
             }
           }
@@ -111,9 +111,9 @@
   },
   "active": "38cb48b6a2bb75da",
   "lastOpenFiles": [
+    "Microbiologia/microscopia/contraste por interferencia diferencial.md",
     "Microbiologia/microscopia/microscopia.md",
     "Microbiologia/Microorganismos.md",
-    "Microbiologia/microscopia/contraste por interferencia diferencial.md",
     "Microbiologia/microscopia/campo claro.md",
     "Microbiologia/microscopia/contraste de fases.md",
     "Microbiologia/microscopia/fluorescencia.md",
