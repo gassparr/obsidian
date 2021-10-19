@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:",
+      "query": "path:\"Bioquimica 2/1 Vias\"",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.45886108374878215,
+  "scale": 0.15046320224710832,
   "close": false
 }
