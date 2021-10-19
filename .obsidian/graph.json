@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"Bioquimica 2/1 Vias\"",
+      "color": {
+        "a": 1,
+        "rgb": 15235252
+      }
+    },
+    {
       "query": "path:\"Bioquimica 2\"",
       "color": {
         "a": 1,
@@ -26,13 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 4390820
-      }
-    },
-    {
-      "query": "path:\"Bioquimica 2/1 Vias\"",
-      "color": {
-        "a": 1,
-        "rgb": 15235252
       }
     }
   ],
