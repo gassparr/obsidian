@@ -3,3 +3,5 @@ la glucosa se fosforila hacia G6P, el cual es catalizado por la [[hexocinasa]] e
 
 ------------------------
  >![](https://i.imgur.com/4ewj7Sl.png)
+
+----------------------------
