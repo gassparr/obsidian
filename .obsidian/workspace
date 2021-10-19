@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
+            "file": "Bioquimica 2/1 Vias/glucogenolisis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
+                "file": "Bioquimica 2/1 Vias/glucogenolisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
+                "file": "Bioquimica 2/1 Vias/glucogenolisis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md"
+                "file": "Bioquimica 2/1 Vias/glucogenolisis.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "38cb48b6a2bb75da",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/glucogenolisis.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Microbiologia/procariota.md",
     "Microbiologia/microorganismo.md",
@@ -119,7 +120,6 @@
     "Microbiologia/microscopia/contraste por interferencia diferencial.md",
     "Microbiologia/microscopia/campo claro.md",
     "Microbiologia/microscopia/contraste de fases.md",
-    "Microbiologia/microscopia/campo oscuro.md",
-    "Microbiologia/microscopios.md"
+    "Microbiologia/microscopia/campo oscuro.md"
   ]
 }
