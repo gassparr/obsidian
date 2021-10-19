@@ -4,5 +4,6 @@ La [[membrana citoplasmatica]] rodea el [[citosol]] y lo separa de su entorno, l
 sera una bicapa fosfolipidica, la cual tendra componentes hidrofobicos e hidrofilos. La misma contiene  hopanoides, los cuales son moleculas parecidas a los esteroles, los cuales le confieren rigides.
 ## Proteinas intermembrana.
 la bicapa contiene muchas proteinas las cuales tendran diversas funciones y estaran en distintas disposiciones:
- - Proteinas Integrales:
+ - Proteinas Integrales: 
+Embe
  - Proteinas Perifericas:
