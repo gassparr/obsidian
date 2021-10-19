@@ -15,17 +15,17 @@
       }
     },
     {
-      "query": "path:Microbiologia",
-      "color": {
-        "a": 1,
-        "rgb": 4390820
-      }
-    },
-    {
       "query": "path:Microbiologia/microscopia",
       "color": {
         "a": 1,
         "rgb": 14869980
+      }
+    },
+    {
+      "query": "path:Microbiologia",
+      "color": {
+        "a": 1,
+        "rgb": 4390820
       }
     }
   ],
