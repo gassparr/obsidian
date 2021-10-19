@@ -5,10 +5,7 @@
 
 # Tipos
 - ## [[Procariotas]]: 
-     - m
-- ## [[Eucariotas]]:
-     - Mayores 
-     - Organulos
+- ## [[Eucariotas]]
 
 # Observacion:
 Para observar la estructura celular se utiliza la[[microscopia]]
