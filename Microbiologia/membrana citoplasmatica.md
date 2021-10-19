@@ -13,3 +13,5 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
     Embedidas en la membrana
 - Proteinas Perifericas:
     No se encuentran embedidas, aun asi estan asociadas
+
+
