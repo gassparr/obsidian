@@ -23,3 +23,4 @@ Las procariotas varian desde _0.2 -> 700 um_ de diametro, este limite superior e
 - [[gramnegativa]]: 2 capas finas
 
 
+
