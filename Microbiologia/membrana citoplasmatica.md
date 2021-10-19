@@ -16,6 +16,6 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 
 # Funciones
 - barrera de permeabilidad:
-> pequeñas moleculas hidrofobas atraviezan la membrana. Moleculas polares deberan ser transpor
+> Pequeñas moleculas hidrofobas atraviezan la membrana. Moleculas polares deberan ser transportadas
 - punto de anclaje para proteinas:
 >
