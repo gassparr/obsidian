@@ -6,4 +6,4 @@ sera una segunda bicapa lipidica, la cual a diferencia de la [[membrana citoplas
 
 > El LPS es toxica para los animales.
 
-Esta membrana sera impermeable a las proteinas y moleculas grandes
+Esta membrana sera impermeable a las proteinas y moleculas grandes, por lo que tend
