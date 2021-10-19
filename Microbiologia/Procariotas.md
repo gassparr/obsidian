@@ -8,4 +8,4 @@ su forma y su pequeño tamaño son los 2 factores mas notables de este tipo de c
 debido a las agrupaciones tras la division celular, se forman nombrandolos por prefijos:
 - strepto: cadenas largas
 - sarcina: cubos tridimensionales
-- racimos: staphy
+- staphylo
