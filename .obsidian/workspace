@@ -7,11 +7,8 @@
         "id": "38cb48b6a2bb75da",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Microbiologia/microscopia/contraste por interferencia diferencial.md"
-              }
+              "state": {}
             }
           }
         ],
