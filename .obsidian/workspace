@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Procariotas.md",
+            "file": "Microbiologia/microorganismo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Procariotas.md",
+                "file": "Microbiologia/microorganismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Procariotas.md",
+                "file": "Microbiologia/microorganismo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Procariotas.md"
+                "file": "Microbiologia/microorganismo.md"
               }
             }
           }
@@ -111,8 +111,8 @@
   },
   "active": "38cb48b6a2bb75da",
   "lastOpenFiles": [
-    "Microbiologia/Procariotas.md",
     "Microbiologia/microorganismo.md",
+    "Microbiologia/procariotas.md",
     "Microbiologia/microscopia/microscopia.md",
     "Microbiologia/microscopia/fluorescencia.md",
     "Microbiologia/microscopia/contraste por interferencia diferencial.md",
