@@ -1,1 +1,1 @@
-La [[membrana citoplasmatica]] r
+La [[membrana citoplasmatica]] rodea el [[citosol]]
