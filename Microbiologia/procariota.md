@@ -55,15 +55,4 @@ Los cuerpos de inclusion mas comunes son el **PHB** y el **[[glucogeno]]**
 # Vesiculas de gas
 estructuras de forma conica constituida por proteinas, son huevas pero rigidas
 
-# Endosporas
-especies de [[bacteria]] producen endosporas a travez de la *esporulacion*. 
-Las endosporas son celulas diferenciadas, muy resistentes al calor, a sustancias quimicas y radiacion. Por lo que son estructuras de supervivencia las cuales permiten a la celula sobreviva a condiciones desfavorables.
-
-## Formacion.
-3 pasos:
-1. activacion:
->Producto del calentamiento durante varios min. a una temperatura elevada no letal. Las endosporas quedan activadas hacia ciertos nutrientes.
-2. germinacion: 
->perdida de la refringencia y resistencias, aumento de captacion de colorantes 
-3. crecimiento:
->
+# [[Endosporas]]
