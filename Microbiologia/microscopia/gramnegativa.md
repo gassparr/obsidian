@@ -1,1 +1,1 @@
-tipo de celula [[procariota]] a diferencia de las [[grampositiva]] solo una pequeña fraccion de la pared celular sera peptidoglicano
+tipo de celula [[procariota]] a diferencia de las [[grampositiva]] solo una pequeña fraccion de la pared celular sera peptidoglicano, la mayor parte ser
