@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Bioquimica 2\"",
@@ -32,6 +32,6 @@
   "repelStrength": 8.93258426966292,
   "linkStrength": 1,
   "linkDistance": 163,
-  "scale": 1.168609385065672,
-  "close": true
+  "scale": 0.23876938848274,
+  "close": false
 }
