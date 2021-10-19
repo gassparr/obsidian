@@ -7,8 +7,11 @@
         "id": "38cb48b6a2bb75da",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Microbiologia/procariota.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microbiologia/procariota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Microbiologia/procariota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Microbiologia/procariota.md"
+              }
             }
           }
         ],
@@ -104,12 +111,12 @@
   },
   "active": "38cb48b6a2bb75da",
   "lastOpenFiles": [
+    "Microbiologia/procariota.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Bioquimica 2/1 Vias/via de pentosas fosfato.md",
     "Bioquimica 2/1 Vias/gluconeogenesis.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md",
-    "Microbiologia/procariota.md",
     "Microbiologia/microorganismo.md",
     "Microbiologia/microscopia/microscopia.md",
     "Microbiologia/microscopia/fluorescencia.md",
