@@ -1,1 +1,2 @@
- tipo de [[microscopia]] que utiliza un polarizador p
+ tipo de [[microscopia]] que utiliza un polarizador. 
+ 
