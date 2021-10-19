@@ -15,10 +15,13 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
     No se encuentran embedidas, aun asi estan asociadas
 
 # Funciones
+
 - barrera de permeabilidad:
-> Pequeñas moleculas hidrofobas atraviezan la membrana. Moleculas polares deberan ser transportadas
-> > para transportar se utilizan proteinas [[transportador]], los cuales tienen 2 caracteristicas 
-> >  1. Tienen efecto de saturacion
-> >  2. Alta espeficidad
+    > Pequeñas moleculas hidrofobas atraviezan la membrana. Moleculas polares deberan ser transportadas
+    >
+    > > para transportar se utilizan proteinas [[transportador]], los cuales tienen 2 caracteristicas
+    > >
+    > > 1.  Tienen efecto de saturacion
+    > > 2.  Alta espeficidad
 - punto de anclaje para proteinas:
->
+    >
