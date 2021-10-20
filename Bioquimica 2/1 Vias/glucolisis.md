@@ -25,5 +25,13 @@ Catalizadas por:
 ## Fase 1: preparatoria
 1. Glucosa se fosforila con el uso de la [[hexocinasa]]
 > Glucosa + [[ATP]] ---> G6P + [[ADP]]
+>> [[membrana citoplasmatica]] no permite transporte de azucar-P por lo que no requiere energia para retener los azucares
 2. G6P isomera a F6P 
 > G6P <---> F6P
+3. F6P se fosforila con el uso de [[fosfofructoquinasa]]
+> F6P + [[ATP]] ---> F1.6BP + [[ADP]]
+4. F1.6BP se corta a *dos* azucares de tres carbonos
+> F1.6BP <---> 2 Azucares (3C)
+>> Hexosa <---> 2 Triosas
+
+## Fase 2: beneficios
