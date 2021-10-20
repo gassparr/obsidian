@@ -1,4 +1,4 @@
-# Explicacion de la via
+# Mecanismo de la via
 
 1. la glucosa se fosforila hacia G6P, el cual es catalizado por la [[hexocinasa]] en el músculo y la [[glucocinasa]] en el hígado.
     > glucosa ---> G6P
