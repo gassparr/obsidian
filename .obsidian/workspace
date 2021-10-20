@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "We 20-10.md",
+            "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "We 20-10.md",
+                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "We 20-10.md",
+                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "We 20-10.md"
+                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md"
               }
             }
           }
@@ -111,9 +111,9 @@
   },
   "active": "13d0c00c162ae758",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "We 20-10.md",
     "Templates/{title}.md",
-    "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Daily Notes/20-10-21.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
