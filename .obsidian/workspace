@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
+            "file": "Bioquimica 2/1 Vias/glucogenolisis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
+                "file": "Bioquimica 2/1 Vias/glucogenolisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md",
+                "file": "Bioquimica 2/1 Vias/glucogenolisis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/glucogenogenesis.md"
+                "file": "Bioquimica 2/1 Vias/glucogenolisis.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "13d0c00c162ae758",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/glucogenolisis.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "We 20-10.md",
     "Templates/{title}.md",
