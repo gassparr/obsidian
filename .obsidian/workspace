@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6ac2706bd16ffd",
+        "id": "13d0c00c162ae758",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/{title}.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/{title}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/{title}.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,9 +91,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/{title}.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "0c6512d7dd84a501",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "78befb6a60ecb7e0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ],
@@ -109,8 +118,9 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "bd6ac2706bd16ffd",
+  "active": "13d0c00c162ae758",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Templates/{title}.md",
     "20-10-21.md",
     "Microbiologia/Microorganismos/eucariota.md",
@@ -119,7 +129,6 @@
     "Microbiologia/Microorganismos/microorganismo.md",
     "Microbiologia/Microorganismos/procariota.md",
     "Microbiologia/Microorganismos/bacterias.md",
-    "Microbiologia/microscopia/microscopia.md",
-    "Microbiologia/microscopia/fluorescencia.md"
+    "Microbiologia/microscopia/microscopia.md"
   ]
 }
