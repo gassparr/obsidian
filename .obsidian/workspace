@@ -7,8 +7,11 @@
         "id": "13d0c00c162ae758",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "We 20-10.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "We 20-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "We 20-10.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -91,23 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c6512d7dd84a501",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "78befb6a60ecb7e0",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
+              "state": {
+                "file": "We 20-10.md"
+              }
             }
           }
         ],
@@ -120,15 +111,14 @@
   },
   "active": "13d0c00c162ae758",
   "lastOpenFiles": [
-    "Bioquimica 2/1 Vias/glucogenogenesis.md",
+    "We 20-10.md",
     "Templates/{title}.md",
-    "20-10-21.md",
+    "Bioquimica 2/1 Vias/glucogenogenesis.md",
+    "Daily Notes/20-10-21.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
     "Microbiologia/Microorganismos/grampositiva.md",
     "Microbiologia/Microorganismos/microorganismo.md",
-    "Microbiologia/Microorganismos/procariota.md",
-    "Microbiologia/Microorganismos/bacterias.md",
-    "Microbiologia/microscopia/microscopia.md"
+    "Microbiologia/Microorganismos/procariota.md"
   ]
 }

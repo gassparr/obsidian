@@ -1,4 +1,5 @@
 {
-  "format": "DD-MM-YY",
-  "folder": "/"
+  "format": "dd DD-MM",
+  "folder": "/",
+  "template": "Templates/{title}"
 }
