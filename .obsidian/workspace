@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Microorganismos/microorganismo.md",
+            "file": "Microbiologia/Microorganismos/procariota.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Microorganismos/microorganismo.md",
+                "file": "Microbiologia/Microorganismos/procariota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Microorganismos/microorganismo.md",
+                "file": "Microbiologia/Microorganismos/procariota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Microorganismos/microorganismo.md"
+                "file": "Microbiologia/Microorganismos/procariota.md"
               }
             }
           }
@@ -111,15 +111,15 @@
   },
   "active": "bd6ac2706bd16ffd",
   "lastOpenFiles": [
+    "Microbiologia/Microorganismos/procariota.md",
     "Microbiologia/Microorganismos/microorganismo.md",
     "Microbiologia/Microorganismos/grampositiva.md",
     "Microbiologia/Microorganismos/eucariota.md",
+    "Microbiologia/Microorganismos/bacterias.md",
     "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
-    "Microbiologia/Microorganismos/procariota.md",
     "Microbiologia/microscopia/microscopia.md",
     "Microbiologia/microscopia/fluorescencia.md",
     "Microbiologia/microscopia/campo oscuro.md",
-    "Microbiologia/microscopia/contraste por interferencia diferencial.md",
-    "Microbiologia/microscopia/contraste de fases.md"
+    "Microbiologia/microscopia/contraste por interferencia diferencial.md"
   ]
 }
