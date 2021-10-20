@@ -3,3 +3,6 @@ Tipo de [[microorganismo]] el cual es mas grande que los [[procariota]] y contie
 # Movimiento celular
 - natacion
 - deslizamiento
+
+
+

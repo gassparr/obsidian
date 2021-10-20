@@ -9,5 +9,3 @@
 
 # Observacion:
 Para observar la estructura celular se utiliza la [[microscopia]]
-
-     
