@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
+            "file": "Microbiologia/Microorganismos/eucariota.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
+                "file": "Microbiologia/Microorganismos/eucariota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
+                "file": "Microbiologia/Microorganismos/eucariota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Movimiento celular.md"
+                "file": "Microbiologia/Microorganismos/eucariota.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "bd6ac2706bd16ffd",
   "lastOpenFiles": [
+    "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
     "Microbiologia/Microorganismos/procariota.md",
     "Microbiologia/Microorganismos/microorganismo.md",
@@ -119,7 +120,6 @@
     "Microbiologia/microscopia/fluorescencia.md",
     "Microbiologia/microscopia/campo oscuro.md",
     "Microbiologia/microscopia/contraste por interferencia diferencial.md",
-    "Microbiologia/microscopia/contraste de fases.md",
-    "Microbiologia/microscopia/campo claro.md"
+    "Microbiologia/microscopia/contraste de fases.md"
   ]
 }
