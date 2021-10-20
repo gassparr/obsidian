@@ -7,7 +7,7 @@
     > G1P ---> G6P
 
 3. Desfosforilacion de G6P utilizando G6Pfosfatasa
-> el musculo no tiene G6Pfosfatasa
+    > el musculo no tiene G6Pfosfatasa
 
 # activada por :
 
