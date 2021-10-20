@@ -5,19 +5,23 @@ La glucolisis sera la oxidacion de la glucosa, hasta [[piruvato]]. Esto ocurre e
 ## 3 Pasos Espontaneos
 
 - Hexoquinasa.
+    > -   inhibida por G6P
 - [[PFK-1]].
+    > -   Activada con carga energetica baja
+    > -   citrato desactiva
+    > -   F2,6BP (respuesta a hormonas) activa
 - piruvato kinasa.
+    > -   Si [[PFK-1]] funciona, se activa.
+    > -   concentracion de PEP activa
+    > -   activada con carga energetica baja
 
-## Alosterica
+## Regulacion alosterica
 
-- *Pyr kinasa* cataliza sintesis de oxalacetato a partir de piruvato, la enzima necesitara de [[Acetyl-CoA]] como activador alosterico.
-- *[[PFK-1]]* debido a su activacion por [[AMP kinasa]], el mismo actua como indicador de estado energetico de la celula ya que permite la reaccion 
+- _[[PFK-1]]_ debido a su activacion por [[AMP kinasa]], el mismo actua como indicador de estado energetico de la celula ya que permite la reaccion
 
     > 2ADP <--> ATP + 5'AMP
 
     el [[ADP]] despues formara [[AMP]] por lo que una pequeña alteracion de [[ATP]] modificara en gran cantidad de [[AMP]], por lo cual este sera un amplificador metabolico
-
-- [[fructosa 2,6 bifosfato|F2,6BP]] es el mas potente activador alosterico de la [[PFK-1]]
 
 # Mecanismo de Via
 
