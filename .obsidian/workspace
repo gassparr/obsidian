@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/Th 21-10.md",
+            "file": "Bioquimica 2/Sustratos y Productos/piruvato.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Th 21-10.md",
+                "file": "Bioquimica 2/Sustratos y Productos/piruvato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Th 21-10.md",
+                "file": "Bioquimica 2/Sustratos y Productos/piruvato.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Th 21-10.md"
+                "file": "Bioquimica 2/Sustratos y Productos/piruvato.md"
               }
             }
           }
@@ -112,9 +112,9 @@
   },
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
+    "Bioquimica 2/Sustratos y Productos/piruvato.md",
     "Daily Notes/Th 21-10.md",
     "Daily Notes/We 20-10.md",
-    "Bioquimica 2/Sustratos y Productos/piruvato.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/2 Enzimas/PFK-1.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md",

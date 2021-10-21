@@ -11,3 +11,5 @@ Transportado desde [[citosol]] hasta [[mitocondria]] a travez de  [[transportado
  En anaerobiosis el Pyr se oxida parcialmente a etanol, en el primer paso actua la *pyr deshidrogenasa*, en el segundo la *alcohol deshidrogenasa*
  > Pyr ---> Acetaldehido + NADH--->Ethanol + NAD
 
+### Lactica
+
