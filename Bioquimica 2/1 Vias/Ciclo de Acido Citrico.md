@@ -2,7 +2,7 @@ Ocurre en la [[mitocondria]]
 
 # Diagrama
 
-![](https://i.imgur.com/B4Cj2wF.png)
+![](https://i.imgur.com/v2StkFT.png)
 
 # Ecuacion General
 
@@ -34,14 +34,4 @@ a partir del piruvato con el uso de _Pyr DH_
 - ADP
 - Ca
 - K
-
-# Formacion de Citrato
-con el AcCoA y Oxalacelato con el uso de *citrato sintasa*
-> AcCoA + OxaloAc + H2O---> Citrato + CoA-SH
-
-Fluoroacetato bloqueara la subsecuente oxidacion de citrato a cis-aconitato
-
-# Oxidacion de Alpha-Cetoglutarato a Succinil-CoA y CO2
-> A-cetoglutarato ---> Succinil-CoA + CO2
-
-Arnesita bloquea este paso
+# Enzimas utilizadas
