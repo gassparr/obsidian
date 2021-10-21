@@ -13,6 +13,14 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "2c3c762c19be84fd",
+        "type": "leaf",
+        "state": {
+          "type": "mindmap",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -39,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "piru",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,9 +120,9 @@
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
     "Bioquimica 2/Sustratos y Productos/piruvato.md",
+    "Bioquimica 2/1 Vias/glucolisis.md",
     "Daily Notes/Th 21-10.md",
     "Daily Notes/We 20-10.md",
-    "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/2 Enzimas/PFK-1.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
