@@ -1,4 +1,4 @@
-Ocurre en la [[mitocondria]]
+Ocurre en la [[mitocondria]] y es el inicio de la [[cadena transportadora de electrones]]
 
 # Diagrama
 
