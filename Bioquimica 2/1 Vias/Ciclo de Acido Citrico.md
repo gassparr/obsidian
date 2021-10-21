@@ -2,7 +2,7 @@ Ocurre en la [[mitocondria]]
 
 # Diagrama
 
-![](https://i.imgur.com/v2StkFT.png)
+![](https://i.imgur.com/3xaXgq7.png)
 
 # Ecuacion General
 
@@ -35,3 +35,12 @@ a partir del piruvato con el uso de _Pyr DH_
 - Ca
 - K
 # Enzimas utilizadas
+## Paso:
+1. *citrato sintasa* 
+2. *aconitasa*
+3. *isocitrato DH*
+4. *Alpha cetoglutarato DH*
+5. *Succinil CoA sintasa*
+6. *Succinato DH*
+7. *Fumarasa*
+8. *malato DH*
