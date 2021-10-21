@@ -1,7 +1,8 @@
 [
   "hotkey-helper",
   "obsidian-imgur-plugin",
-  "obsidian-minimal-settings",
   "obsidian-plugin-prettier",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "obsidian-advanced-appearance"
 ]
