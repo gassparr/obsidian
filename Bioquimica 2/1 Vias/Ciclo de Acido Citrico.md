@@ -2,7 +2,7 @@ Ocurre en la [[mitocondria]]
 
 # Diagrama
 
-![350](https://i.imgur.com/B4Cj2wF.png)
+![](https://i.imgur.com/B4Cj2wF.png)
 
 # Ecuacion General
 
