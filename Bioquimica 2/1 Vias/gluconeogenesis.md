@@ -1,7 +1,7 @@
  sintesis de [[glucosa]] a partir de precursores no CH. 
  principales  tejidos gluconeogeneticos son el higado y riñon.
 Esta via elimina al lactato producido por musculos y eritrocitos.
- la misma involucra al [[Ciclo de Acido citrico]] y a la [[glucolisis]]
+ la misma involucra al [[Ciclo de Acido Citrico]] y a la [[glucolisis]]
 
 ## Las enzimas
 - [[Fructosa 1,6 Bifosfatasa]] 
