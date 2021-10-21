@@ -34,3 +34,7 @@ a partir del piruvato con el uso de _Pyr DH_
 - ADP
 - Ca
 - K
+
+# Formacion de Citrato
+con el AcCoA y Oxalacelato con el uso de *citrato sintasa*
+> AcCoA + OxaloAc + H2O---> Citrato + CoA-SH
