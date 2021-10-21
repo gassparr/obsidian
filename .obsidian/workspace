@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0ca2dba4779e9e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bioquimica 2/Sustratos y Productos/piruvato.md",
-            "mode": "source"
+        "id": "2ece4c39a7578d6c",
+        "type": "split",
+        "children": [
+          {
+            "id": "4d0ca2dba4779e9e",
+            "type": "leaf",
+            "dimension": 76.07655502392345,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioquimica 2/Sustratos y Productos/Ciclo de Acido Citrico.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "773b822c4f006f45",
+            "type": "leaf",
+            "dimension": 23.923444976076556,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "2c3c762c19be84fd",
-        "type": "leaf",
-        "state": {
-          "type": "mindmap",
-          "state": {}
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/piruvato.md",
+                "file": "Bioquimica 2/Sustratos y Productos/Ciclo de Acido Citrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/piruvato.md",
+                "file": "Bioquimica 2/Sustratos y Productos/Ciclo de Acido Citrico.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -105,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/piruvato.md"
+                "file": "Bioquimica 2/Sustratos y Productos/Ciclo de Acido Citrico.md"
               }
             }
           }
@@ -119,6 +128,7 @@
   },
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
+    "Bioquimica 2/Sustratos y Productos/Ciclo de Acido Citrico.md",
     "Bioquimica 2/Sustratos y Productos/piruvato.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Daily Notes/Th 21-10.md",
@@ -127,7 +137,6 @@
     "Bioquimica 2/1 Vias/glucogenolisis.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Bioquimica 2/1 Vias/gluconeogenesis.md",
-    "Bioquimica 2/1 Vias/via de pentosas fosfato.md",
-    "Templates/{title}.md"
+    "Bioquimica 2/1 Vias/via de pentosas fosfato.md"
   ]
 }
