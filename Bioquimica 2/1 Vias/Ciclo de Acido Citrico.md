@@ -38,3 +38,10 @@ a partir del piruvato con el uso de _Pyr DH_
 # Formacion de Citrato
 con el AcCoA y Oxalacelato con el uso de *citrato sintasa*
 > AcCoA + OxaloAc + H2O---> Citrato + CoA-SH
+
+Fluoroacetato bloqueara la subsecuente oxidacion de citrato a cis-aconitato
+
+# Oxidacion de Alpha-Cetoglutarato a Succinil-CoA y CO2
+> A-cetoglutarato ---> Succinil-CoA + CO2
+
+Arnesita bloquea este paso
