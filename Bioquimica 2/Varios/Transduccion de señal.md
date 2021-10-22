@@ -1,4 +1,12 @@
-![](https://i.imgur.com/MoL1faE.png)
+# Etapas
+
+1. síntesis del ligando
+2. liberación
+3. transporte
+4. detección por receptor
+5. cambio
+6. eliminación.
+   ![](https://i.imgur.com/MoL1faE.png)
 
 # Hormonas del Grupo 1
 
@@ -14,10 +22,12 @@ Sufren reacciones de activacion.
 Hormonas las cuales no pueden atravezar la membrana plasmatica, se unen a receptores ubicavos en la misma. Estos liberan [[segundos mensajeros]].
 Los receptores que sintetizan [[segundos mensajeros]] se conocen como receptores acoplados a proteina G o [[GPCR]], estos estimularan la a [[adenilciclasa]] para la liberacion de [[cAMP]].
 
- El [[cAMP]] en efecto se unira a [[PKA]]
+El [[cAMP]] en efecto se unira a [[PKA]]
 
- # Cascadas de Cinasa
- producto de la fosforilacion de los residuos Ser y Tyr de las proteinas blanco, son una parte muy importante de la accion hormonal.
- 
- ## Hormonas
- - [[Insulina]]
+# Cascadas de Cinasa
+
+producto de la fosforilacion de los residuos Ser y Tyr de las proteinas blanco, son una parte muy importante de la accion hormonal.
+
+## Hormonas
+
+- [[Insulina]]

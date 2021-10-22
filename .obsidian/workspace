@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
+                "file": "Bioquimica 2/Varios/adenilciclasa.md",
                 "mode": "source"
               }
             }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IP3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
+                "file": "Bioquimica 2/Varios/adenilciclasa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
+                "file": "Bioquimica 2/Varios/adenilciclasa.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md"
+                "file": "Bioquimica 2/Varios/adenilciclasa.md"
               }
             }
           }
@@ -128,15 +129,15 @@
   },
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
+    "Bioquimica 2/Varios/adenilciclasa.md",
+    "Bioquimica 2/Varios/Transduccion de señal.md",
+    "Bioquimica 2/Varios/segundos mensajeros.md",
+    "Bioquimica 2/1 Vias/via de pentosas fosfato.md",
     "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
     "Bioquimica 2/Sustratos y Productos/piruvato.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Daily Notes/Th 21-10.md",
-    "Daily Notes/We 20-10.md",
-    "Bioquimica 2/2 Enzimas/PFK-1.md",
-    "Bioquimica 2/1 Vias/glucogenolisis.md",
-    "Bioquimica 2/1 Vias/glucogenogenesis.md",
-    "Bioquimica 2/1 Vias/gluconeogenesis.md"
+    "Daily Notes/We 20-10.md"
   ]
 }
