@@ -21,3 +21,8 @@ A = reactivos de hill
 
 # Complejo de almacenamiento de luz (LHC)
 
+Clorofila asociada con proteinas de union especifica, formando LHC.
+ LHC es un trimero, con los monomeros:
+ - segmento transmembrana
+ - siete moleculas de clorofila (A) y cinco de clorofila (B)
+ - dos moleculas de pigmentos accesorios luteina
