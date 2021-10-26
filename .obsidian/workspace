@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+            "file": "Microbiologia/Microorganismos/procariota.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "capsula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Microorganismos/procariota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Microorganismos/procariota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
+                "file": "Microbiologia/Microorganismos/procariota.md"
               }
             }
           }
@@ -111,6 +112,7 @@
   },
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
+    "Microbiologia/Microorganismos/procariota.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Microbiologia/Estructuras Microbianas/Endosporas.md",
     "Bioquimica 2/1 Vias/gluconeogenesis.md",
@@ -119,7 +121,6 @@
     "Bioquimica 2/Sustratos y Productos/piruvato.md",
     "Bioquimica 2/Varios/adenilciclasa.md",
     "Bioquimica 2/Varios/Transduccion de señal.md",
-    "Bioquimica 2/Varios/segundos mensajeros.md",
-    "Bioquimica 2/1 Vias/via de pentosas fosfato.md"
+    "Bioquimica 2/Varios/segundos mensajeros.md"
   ]
 }
