@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Estructuras Microbianas/Endosporas.md",
+            "file": "Bioquimica 2/1 Vias/fotosintesis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Endosporas.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Endosporas.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Endosporas.md"
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/fotosintesis.md",
     "Microbiologia/Estructuras Microbianas/Endosporas.md",
     "Bioquimica 2/1 Vias/gluconeogenesis.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
@@ -119,7 +120,6 @@
     "Bioquimica 2/Varios/adenilciclasa.md",
     "Bioquimica 2/Varios/Transduccion de señal.md",
     "Bioquimica 2/Varios/segundos mensajeros.md",
-    "Bioquimica 2/1 Vias/via de pentosas fosfato.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md"
+    "Bioquimica 2/1 Vias/via de pentosas fosfato.md"
   ]
 }
