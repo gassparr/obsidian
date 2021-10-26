@@ -28,7 +28,7 @@ Clorofila asociada con proteinas de union especifica, formando LHC.
  - dos moleculas de pigmentos accesorios luteina
 
 
-## Destinos de energia absorvida en pigmentos
+## Destinos de energia absorbida en pigmentos
 > luz --> Pigmento --> pigmento* 
 >> 1. disipacion termica
 >> 2. fluroescencia
