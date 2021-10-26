@@ -4,32 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ece4c39a7578d6c",
-        "type": "split",
-        "children": [
-          {
-            "id": "4d0ca2dba4779e9e",
-            "type": "leaf",
-            "dimension": 76.07655502392345,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioquimica 2/1 Vias/gluconeogenesis.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "773b822c4f006f45",
-            "type": "leaf",
-            "dimension": 23.923444976076556,
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "4d0ca2dba4779e9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bioquimica 2/1 Vias/gluconeogenesis.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
