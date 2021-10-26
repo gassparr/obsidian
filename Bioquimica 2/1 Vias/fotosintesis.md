@@ -26,3 +26,13 @@ Clorofila asociada con proteinas de union especifica, formando LHC.
  - segmento transmembrana
  - siete moleculas de clorofila (A) y cinco de clorofila (B)
  - dos moleculas de pigmentos accesorios luteina
+
+
+## Destinos de energia absorvida en pigmentos
+> luz --> Pigmento --> pigmento* 
+>> 1. disipacion termica
+>> 2. fluroescencia
+>> 3. transferencia de energia a pigmento vecino
+>> 4. Transferencia de e-
+
+
