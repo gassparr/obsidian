@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Microorganismos/Plantas.md",
+            "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 185,
+    "collapsed": true
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md"
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
               }
             }
           }
@@ -111,15 +112,15 @@
   },
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
-    "Microbiologia/Microorganismos/Plantas.md",
-    "Bioquimica 2/1 Vias/fotosintesis.md",
-    "Microbiologia/Microorganismos/bacterias.md",
-    "Microbiologia/Microorganismos/procariota.md",
-    "Microbiologia/Estructuras Microbianas/Endosporas.md",
-    "Bioquimica 2/1 Vias/gluconeogenesis.md",
-    "Bioquimica 2/1 Vias/glucogenogenesis.md",
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
+    "Bioquimica 2/1 Vias/glucogenogenesis.md",
+    "Bioquimica 2/1 Vias/fotosintesis.md",
+    "Bioquimica 2/1 Vias/glucolisis.md",
+    "Microbiologia/Microorganismos/Plantas.md",
     "Bioquimica 2/Sustratos y Productos/piruvato.md",
-    "Bioquimica 2/Varios/adenilciclasa.md"
+    "Microbiologia/Microorganismos/bacterias.md",
+    "Microbiologia/Microorganismos/procariota.md"
   ]
 }
