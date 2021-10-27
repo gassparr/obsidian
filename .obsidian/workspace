@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Microorganismos/procariota.md",
+            "file": "Bioquimica 2/1 Vias/fotosintesis.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capsula",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 185,
+    "collapsed": true
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Microorganismos/procariota.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Microorganismos/procariota.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Microorganismos/procariota.md"
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
               }
             }
           }
@@ -112,8 +112,8 @@
   },
   "active": "4d0ca2dba4779e9e",
   "lastOpenFiles": [
-    "Microbiologia/Microorganismos/procariota.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
+    "Microbiologia/Microorganismos/procariota.md",
     "Microbiologia/Estructuras Microbianas/Endosporas.md",
     "Bioquimica 2/1 Vias/gluconeogenesis.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
