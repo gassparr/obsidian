@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+            "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
+                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
               }
             }
           }
@@ -110,11 +110,11 @@
   },
   "active": "aa1e999896f1909e",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
     "Bioquimica 2/1 Vias/gluconeogenesis.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/1 Vias/via de pentosas fosfato.md",

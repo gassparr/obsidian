@@ -204,12 +204,12 @@ Disabled features */
   --input-height:32px;
   --header-height:40px;
 
-  --yellow:#e5b567;
-  --green:#b4d273;
-  --orange:#e87d3e;
-  --purple:#9e86c8;
-  --pink:#b05279;
-  --blue:#6c99bb;
+  --yellow: #ff5555;
+  --green:#ffb86c;
+  --orange:#bd93f9;
+  --purple:#8be9fd;
+  --pink: #ff79c6;
+  --blue:#50fa7b;
 
 }
 
@@ -3667,12 +3667,17 @@ iframe {
 
 /* Blockquotes */
 
+.cm-quote {
+  color: var(--blue) !important;
+  font-style: italic;
+}
+
 .markdown-preview-view blockquote {
   border-radius:0;
   border:solid var(--quote-opening-modifier);
   border-width:0px 0px 0px 1px;
   background-color:transparent;
-  color:var(--text-muted);
+  color:var(--normal);
   padding:0 0 0 calc(var(--nested-padding) / 2);
   margin-inline-start:var(--nested-padding);
 }

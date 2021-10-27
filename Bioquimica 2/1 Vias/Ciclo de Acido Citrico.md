@@ -34,13 +34,16 @@ a partir del piruvato con el uso de _Pyr DH_
 - ADP
 - Ca
 - K
+
 # Enzimas utilizadas
+
 ## Paso:
-1. *citrato sintasa* 
-2. *aconitasa*
-3. *isocitrato DH*
-4. *Alpha cetoglutarato DH*
-5. *Succinil CoA sintasa*
-6. *Succinato DH*
-7. *Fumarasa*
-8. *malato DH*
+
+1. _citrato sintasa_
+2. _aconitasa_
+3. _isocitrato DH_
+4. _Alpha cetoglutarato DH_
+5. _Succinil CoA sintasa_
+6. _Succinato DH_
+7. _Fumarasa_
+8. _malato DH_
