@@ -27,7 +27,7 @@ dimero con 2 sitios de union para la ubiquinona
 
 ## Complejo IV
 
-dos moleculas de citocromo c, dan e- a centro de Cu. Estos pasan a traves del centro Fe-Cu al O2 para formar peroxido. 
- 2 e- mas del citocromo c reducen peroxido para formar 2 H2O
- 
+dos moleculas de citocromo c, dan e- a centro de Cu. Estos pasan a traves del centro Fe-Cu al O2 para formar peroxido.
+2 e- mas del citocromo c reducen peroxido para formar 2 H2O
+
 > 4 Cyt c (red) + 8 H + O2 --> 4 Cyt c (ox) + 4H + 2 H2O

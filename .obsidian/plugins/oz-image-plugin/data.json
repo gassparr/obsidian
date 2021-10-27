@@ -8,5 +8,5 @@
   "renderMermaid": true,
   "renderMathJax": false,
   "refreshImagesAfterChange": true,
-  "WYSIWYG": true
+  "WYSIWYG": false
 }
