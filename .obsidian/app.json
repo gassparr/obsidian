@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,

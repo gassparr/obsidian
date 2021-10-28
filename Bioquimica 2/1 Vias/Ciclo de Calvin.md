@@ -15,3 +15,12 @@
 
 2. Conversion de fosfoglicerato a Gly 3-P
 3. Regenecaion de R5P
+
+# Activacion
+
+Cuatro enzimas se activan al recibir luz 
+
+1. Seudoheptulosa 1,7-bifosfatasa 
+2. Fructosa 1,6-bifosfatasa 
+3. Ribulosa 5 P quinasa
+4. Gliceraldehido 3 P deshidrogenasa

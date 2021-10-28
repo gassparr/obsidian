@@ -39,3 +39,4 @@ LHC es un trimero, con los monomeros:
 > > 2. fluroescencia
 > > 3. transferencia de energia a pigmento vecino
 > > 4. Transferencia de e-
+
