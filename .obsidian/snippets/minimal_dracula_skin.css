@@ -209,6 +209,19 @@ Elements
 #calendar-container td:not(:empty):hover {
     color:var(--color-text-day-active);
 }
+   /* Blockquotes */
+
+/* for editor */
+.cm-quote {
+  color: var(--yellow) !important;
+  font-style: italic;
+}
+
+/* for preview */
+.markdown-preview-view blockquote {
+  color: var(--yellow) !important;
+  font-style: italic;
+}
 
   /* Headers */
 
