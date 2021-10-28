@@ -32,4 +32,4 @@ El transporte de Triosas-Pi promueve transferencia de [[ATP]] y [[NADPH]]
 
 # Metabolismo de carbohidratos en plantas 
 
-Luz → activa fotosintesis
+Luz → activa fotosintesis → 
