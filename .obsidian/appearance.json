@@ -1,10 +1,9 @@
 {
-  "baseFontSize": 26,
+  "baseFontSize": 15,
   "theme": "moonstone",
   "translucency": true,
-  "cssTheme": "Minimal",
+  "cssTheme": "Sanctum",
   "enabledCssSnippets": [
-    "Auto dark images",
-    "minimal_dracula_skin"
+    "Auto dark images"
   ]
 }

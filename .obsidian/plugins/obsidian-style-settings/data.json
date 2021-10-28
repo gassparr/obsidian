@@ -26,5 +26,12 @@
   "obsidian-california-coast-theme@@cc-custom-icons": true,
   "obsidian-california-coast-theme@@h1-style": "h1",
   "obsidian-california-coast-theme@@h2-style": "cyan",
-  "obsidian-california-coast-theme@@scale-small": 100
+  "obsidian-california-coast-theme@@scale-small": 100,
+  "sanctum@@line-width": 68,
+  "sanctum@@center-tables": false,
+  "sanctum@@alternate-dataview": true,
+  "sanctum@@wrap-note-title": true,
+  "sanctum@@kanban-wrap": true,
+  "sanctum@@relationship-lines": true,
+  "sanctum@@topside-status-bar": false
 }
