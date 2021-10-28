@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+            "file": "Microbiologia/Microorganismos/Plantas.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+                "file": "Microbiologia/Microorganismos/Plantas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+                "file": "Microbiologia/Microorganismos/Plantas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
+                "file": "Microbiologia/Microorganismos/Plantas.md"
               }
             }
           }
@@ -111,8 +111,8 @@
   },
   "active": "ab979c7ae25c61ce",
   "lastOpenFiles": [
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Microbiologia/Microorganismos/Plantas.md",
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Microbiologia/Estructuras Microbianas/cloroplastos.md",
     "Bioquimica 2/Varios/Transduccion de señal.md",

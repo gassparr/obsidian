@@ -1,3 +1,5 @@
+Via anabolica por la cual [[Plantas]] fijan CO2
+
 ![](https://i.imgur.com/rrR4czN.png)
 
 # Ecuacion Global
@@ -18,9 +20,9 @@
 
 # Activacion
 
-Cuatro enzimas se activan al recibir luz 
+Cuatro enzimas se activan al recibir luz
 
-1. Seudoheptulosa 1,7-bifosfatasa 
-2. Fructosa 1,6-bifosfatasa 
+1. Seudoheptulosa 1,7-bifosfatasa
+2. Fructosa 1,6-bifosfatasa
 3. Ribulosa 5 P quinasa
 4. Gliceraldehido 3 P deshidrogenasa
