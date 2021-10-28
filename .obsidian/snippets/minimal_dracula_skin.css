@@ -86,6 +86,7 @@ Elements
     --pink: #FE7FBF;
     --blue: #00588E;
     --yellow: #FEFF7F;
+     
   }
 
 /*----------------------------------------------------------------
@@ -98,50 +99,88 @@ Elements
 
 
   .theme-light {
-    --background-primary: var(#FFF3E4);
-    --background-primary-alt: var(#F9F3DF);
-    --background-secondary: var(#F9F3DF);
-    --background-secondary-alt: var(#FFF3E4);
-    --background-tertiary: var(#6F4C5B);
-    --background-modifier-border: var(#6F4C5B);
-    --background-modifier-border-hover: var(#CDBBA7);
-    --background-modifier-border-focus: var(#CDBBA7);
-    --background-modifier-box-shadow:rgba(0, 0, 0, 0.3);
-    --text-normal: var(--black);
-    --text-muted: var(--gray-2);
-    --text-faint: var(--gray);
-    --background-transparent:hsla(var(#FFF3E4),0);
-    --background-translucent:hsla(var(#FFF3E4),0.85);
+
+    --text-normal:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 90%));
+    --text-muted:hsl(var(--base-h),calc(var(--base-s) - 5%),calc(var(--base-l) - 45%));
+    --text-faint:hsl(var(--base-h),calc(var(--base-s) - 5%),calc(var(--base-l) - 25%));
+
+    --text-accent:hsl(var(--accent-h),var(--accent-s),var(--accent-l));
+    --text-accent-hover:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) - 10%));
+    --text-on-accent:white;
+
+    --text-selection:hsla(var(--accent-h),50%,calc(var(--base-l) - 20%), 30%);
+    --text-highlight-bg:rgba(255, 224, 0, 0.5);
+    --text-highlight-bg-active:rgba(0, 0, 0, 0.1);
+
+    --code-color: #c7254e;
+
+    --background-primary:white;
+    --background-primary-alt:hsl(var(--base-h),var(--base-s),var(--base-l));
+    --background-secondary:hsl(var(--base-h),var(--base-s),var(--base-l));
+    --background-secondary-alt:hsl(var(--base-h),var(--base-s),var(--base-l));
+    --background-tertiary:hsla(var(--base-h),var(--base-s),calc(var(--base-l) - 14%),0.4);
+    --background-modifier-border:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 6%));
+    --background-modifier-border-hover:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 12%));
+    --background-modifier-border-focus:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 20%));
+    --background-modifier-form-field:hsl(var(--base-h),var(--base-s),calc(var(--base-l) + 6%));
+    --background-modifier-form-field-highlighted:hsl(var(--base-h),var(--base-s),calc(var(--base-l) + 8%));
+    --background-button:white;
+
+    --modal-border:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 18%));
+
+    --background-transparent:hsla(var(--base-h),var(--base-s),var(--base-l),0);
+    --background-translucent:rgba(255,255,255,0.85);
+
+    --icon-color:var(--text-muted);
+    --icon-hex:000;
+
     --background-match-highlight:hsla(var(--accent-h), 40%, 62%, 0.2);
-    --background-modifier-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-d) - 10%));
-    --text-accent: var(--purple);
-    --text-accent-hover: var(--aqua);
-    --text-on-accent: var(--purple);
-    --icon-hex:FFF;
-    --interactive-accent: var(--purple);
-    --interactive-accent-hover: var(--quaternary-background);
-    --quote-opening-modifier:var(--orange);
-    --interactive-accent-rgb: 123, 108, 217;
-    --text-selection: var(--cyan-transparent);
-    --text-highlight-bg: var(--blue);
-    --text-highlight-bg-active:rgba(255, 255, 255, 0.1);
-    --background-modifier-cover:hsla(var(--base-h),var(--base-s),calc(var(--base-d) - 12%),0.8);
-    --background-accent: var(--white);
-    --background-modifier-form-field: rgba(0, 0, 0, 0.2);
-    --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
-    --background-modifier-success: var(--green);
-    --background-modifier-error: var(--red);
-    --background-modifier-error-rgb: 61, 0, 0;
-    --background-modifier-error-hover: var(--red);
-    --background-modifier-cover: rgba(0, 0, 0, 0.6);
-    --text-error: var(--red);
-    --text-error-hover: var(--red);
-    --interactive-normal: var(--tertiary-background);
-    --interactive-hover: var(--quaternary-background);
-    --scrollbar-active-thumb-bg: var(--quaternary-background);
-    --scrollbar-bg: var(--primary-background);
-    --scrollbar-thumb-bg: var(--tertiary-background);
-    --border-color: var(--quaternary-background);
+    --background-modifier-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) + 10%));
+
+    --interactive-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) + 10%));
+    --interactive-accent-hover:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) - 0%));
+
+    --interactive-accent-rgb:220, 220, 220;
+
+    --quote-opening-modifier:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 10%));
+    --background-modifier-cover:hsla(var(--base-h),var(--base-s),calc(var(--base-l) - 7%),0.7);
+    --shadow-color:rgba(0, 0, 0, 0.1);
+    --btn-shadow-color:rgba(0, 0, 0, 0.05);
+
+    --cursor: var(--cyan);
+    --vim-cursor: var(--cyan);
+    --headers: var(--green);
+    --h1: var(--purple);
+    --h2: var(#B97A95);
+    --h3: var(--blue);
+    --h4: var(--cyan);
+    --h5: var(--orange);
+    --h6: var(--red);
+    --bold: var(--purple);
+    --italics: var(--pink);
+    --strikethrough: var(--gray-1);
+    --highlight: var(--yellow);
+    --internal-link: var(--cyan);
+    --internal-link-unresolved: var(--blue);
+    --external-link: var(--orange);
+    --external-link-url: var(--gray-1);
+    --tag: var(--pink);
+    --footnote: var(--blue);
+    --block-id: var(--cyan);
+    --checkbox: var(--purple);
+    --list: var(--purple);
+    --math: var(--red);
+    --inline-code: var(--red);
+    --code-block: var(--red);
+    --pre-code: var(--gray-2);
+    --toggle-on: var(--cyan);
+    --toggle-off: var(--gray-2);
+    --icon: var(--purple);
+    --icon-hover: var(--white);
+    --frontmatter: var(--red);
+    --active-file: var(--green);
+    --blockquote: var(--yellow);
+  }
 
 
   .theme-dark {
