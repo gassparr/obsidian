@@ -82,8 +82,10 @@ Elements
     --cyan: #81FFEA;
     --cyan-transparent: rgba(129, 255, 234, 0.3);
     --purple: #9580FF;
+    --purple-day: #FFB851;
     --purple-transparent: rgba(149, 128, 255, 0.5);
     --pink: #FE7FBF;
+    --pink-day: #A2B25B; 
     --blue: #00588E;
     --yellow: #FEFF7F;
      
@@ -147,11 +149,11 @@ Elements
     --shadow-color:rgba(0, 0, 0, 0.1);
     --btn-shadow-color:rgba(0, 0, 0, 0.05);
 
-    --cursor: var(--cyan);
+    --cursor: var(--black);
     --vim-cursor: var(--cyan);
-    --headers: var(--green);
-    --h1: var(--purple);
-    --h2: var(#B97A95);
+    --headers: var(--purple);
+    --h1: var(--blue);
+    --h2: var(--pink-day);
     --h3: var(--blue);
     --h4: var(--cyan);
     --h5: var(--orange);
@@ -160,7 +162,7 @@ Elements
     --italics: var(--pink);
     --strikethrough: var(--gray-1);
     --highlight: var(--yellow);
-    --internal-link: var(--cyan);
+    --internal-link: var(--gray-1);
     --internal-link-unresolved: var(--blue);
     --external-link: var(--orange);
     --external-link-url: var(--gray-1);
@@ -176,10 +178,10 @@ Elements
     --toggle-on: var(--cyan);
     --toggle-off: var(--gray-2);
     --icon: var(--purple);
-    --icon-hover: var(--white);
+    --icon-hover: var(--black);
     --frontmatter: var(--red);
-    --active-file: var(--green);
-    --blockquote: var(--yellow);
+    --active-file: var(--purple);
+    --blockquote: var(--red);
   }
 
 
