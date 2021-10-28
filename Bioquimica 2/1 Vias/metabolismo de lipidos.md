@@ -18,7 +18,7 @@ Plantas
 
 > -   Precursores biosinteticos
 
-## TAG
+## TAG (triacilgliceridos)
 
 Beneficios:
 
@@ -30,3 +30,7 @@ Problemas:
 
 - insolubilidad en H2O
 - Reactividad: Activacion con AcCoA
+
+### mobilizacion en tejido adiposo
+>Hormona → Receptor →Gs →Ac →AMP→PKA→perilipina
+
