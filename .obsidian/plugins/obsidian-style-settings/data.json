@@ -43,5 +43,13 @@
   "sanctum@@no-sanctum-icons": false,
   "sanctum@@heading-1": 73,
   "sanctum@@heading-2": 71,
-  "sanctum@@font-editor": "iA Writer Quattro V"
+  "sanctum@@font-editor": "iA Writer Quattro V",
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-ribbons": true,
+  "shimmering-focus@@show-header-bar": true,
+  "shimmering-focus@@show-statusbar": true,
+  "shimmering-focus@@show-close-button": true,
+  "shimmering-focus@@show-collapse-buttons": true,
+  "shimmering-focus@@block-cursor": false,
+  "shimmering-focus@@annotation-tags-off": true
 }

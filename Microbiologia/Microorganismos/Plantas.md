@@ -36,29 +36,49 @@ El transporte de Triosas-Pi promueve transferencia de [[ATP]] y [[NADPH]]
 
 - No luz → No fotosintesis → Pi → activa →[[gluconeogenesis]]
 
-# Tipos 
+# Tipos de Plantas
+
 ## C4
-- Adaptadas a altas temperaturas y  alta intensidad de luz
+
+- Adaptadas a altas temperaturas y alta intensidad de luz
 - Alta tasa Foto sintetica
-- Alta tasa de crecimineto 
+- Alta tasa de crecimineto
 - Baja fotorespiracion
 - Baja perdida de agua
 
-En estas plantas, la fijacion de C y actividad de C estan fisicamente separadas.
- El primer intermediario en la asimilacion de CO2 es el *Oxalacetato*, el cual se transforma en *malato* en celulas del mesofilo.
- El malato se moviliza a las celulas de la vaina, donde el *malato* descarboxila para dar *Pyr y CO2*.
- El *CO2* se incorpora en el [[Ciclo de Calvin]]
- 
- ### Anatomia de las Hojas C3 y C4
- ![](https://i.imgur.com/UVoMQ4d.png)
- - Mesófilo en empalizada: realizan la mayor parte de la fotosíntesis, fotofosforilación y asimilación de CO2
- - Células de la vaina del haz: no tienen cloroplastos 
- - Mesófilo esponjoso: realizan fotofosforilación y asimilación de CO2
+fijacion de C y actividad de C estan fisicamente separadas.
+El primer intermediario en la asimilacion de CO2 es el _Oxalacetato_, el cual se transforma en _malato_ en celulas del mesofilo.
+El malato se moviliza a las celulas de la vaina, donde el _malato_ descarboxila para dar _Pyr y CO2_.
+El _CO2_ se incorpora en el [[Ciclo de Calvin]]
+
+### Anatomia de las Hojas C3 y C4
+
+![](https://i.imgur.com/UVoMQ4d.png)
+
+- Mesófilo en empalizada: realizan la mayor parte de la fotosíntesis, fotofosforilación y asimilación de CO2
+- Células de la vaina del haz: no tienen cloroplastos
+- Mesófilo esponjoso: realizan fotofosforilación y asimilación de CO2
 
 ![](https://i.imgur.com/QDcE6Bh.png)
+
 - Mesófilo: contienen cloroplastos con más grana que almidón: realizan fotofosforilación pero no tienen Rubisco. Fijan el CO2 como OAA con la PEP carboxilasa exclusiva de plantas
--  Células de la vaina del haz : rodea en forma concéntrica a los vasos conductores. Tienen Rubisco pero no PEP carboxilasa. El CO2 liberado sólo se usa para Calvin.
+- Células de la vaina del haz : rodea en forma concéntrica a los vasos conductores. Tienen Rubisco pero no PEP carboxilasa. El CO2 liberado sólo se usa para Calvin.
 
 ### Metabolismo
+
 Aumenta la relacion de (CO2)/(O2) en las celulas de la vaina y elimina la fotorrespiracion.
- El CO2 liberado se destina a [[Ciclo de Calvin]], ya que estas celulas carecen de PEP carboxilasa, presentes en celulas del mesofilo
+El CO2 liberado se destina a [[Ciclo de Calvin]], ya que estas celulas carecen de PEP carboxilasa, presentes en celulas del mesofilo
+
+## CAM
+
+plantas de climas calidos y secos
+
+- climas calidos y secos
+
+Separacion temporal entre fijacion del CO2 y actividad de la rubisco.
+De noche, estromas abiertos permiten entrada de CO2, el cual se fija para formar oxalacetato.
+Oxalacetato se transforma a malato y se almacena en vacuolas.
+De dia, estromas cerrados (evita perdida de H2O y malato Descarboxilado). El CO2 es fijado por la rubisco
+
+### anatomia
+![](https://i.imgur.com/U3ioCky.png)
