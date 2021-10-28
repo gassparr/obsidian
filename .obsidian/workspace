@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab979c7ae25c61ce",
+        "id": "a30ed297172ed12d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Microorganismos/Plantas.md",
+            "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md"
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
               }
             }
           }
@@ -109,17 +109,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "ab979c7ae25c61ce",
+  "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Microbiologia/Microorganismos/Plantas.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+    "Bioquimica 2/1 Vias/glucogenolisis.md",
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
+    "Microbiologia/Microorganismos/Plantas.md",
     "Microbiologia/Estructuras Microbianas/cloroplastos.md",
     "Bioquimica 2/Varios/Transduccion de señal.md",
     "Bioquimica 2/Varios/transportador.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "Bioquimica 2/1 Vias/glucogenogenesis.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/gluconeogenesis.md"
+    "Bioquimica 2/1 Vias/glucogenogenesis.md"
   ]
 }

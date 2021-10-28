@@ -15,15 +15,16 @@ Trabajan secuencialmente.
 
 Los 2 Fotosistemas estan conectados por el complejo del citocromo b6f
 
-## Sintesis de ATP y Fotofosforilacion 
+## Sintesis de ATP y Fotofosforilacion
 
 Tilacoide sintetiza 3 ATP por O2 producido
 
 > 2 H2O +8 foton + 2 [[NADP+]] + 3 [[ADP]] + 3Pi --> O2 + 3 [[ATP]] + 2 [[NADPH]]
 
 # Fijacion de Carbono
+
 asimilan el CO2 a traves del [[Ciclo de Calvin]] el cual ocurre dentro de los cloroplastos.
- Para esto se requieren altas concentracion de [[ATP]] y [[NADPH]] cuando los cloroplastos son iluminan
+Para esto se requieren altas concentracion de [[ATP]] y [[NADPH]] cuando los cloroplastos son iluminan
 
 ## Cloroplastos
 

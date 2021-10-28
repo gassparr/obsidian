@@ -1,6 +1,6 @@
 /* 
 
-Minimal Obsidian 4.0.4 by @kepano
+Minimal Obsidian 4.0.5 by @kepano
 
 This theme is designed to be used with the Minimal Theme Settings 
 plugin and the Hider plugin.
@@ -166,26 +166,26 @@ Disabled features */
   --font-smaller:11px;
   --font-smallest:10px;
 
-  --h1:1.3em;
-  --h2:1.2em;
-  --h3:1.1em;
-  --h4:1em;
-  --h5:0.9em;
+  --h1:1.125em;
+  --h2:1em;
+  --h3:1em;
+  --h4:0.90em;
+  --h5:0.85em;
   --h6:0.85em;
 
   --h1-weight:600;
   --h2-weight:600;
-  --h3-weight:600;
-  --h4-weight:600;
-  --h5-weight:600;
-  --h6-weight:600;
+  --h3-weight:500;
+  --h4-weight:500;
+  --h5-weight:500;
+  --h6-weight:400;
 
-  --h1-color:var(--pink);
-  --h2-color:var(--orange);
-  --h3-color:var(--yellow);
-  --h4-color:var(--green);
-  --h5-color:var(--blue);
-  --h6-color:var(--purple);
+  --h1-color:var(--text-normal);
+  --h2-color:var(--text-normal);
+  --h3-color:var(--text-normal);
+  --h4-color:var(--text-normal);
+  --h5-color:var(--text-normal);
+  --h6-color:var(--text-muted);
 
   --normal-weight:400;   /* Switch to 300 if you want thinner default text */
   --bold-weight:600;     /* Switch to 700 if you want thicker bold text */
@@ -204,12 +204,12 @@ Disabled features */
   --input-height:32px;
   --header-height:40px;
 
-  --yellow: #ff5555;
-  --green:#ffb86c;
-  --orange:#bd93f9;
-  --purple:#8be9fd;
-  --pink: #ff79c6;
-  --blue:#50fa7b;
+  --yellow:#e5b567;
+  --green:#b4d273;
+  --orange:#e87d3e;
+  --purple:#9e86c8;
+  --pink:#b05279;
+  --blue:#6c99bb;
 
 }
 
@@ -1889,6 +1889,10 @@ body.is-dragging {
   background-color:transparent;
   box-shadow:none !important;
 }
+.workspace-split.mod-right-split .workspace-tabs .workspace-leaf {
+  border-radius:0;
+}
+
 .workspace-leaf:not(.mod-active) {} /* Effects on non-active panels */
 
 .workspace-tab-container-inner {
@@ -1898,6 +1902,14 @@ body.is-dragging {
   max-width:100%;
   margin:0 auto;
   padding-left:5px;
+}
+.mod-right-split .workspace-tabs .workspace-tab-header-container {
+  border:none;
+  height:calc(var(--header-height) - 1px);
+}
+.mod-right-split .workspace-tabs .nav-buttons-container {
+  z-index:1;
+  border-top:var(--border-width) solid var(--background-modifier-border);
 }
 .workspace-tab-header.is-before-active .workspace-tab-header-inner,
 .workspace-tab-header.is-active,
@@ -2814,23 +2826,34 @@ body.colorful-headings {
 
 /* Relationship lines in Preview */
 
-body.minimal-rel-preview ul {
+body.minimal-rel-preview .markdown-preview-view ol li,
+body.minimal-rel-preview .markdown-preview-view ul li {
   position:relative;
 }
-body.minimal-rel-preview .markdown-preview-view ul ul::before {
+body.minimal-rel-preview .markdown-preview-view ol li::before,
+body.minimal-rel-preview .markdown-preview-view ul li::before {
   content:'';
   border-left:1px solid var(--background-modifier-border);
   position:absolute;
   left:-0.85em;
-  top:0;
-  bottom:0; 
+  top:calc(var(--font-normal) + 10px);
+  bottom:0px;
 }
-body.minimal-rel-preview .markdown-preview-view ul.contains-task-list::before {
-  top:5px;
+
+body.minimal-rel-preview .markdown-preview-view ul.contains-task-list li::before {
+  top:calc(var(--font-normal) + 16px);
+} 
+
+/* Relationship lines in Preview mode V2 
+.markdown-preview-view ul { 
+  background-image: linear-gradient(to right, var(--background-modifier-border) 1px, transparent 1px);
+  background-position-x:-0.85em;
+  background-size:calc(var(--font-normal)*2) 1px;
 }
-body.minimal-rel-preview .markdown-preview-view .task-list-item-checkbox {
-  margin-left:-1.3em;
-}
+.markdown-preview-view ul li {
+  background-color:var(--background-primary);
+}  */
+
 
 /* Relationship lines in Edit mode  */
 
@@ -2938,11 +2961,11 @@ h5:hover .heading-collapse-indicator.collapse-indicator svg,
 .markdown-preview-view ul > li:not(.task-list-item).is-collapsed::before {
   background:var(--background-modifier-border);
   box-shadow:3px 0 0px 4px var(--background-modifier-border);
-}*/
+}
 .markdown-preview-view ul > li:not(.task-list-item).is-collapsed::before {
   background:var(--background-modifier-border);
   box-shadow:3px 0 0px 4px var(--background-modifier-border);
-}
+}*/
 .list-collapse-indicator .collapse-indicator .collapse-icon {
   opacity:0;
 }
@@ -3667,17 +3690,12 @@ iframe {
 
 /* Blockquotes */
 
-.cm-quote {
-  color: var(--blue) !important;
-  font-style: italic;
-}
-
 .markdown-preview-view blockquote {
   border-radius:0;
   border:solid var(--quote-opening-modifier);
   border-width:0px 0px 0px 1px;
   background-color:transparent;
-  color:var(--normal);
+  color:var(--text-muted);
   padding:0 0 0 calc(var(--nested-padding) / 2);
   margin-inline-start:var(--nested-padding);
 }
@@ -3722,7 +3740,6 @@ ol {
   padding-inline-start:1em;
   margin-left:1em;
   list-style:default;
-  position:relative;
 }
 ul > li {
   min-height:1.4em;

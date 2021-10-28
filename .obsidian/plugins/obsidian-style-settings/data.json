@@ -1,5 +1,5 @@
 {
-  "minimal-style@@light-mode-style": "minimal-light-contrast",
+  "minimal-style@@light-mode-style": "minimal-light",
   "minimal-style@@dark-mode-style": "minimal-dark",
-  "minimal-style@@cursor": "pointer"
+  "minimal-style@@cursor": "default"
 }

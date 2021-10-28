@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "translucency": true,
   "cssTheme": "Minimal",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "Auto dark images",
+    "minimal_dracula_skin"
+  ]
 }
