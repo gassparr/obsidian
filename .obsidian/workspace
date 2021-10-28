@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Microorganismos/Plantas.md",
+            "file": "Bioquimica 2/1 Vias/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
+                "file": "Bioquimica 2/1 Vias/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
+                "file": "Bioquimica 2/1 Vias/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md"
+                "file": "Bioquimica 2/1 Vias/Untitled.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/Untitled.md",
     "Microbiologia/Microorganismos/Plantas.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
@@ -119,7 +120,6 @@
     "Bioquimica 2/1 Vias/glucogenogenesis.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md",
-    "Microbiologia/Estructuras Microbianas/cloroplastos.md",
-    "Bioquimica 2/Varios/Transduccion de señal.md"
+    "Microbiologia/Estructuras Microbianas/cloroplastos.md"
   ]
 }
