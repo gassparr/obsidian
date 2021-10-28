@@ -97,7 +97,53 @@ Elements
   /* Original Minimal Theme Variables Modified */
 
 
-  .theme-light,
+  .theme-light {
+    --background-primary: var(#FFF3E4);
+    --background-primary-alt: var(#F9F3DF);
+    --background-secondary: var(#F9F3DF);
+    --background-secondary-alt: var(#FFF3E4);
+    --background-tertiary: var(#6F4C5B);
+    --background-modifier-border: var(#6F4C5B);
+    --background-modifier-border-hover: var(#CDBBA7);
+    --background-modifier-border-focus: var(#CDBBA7);
+    --background-modifier-box-shadow:rgba(0, 0, 0, 0.3);
+    --text-normal: var(--black);
+    --text-muted: var(--gray-2);
+    --text-faint: var(--gray);
+    --background-transparent:hsla(var(#FFF3E4),0);
+    --background-translucent:hsla(var(#FFF3E4),0.85);
+    --background-match-highlight:hsla(var(--accent-h), 40%, 62%, 0.2);
+    --background-modifier-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-d) - 10%));
+    --text-accent: var(--purple);
+    --text-accent-hover: var(--aqua);
+    --text-on-accent: var(--purple);
+    --icon-hex:FFF;
+    --interactive-accent: var(--purple);
+    --interactive-accent-hover: var(--quaternary-background);
+    --quote-opening-modifier:var(--orange);
+    --interactive-accent-rgb: 123, 108, 217;
+    --text-selection: var(--cyan-transparent);
+    --text-highlight-bg: var(--blue);
+    --text-highlight-bg-active:rgba(255, 255, 255, 0.1);
+    --background-modifier-cover:hsla(var(--base-h),var(--base-s),calc(var(--base-d) - 12%),0.8);
+    --background-accent: var(--white);
+    --background-modifier-form-field: rgba(0, 0, 0, 0.2);
+    --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
+    --background-modifier-success: var(--green);
+    --background-modifier-error: var(--red);
+    --background-modifier-error-rgb: 61, 0, 0;
+    --background-modifier-error-hover: var(--red);
+    --background-modifier-cover: rgba(0, 0, 0, 0.6);
+    --text-error: var(--red);
+    --text-error-hover: var(--red);
+    --interactive-normal: var(--tertiary-background);
+    --interactive-hover: var(--quaternary-background);
+    --scrollbar-active-thumb-bg: var(--quaternary-background);
+    --scrollbar-bg: var(--primary-background);
+    --scrollbar-thumb-bg: var(--tertiary-background);
+    --border-color: var(--quaternary-background);
+
+
   .theme-dark {
     --background-primary: var(--primary-background);
     --background-primary-alt: var(--secondary-background);
