@@ -35,3 +35,21 @@ El transporte de Triosas-Pi promueve transferencia de [[ATP]] y [[NADPH]]
 - Luz → activa fotosintesis → (Gly3P y dihidroxiacetano fosfato) → Desactiva [[gluconeogenesis]]
 
 - No luz → No fotosintesis → Pi → activa →[[gluconeogenesis]]
+
+# Tipos 
+## C4
+- Adaptadas a altas temperaturas y  alta intensidad de luz
+- Alta tasa Foto sintetica
+- Alta tasa de crecimineto 
+- Baja fotorespiracion
+- Baja perdida de agua
+
+En estas plantas, la fijacion de C y actividad de C estan fisicamente separadas.
+ El primer intermediario en la asimilacion de CO2 es el *Oxalacetato*, el cual se transforma en *malato* en celulas del mesofilo.
+ El malato se moviliza a las celulas de la vaina, donde el *malato* descarboxila para dar *Pyr y CO2*.
+ El *CO2* se incorpora en el [[Ciclo de Calvin]]
+ 
+ ### Anatomia de las Hojas C3 y C4
+ ![](https://i.imgur.com/UVoMQ4d.png)
+ - Mesófilo en empalizada: realizan la mayor parte de la fotosíntesis, fotofosforilación y asimilación de CO2 Células de la vaina del haz: no tienen cloroplastos Mesófilo esponjoso: realizan fotofosforilación y asimilación de CO2
+ ![](https://i.imgur.com/QDcE6Bh.png)
