@@ -1,7 +1,6 @@
 {
   "minimal-style@@light-mode-style": "minimal-light",
   "minimal-style@@dark-mode-style": "minimal-dark",
-  "minimal-style@@cursor": "pointer",
   "minimal-style@@fancy-cursor": false,
   "minimal-style@@full-file-names": false,
   "minimal-style@@focus-mode": false,

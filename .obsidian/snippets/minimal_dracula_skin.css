@@ -88,6 +88,7 @@ Elements
     --pink-day: #A2B25B; 
     --blue: #00588E;
     --yellow: #FEFF7F;
+
      
   }
 
@@ -108,7 +109,7 @@ Elements
 
     --text-accent:hsl(var(--accent-h),var(--accent-s),var(--accent-l));
     --text-accent-hover:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) - 10%));
-    --text-on-accent:white;
+    --text-on-accent:black;
 
     --text-selection:hsla(var(--accent-h),50%,calc(var(--base-l) - 20%), 30%);
     --text-highlight-bg:rgba(255, 224, 0, 0.5);
@@ -142,7 +143,7 @@ Elements
     --interactive-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) + 10%));
     --interactive-accent-hover:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) - 0%));
 
-    --interactive-accent-rgb:220, 220, 220;
+    --interactive-accent-rgb:0, 0, 0;
 
     --quote-opening-modifier:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 10%));
     --background-modifier-cover:hsla(var(--base-h),var(--base-s),calc(var(--base-l) - 7%),0.7);
@@ -150,7 +151,7 @@ Elements
     --btn-shadow-color:rgba(0, 0, 0, 0.05);
 
     --cursor: var(--black);
-    --vim-cursor: var(--cyan);
+    --vim-cursor: var(--black);
     --headers: var(--purple);
     --h1: var(--blue);
     --h2: var(--pink-day);
@@ -159,7 +160,7 @@ Elements
     --h5: var(--orange);
     --h6: var(--red);
     --bold: var(--purple);
-    --italics: var(--pink);
+    --italics: var(--red);
     --strikethrough: var(--gray-1);
     --highlight: var(--yellow);
     --internal-link: var(--gray-1);
