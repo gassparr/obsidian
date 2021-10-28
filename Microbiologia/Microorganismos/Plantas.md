@@ -29,3 +29,7 @@ Para esto se requieren altas concentracion de [[ATP]] y [[NADPH]] cuando los clo
 ## Cloroplastos
 
 El transporte de Triosas-Pi promueve transferencia de [[ATP]] y [[NADPH]]
+
+# Metabolismo de carbohidratos en plantas 
+
+Luz → activa fotosintesis

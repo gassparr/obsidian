@@ -180,6 +180,7 @@ Elements
     --icon-hover: var(--white);
     --frontmatter: var(--red);
     --active-file: var(--green);
+    --blockquote: var(--yellow);
   }
 
 /*----------------------------------------------------------------
@@ -213,13 +214,13 @@ Elements
 
 /* for editor */
 .cm-quote {
-  color: var(--yellow) !important;
+  color: var(--blockquote) !important;
   font-style: italic;
 }
 
 /* for preview */
 .markdown-preview-view blockquote {
-  color: var(--yellow) !important;
+  color: var(--blockquote) !important;
   font-style: italic;
 }
 

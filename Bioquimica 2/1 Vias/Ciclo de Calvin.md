@@ -4,7 +4,7 @@ Via anabolica por la cual [[Plantas]] fijan CO2
 
 # Ecuacion Global
 
-> 3 CO2 + 9 [[ATP]] + 6 [[NADPH]] + 6 H(+) --> G3P + 9 [[ADP]] + 8 Pi + 6 [[NADP+]]
+> 3 CO2 + 9 [[ATP]] + 6 [[NADPH]] + 6 H(+) → G3P + 9 [[ADP]] + 8 Pi + 6 [[NADP+]]
 
 # Mecanismo
 
@@ -26,4 +26,3 @@ Cuatro enzimas se activan al recibir luz
 2. Fructosa 1,6-bifosfatasa
 3. Ribulosa 5 P quinasa
 4. Gliceraldehido 3 P deshidrogenasa
-

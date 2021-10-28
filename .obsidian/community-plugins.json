@@ -5,5 +5,8 @@
   "obsidian-git",
   "obsidian-mind-map",
   "oz-image-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-contextual-typography",
+  "obsidian-smart-typography",
+  "obsidian-embedded-note-titles"
 ]

@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "1da98d1018e4e0b2",
+    "id": "efc0445b96737385",
     "type": "split",
     "children": [
       {
-        "id": "a30ed297172ed12d",
+        "id": "598745921f9ee652",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Microorganismos/Plantas.md",
-            "mode": "source"
+            "file": "Theme Colors.md",
+            "mode": "preview"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61670dc6cfbdf1e2",
+    "id": "0d21af89eb453f54",
     "type": "split",
     "children": [
       {
-        "id": "b4111d1970f84605",
+        "id": "0f8de207ec3220a1",
         "type": "tabs",
         "children": [
           {
-            "id": "64a0432d31a19d2e",
+            "id": "10fb223e37e4ffdc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "f234cb288c04cfaf",
+            "id": "b05bc0037737934c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,58 +47,85 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "e7cd9c34e9302e91",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 300
   },
   "right": {
-    "id": "7008b93332e5b4d8",
+    "id": "dc8e195d9054c62a",
     "type": "split",
     "children": [
       {
-        "id": "d0a1a737ded1d10e",
+        "id": "461535e37e032b81",
         "type": "tabs",
         "children": [
           {
-            "id": "b6aa146432de387b",
+            "id": "8648755dffb1327e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
+                "file": "Theme Colors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2aa936ae1e4a79c8",
+            "id": "8e7c4d8b7539d79b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "Theme Colors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aec36d4bada35aa7",
+            "id": "dcbf859ef28defe3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27fb5ac225d5fc1d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Microorganismos/Plantas.md"
+                "file": "Theme Colors.md"
               }
+            }
+          },
+          {
+            "id": "a0a40c9e9f0316e8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -106,20 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198.5,
-    "collapsed": true
+    "width": 137
   },
-  "active": "a30ed297172ed12d",
+  "active": "598745921f9ee652",
   "lastOpenFiles": [
-    "Microbiologia/Microorganismos/Plantas.md",
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
-    "Bioquimica 2/1 Vias/fotosintesis.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/glucogenolisis.md",
-    "Microbiologia/Estructuras Microbianas/cloroplastos.md",
-    "Bioquimica 2/Varios/Transduccion de señal.md",
-    "Bioquimica 2/Varios/transportador.md",
-    "Bioquimica 2/1 Vias/glucogenogenesis.md"
+    "Theme Colors.md",
+    "How To/Use the developer tools.md",
+    "How To/Target fullscreen mode.md",
+    "README.md",
+    "Markdown Syntax.md",
+    "Embeds.md",
+    "Headings.md",
+    "How To/Show the rename file dialog.md",
+    "Plugins/Kanban 02.md",
+    "Plugins/Kanban 01.md"
   ]
 }
