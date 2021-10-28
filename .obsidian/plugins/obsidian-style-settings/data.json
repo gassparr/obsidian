@@ -1,5 +1,16 @@
 {
   "minimal-style@@light-mode-style": "minimal-light",
   "minimal-style@@dark-mode-style": "minimal-dark",
-  "minimal-style@@cursor": "default"
+  "minimal-style@@cursor": "pointer",
+  "minimal-style@@fancy-cursor": false,
+  "minimal-style@@full-file-names": false,
+  "minimal-style@@focus-mode": false,
+  "minimal-style@@borders-none": false,
+  "minimal-style@@minimal-status-off": false,
+  "minimal-style@@minimal-icons-off": false,
+  "minimal-style@@minimal-folding": true,
+  "minimal-style@@minimal-rel-edit": true,
+  "minimal-style@@minimal-rel-preview": true,
+  "minimal-style@@links-int-on": false,
+  "minimal-style@@links-ext-on": false
 }

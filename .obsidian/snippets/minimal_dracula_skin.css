@@ -151,12 +151,12 @@ Elements
     --cursor: var(--cyan);
     --vim-cursor: var(--cyan);
     --headers: var(--green);
-    --h1: var(--green);
-    --h2: var(--green);
-    --h3: var(--green);
-    --h4: var(--text-normal);
-    --h5: var(--text-normal);
-    --h6: var(--text-muted);
+    --h1: var(--purple);
+    --h2: var(--pink);
+    --h3: var(--blue);
+    --h4: var(--cyan);
+    --h5: var(--orange);
+    --h6: var(--red);
     --bold: var(--purple);
     --italics: var(--pink);
     --strikethrough: var(--gray-1);

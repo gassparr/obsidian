@@ -26,3 +26,4 @@ Cuatro enzimas se activan al recibir luz
 2. Fructosa 1,6-bifosfatasa
 3. Ribulosa 5 P quinasa
 4. Gliceraldehido 3 P deshidrogenasa
+
