@@ -30,7 +30,8 @@ Para esto se requieren altas concentracion de [[ATP]] y [[NADPH]] cuando los clo
 
 El transporte de Triosas-Pi promueve transferencia de [[ATP]] y [[NADPH]]
 
-# Metabolismo de carbohidratos en plantas 
+# Metabolismo de carbohidratos en plantas
 
-Luz → activa fotosintesis → (Gly3P y dihidroxiacetano fosfato) → Desactiva [[gluconeogenesis]]
-No luz → No fotosintesis → Pi → activa →[[gluconeogenesis]]
+- Luz → activa fotosintesis → (Gly3P y dihidroxiacetano fosfato) → Desactiva [[gluconeogenesis]]
+
+- No luz → No fotosintesis → Pi → activa →[[gluconeogenesis]]

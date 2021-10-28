@@ -1,4 +1,4 @@
-Via anabolica por la cual [[Plantas]] fijan CO2
+Via anabolica acompañada de la [[fotosintesis]] por la cual [[Plantas]] fijan CO2
 
 ![](https://i.imgur.com/rrR4czN.png)
 
@@ -16,7 +16,7 @@ Via anabolica por la cual [[Plantas]] fijan CO2
     > > Rubisco carbomilada: inhibe y se sintetiza en falta de luz
 
 2. Conversion de fosfoglicerato a Gly 3-P
-3. Regenecaion de R5P
+3. Regeneracion de R5P
 
 # Activacion
 
@@ -26,4 +26,3 @@ Cuatro enzimas se activan al recibir luz
 2. Fructosa 1,6-bifosfatasa
 3. Ribulosa 5 P quinasa
 4. Gliceraldehido 3 P deshidrogenasa
-

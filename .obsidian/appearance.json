@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 12,
   "theme": "moonstone",
   "translucency": true,
-  "cssTheme": "Sanctum",
+  "cssTheme": "Deep Work",
   "enabledCssSnippets": [
     "Auto dark images"
   ]

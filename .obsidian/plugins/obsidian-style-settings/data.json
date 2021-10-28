@@ -33,5 +33,15 @@
   "sanctum@@wrap-note-title": true,
   "sanctum@@kanban-wrap": true,
   "sanctum@@relationship-lines": true,
-  "sanctum@@topside-status-bar": false
+  "sanctum@@topside-status-bar": false,
+  "sanctum@@fx-rl": false,
+  "sanctum@@no-file-icons": true,
+  "sanctum@@no-folder-icons": true,
+  "sanctum@@show-full-titles": false,
+  "sanctum@@no-blur": true,
+  "sanctum@@no-animation": true,
+  "sanctum@@no-sanctum-icons": false,
+  "sanctum@@heading-1": 73,
+  "sanctum@@heading-2": 71,
+  "sanctum@@font-editor": "iA Writer Quattro V"
 }
