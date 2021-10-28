@@ -18,6 +18,8 @@ Plantas
 
 > -   Precursores biosinteticos
 
+## Activacion de AG
+
 ## TAG (triacilgliceridos)
 
 Beneficios:
