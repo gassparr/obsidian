@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "theme": "moonstone",
   "translucency": true,
-  "cssTheme": "Ars Magna",
+  "cssTheme": "Spectrum",
   "enabledCssSnippets": [
     "Auto dark images"
   ]
