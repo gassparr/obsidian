@@ -23,13 +23,15 @@ Plantas
 > AG + CoA + ATP → Acil-CoA + AMP + 2 Pi
 
 Ocurre en 2 pasos, el primero utiliza la enzima _acil-CoA sintetasa_
-
-## Transportadortador Carnitina/Acil-Carnitina
+## Entrada de AG a mitocondria
+### Transportadortador Carnitina/Acil-Carnitina
 AG < 12C → Entran a la mitocondria sin transportador
 AG > 14c → Utilizan *Carnitina* para pasar 
 
-Carnitina es 
+Carnitina sera transportador que esterifica AG para seguir la via oxidativa.
 
+### Beta-Oxidacion
+AG > 14C se iran oxidando para remover 2C en cada paso del proceso. Para asi formar Acetil-CoA
 ## TAG (triacilgliceridos)
 
 Beneficios:
