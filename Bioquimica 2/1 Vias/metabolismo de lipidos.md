@@ -19,7 +19,8 @@ Plantas
 > -   Precursores biosinteticos
 
 ## Activacion de AG
-AG + ATP ←()
+> AG + CoA + ATP → Acil-CoA + AMP + 2 Pi 
+Ocurre en 2 pasos, el primero utiliza la enzima *acil-CoA sintetasa*
 ## TAG (triacilgliceridos)
 
 Beneficios:
