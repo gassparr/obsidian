@@ -19,8 +19,17 @@ Plantas
 > -   Precursores biosinteticos
 
 ## Activacion de AG
-> AG + CoA + ATP → Acil-CoA + AMP + 2 Pi 
-Ocurre en 2 pasos, el primero utiliza la enzima *acil-CoA sintetasa*
+
+> AG + CoA + ATP → Acil-CoA + AMP + 2 Pi
+
+Ocurre en 2 pasos, el primero utiliza la enzima _acil-CoA sintetasa_
+
+## Transportadortador Carnitina/Acil-Carnitina
+AG < 12C → Entran a la mitocondria sin transportador
+AG > 14c → Utilizan *Carnitina* para pasar 
+
+Carnitina es 
+
 ## TAG (triacilgliceridos)
 
 Beneficios:
@@ -35,5 +44,5 @@ Problemas:
 - Reactividad: Activacion con AcCoA
 
 ### mobilizacion en tejido adiposo
->Hormona → Receptor →Gs →Ac →AMP→PKA→perilipina
 
+> Hormona → Receptor →Gs →Ac →AMP→PKA→perilipina
