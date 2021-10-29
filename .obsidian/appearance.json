@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 12,
-  "theme": "obsidian",
+  "baseFontSize": 14,
+  "theme": "moonstone",
   "translucency": true,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Ars Magna",
   "enabledCssSnippets": [
     "Auto dark images"
   ]
