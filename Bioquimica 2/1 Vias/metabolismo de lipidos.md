@@ -31,7 +31,7 @@ AG > 14c → Utilizan *Carnitina* para pasar
 Carnitina sera transportador que esterifica AG para seguir la via oxidativa.
 
 ### Beta-Oxidacion
-AG > 14C se iran oxidando para remover 2C en cada paso del proceso. Para asi formar Acetil-CoA
+AG > 14C se iran oxidando para remover 2C en cada paso del proceso. Para asi formar Acetil-CoA   
 ## TAG (triacilgliceridos)
 
 Beneficios:
