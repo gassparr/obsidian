@@ -75,23 +75,31 @@ Ocurre en sistema peroxisomal / glioxisomal, por lo tanto es diferente al sistem
 El AcCoA procedente no se utiliza para energia, sino que exclusivamente como precursor biosintetico
 
 ## Degradacion de AG insaturados
+
 - AG contenidos en TAG y fosfolipidos animales y plantas son insaturados, conteniendo uno o mas dobles enlaces
-- Dobles Enlaces configuracion -cis por lo que no pueden ser atacados por enzima *enoyl CoA hidratasa* que actua durante beta-oxidacion en dobles enlaces -trans
+- Dobles Enlaces configuracion -cis por lo que no pueden ser atacados por enzima _enoyl CoA hidratasa_ que actua durante beta-oxidacion en dobles enlaces -trans
 - Se requiere dos enzimas mas para oxidacion de AG insaturados:
-  - *isomerasa*
-  - *reductasa* 
+    - _isomerasa_
+    - _reductasa_
 
 # Cuerpos Cetonicos
-En mamiferos:
-- AcCoA formado en higado
-  - [[Ciclo de Acido Citrico]]
-  - cuerpos cetonicos 
 
-## Formacion 
-> 2 AcCoA –(*thiolasa*)→ Aceto-AcCoA –(*HMG-CoA sintetasa*)→ HMG-CoA —(*HMG-CoA liasa*)→ Acetoacetato → Acetona + D-B-Hidroxibutirato
+En mamiferos:
+
+- AcCoA formado en higado
+    - [[Ciclo de Acido Citrico]]
+    - cuerpos cetonicos
+
+## Formacion
+
+> 2 AcCoA –(_thiolasa_)→ Aceto-AcCoA –(_HMG-CoA sintetasa_)→ HMG-CoA —(_HMG-CoA liasa_)→ Acetoacetato → Acetona + D-B-Hidroxibutirato
 
 ### Situaciones que inducen formacion
-- Ayuno: intermediarios del cuerpo cetonico utilizados para [[gluconeogenesis]], el [[Ciclo de Acido Citrico]] se frena.
-## utilizacion 
-En tejidos extrahepaticos se ussan como combustible
 
+- Ayuno: intermediarios del cuerpo cetonico utilizados para [[gluconeogenesis]], el [[Ciclo de Acido Citrico]] se frena.
+- Diabetes: insulina disminuye, teijdo extrahepatico no pueden captar Glc, Malonil-CoA disminuye, se libera inhibicion de carnitin acel transferasa, los AG entran en Beta-Ox.
+    El ciclo al estar frenado, acumula AcCoA por lo que se acelera formacion de CC
+
+## utilizacion
+
+En tejidos extrahepaticos se ussan como combustible
