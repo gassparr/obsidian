@@ -1,3 +1,4 @@
 {
-  "FormatCodeBlock": false
+  "FormatCodeBlock": false,
+  "formatOnSave": true
 }
