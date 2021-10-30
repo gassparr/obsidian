@@ -76,4 +76,17 @@ El AcCoA procedente no se utiliza para energia, sino que exclusivamente como pre
 
 ## Degradacion de AG insaturados
 - AG contenidos en TAG y fosfolipidos animales y plantas son insaturados, conteniendo uno o mas dobles enlaces
-- Dobles Enlaces configuracion -cis por lo que no pueden ser atacados por enzima *enoyl CoA hidratasa* que actua durante beta-oxidacion en 
+- Dobles Enlaces configuracion -cis por lo que no pueden ser atacados por enzima *enoyl CoA hidratasa* que actua durante beta-oxidacion en dobles enlaces -trans
+- Se requiere dos enzimas mas para oxidacion de AG insaturados:
+  - *isomerasa*
+  - *reductasa* 
+
+# Cuerpos Cetonicos
+En mamiferos:
+- AcCoA formado en higado
+  - [[Ciclo de Acido Citrico]]
+  - cuerpos cetonicos 
+
+## Formacion 
+> 2 AcCoA –(*thiolasa*)→ Aceto-AcCoA –(*HMG-CoA sintetasa*)→ HMG-CoA —(*HMG-CoA liasa*)→ Acetoacetato → Acetona + D-B-Hidroxibutirato
+
