@@ -90,3 +90,8 @@ En mamiferos:
 ## Formacion 
 > 2 AcCoA –(*thiolasa*)→ Aceto-AcCoA –(*HMG-CoA sintetasa*)→ HMG-CoA —(*HMG-CoA liasa*)→ Acetoacetato → Acetona + D-B-Hidroxibutirato
 
+### Situaciones que inducen formacion
+- Ayuno: intermediarios del cuerpo cetonico utilizados para [[gluconeogenesis]], el [[Ciclo de Acido Citrico]] se frena.
+## utilizacion 
+En tejidos extrahepaticos se ussan como combustible
+
