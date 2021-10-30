@@ -57,15 +57,23 @@ Como los enlaces (-CH2-) en los AG son muy estables, El mecanismo desestabiliza 
 Los primeros 3 pasos, crean un enlace (C-C) menos estables que en el que el(C-alpha) estara unido a dos (C=O) quedando (C-beta) disponible para ataque de CoASH
 
 ### Regulacion
+
 #### Corto plazo
+
 Glucosa —(PyrDH)→ AcCoA →
+
 ### En [[plantas]]
+
 Ocurre en sistema peroxisomal / glioxisomal, por lo tanto es diferente al sistema mitocondrial:
+
 - 1a ox. e- directamente a O2 → H2O2
 - NADH no reoxida, se exporta a mitocondria
 - AcCoA exportado para:
-  - precursores biosinteticos
-  - Oxidacion en [[mitocondria]] 
+    - precursores biosinteticos
+    - Oxidacion en [[mitocondria]]
 
 El AcCoA procedente no se utiliza para energia, sino que exclusivamente como precursor biosintetico
 
+## Degradacion de AG insaturados
+- AG contenidos en TAG y fosfolipidos animales y plantas son insaturados, conteniendo uno o mas dobles enlaces
+- Dobles Enlaces configuracion -cis por lo que no pueden ser atacados por enzima *enoyl CoA hidratasa* que actua durante beta-oxidacion en 
