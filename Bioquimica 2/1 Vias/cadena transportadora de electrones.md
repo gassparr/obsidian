@@ -1,5 +1,5 @@
 # Componentes Proteicos
-En la [[Ciclo de Acido Citrico]] es la ultima etapa.
+En el [[Ciclo de Acido Citrico]] es la ultima etapa.
 ## ubiquinona (Q):
 
 - difunde libremente por la membrana de [[mitocondria]] interna

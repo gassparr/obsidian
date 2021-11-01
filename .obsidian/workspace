@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+            "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 148
+    "width": 284
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md"
+                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
               }
             }
           }
@@ -111,6 +111,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Bioquimica 2/Varios/Transduccion de señal.md",
@@ -118,8 +120,6 @@
     "Bioquimica 2/Hormonas/Glucagon.md",
     "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
     "Bioquimica 2/2 Enzimas/Glucosa 6 fosfato deshidrogenasa.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md"
   ]
 }
