@@ -105,17 +105,40 @@ En mamiferos:
 En tejidos extrahepaticos se usan como combustible
 
 # Biosintesis de Acidos Grasos
+
 Glc sera el precursor mayoritario
+
 - Sustrato de AcCoA
 - Reacciones endergonicas y reductivas
-- ATP como fuente de E metabolica 
+- ATP como fuente de E metabolica
 - [[NADPH]] como reductor
 
 Via distinta a catabolismo, difiriendo en:
+
 - Enzimas
 - cofactores
 - localizacion
 - intermediario activado (Malonyl-CoA)
 
-> AcCoA + HCO3(-) + ATP –(AcCoa carboxilasa)→ Malonyl-CoA + H2O + ADP + Pi 
-    
+## Mecanismo
+
+paso limitante
+
+> AcCoA + HCO3(-) + ATP –(AcCoa carboxilasa)→ Malonyl-CoA + H2O + ADP + Pi
+
+Con el malonyl-CoA obtenido se sigue hacia la sintesis de palmitato, donde cada paso el malonyl-CoA dona 2C
+
+### Formacion de Palmitato
+
+> Paso limitante
+>
+> > 7 AcCoA + 7 CO2 + 7 ATP → 7 malonil-CoA + 7 ADP + 7 Pi
+> 
+> Siete ciclos de condensacion y reduccion
+>
+> > AcCoA + 7 malonyl-CoA + 14 NADPH + 14 H(+) → palmitato + 7 CO2 + 8 CoA + 14 NADP(+) + 6 H2O
+>
+> Ecuacion global
+>
+> --------------------------
+>> 8 AcCoA + 7 ATP + 14 NADPH + 14 H(+) → palmitato + 7 CoA + 7 ADP + 7 Pi + 14 NADP(+) + 6 H2O
