@@ -102,4 +102,4 @@ En mamiferos:
 
 ## utilizacion
 
-En tejidos extrahepaticos se ussan como combustible
+En tejidos extrahepaticos se usan como combustible
