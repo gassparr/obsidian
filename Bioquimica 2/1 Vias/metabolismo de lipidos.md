@@ -103,3 +103,19 @@ En mamiferos:
 ## utilizacion
 
 En tejidos extrahepaticos se usan como combustible
+
+# Biosintesis de Acidos Grasos
+Glc sera el precursor mayoritario
+- Sustrato de AcCoA
+- Reacciones endergonicas y reductivas
+- ATP como fuente de E metabolica 
+- [[NADPH]] como reductor
+
+Via distinta a catabolismo, difiriendo en:
+- Enzimas
+- cofactores
+- localizacion
+- intermediario activado (Malonyl-CoA)
+
+> AcCoA + HCO3(-) + ATP –(AcCoa carboxilasa)→ Malonyl-CoA + H2O + ADP + Pi 
+    
