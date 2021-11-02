@@ -189,7 +189,7 @@ Elements
     --icon-hover: var(--light3);
     --frontmatter: var(--red);
     --active-file: var(--green);
-    --blockquote: var(--orange);
+    --blockquote: var(--pink-day);
   }
 
 
@@ -275,7 +275,7 @@ Elements
     --icon-hover: var(--white);
     --frontmatter: var(--red);
     --active-file: var(--green);
-    --blockquote: var(--yellow);
+    --blockquote: var(--pink-day);
   }
 
 /*----------------------------------------------------------------

@@ -78,8 +78,10 @@ En higado y riñon:
 - AcCoA
 
 El Gly 3P acila 2 grupos OH
+![230](https://i.imgur.com/10anO9C.png)
 
-> Acil + CoASH + ATP —(*AcCoA sintetasa*)→ AcCoA +
+![230](https://i.imgur.com/ACgsFe8.png)
+
 
 ### mobilizacion en tejido adiposo
 
