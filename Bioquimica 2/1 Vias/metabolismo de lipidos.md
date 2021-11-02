@@ -61,9 +61,18 @@ Se sintetiza en el higado. TAG y PL tienen precursores comunes:
 
 - Glicerol 3P
 
-#### obtencion
-a
+Fuentes:
 
+Alimentado:
+
+> Glucosa —([[glucolisis]])→ dihidroxiacetona-P + NADH + H –(*Gly3P DH*)→ Gly 3P + NAD
+
+Ayuno:
+
+> Pyr —([[gluconeogenesis]])→ dihidroxiacetona-P + NADH + H —(*Gly3P DH*)→ Gly 3P + NAD
+
+En higado y riñon:
+> Gly + ATP —(*Gly kinasa*)→ Gly 3P + ADP
 - AcCoA
 
 ### mobilizacion en tejido adiposo
