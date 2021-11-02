@@ -142,3 +142,5 @@ Con el malonyl-CoA obtenido se sigue hacia la sintesis de palmitato, donde cada 
 >
 > --------------------------
 >> 8 AcCoA + 7 ATP + 14 NADPH + 14 H(+) → palmitato + 7 CoA + 7 ADP + 7 Pi + 14 NADP(+) + 6 H2O
+
+P
