@@ -5,6 +5,28 @@
 - Comunicacion interna: Fosfolipidos, TAG
 - Comunicacion externa: Eicosanoides, glicolipidos, esteroles
 
+# Localizacion
+- Celulas animal:
+  - [[citosol]]:
+> - sintesis temprana de isoprenoides y esteroles
+> - Sintesis de AG
+  - [[reticulo endoplasmico]]:
+> - Sintesis de fosfolipidos
+> - sintesis tardia de esteroles
+> - Elongacion de AG
+> - Desaturacion de AG
+  - [[mitocondria]]:
+> - Elongacion de AG
+
+- Celulas [[Plantas]]:
+  - [[cloroplastos]]:
+> Sintesis de AG
+  - [[reticulo endoplasmico]]:
+> - Sintesis de fosfolipidos
+> - sintesis tardia de esteroles
+> - Elongacion de AG
+> - Desaturacion de AG
+
 # Catabolismo de Acidos Grasos.
 
 Oxidacion de AG → AcCoA
@@ -136,11 +158,11 @@ Con el malonyl-CoA obtenido se sigue hacia la sintesis de palmitato, donde cada 
 > 
 > Siete ciclos de condensacion y reduccion
 >
-> > AcCoA + 7 malonyl-CoA + 14 NADPH + 14 H(+) → palmitato + 7 CO2 + 8 CoA + 14 NADP(+) + 6 H2O
+> > AcCoA + 7 malonyl-CoA + 14 [[NADPH]] + 14 H(+) → palmitato + 7 CO2 + 8 CoA + 14 NADP(+) + 6 H2O
 >
 > Ecuacion global
 >
 > --------------------------
->> 8 AcCoA + 7 ATP + 14 NADPH + 14 H(+) → palmitato + 7 CoA + 7 ADP + 7 Pi + 14 NADP(+) + 6 H2O
+>> 8 AcCoA + 7 ATP + 14 [[NADPH]] + 14 H(+) → palmitato + 7 CoA + 7 ADP + 7 Pi + 14 NADP(+) + 6 H2O
 
-P
+PZ
