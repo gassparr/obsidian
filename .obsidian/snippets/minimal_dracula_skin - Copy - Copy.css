@@ -69,25 +69,24 @@ Elements
   */
 
 :root {
-    --primary-background: #1B1A23;
-    --secondary-background: #22212C;
-    --tertiary-background: #353243;
-    --quaternary-background: #423F50;
-    --white: #F8F8F3;
-    --gray-1: #586e75;
-    --gray-2: #D5D4DE;
-    --red:    #bf616a;
-    --orange: #d08770;
-    --green:  #a3be8c;
-   --cyan: #81FFEA;
+    --primary-background: #2e3440;
+    --secondary-background:  #3b4252;
+    --tertiary-background:  #434c5e;
+    --quaternary-background: #4c566a;
+    --white: #d8dee9;
+    --gray-1: #e5e9f0;
+    --gray-2: #eceff4;
+    ;
+  
+    --cyan: #8fbcbb;
     --cyan-transparent: rgba(129, 255, 234, 0.3);
-  --purple: #b48ead;
+    
     --purple-day: #FFB851;
     --purple-transparent: rgba(149, 128, 255, 0.5);
-    --pink: #FE7FBF;
+    --pink: #bf616a;
     --pink-day: #A2B25B; 
-    --blue: #00588E;
-    --yellow: #ebcb8b;
+    --blue: #5e81ac;
+    
 
     --dark0:  #2e3440;
     --dark1:  #3b4252;
@@ -103,6 +102,13 @@ Elements
     --frost1: #88c0d0;
     --frost2: #81a1c1;
     --frost3: #5e81ac;
+
+    --red:    #bf616a;
+    --orange: #d08770;
+    --yellow: #ebcb8b;
+    --green:  #a3be8c;
+    --purple: #b48ead;
+
      
   }
 
@@ -116,25 +122,109 @@ Elements
 
 
   .theme-light {
-
-    --background-primary:         var(--light3);
-    --background-primary-alt:     var(--light3);
-    --background-secondary:       var(--light2);
-    --background-secondary-alt:   var(--light1);
-    --background-tertiary: var(--light2);
-    --background-tertiary-alt: var(--light3);
+    --background-primary: var(--light3);
+    --background-primary-alt: var(--light3);
+    --background-secondary: var(--light2);
+    --background-secondary-alt: var(--light2);
+    --background-tertiary: var(--light3);
     --background-modifier-border: var(--light1);
     --background-modifier-border-hover: var(--light1);
-    --background-modifier-border-focus: var(--light2);
+    --background-modifier-border-focus: var(--light1);
+    --background-modifier-box-shadow:var(--dark1);
+    --text-normal: var(--dark2);
+    --text-muted: var(--dark1);
+    --text-faint: var(--dark0);
+    --background-transparent:hsla(var(--light1),0);
+    --background-translucent:hsla(var(--light1),0.85);
+    --background-match-highlight:hsla(var(--accent-h), 40%, 62%, 0.2);
+    --background-modifier-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-d) - 10%));
+    --text-accent: var(--pink);
+    --text-accent-hover: var(--aqua);
+    --text-on-accent: var(--purple);
+    --icon-hex:FFF;
+    --interactive-accent: var(--frost3);
+    --interactive-accent-hover: var(--frost2);
+    --quote-opening-modifier:var(--orange);
+    --interactive-accent-rgb: 123, 108, 217;
+    --text-selection: var(--light0);
+    --text-highlight-bg: var(--frost1);
+    --text-highlight-bg-active:rgba(255, 255, 255, 0.1);
+    --background-modifier-cover:hsla(var(--base-h),var(--base-s),calc(var(--base-d) - 12%),0.8);
+    --background-accent: var(--dark1);
+    --background-modifier-form-field: rgba(0, 0, 0, 0.2);
+    --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
+    --background-modifier-success: var(--green);
+    --background-modifier-error: var(--red);
+    --background-modifier-error-rgb: 61, 0, 0;
+    --background-modifier-error-hover: var(--red);
+    --background-modifier-cover: rgba(0, 0, 0, 0.6);
+    --text-error: var(--red);
+    --text-error-hover: var(--red);
+    --interactive-normal: var(--dark0);
+    --interactive-hover: var(--dark1);
+    --scrollbar-active-thumb-bg: var(--light1);
+    --scrollbar-bg: var(--light3);
+    --scrollbar-thumb-bg: var(--light1);
+    --border-color: var(--light0);
+
+
+
+    /* @jackal's Extra Color Variables for Specific Elements */
+
+    --cursor: var(--red);
+    --vim-cursor: var(--red);
+    --headers: var(--green);
+    --h1: var(--red);
+    --h2: var(--orange);
+    --h3: var(--yellow);
+    --h4: var(--green);
+    --h5: var(--purple);
+    --h6: var(--red);
+    --bold: var(--purple);
+    --italics: var(--pink);
+    --strikethrough: var(--gray-1);
+    --highlight: var(--yellow);
+    --internal-link: var(--frost0);
+    --internal-link-unresolved: var(--frost1);
+    --external-link: var(--frost1);
+    --external-link-url: var(--frost3);
+    --tag: var(--pink);
+    --footnote: var(--blue);
+    --block-id: var(--cyan);
+    --checkbox: var(--purple);
+    --list: var(--purple);
+    --math: var(--red);
+    --inline-code: var(--red);
+    --code-block: var(--red);
+    --pre-code: var(--gray-2);
+    --toggle-on: var(--green);
+    --toggle-off: var(--secondary-background);
+    --icon: var(--purple);
+    --icon-hover: var(--white);
+    --frontmatter: var(--red);
+    --active-file: var(--green);
+    --blockquote: var(--yellow);
+  }
+
+
+  .theme-dark {
+    --background-primary: var(--primary-background);
+    --background-primary-alt: var(--secondary-background);
+    --background-secondary: var(--secondary-background);
+    --background-secondary-alt: var(--primary-background);
+    --background-tertiary: var(--tertiary-background);
+    --background-modifier-border: var(--tertiary-background);
+    --background-modifier-border-hover: var(--quaternary-background);
+    --background-modifier-border-focus: var(--quaternary-background);
     --background-modifier-box-shadow:rgba(0, 0, 0, 0.3);
-     --text-normal:                var(--dark1);
-  --text-faint:                 var(--dark3);
-	--text-muted:                 var(--dark2);
+    --text-normal: var(--white);
+    --text-muted: var(--gray-2);
+    --text-faint: var(--purple-transparent);
     --background-transparent:hsla(var(--primary-background),0);
     --background-translucent:hsla(var(--primary-background),0.85);
     --background-match-highlight:hsla(var(--accent-h), 40%, 62%, 0.2);
     --background-modifier-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-d) - 10%));
-    --text-accent: var(--orange);
+    --text-accent: var(--pink);
     --text-accent-hover: var(--aqua);
     --text-on-accent: var(--purple);
     --icon-hex:FFF;
@@ -164,71 +254,43 @@ Elements
     --border-color: var(--quaternary-background);
 
 
-    --cursor: var(--black);
-    --vim-cursor: var(--orange);
-    --headers: var(--purple);
-    --h1: var(--red);
-    --h2: var(--orange);
-    --h3: var(--yellow);
-    --h4: var(--green);
-    --h5: var(--purple);
+
+    /* @jackal's Extra Color Variables for Specific Elements */
+
+    --cursor: var(--cyan);
+    --vim-cursor: var(--cyan);
+    --headers: var(--green);
+    --h1: var(--purple);
+    --h2: var(--pink);
+    --h3: var(--blue);
+    --h4: var(--cyan);
+    --h5: var(--orange);
     --h6: var(--red);
     --bold: var(--purple);
-    --italics: var(--red);
+    --italics: var(--pink);
     --strikethrough: var(--gray-1);
     --highlight: var(--yellow);
-    --internal-link: var(--frost0);
-    --internal-link-unresolved: var(--frost1);
-    --external-link: var(--frost1);
-    --external-link-url: var(--frost2);
+    --internal-link: var(--cyan);
+    --internal-link-unresolved: var(--blue);
+    --external-link: var(--orange);
+    --external-link-url: var(--gray-1);
     --tag: var(--pink);
     --footnote: var(--blue);
     --block-id: var(--cyan);
     --checkbox: var(--purple);
     --list: var(--purple);
     --math: var(--red);
-	--inline-code:                var(--frost1);
-    --code-block: var(--frost1);
+    --inline-code: var(--red);
+    --code-block: var(--red);
     --pre-code: var(--gray-2);
-    --toggle-on: var(--cyan);
-    --toggle-off: var(--gray-2);
+    --toggle-on: var(--green);
+    --toggle-off: var(--secondary-background);
     --icon: var(--purple);
-    --icon-hover: var(--black);
+    --icon-hover: var(--white);
     --frontmatter: var(--red);
-    --active-file: var(--purple);
-    --blockquote: var(--frost3);
+    --active-file: var(--green);
+    --blockquote: var(--yellow);
   }
-
-
-  .theme-dark {
-    --background-primary:         var(--dark0);
-    --background-primary-alt:     var(--dark0);
-    --background-secondary:       var(--dark1);
-    --background-secondary-alt:   var(--dark2);
-    --text-normal:                var(--light2);
-    --text-faint:                 var(--light0);
-    --text-muted:                 var(--light1);
-    --h1:              var(--red);
-    --h2:              var(--orange);
-    --h3:              var(--yellow);
-    --h4:              var(--green);
-    --h5:              var(--purple);
-    --text-link:                  var(--frost0);
-    --text-a:                     var(--frost3);
-    --text-a-hover:               var(--frost2);
-    --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
-    --pre-code:                   var(--dark1);
-    --text-highlight-bg:          var(--dark3);
-    --interactive-accent:         var(--frost0);
-    --interactive-before:         var(--dark3);
-    --background-modifier-border: var(--dark2);
-    --text-accent:                var(--orange);
-    --interactive-accent-rgb:     var(--orange);
-    --inline-code:                var(--frost1);
-    --code-block:                 var(--frost1);
-    --vim-cursor:                 var(--orange);
-    --text-selection:             var(--dark3);
-}
 
 /*----------------------------------------------------------------
 
