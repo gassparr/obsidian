@@ -1,9 +1,10 @@
 {
   "baseFontSize": 12,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Everforest",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "Auto dark images"
+    "Auto dark images",
+    "minimal_dracula_skin"
   ]
 }

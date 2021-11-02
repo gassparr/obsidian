@@ -2,7 +2,7 @@
   "minimal-style@@light-mode-style": "minimal-light",
   "minimal-style@@dark-mode-style": "minimal-dark",
   "minimal-style@@fancy-cursor": false,
-  "minimal-style@@full-file-names": false,
+  "minimal-style@@full-file-names": true,
   "minimal-style@@focus-mode": false,
   "minimal-style@@borders-none": false,
   "minimal-style@@minimal-status-off": false,
