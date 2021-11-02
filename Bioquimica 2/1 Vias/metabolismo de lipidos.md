@@ -55,6 +55,17 @@ Problemas:
 - insolubilidad en H2O
 - Reactividad: Activacion con AcCoA
 
+### Sintesis
+
+Se sintetiza en el higado. TAG y PL tienen precursores comunes:
+
+- Glicerol 3P
+
+#### obtencion
+a
+
+- AcCoA
+
 ### mobilizacion en tejido adiposo
 
 > Hormona → Receptor →Gs →Ac →AMP→PKA→perilipina
