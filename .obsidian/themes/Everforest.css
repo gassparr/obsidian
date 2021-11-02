@@ -79,10 +79,10 @@ body {
 
 
     /* 2.2 Light theme color variables */
-    --bg0-light:     #cdbba7;
-    --bg1-light:     #F4DFD0;
-    --bg-light:      #FEFBF3;
-    --bg2-light:     #79B4B7; <f3efda>
+    --bg0-light:     #f0edd8;
+    --bg1-light:     #f6f1dd;
+    --bg-light:      #fdf6e3;
+    --bg2-light:     #f3efda;
     --bg3-light:     #edead5;
     --bg4-light:     #e4e1cd;
     --bg5-light:     #dfdbc8;
@@ -154,7 +154,7 @@ body {
 /* 2.4 Light theme implementation */
 .theme-light
 {
-    --background-primary:         var(#B0E0E6);
+    --background-primary:         var(--bg-light);
     --background-primary-alt:     var(--bg-light);
     --background-secondary:       var(--bg-light);
     --background-secondary-alt:   var(--bg-light);
