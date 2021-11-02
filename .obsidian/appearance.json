@@ -4,7 +4,6 @@
   "translucency": false,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "Auto dark images",
-    "minimal_dracula_skin"
+    "Auto dark images"
   ]
 }
