@@ -81,8 +81,8 @@ body {
     /* 2.2 Light theme color variables */
     --bg0-light:     #f0edd8;
     --bg1-light:     #f6f1dd;
-    --bg-light:      #fdf6e3;
-    --bg2-light:     #f3efda;
+    --bg-light:      #FEFBF3;
+    --bg2-light:     #D7E9F7;
     --bg3-light:     #edead5;
     --bg4-light:     #e4e1cd;
     --bg5-light:     #dfdbc8;
@@ -158,7 +158,7 @@ body {
     --background-primary-alt:     var(--bg-light);
     --background-secondary:       var(--bg-light);
     --background-secondary-alt:   var(--bg-light);
-    --text-normal:                var(--fg-light);
+    --text-normal:                var(#5E454B);
     --text-faint:                 var(--grey1-light);
     --text-title-h1:              var(--light-red);
     --text-title-h2:              var(--light-orange);
@@ -167,7 +167,7 @@ body {
     --text-title-h5:              var(--light-aqua);
     --text-title-h6:              var(--light-purple);
     --text-link:                  var(--light-blue);
-    --text-a:                     var(--light-dim-blue);
+    --text-a:                     var(--light-blue);
     --text-a-hover:               var(--light-blue);
     --text-mark:                  rgba(215, 153, 33, 0.4); /* light-yellow */
     --pre-code:                   var(--bg1-light);

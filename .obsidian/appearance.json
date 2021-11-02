@@ -1,8 +1,8 @@
 {
   "baseFontSize": 12,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "Everforest",
   "enabledCssSnippets": [
     "Auto dark images"
   ]
