@@ -65,15 +65,21 @@ Fuentes:
 
 Alimentado:
 
-> Glucosa —([[glucolisis]])→ dihidroxiacetona-P + NADH + H –(*Gly3P DH*)→ Gly 3P + NAD
+> Glucosa —([[glucolisis]])→ dihidroxiacetona-P + NADH + H –(_Gly3P DH_)→ Gly 3P + NAD
 
 Ayuno:
 
-> Pyr —([[gluconeogenesis]])→ dihidroxiacetona-P + NADH + H —(*Gly3P DH*)→ Gly 3P + NAD
+> Pyr —([[gluconeogenesis]])→ dihidroxiacetona-P + NADH + H —(_Gly3P DH_)→ Gly 3P + NAD
 
 En higado y riñon:
-> Gly + ATP —(*Gly kinasa*)→ Gly 3P + ADP
+
+> Gly + ATP —(_Gly kinasa_)→ Gly 3P + ADP
+
 - AcCoA
+
+El Gly 3P acila 2 grupos OH
+
+> Acil + CoASH + ATP —(*AcCoA sintetasa*)→ AcCoA +
 
 ### mobilizacion en tejido adiposo
 
