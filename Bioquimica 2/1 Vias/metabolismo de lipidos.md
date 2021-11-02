@@ -168,12 +168,22 @@ Con el malonyl-CoA obtenido se sigue hacia la sintesis de palmitato, donde cada 
 >
 > > 8 AcCoA + 7 ATP + 14 [[NADPH]] + 14 H(+) → palmitato + 7 CoA + 7 ADP + 7 Pi + 14 NADP(+) + 6 H2O
 
-PZ
+### transferencia de AcCoA
 
-### transferencia de AcCoA 
-[[mitocondria]] → [[citosol]]
+[[mitocondria]] (1) → [[citosol]] (2)
 
-1. AcCoA —(*citrato sintasa*)→ Citrato 
-> el *citrato sintasa* puede atravesar la membrana mitocondrial
-2. Citrato + ATP —(*ATP citrato liasa*)→ AcCoA + ADP + Pi
-> El AcCoA se utiliza para subsecuente sintesis de AG
+1. AcCoA —(_citrato sintasa_)→ Citrato
+    > el _citrato sintasa_ puede atravesar la membrana mitocondrial
+2. Citrato + ATP —(_ATP citrato liasa_)→ AcCoA + ADP + Pi
+    > El AcCoA se utiliza para subsecuente sintesis de AG
+
+# Regulacion
+
+Citrato —(_citrato liasa_)→ AcCoa —(_AcCoA carboxilasa_)→ Malonil-CoA → … → Palmitoil-CoA
+
+> -   _Citrato liasa_:
+>     -   insulina activa
+> -   _AcCoA carboxilasa_:
+>     -   Glucagon, epinefedrina generan inactivacion de fosforilacion
+>     -   Palmitoil-CoA inactiva
+>     -   Citrato Activa
