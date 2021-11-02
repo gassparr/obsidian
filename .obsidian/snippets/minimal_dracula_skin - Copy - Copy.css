@@ -79,10 +79,10 @@ Elements
     ;
   
     --cyan: #8fbcbb;
-    --cyan-transparent: rgba(129, 255, 234, 0.3);
+    --cyan-transparent: rgba(143, 188, 187, 0.3);
     
-    --purple-day: #FFB851;
-    --purple-transparent: rgba(149, 128, 255, 0.5);
+    
+    --purple-transparent: rgba(180, 142, 173, 0.5);
     --pink: #bf616a;
     --pink-day: #A2B25B; 
     --blue: #5e81ac;
@@ -125,32 +125,32 @@ Elements
     --background-primary: var(--light3);
     --background-primary-alt: var(--light3);
     --background-secondary: var(--light2);
-    --background-secondary-alt: var(--light2);
-    --background-tertiary: var(--light3);
-    --background-modifier-border: var(--light1);
+    --background-secondary-alt: var(--light1);
+    --background-tertiary: var(--light0);
+    --background-modifier-border: var(--light0);
     --background-modifier-border-hover: var(--light1);
     --background-modifier-border-focus: var(--light1);
-    --background-modifier-box-shadow:var(--dark1);
+    --background-modifier-box-shadow:rgba(0, 0, 0, 0.3);
     --text-normal: var(--dark2);
     --text-muted: var(--dark1);
     --text-faint: var(--dark0);
-    --background-transparent:hsla(var(--light1),0);
-    --background-translucent:hsla(var(--light1),0.85);
+    --background-transparent:hsla(var(--light3),0);
+    --background-translucent:hsla(var(--light3),0.85);
     --background-match-highlight:hsla(var(--accent-h), 40%, 62%, 0.2);
     --background-modifier-accent:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-d) - 10%));
     --text-accent: var(--pink);
     --text-accent-hover: var(--aqua);
     --text-on-accent: var(--purple);
     --icon-hex:FFF;
-    --interactive-accent: var(--frost3);
-    --interactive-accent-hover: var(--frost2);
+    --interactive-accent: var(--light0);
+    --interactive-accent-hover: var(--light1);
     --quote-opening-modifier:var(--orange);
     --interactive-accent-rgb: 123, 108, 217;
-    --text-selection: var(--light0);
-    --text-highlight-bg: var(--frost1);
+    --text-selection: var(--cyan-transparent);
+    --text-highlight-bg: var(--blue);
     --text-highlight-bg-active:rgba(255, 255, 255, 0.1);
     --background-modifier-cover:hsla(var(--base-h),var(--base-s),calc(var(--base-d) - 12%),0.8);
-    --background-accent: var(--dark1);
+    --background-accent: var(--white);
     --background-modifier-form-field: rgba(0, 0, 0, 0.2);
     --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
     --background-modifier-success: var(--green);
@@ -160,19 +160,19 @@ Elements
     --background-modifier-cover: rgba(0, 0, 0, 0.6);
     --text-error: var(--red);
     --text-error-hover: var(--red);
-    --interactive-normal: var(--dark0);
-    --interactive-hover: var(--dark1);
+    --interactive-normal: var(--light0);
+    --interactive-hover: var(--light1);
     --scrollbar-active-thumb-bg: var(--light1);
     --scrollbar-bg: var(--light3);
     --scrollbar-thumb-bg: var(--light1);
-    --border-color: var(--light0);
+    --border-color: var(--light1);
 
 
 
     /* @jackal's Extra Color Variables for Specific Elements */
 
-    --cursor: var(--red);
-    --vim-cursor: var(--red);
+    --cursor: var(--cyan);
+    --vim-cursor: var(--cyan);
     --headers: var(--green);
     --h1: var(--red);
     --h2: var(--orange);
@@ -184,10 +184,10 @@ Elements
     --italics: var(--pink);
     --strikethrough: var(--gray-1);
     --highlight: var(--yellow);
-    --internal-link: var(--frost0);
-    --internal-link-unresolved: var(--frost1);
-    --external-link: var(--frost1);
-    --external-link-url: var(--frost3);
+    --internal-link: var(--cyan);
+    --internal-link-unresolved: var(--blue);
+    --external-link: var(--orange);
+    --external-link-url: var(--gray-1);
     --tag: var(--pink);
     --footnote: var(--blue);
     --block-id: var(--cyan);
@@ -260,11 +260,11 @@ Elements
     --cursor: var(--cyan);
     --vim-cursor: var(--cyan);
     --headers: var(--green);
-    --h1: var(--purple);
-    --h2: var(--pink);
-    --h3: var(--blue);
-    --h4: var(--cyan);
-    --h5: var(--orange);
+    --h1: var(--red);
+    --h2: var(--orange);
+    --h3: var(--yellow);
+    --h4: var(--green);
+    --h5: var(--purple);
     --h6: var(--red);
     --bold: var(--purple);
     --italics: var(--pink);
