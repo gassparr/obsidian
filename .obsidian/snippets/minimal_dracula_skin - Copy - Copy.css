@@ -176,8 +176,8 @@ Elements
     --headers: var(--green);
     --h1: var(--red);
     --h2: var(--orange);
-    --h3: var(--yellow);
-    --h4: var(--green);
+    --h3: var(--green);
+    --h4: var(--yellow);
     --h5: var(--purple);
     --h6: var(--red);
     --bold: var(--purple);
@@ -198,12 +198,12 @@ Elements
     --code-block: var(--red);
     --pre-code: var(--gray-2);
     --toggle-on: var(--green);
-    --toggle-off: var(--secondary-background);
+    --toggle-off: var(--light1);
     --icon: var(--purple);
-    --icon-hover: var(--white);
+    --icon-hover: var(--light3);
     --frontmatter: var(--red);
     --active-file: var(--green);
-    --blockquote: var(--yellow);
+    --blockquote: var(--orange);
   }
 
 
