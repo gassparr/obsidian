@@ -6,30 +6,32 @@
 - Comunicacion externa: Eicosanoides, glicolipidos, esteroles
 
 # Localizacion
+
 - Celulas animal:
-  - [[citosol]]:
-> - sintesis temprana de isoprenoides y esteroles
-> - Sintesis de AG
-  - [[reticulo endoplasmico]]:
-> - Sintesis de fosfolipidos
-> - sintesis tardia de esteroles
-> - Elongacion de AG
-> - Desaturacion de AG
-  - [[mitocondria]]:
-> - Elongacion de AG
+
+    - [[citosol]]:
+        > -   sintesis temprana de isoprenoides y esteroles
+        > -   Sintesis de AG
+    - [[reticulo endoplasmico]]:
+        > -   Sintesis de fosfolipidos
+        > -   sintesis tardia de esteroles
+        > -   Elongacion de AG
+        > -   Desaturacion de AG
+    - [[mitocondria]]:
+        > -   Elongacion de AG
 
 - Celulas [[Plantas]]:
-  - [[cloroplastos]]:
-> Sintesis de AG
-  - [[reticulo endoplasmico]]:
-> - Sintesis de fosfolipidos
-> - sintesis tardia de esteroles
-> - Elongacion de AG
-> - Desaturacion de AG
+    - [[cloroplastos]]:
+        > Sintesis de AG
+    - [[reticulo endoplasmico]]:
+        > -   Sintesis de fosfolipidos
+        > -   sintesis tardia de esteroles
+        > -   Elongacion de AG
+        > -   Desaturacion de AG
 
 # Catabolismo de Acidos Grasos.
 
-Oxidacion de AG → AcCoA
+Oxidacion de AG → [[AcCoA]]
 
 Animales:
 
@@ -155,14 +157,23 @@ Con el malonyl-CoA obtenido se sigue hacia la sintesis de palmitato, donde cada 
 > Paso limitante
 >
 > > 7 AcCoA + 7 CO2 + 7 ATP → 7 malonil-CoA + 7 ADP + 7 Pi
-> 
+>
 > Siete ciclos de condensacion y reduccion
 >
 > > AcCoA + 7 malonyl-CoA + 14 [[NADPH]] + 14 H(+) → palmitato + 7 CO2 + 8 CoA + 14 NADP(+) + 6 H2O
 >
 > Ecuacion global
 >
-> --------------------------
->> 8 AcCoA + 7 ATP + 14 [[NADPH]] + 14 H(+) → palmitato + 7 CoA + 7 ADP + 7 Pi + 14 NADP(+) + 6 H2O
+> ---
+>
+> > 8 AcCoA + 7 ATP + 14 [[NADPH]] + 14 H(+) → palmitato + 7 CoA + 7 ADP + 7 Pi + 14 NADP(+) + 6 H2O
 
 PZ
+
+### transferencia de AcCoA 
+[[mitocondria]] → [[citosol]]
+
+1. AcCoA —(*citrato sintasa*)→ Citrato 
+> el *citrato sintasa* puede atravesar la membrana mitocondrial
+2. Citrato + ATP —(*ATP citrato liasa*)→ AcCoA + ADP + Pi
+> El AcCoA se utiliza para subsecuente sintesis de AG
