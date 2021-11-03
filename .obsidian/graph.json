@@ -3,8 +3,8 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -22,6 +22,20 @@
       }
     },
     {
+      "query": "path:\"Microbiologia/Estructuras Microbianas\"",
+      "color": {
+        "a": 1,
+        "rgb": 6941900
+      }
+    },
+    {
+      "query": "path:Microbiologia/Microorganismos",
+      "color": {
+        "a": 1,
+        "rgb": 8454081
+      }
+    },
+    {
       "query": "path:Microbiologia/microscopia",
       "color": {
         "a": 1,
@@ -32,7 +46,7 @@
       "query": "path:Microbiologia",
       "color": {
         "a": 1,
-        "rgb": 4390820
+        "rgb": 2059078
       }
     }
   ],
@@ -46,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 243,
-  "scale": 0.23345106779998895,
+  "scale": 0.5588318684711552,
   "close": true
 }

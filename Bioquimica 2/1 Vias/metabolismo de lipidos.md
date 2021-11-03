@@ -93,6 +93,8 @@ cuando concentracion de Glc disminuye *glucagon* y *epinefrina* estimulan libera
 > - AG → Higado → TAG → Adipositos
 >> la conversion a TAG se debe a que queda en sangre para rapidamente ser utilizado
 
+![345](https://i.imgur.com/msIoMbN.png)
+
 ## Activacion de AG
 
 > AG + CoA + ATP → Acil-CoA + AMP + 2 Pi
