@@ -38,7 +38,7 @@ Animales:
 > -   Energia metabolica
 > -   Transformacion a intermediarios
 
-Plantas
+[[Plantas]]
 
 > -   Precursores biosinteticos
 
@@ -136,7 +136,7 @@ El AcCoA procedente no se utiliza para energia, sino que exclusivamente como pre
 
 ## Degradacion de AG insaturados
 
-- AG contenidos en TAG y fosfolipidos animales y plantas son insaturados, conteniendo uno o mas dobles enlaces
+- AG contenidos en TAG y fosfolipidos animales y [[Plantas]] son insaturados, conteniendo uno o mas dobles enlaces
 - Dobles Enlaces configuracion -cis por lo que no pueden ser atacados por enzima _enoyl CoA hidratasa_ que actua durante beta-oxidacion en dobles enlaces -trans
 - Se requiere dos enzimas mas para oxidacion de AG insaturados:
     - _isomerasa_
@@ -157,7 +157,7 @@ En mamiferos:
 ### Situaciones que inducen formacion
 
 - Ayuno: intermediarios del cuerpo cetonico utilizados para [[gluconeogenesis]], el [[Ciclo de Acido Citrico]] se frena.
-- Diabetes: insulina disminuye, teijdo extrahepatico no pueden captar Glc, Malonil-CoA disminuye, se libera inhibicion de carnitin acel transferasa, los AG entran en Beta-Ox.
+- Diabetes: [[Insulina]] disminuye, teijdo extrahepatico no pueden captar Glc, Malonil-CoA disminuye, se libera inhibicion de carnitin acel transferasa, los AG entran en Beta-Ox.
     El ciclo al estar frenado, acumula AcCoA por lo que se acelera formacion de CC
 
 ## utilizacion
@@ -218,7 +218,7 @@ Con el malonyl-CoA obtenido se sigue hacia la sintesis de palmitato, donde cada 
 Citrato —(_citrato liasa_)→ AcCoa —(_AcCoA carboxilasa_)→ Malonil-CoA → … → Palmitoil-CoA
 
 > -   _Citrato liasa_:
->     -   insulina activa
+>     -   [[Insulina]] activa
 > -   _AcCoA carboxilasa_:
 >     -   Glucagon, epinefedrina generan inactivacion de fosforilacion
 >     -   Palmitoil-CoA inactiva

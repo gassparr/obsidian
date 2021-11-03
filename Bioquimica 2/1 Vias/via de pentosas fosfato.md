@@ -26,7 +26,7 @@ deshidrogenacion de G6P con el uso de enzima [[Glucosa 6 fosfato deshidrogenasa|
 
 2. ## Fase no oxidativa reversible
     R5P sera precursor para la sintesis de acidos nucleicos y nucleotidos.
-    Para oxidar [[glucosa]] completamente hacia CO2 por medio de esta via, debe haber enzimas para convertir el Gli3P -> G6P, por lo que debe haber reversion de la glucolisis y la enzima [[fructosa 1.6 bifosfato||F1.6BP]]
+    Para oxidar [[glucosa]] completamente hacia CO2 por medio de esta via, debe haber enzimas para convertir el Gli3P -> G6P, por lo que debe haber reversion de la [[glucolisis]] y la enzima [[fructosa 1.6 bifosfato||F1.6BP]]
 
 # Enzimas
 

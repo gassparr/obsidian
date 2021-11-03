@@ -12,8 +12,8 @@ Almacenamiento de energia luminica.
 
 > CO2 + 2 H2A + Luz --> CH2O + 2A + H2O
 
-H2A = H2O en fotosintesis oxigenica de plantas y cianobacterias.
-H2A = H2S o succinato en bacterias fotosinteticas purpuras o verdes
+H2A = H2O en fotosintesis oxigenica de [[Plantas]] y cianobacterias.
+H2A = H2S o succinato en [[bacterias]] fotosinteticas purpuras o verdes
 
 # Ecuacion de Hill
 

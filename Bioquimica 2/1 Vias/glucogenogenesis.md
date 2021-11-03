@@ -24,9 +24,9 @@
 
 ## Activacion:
 
-- La insulina inhibe GSK3, favoreciendo la sintesis de glucogeno
+- La [[Insulina]] inhibe GSK3, favoreciendo la sintesis de [[glucogeno]]
 
 ## Inhibicion
 
-- El glucagon inhibe la glucogenogenesis
+- El [[Glucagon]] inhibe la glucogenogenesis
 

@@ -1,4 +1,4 @@
-	En las celulas [[procariota]] especies de [[bacteria]] producen endosporas a traves de la *esporulacion*. 
+	En las celulas [[[[procariota]]]] especies de [[bacteria]] producen endosporas a traves de la *esporulacion*. 
 Las endosporas son celulas diferenciadas, muy resistentes al calor, a sustancias quimicas y radiacion. Por lo que son estructuras de supervivencia las cuales permiten a la celula sobreviva a condiciones desfavorables.
 
 ## Formacion.

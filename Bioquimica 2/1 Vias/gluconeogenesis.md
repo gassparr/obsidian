@@ -6,12 +6,12 @@ Esta via elimina al lactato producido por musculos y eritrocitos.
 ## Las enzimas
 - [[Fructosa 1,6 Bifosfatasa]] 
 - Glucosa 6 Fosfatasa 
-- Glucogeno sintasa
+- [[glucogeno]] sintasa
 
 ### [[glucolisis]] y [[gluconeogenesis]] comparten la misma via en direcciones opuestas. Se regulan reciprocamente
 
 # activada por :
-- glucagon
+- [[Glucagon]]
 - epinefrina
 - [[cAMP]]
 # inhibida por :

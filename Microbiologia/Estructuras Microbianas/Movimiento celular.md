@@ -43,14 +43,14 @@ Acercamiento o alejamiento hacia agentes fisicos o quimicos.
 
 ## Quimiotaxia
 
-### Bacterias de flagelacion peritricas
+### [[bacterias]] de flagelacion peritricas
 
 En ausencia de gradiente quimico, la celula realiza carreras y vuelcos aleatoriamente.
 Al detectar un atractor quimico, las carreras seran mas largas en direccion del mismo y los vuelcos seran menores.
 Lo opuesto ocurrira para el caso de un repelente quimico.
 La deteccion de gradiente ocurre a traves proteinas en la [[membrana citoplasmatica]] llamadas quimiorreceptores.
 
-### Bacterias de flagelacion polar
+### [[bacterias]] de flagelacion polar
 
 Similar a la flagelacion peritrica, con la diferencia que las polares puede invertir el sentido de rotacion, para asi cambiar instanteamente el sentido de traslacion.
 En el caso de no poder revertir la rotacion, al dejar de desplazarse la celula se reorientara al azar.

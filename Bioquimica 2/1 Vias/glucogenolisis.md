@@ -2,7 +2,7 @@
 
 1. Catalizada por la [[glucogeno fosforilasa]] siendo este el _paso limitante_, esta enzima cataliza la division de los enlaces 1->4 para dar G1P
 
-    > Glucogeno + Pi ---> G1P + (Glucogeno-1)
+    > [[glucogeno]] + Pi ---> G1P + ([[glucogeno]]-1)
 
 2. Conversion de G1P a G6P utilizando enzima [[fosfoglucomutasa]]
 
@@ -29,11 +29,11 @@
 
 - epinefrina
 - noradrenalina
-- glucagon
+- [[Glucagon]]
 
 ### inhibida por :
 
 - [[ATP]]
 - G6P
 - glucosa
-- insulina
+- [[Insulina]]

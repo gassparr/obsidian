@@ -10,7 +10,7 @@ La glucolisis sera la oxidacion de la glucosa, hasta [[piruvato]]. Esto ocurre e
     > -   Activada con carga energetica baja
     > -   citrato desactiva
     > -   F2,6BP (respuesta a hormonas) activa
-- piruvato kinasa.
+- [[piruvato]] kinasa.
     > -   Si [[PFK-1]] funciona, se activa.
     > -   concentracion de PEP activa
     > -   activada con carga energetica baja

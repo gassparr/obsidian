@@ -17,7 +17,7 @@ Ocurre en la [[mitocondria]] y es el inicio de la [[cadena transportadora de ele
 
 # Produccion de AcCoA
 
-a partir del piruvato con el uso de _Pyr DH_
+a partir del [[piruvato]] con el uso de _Pyr DH_
 
 > Pyr ---> AcCoA
 

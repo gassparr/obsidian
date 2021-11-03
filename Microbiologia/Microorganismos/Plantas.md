@@ -32,9 +32,9 @@ El transporte de Triosas-Pi promueve transferencia de [[ATP]] y [[NADPH]]
 
 # Metabolismo de carbohidratos en plantas
 
-- Luz → activa fotosintesis → (Gly3P y dihidroxiacetano fosfato) → Desactiva [[gluconeogenesis]]
+- Luz → activa [[fotosintesis]] → (Gly3P y dihidroxiacetano fosfato) → Desactiva [[gluconeogenesis]]
 
-- No luz → No fotosintesis → Pi → activa →[[gluconeogenesis]]
+- No luz → No [[fotosintesis]] → Pi → activa →[[gluconeogenesis]]
 
 # Tipos de Plantas
 

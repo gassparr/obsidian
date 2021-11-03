@@ -41,7 +41,7 @@ Las capas s brindan proteccion frente a la lisis osmotica ademas de generar una 
 
 ### Biofilms
 
-Cuando surge la oportunidad las bacterias se unen en superficies solidas formando capas gruesas, denominadas biofilms, en donde los polisacaridos extracelulares cumplen un rol fundamental en el desarrollo y mantenimiento
+Cuando surge la oportunidad las [[bacterias]] se unen en superficies solidas formando capas gruesas, denominadas biofilms, en donde los polisacaridos extracelulares cumplen un rol fundamental en el desarrollo y mantenimiento
 
 ## Fimbrias y Pelos
 
