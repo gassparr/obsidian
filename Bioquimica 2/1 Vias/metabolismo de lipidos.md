@@ -82,16 +82,15 @@ El Gly 3P acila 2 grupos OH
 
 ![230](https://i.imgur.com/ACgsFe8.png)
 
-
 ### mobilizacion en tejido adiposo
 
 > Hormona → Receptor →Gs →Ac →AMP→PKA→perilipina
 
-cuando concentracion de Glc disminuye *glucagon* y *epinefrina* estimulan liberacion de AG del tejido adiposo
+cuando concentracion de Glc disminuye _glucagon_ y _epinefrina_ estimulan liberacion de AG del tejido adiposo
 
-> - AG → Musculo → Oxidacion
-> - AG → Higado → TAG → Adipositos
->> la conversion a TAG se debe a que queda en sangre para rapidamente ser utilizado
+> -   AG → Musculo → Oxidacion
+> -   AG → Higado → TAG → Adipositos
+>     > la conversion a TAG se debe a que queda en sangre para rapidamente ser utilizado
 
 ![345](https://i.imgur.com/msIoMbN.png)
 
@@ -213,7 +212,7 @@ Con el malonyl-CoA obtenido se sigue hacia la sintesis de palmitato, donde cada 
 2. Citrato + ATP —(_ATP citrato liasa_)→ AcCoA + ADP + Pi
     > El AcCoA se utiliza para subsecuente sintesis de AG
 
-# Regulacion
+## Regulacion
 
 Citrato —(_citrato liasa_)→ AcCoa —(_AcCoA carboxilasa_)→ Malonil-CoA → … → Palmitoil-CoA
 
@@ -223,3 +222,38 @@ Citrato —(_citrato liasa_)→ AcCoa —(_AcCoA carboxilasa_)→ Malonil-CoA �
 >     -   Glucagon, epinefedrina generan inactivacion de fosforilacion
 >     -   Palmitoil-CoA inactiva
 >     -   Citrato Activa
+
+# Cholesterol
+
+- Origen: Dieta o Sintesis de novo
+- Funciones: Componente de membranas, precursor de sintesis en hormonas esteroides y acidos biliares
+- Tejidos: **Todos**
+
+Localizacion
+
+> citosol y RE
+
+## Mecanismos
+
+Primer Etapa: Sintesis de mevalonato
+
+> _HMG-CoA reductasa_
+>
+> > -   irreversible
+> > -   Paso limitante
+> > -   Proteina de RE
+
+![250](https://i.imgur.com/HGDencZ.png)
+Segunda Etapa: conversion a 2 isoprenos activados
+![250](https://i.imgur.com/q33EgvE.png)
+![250](https://i.imgur.com/KL3aQax.png)
+Tercera Etapa: Condensacion de 6 isoprenos para formar escualeno
+![250](https://i.imgur.com/5NpUFJa.png)
+Cuarta Etapa: Escualeno a esteroide
+![250](https://i.imgur.com/yzxQbA1.png)
+
+## Regulacion
+
+- Concentracion de colesterol intracelular
+>
+- Insulina/glucagon
