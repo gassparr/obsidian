@@ -87,6 +87,12 @@ El Gly 3P acila 2 grupos OH
 
 > Hormona → Receptor →Gs →Ac →AMP→PKA→perilipina
 
+cuando concentracion de Glc disminuye *glucagon* y *epinefrina* estimulan liberacion de AG del tejido adiposo
+
+> - AG → Musculo → Oxidacion
+> - AG → Higado → TAG → Adipositos
+>> la conversion a TAG se debe a que queda en sangre para rapidamente ser utilizado
+
 ## Activacion de AG
 
 > AG + CoA + ATP → Acil-CoA + AMP + 2 Pi
