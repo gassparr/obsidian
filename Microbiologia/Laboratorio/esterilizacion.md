@@ -22,3 +22,5 @@ dN/dt = velocidad de muerte = -k * N
 si considera k no depende de t 
 
 t = (2.303/k) * Log (N0/N)
+
+## Caracteristicas:
