@@ -24,3 +24,4 @@ si considera k no depende de t
 t = (2.303/k) * Log (N0/N)
 
 ## Caracteristicas:
+ - Mayor N0 y menor dN/dt mayor sera el t
