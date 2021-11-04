@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+            "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 136
+    "width": 252
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+                "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+                "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md"
+                "file": "Bioquimica 2/1 Vias/cadena transportadora de electrones.md"
               }
             }
           }
@@ -111,15 +111,15 @@
   },
   "active": "bdc5a9c3dabd5d94",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+    "Microbiologia/Estructuras Microbianas/Endosporas.md",
+    "Microbiologia/Estructuras Microbianas/mitocondria.md",
+    "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
+    "Microbiologia/Estructuras Microbianas/membrana citoplasmatica.md",
     "Microbiologia/Microorganismos/Plantas.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
-    "ATP.md",
-    "Microbiologia/Microorganismos/procariota.md",
-    "Microbiologia/Microorganismos/microorganismo.md",
-    "Microbiologia/Microorganismos/grampositiva.md",
-    "Microbiologia/Microorganismos/eucariota.md",
-    "Microbiologia/Microorganismos/bacterias.md",
-    "Microbiologia/Estructuras Microbianas/Movimiento celular.md"
+    "Bioquimica 2/Sustratos y Productos/ATP.md"
   ]
 }
