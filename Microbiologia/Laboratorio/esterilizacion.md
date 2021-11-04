@@ -1,6 +1,6 @@
 Conjunto de operaciones destinadas a eliminas o matar [[microorganismo]] presentes en objeto o sustancia.
 El unico criterio valido de muerte para [[microorganismo]], sera eliminar completamente su capacidad de reproducirse.
-
+# 
 # Graficas y numeros
 
 
@@ -23,5 +23,16 @@ si considera k no depende de t
 
 t = (2.303/k) * Log (N0/N)
 
-## Caracteristicas:
- - Mayor N0 y menor dN/dt mayor sera el t
+ > Mayor N0 y menor dN/dt mayor sera el t
+
+## Parametros de referencia en curva
+
+D = tiempo de reduccion decimal = reducir en 90% N
+Z = incremento de T requerido para reducir en 90% a D
+
+D = 2.303/k
+> N = 0.1 * N0
+
+de la grafica log (D) vs T
+
+**(1/Z) = (Log (D2) - Log(D1)) / (T1 - T2)**
