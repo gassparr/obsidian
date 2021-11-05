@@ -6,7 +6,7 @@ El unico criterio valido de muerte para [[microorganismo]], sera eliminar comple
 - **Fisicos destructivos**:
 
     - Calor humedo:
-        - Vapor saturado a presion elevada (121C)
+        - Vapor saturado a presion elevada (121C en Autoclave)
         - Vapor fluente o vapor a presion normal (100C)
     - Calor seco:
         - Fuego directo
@@ -15,16 +15,27 @@ El unico criterio valido de muerte para [[microorganismo]], sera eliminar comple
         - No ionizantes: rayos UV
         - Ionizantes: Gamma, X y e-
 
-- **Fisicos no destructivos**:
+ - **Fisicos no destructivos**:
 
     - Filtracion:
-        - Membrana
-        - Profundidad
+        - Membrana:
+        > - lamina uniforme, rigida y continua de polimero
+        > - tamaño de poro definido
+        > - no migra el medio filtrante
+        > - absorbe poco liquido
+        > - baja capacidad de retencion
+        - Profundidad:
+        > - no tiene tamaño de poro definido.
+        > - migracion del medio filtrante 
+        > - absorbe liquido en su interior
+        > - Alta capacidad de retencion
 
 - **Quimicos**:
-    - Oxido de etileno
+    - [[Oxido de etileno]]
     - Formaldehido
     - Plasma de Peroxido de hidrogeno
+
+
 
 # Graficas y numeros
 
