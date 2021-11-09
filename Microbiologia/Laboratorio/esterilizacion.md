@@ -73,7 +73,9 @@ de la grafica log (D) vs T
 
 # Controles
 
-comprueban complimiento condiciones del metodo empleado. Existen 3 tipos:
+comprueban complimiento condiciones del metodo empleado.
+
+## Tipos:
 
 - Biologicos:
     Suspension de esporas bacterianas, con resistencia conocida. Secadas sobre un soporte. Segun el proceso a controlar su utilizan:
@@ -90,7 +92,7 @@ comprueban complimiento condiciones del metodo empleado. Existen 3 tipos:
 
 ## Control de esterilidad
 
-Medios de cultivo:
+### Medios de cultivo:
 
 - Medio fluido tioglicolato (MFT): medio de investigacion para germenes anaerobios en condiciones entre (30 y 35)\* C. Contiene:
 
@@ -111,3 +113,15 @@ Medios de cultivo:
     - NaCl
     - K2HPO4
     - glucosa
+
+## Soluciones diluyentes y lavado
+
+- Peptona 0.1% . pH=7.1
+- Peptona 0.1% con tween 80 0.1%. pH=6.9
+
+## Control de los medios
+
+Esterilidad de lote se confirma mediante incubacion de numero representativo de medios, en condiciones de temperatura y tiempo especificos.
+ Inoculando cada tipo de medio por duplicado con 10-100 [[microorganismo]]s viables.
+ Positivo: Desarrollo en los tubos sembrados dentro de 7 dias
+ Negativo: No hay desarrollo
