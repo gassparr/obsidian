@@ -39,11 +39,10 @@ El unico criterio valido de muerte para [[microorganismo]], sera eliminar comple
 
 # Graficas y numeros
 
-N vs t
-
+**N vs t**
 > ![250](https://i.imgur.com/A4UWoBB.png)
 
-Ln(N) vs t
+**Ln(N) vs t**
 
 > ![250](https://i.imgur.com/KkOiItN.png)
 > la pendiente sera k
@@ -72,3 +71,19 @@ D = 2.303/k
 de la grafica log (D) vs T
 
 **(1/Z) = (Log (D2) - Log(D1)) / (T1 - T2)**
+
+# Controles
+
+comprueban complimiento condiciones del metodo empleado. Existen 3 tipos:
+
+- Biologicos:
+Suspension de esporas bacterianas, con resistencia conocida. Secadas sobre un soporte. Segun el proceso a controlar su utilizan: 
+  - Calor humedo: Geobacillus stearotermophilus
+  - Calor seco y Oxido de etileno: Bacillus subtilis o atropheusi
+  -  Radiaciones ionizantes: Bacillus pumilus o streptococcus faecium
+
+- Quimicos:
+Sustancias quimicas de punto de fusion conocido y definido. Los esterilometros, son tiras de papel con oxidos minerales, que cambian de color al alcanzar Temperatura determinada  
+
+- Fisicos:
+Registros de Temperatura durante ciclo de esterilizacion por calor. Termocupla, dispositivo consiste de alambres que al fluir corriente crean circuito continuo, constituido por dos  metales con temperaturas diferentes
