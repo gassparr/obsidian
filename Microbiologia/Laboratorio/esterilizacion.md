@@ -87,3 +87,8 @@ Sustancias quimicas de punto de fusion conocido y definido. Los esterilometros, 
 
 - Fisicos:
 Registros de Temperatura durante ciclo de esterilizacion por calor. Termocupla, dispositivo consiste de alambres que al fluir corriente crean circuito continuo, constituido por dos  metales con temperaturas diferentes
+
+## Control de esterilidad
+
+Medios de cultivo:
+- Medio fluido tioglicolato
