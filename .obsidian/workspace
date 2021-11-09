@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+            "file": "sfv.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+                "file": "sfv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+                "file": "sfv.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
+                "file": "sfv.md"
               }
             }
           }
@@ -111,13 +111,13 @@
   },
   "active": "574f0acba8609ac4",
   "lastOpenFiles": [
+    "sfv.md",
+    "Oxido de etileno.md",
     "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Daily Notes/Th 21-10.md",
-    "sfv.md",
     ".....md",
-    "Oxido de etileno.md",
     "Microbiologia/Laboratorio/esterilizacion.md",
     "Microbiologia/Laboratorio/practica de siembra.md",
     "Microbiologia/Microorganismos/procariota.md"
