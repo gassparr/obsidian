@@ -1,0 +1,11 @@
+una vez liberada la matriz viral se desintegra, dejando libre la capsida en el citoplasma, la capside va a tener el genoma del virus  junta a enzimas que le van a permitir realizar sus funciones dentro de la celula anfitrion.
+ Ahora, la capsida, se va a disolver dejando libres a el ARNviral, junto a las enzimas, entre las cuales vamos a tener a la transcriptasa reversa, la cual se acopla al ARN monocatenario .estas se van a convertir a ADN viral utilizando esta enzima.
+Por eso justamente.. este paso va a ser de los mas esenciales, ya que los antivirales van a bloquear la accion de la transcriptasa reversa.
+ Bueno… volviendo a la formacion del ADN... la enzima se va a movilizar por el largo de la cadena de ARN y a la par que sintetiza el ADN viral, tambien va a ir desintegrando la cadena de ARN.
+ Una vez hecha la primera cadena de ADN, se va a formar la cadena complementaria. formando asi una cadena de ADN bicatenaria.
+ Esta cadena de ADN va a entrar hacia el nucleo de la celula anfitrion e integrarse en el ADN cromosomico de la misma.
+ Esto lo va a hacer con una enzima, llamada integrasa, la cual en un principio va a cortar el ADN cromosomico del anfitrion, liberando sitios para la integracion del ADN viral. El ADN viral integrado, va a ser lo que se llama provirus, este es el que se va a utilizar para formar ARN viral mensajero y ARN viral genomico a partir de la transcripcion.
+  Dicho esto, el ARN viral mensajero como el genomico van a migrar hacia el exterior del nucleo y en el citoplasma, donde se encuentran los ribosomas, el ARNm va a ser traducido a proteinas virales, las cuales van a tener que ser clivadas por otra enzima llamada proteasa.
+ Una vez clivadas, las proteinas van a estar listas para el proceso de gemacion, donde, todos lo componentes se ensamblan. 
+ Primero se va a formar la matriz viral, la cual va a contener a todas estas proteinas, y despues de esto, se van a formar en la membrana citoplasmatica de la celula anfitrion nuevos complejos de GP120 y GP41. La particula de virus inmadura va ser expulsada de la celular, llevandose asi parte de la membrana citoplasmatica con los complejos que menciones y La membrana va a pasar a ser la nueva envoltura viral.
+ Fuera de la celula, es donde se va a completar la maduracion del virus y la formacion de todos lo componentes ya vistos del mismo.
