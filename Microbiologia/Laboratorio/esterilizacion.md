@@ -91,4 +91,22 @@ Registros de Temperatura durante ciclo de esterilizacion por calor. Termocupla, 
 ## Control de esterilidad
 
 Medios de cultivo:
-- Medio fluido tioglicolato
+- Medio fluido tioglicolato (MFT): medio de investigacion para germenes anaerobios en condiciones entre (30 y 35)* C. Contiene:
+  - L-cisteina
+  - dextrosa
+  - NaCl
+  - extracto de levadura
+  - Digerido pancreato de caseina
+  - tioglicolato de sodio
+  - resazurina 
+  - agar al 0.075%
+
+- Medio de tioglicolato alternativo: Idem al anterior pero sin agar
+
+- Medio caldo caseina-soja: universal, sin inhibidores ni indicadores. Gran base nutritiva a pH=7.3 a 20-25, contiene:
+  - peptona de caseina
+  - peptona de harina de soja 
+  - NaCl
+  - K2HPO4
+  - glucosa
+  
