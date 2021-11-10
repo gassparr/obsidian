@@ -6,6 +6,15 @@ Contiene los cromosomas de la misma, esta rodeado por un  par de membranas separ
 > Membrana interna: simple saco
 > Membrana externa: continua en multiples sitios del [[reticulo endoplasmico]]
 
-## nucleolo
-Se encuentra en el interior de la celula, se sintetiza ARN ribosomico
+tiene poros los cuales permiten el *transporte nuclear*
 
+## nucleolo
+Se encuentra en el interior del nucleo, se sintetiza ARN ribosomico
+
+
+# Division
+
+Existen dos estados geneticos:
+
+- Haploides: Una sola copia del cromosoma. Estas sufren la mitosis
+- Diploides: Dos copias de cada cromosoma. Estas sufran la meiosis, donde pasan de Diploides → Haploide.
