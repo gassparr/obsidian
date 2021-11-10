@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Microorganismos/eucariota.md",
+            "file": "Microbiologia/Microorganismos/microorganismo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Microorganismos/eucariota.md",
+                "file": "Microbiologia/Microorganismos/microorganismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Microorganismos/eucariota.md",
+                "file": "Microbiologia/Microorganismos/microorganismo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Microorganismos/eucariota.md"
+                "file": "Microbiologia/Microorganismos/microorganismo.md"
               }
             }
           }
@@ -111,6 +111,7 @@
   },
   "active": "0bd8543d556aebc3",
   "lastOpenFiles": [
+    "Microbiologia/Microorganismos/microorganismo.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras Microbianas/mitocondria.md",
     "cloroplastos.md",
@@ -119,7 +120,6 @@
     "Microbiologia/Laboratorio/esterilizacion.md",
     "Microbiologia/Laboratorio/practica de siembra.md",
     "sfv.md",
-    "Oxido de etileno.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
+    "Oxido de etileno.md"
   ]
 }
