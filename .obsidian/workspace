@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Laboratorio/medio de cultivo.md",
+            "file": "Microbiologia/Microorganismos/microorganismo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Laboratorio/medio de cultivo.md",
+                "file": "Microbiologia/Microorganismos/microorganismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Laboratorio/medio de cultivo.md",
+                "file": "Microbiologia/Microorganismos/microorganismo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Laboratorio/medio de cultivo.md"
+                "file": "Microbiologia/Microorganismos/microorganismo.md"
               }
             }
           }
@@ -111,8 +111,8 @@
   },
   "active": "0bd8543d556aebc3",
   "lastOpenFiles": [
-    "Microbiologia/Laboratorio/medio de cultivo.md",
     "Microbiologia/Microorganismos/microorganismo.md",
+    "Microbiologia/Laboratorio/medio de cultivo.md",
     "Microbiologia/Estructuras Microbianas/Endosporas.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras Microbianas/mitocondria.md",
