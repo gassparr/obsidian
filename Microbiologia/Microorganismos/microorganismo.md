@@ -18,4 +18,8 @@ los microorganismos necesitan de carbono, el cual se obtiene de:
 - azucares 
 - bases nitrogenadas
 - compuestos aromaticos
-entre otros
+entre otros.
+
+Por otro lado, tambien utilizan micronutrientes, los cuales son materia organica e inorganica, la cual se necesitan en pequeñas cantidades, estos se dividen en:
+- Metales traza: varios metales que ayudan a distintos procesos metabolicos
+- Factores de crecimiento: materia organica, entre las que se encuentras *las vitaminas, los aminoacidos, las purinas, pirimidinas y otras moleculas organicas*
