@@ -25,3 +25,5 @@ medio que contiene compuestos inhibitorios para algunos [[microorganismo]]
 - **Diferencial**: 
 
 medio donde se añade colorante que mediante cambio de color, indica una reaccion metabolica especifica. Sirve para diferenciar a las [[bacterias]]
+
+![](https://i.imgur.com/cUDxOyD.png)
