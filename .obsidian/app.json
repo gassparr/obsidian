@@ -6,6 +6,7 @@
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "foldHeading": true,
-  "foldIndent": false,
-  "showLineNumber": false
+  "foldIndent": true,
+  "showLineNumber": false,
+  "tabSize": 4
 }

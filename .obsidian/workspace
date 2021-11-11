@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,13 +113,13 @@
   "lastOpenFiles": [
     "Microbiologia/Laboratorio/medio de cultivo.md",
     "Microbiologia/Microorganismos/microorganismo.md",
+    "Microbiologia/Estructuras Microbianas/Endosporas.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras Microbianas/mitocondria.md",
     "cloroplastos.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
     "Microbiologia/Laboratorio/esterilizacion.md",
-    "Microbiologia/Laboratorio/practica de siembra.md",
-    "sfv.md"
+    "Microbiologia/Laboratorio/practica de siembra.md"
   ]
 }
