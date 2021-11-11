@@ -10,6 +10,7 @@
 
 - *Heterotrofos*: obtiene carbono a partir de algun compiuesto organico
 - *Autotrofo*: obtiene carbono a partir del CO2
+
 ## Segun fuente de energia
 
 ### Quimioorganotrofos y quimiolitrofos
@@ -31,7 +32,7 @@
 Existen dos formas de fototrofia:
 
 - *Fotosintesis oxigenica*: se produce O2
-- *Fotosintesis anoxigenica*:  no genera O2
+- *Fotosintesis anoxigenica*:  no genera O2, se da en bacterias rojas y verdes
 
 
 # Observacion:
