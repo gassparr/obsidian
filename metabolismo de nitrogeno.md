@@ -7,3 +7,10 @@ la fraccion de energia metabolica obtenida por degradacion oxidativa de amino ac
 	- animales carnivoros y herbivoros
 	- microorganismo
 	- plantas	
+
+- Situacion metabolica:
+	- recambio de proteinas
+	- dieta rica en proteinas 
+	- inanicion/diabetes
+
+> los amino acidos **no se almacenan**, se reciclan y se convierten en glucosa
