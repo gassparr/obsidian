@@ -45,6 +45,7 @@ alpha-cetoglutarato → [[Ciclo de Acido Citrico]] o [[gluconeogenesis]]
 - Activado: ADP y NAD(+)
 - Inhibido: GTP y NADPH
 
+- ## [[Ciclo de la Urea]]
 # Transporte
 
 el amonio libre es toxico en mamiferos, pro lo que los aminoacidos Ala y Glm son transportadores de NH3 no toxicos en sangre.
@@ -74,5 +75,22 @@ En el ayuno prolongado, la glucosa formada en higado se destina a otros tejidos.
 >     Pyr + Glutamato —(_Ala aminotransferasa_)→ Ala + alpha cetoglutarato
 >     Ala → Ala sanguinea
 > -   Higado
->     Ala sanguinea → Ala 
+>     Ala sanguinea → Ala
 >     Ala + Alpha cetoglutarato —(_Ala aminotransferasa_)→ Pyr + Glutamato
+
+![200](https://i.imgur.com/B11IerD.png)
+
+# Toxicidad
+
+Sintomas: Coma, Edema cerebral
+
+Causas:
+
+- Eliminacion de NH4(+) cerebral:
+
+    - _glutamato deshidrogenasa_, disminuye alpha cetoglutarato
+    - _glutamina sintasa_, disminuye glutamato
+
+- Incremento de glutamina (osmolito), por lo que aumenta la captacion del H2O
+
+- Disminucion del glutamato, disminuye GABA, por lo que disminuye la funcion neuronal
