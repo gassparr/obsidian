@@ -49,13 +49,30 @@ alpha-cetoglutarato → [[Ciclo de Acido Citrico]] o [[gluconeogenesis]]
 
 el amonio libre es toxico en mamiferos, pro lo que los aminoacidos Ala y Glm son transportadores de NH3 no toxicos en sangre.
 
-## *Glutamina sintetasa*
+## _Glutamina sintetasa_
 
 degradacion de nucleotidos producen amonio.
 Glm sera transportador no toxico, desde medio extra hepatico hacia interior de **higado o rinon**
 
-> Glutamato + ATP —(*glutamina sintetasa*)→ 
-> glutamina P + **NH4(+)** —(*glutamina* *sintetasa*)→ 
-> Glutamina —(*Glutaminasa*)→ glutamasa + **NH4(+)**
+> Glutamato + ATP —(_glutamina sintetasa_)→
+> glutamina P + **NH4(+)** —(_glutamina_ _sintetasa_)→
+> Glutamina —(_Glutaminasa_)→ glutamasa + **NH4(+)**
 
 se puede ver como la glutamina P desde el medio externo, transporta el NH4 al interno
+
+## Ciclo Glucosa-Ala
+
+transporte de nitrogeno muscular al higado
+
+el musculo obtiene energia a partir de la degradacion de amino acidos.
+Pyr es el aceptor en el musculo; En el higado el Pyr es destinado a [[gluconeogenesis]]. La glucosa vuelve al musculo.
+
+En el ayuno prolongado, la glucosa formada en higado se destina a otros tejidos.
+**El ciclo se rompe**, degradacion de proteinas musculares provee glucosa para otros tejidos
+
+> -   _musculo_
+>     Pyr + Glutamato —(_Ala aminotransferasa_)→ Ala + alpha cetoglutarato
+>     Ala → Ala sanguinea
+> -   Higado
+>     Ala sanguinea → Ala 
+>     Ala + Alpha cetoglutarato —(_Ala aminotransferasa_)→ Pyr + Glutamato
