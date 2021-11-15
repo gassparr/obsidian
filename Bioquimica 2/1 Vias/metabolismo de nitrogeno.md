@@ -54,4 +54,8 @@ el amonio libre es toxico en mamiferos, pro lo que los aminoacidos Ala y Glm son
 degradacion de nucleotidos producen amonio.
 Glm sera transportador no toxico, desde medio extra hepatico hacia interior de **higado o rinon**
 
-> Glutamato + ATP —(*glutamina sintetasa*)→ glutamina P + NH4(+) —(*glutamina* *sintetasa*)→ Glutamina —(Glutaminasa)→ glutamasa + NH4(+)
+> Glutamato + ATP —(*glutamina sintetasa*)→ 
+> glutamina P + **NH4(+)** —(*glutamina* *sintetasa*)→ 
+> Glutamina —(*Glutaminasa*)→ glutamasa + **NH4(+)**
+
+se puede ver como la glutamina P desde el medio externo, transporta el NH4 al interno
