@@ -35,3 +35,13 @@ Ocurre en el [[citosol]] y [[mitocondria]] en celulas hepaticas
 6. La Arginina continua el ciclo para dar ornitina y urea con el uso de *Arginasa*
 
 	> Arginina + H2O -(Arginasa)→ Ornitina + Urea
+
+
+# Relacion con [[Ciclo de Acido Citrico]]
+
+![](https://i.imgur.com/sD2vMA0.png)
+
+# Regulacion
+
+- Largo plazo: sintesis de las 5 enzimas
+	- 
