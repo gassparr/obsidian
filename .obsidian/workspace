@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
+            "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 169
+    "width": 169,
+    "collapsed": true
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
+                "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
+                "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Ciclo de la Urea.md"
+                "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md"
               }
             }
           }
@@ -111,12 +112,12 @@
   },
   "active": "0bd8543d556aebc3",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
     "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md",
     "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
     "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
     "Templates/{title}.md",
     "Microbiologia/Laboratorio/esterilizacion.md",
