@@ -94,3 +94,4 @@ Causas:
 - Incremento de glutamina (osmolito), por lo que aumenta la captacion del H2O
 
 - Disminucion del glutamato, disminuye GABA, por lo que disminuye la funcion neuronal
+ 
