@@ -1,14 +1,14 @@
 {
   "baseFontSize": 12,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "Sanctum",
   "enabledCssSnippets": [
     "Auto dark images",
     "minimal_dracula_skin - Copy - Copy",
-    "Minimal Nord skin",
     "color checkboxes",
     "labeled navigation",
-    "relation lines"
+    "relation lines",
+    "Minimal Nord skin"
   ]
 }

@@ -27,7 +27,6 @@
   "obsidian-california-coast-theme@@h1-style": "h1",
   "obsidian-california-coast-theme@@h2-style": "cyan",
   "obsidian-california-coast-theme@@scale-small": 100,
-  "sanctum@@line-width": 68,
   "sanctum@@center-tables": false,
   "sanctum@@alternate-dataview": true,
   "sanctum@@wrap-note-title": true,
@@ -41,8 +40,8 @@
   "sanctum@@no-blur": true,
   "sanctum@@no-animation": true,
   "sanctum@@no-sanctum-icons": false,
-  "sanctum@@heading-1": 73,
-  "sanctum@@heading-2": 71,
+  "sanctum@@heading-1": 67,
+  "sanctum@@heading-2": 50,
   "sanctum@@font-editor": "iA Writer Quattro V",
   "shimmering-focus@@show-titlebar": true,
   "shimmering-focus@@show-ribbons": true,
@@ -51,5 +50,11 @@
   "shimmering-focus@@show-close-button": true,
   "shimmering-focus@@show-collapse-buttons": true,
   "shimmering-focus@@block-cursor": false,
-  "shimmering-focus@@annotation-tags-off": true
+  "shimmering-focus@@annotation-tags-off": true,
+  "checkbox@@check-color": true,
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-custom",
+  "sanctum@@relationship-lines-alternating": true,
+  "sanctum@@line-width": 66,
+  "sanctum@@heading-3": 76,
+  "sanctum@@heading-4": 88
 }
