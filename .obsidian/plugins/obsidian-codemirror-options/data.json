@@ -1,5 +1,5 @@
 {
-  "dynamicCursor": false,
+  "dynamicCursor": true,
   "markSelection": false,
   "activeLineOnSelect": false,
   "enableCMinPreview": false,

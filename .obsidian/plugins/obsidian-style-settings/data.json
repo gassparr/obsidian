@@ -61,5 +61,6 @@
   "sanctum@@font-preview": "'iA Writer Quattro V'",
   "sanctum@@font-ui": "'iA Writer Quattro V'",
   "sanctum@@font-mono": "'iA Writer Quattro V'",
-  "sanctum@@font-heading": "-apple-"
+  "sanctum@@font-heading": "-apple-",
+  "checkbox@@chck-pad": false
 }

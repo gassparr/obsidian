@@ -15,6 +15,22 @@ la fraccion de energia metabolica obtenida por degradacion oxidativa de amino ac
 
 > los amino acidos **no se almacenan**, se reciclan y se convierten en glucosa
 
+# Introduccion a sistemas biologicos
+La fuente mas importante de N2 es el aire.
+
+## Fijacion
+
+Organismos:
+- Cianobacterias
+- Archaea metanogenicas
+- Bacterias del suelo
+- Simbiotes 
+
+Reaccion
+> N2 + 3 H2 → 2 NH3  (irreversible)
+
+En sistemas biologicos
+> N2 + 10 H(+) + 8 e(-) + 16 ATP → 2 NH4(+) + 16 ADP + 16 Pi + H2
 # Excrecion de Nitrogeno
 
 - NH4
