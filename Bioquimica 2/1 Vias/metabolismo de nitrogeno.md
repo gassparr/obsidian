@@ -31,6 +31,25 @@ Reaccion
 
 En sistemas biologicos
 > N2 + 10 H(+) + 8 e(-) + 16 ATP → 2 NH4(+) + 16 ADP + 16 Pi + H2
+
+Inestabilidad frente O2
+- Anaerobiosis
+- Aerobios descoplan transporte de e(-) de sintesis de ATP (queman O2)
+
+## Incorporacion de NH4(+) en biomoleculas
+
+NH4(+) → AAc → moleculas nitrogenadas
+
+La forma de ingreso al organismo sera Glutamato y Glutamina
+Las  cuales se sintetizan a traves:
+- *Glutamina sintetasa* (todos los organismos):
+> Glutamato NH4(+) + ATP → Glutamina + ADP + Pi + H(+)
+
+- *Glutamato sintasa ([[bacterias]] y [[Plantas]])*:
+> Alpha cetoglutarato + glutamina + NADPH + H(+) → 2 Glutamato + NADP(+)
+
+- *Glutamina sintetasa + glutamato sintetasa*:
+> Alpha cetoglutarato +
 # Excrecion de Nitrogeno
 
 - NH4
