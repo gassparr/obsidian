@@ -1,6 +1,7 @@
+
 Funciones:
 
-- Precursores de ADN y ARN
+- Precursores de ADN y ARN a partir del [[metabolismo de nitrogeno]]
 - Transporte de energia quimica (ATP)
 - Componentes de cofactores: NAD, FAD, SAM, etc
 - Componentes de intermediarios biosinteticos activados: (UDP-glucosa, CDP-colina)
@@ -30,4 +31,4 @@ Mecanismos:
 3. Reciproca (GTP se necesita para sintesis de AMP y ATP se necesita para sintesis de GMP) tiene la finalidad de balancer
 4. Inhibicion de _PRPP sintetasa_
 
-R5P –(*PRPP *)
+R5P –(*PRPP sintetasa*)→ PRPP –(*Glutamina PRPP transferasa*)→ 5 fosforibosilamina –(9 pasos)→ IMP

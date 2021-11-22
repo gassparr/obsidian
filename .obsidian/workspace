@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
+            "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
+                "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
+                "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md"
+                "file": "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md"
               }
             }
           }
@@ -111,8 +111,8 @@
   },
   "active": "0bd8543d556aebc3",
   "lastOpenFiles": [
-    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
+    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md",
