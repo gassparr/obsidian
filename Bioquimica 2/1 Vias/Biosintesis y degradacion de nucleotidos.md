@@ -20,3 +20,14 @@ Funciones:
     - Amida N de la glutamina
 
 - Por rescate: Reciclado de bases y nucleosidos
+
+# Biosintesis de AMP y GMP
+
+Mecanismos:
+
+1. Productos finales sobre la primer reaccion
+2. Productos finales sobre enzimas post bifurcacion
+3. Reciproca (GTP se necesita para sintesis de AMP y ATP se necesita para sintesis de GMP) tiene la finalidad de balancer
+4. Inhibicion de _PRPP sintetasa_
+
+R5P –(*PRPP *)
