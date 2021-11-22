@@ -16,23 +16,28 @@ la fraccion de energia metabolica obtenida por degradacion oxidativa de amino ac
 > los amino acidos **no se almacenan**, se reciclan y se convierten en glucosa
 
 # Introduccion a sistemas biologicos
+
 La fuente mas importante de N2 es el aire.
 
 ## Fijacion
 
 Organismos:
+
 - Cianobacterias
 - Archaea metanogenicas
 - Bacterias del suelo
-- Simbiotes 
+- Simbiotes
 
 Reaccion
-> N2 + 3 H2 → 2 NH3  (irreversible)
+
+> N2 + 3 H2 → 2 NH3 (irreversible)
 
 En sistemas biologicos
+
 > N2 + 10 H(+) + 8 e(-) + 16 ATP → 2 NH4(+) + 16 ADP + 16 Pi + H2
 
 Inestabilidad frente O2
+
 - Anaerobiosis
 - Aerobios descoplan transporte de e(-) de sintesis de ATP (queman O2)
 
@@ -41,15 +46,47 @@ Inestabilidad frente O2
 NH4(+) → AAc → moleculas nitrogenadas
 
 La forma de ingreso al organismo sera Glutamato y Glutamina
-Las  cuales se sintetizan a traves:
-- *Glutamina sintetasa* (todos los organismos):
-> Glutamato NH4(+) + ATP → Glutamina + ADP + Pi + H(+)
+Las cuales se sintetizan a traves:
 
-- *Glutamato sintasa ([[bacterias]] y [[Plantas]])*:
-> Alpha cetoglutarato + glutamina + NADPH + H(+) → 2 Glutamato + NADP(+)
+- _Glutamina sintetasa_ (todos los organismos):
 
-- *Glutamina sintetasa + glutamato sintetasa*:
-> Alpha cetoglutarato +
+    > Glutamato NH4(+) + ATP → Glutamina + ADP + Pi + H(+)
+
+- _Glutamato sintasa ([[bacterias]] y [[Plantas]])_:
+
+    > Alpha cetoglutarato + glutamina + NADPH + H(+) → 2 Glutamato + NADP(+)
+
+- _Glutamina sintetasa + glutamato sintetasa_:
+
+    > Alpha cetoglutarato + NH4(+) + NADPH + ATP → Glutamato + NADP(+) + ADP + Pi
+
+- _Glutamato DH (todos los organismos)_:
+    > Alpha cetoglutarato + NH4(+) + NADPH → Glutamato + NADP + H2O
+
+## Regulacion
+
+- Alosterica:
+    Glutamato + NH3 + ATP –(_glutamina sintetasa_)→ Glutamina + ADP + Pi
+    Inhibido por productos de Glutamina:
+
+    - Gly
+    - Ala
+    - Glucosamina 6P
+    - Hys
+    - CTP
+    - AMP
+    - Trp
+    - Carbamoyl P
+
+    En resumen Mas glutamina, Mas inhibido esta la via
+
+- Covalente (afecta *glutamina sintetasa*):
+	Inhibicion por adenililacion de Tyr (adiciona AMP). Esto hara que aumente sensibilidad a inhibidores alostericos; la reaccion esta catalizada por adenilil transferasa (AT)
+	
+	Resultado Neto:
+	- Concentracion de Glutamina aumenta; *Glutamina sintetasa* disminuye
+	- Concentracion de Glutamina y Alpha cetoglutarato disminuye, ATP aumenta; *Glutamina sintetasa* aumenta
+
 # Excrecion de Nitrogeno
 
 - NH4
@@ -81,6 +118,7 @@ alpha-cetoglutarato → [[Ciclo de Acido Citrico]] o [[gluconeogenesis]]
 - Inhibido: GTP y NADPH
 
 - ## [[Ciclo de la Urea]]
+
 # Transporte
 
 el amonio libre es toxico en mamiferos, pro lo que los aminoacidos Ala y Glm son transportadores de NH3 no toxicos en sangre.
@@ -129,4 +167,3 @@ Causas:
 - Incremento de glutamina (osmolito), por lo que aumenta la captacion del H2O
 
 - Disminucion del glutamato, disminuye GABA, por lo que disminuye la funcion neuronal
- 

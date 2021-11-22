@@ -5,9 +5,8 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "minimal_dracula_skin - Copy - Copy",
+    "Minimal Nord skin",
     "labeled navigation",
-    "color checkboxes",
-    "relation lines",
-    "Minimal Nord skin"
+    "color checkboxes"
   ]
 }
