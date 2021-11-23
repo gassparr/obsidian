@@ -1,4 +1,3 @@
-
 Funciones:
 
 - Precursores de ADN y ARN a partir del [[metabolismo de nitrogeno]]
@@ -26,9 +25,31 @@ Funciones:
 
 Mecanismos:
 
-1. Productos finales sobre la primer reaccion
-2. Productos finales sobre enzimas post bifurcacion
-3. Reciproca (GTP se necesita para sintesis de AMP y ATP se necesita para sintesis de GMP) tiene la finalidad de balancer
-4. Inhibicion de _PRPP sintetasa_
+- Productos finales sobre la primer reaccion
+- Productos finales sobre enzimas post bifurcacion
+- Reciproca (GTP se necesita para sintesis de AMP y ATP se necesita para sintesis de GMP) tiene la finalidad de balancer
+- Inhibicion de _PRPP sintetasa_
 
-R5P –(*PRPP sintetasa*)→ PRPP –(*Glutamina PRPP transferasa*)→ 5 fosforibosilamina –(9 pasos)→ IMP
+1. R5P –(_PRPP sintetasa_)→ PRPP
+
+    > inhibido: ADP
+
+2. PRPP –(_Glutamina PRPP transferasa_)→ 5 fosforibosilamina
+
+    > Inhibido: ADP, GMP, IMP
+
+3. 5 fosforibosilamina –(9 pasos)→ IMP
+
+    IMP puede tomar 2 rutas:
+
+    - Sintesis de AMP:
+
+    1. IMP –(_adenosilsuccinato sintetasa_)→ Adenilsuccinato
+        > Inhibido: AMP
+    2. Adenilsuccinato –(_Adenilsuccinato liasa_)→ AMP
+
+    - Sintesis de GMP:
+
+    1. IMP –(_IMP DH_)→ XMP
+        > Inhibido: GMP
+    2. XMP –(_XMP glutamina amidotransferasa_)→ GMP
