@@ -22,6 +22,47 @@
     "type": "split",
     "children": [
       {
+        "id": "b41e8f695f3050ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68ee0d139d91c439",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.586895842068368,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "b4111d1970f84605",
         "type": "tabs",
         "children": [
@@ -112,8 +153,8 @@
   "active": "0bd8543d556aebc3",
   "lastOpenFiles": [
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
+    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
     "Bioquimica 2/1 Vias/glucogenolisis.md",

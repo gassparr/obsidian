@@ -143,5 +143,8 @@
   "ITS@@b-pre-c@@light": "#B48EAD",
   "ITS@@b-ed-c@@light": "#B48EAD",
   "ITS@@ed-pre": true,
-  "ITS@@bg@@light": "#C3C9D3"
+  "ITS@@bg@@light": "#C3C9D3",
+  "ITS@@graph-lines@@light": "#2E3440",
+  "ITS@@graph-focused@@light": "#2E3440",
+  "ITS@@graph-bg@@light": "#EEF3FD"
 }
