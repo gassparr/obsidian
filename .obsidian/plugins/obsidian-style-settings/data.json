@@ -88,5 +88,7 @@
   "ITS@@its-i": true,
   "ITS@@title-wrap": true,
   "ITS@@nt-g": true,
-  "ITS@@head-spec": true
+  "ITS@@head-spec": true,
+  "ITS@@bg@@dark": "#4C566A",
+  "ITS@@note@@dark": "#2E3440"
 }
