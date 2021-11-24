@@ -90,5 +90,7 @@
   "ITS@@nt-g": true,
   "ITS@@head-spec": true,
   "ITS@@bg@@dark": "#4C566A",
-  "ITS@@note@@dark": "#2E3440"
+  "ITS@@note@@dark": "#2E3440",
+  "ITS@@outer-bar@@dark": "#282D38",
+  "ITS@@side-bar@@dark": "#2E3440"
 }
