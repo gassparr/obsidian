@@ -45,7 +45,7 @@ Mecanismos:
     - Sintesis de AMP:
 
     1. IMP –(_adenosilsuccinato sintetasa_)→ Adenilsuccinato
-        > Inhibido: AMP
+      Inhibido: AMP
     2. Adenilsuccinato –(_Adenilsuccinato liasa_)→ AMP
 
     - Sintesis de GMP:
