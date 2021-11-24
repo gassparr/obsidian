@@ -24,6 +24,7 @@
       {
         "id": "b41e8f695f3050ea",
         "type": "tabs",
+        "dimension": 33.966745843230406,
         "children": [
           {
             "id": "68ee0d139d91c439",
@@ -54,8 +55,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.586895842068368,
-                  "close": false
+                  "scale": 0.7254282615276324,
+                  "close": true
                 }
               }
             }
@@ -65,6 +66,7 @@
       {
         "id": "b4111d1970f84605",
         "type": "tabs",
+        "dimension": 66.0332541567696,
         "children": [
           {
             "id": "64a0432d31a19d2e",

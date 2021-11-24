@@ -53,4 +53,3 @@ Mecanismos:
     1. IMP –(_IMP DH_)→ XMP
         > Inhibido: GMP
     2. XMP –(_XMP glutamina amidotransferasa_)→ GMP
-
