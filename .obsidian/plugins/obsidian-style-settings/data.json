@@ -51,7 +51,6 @@
   "shimmering-focus@@block-cursor": false,
   "shimmering-focus@@annotation-tags-off": true,
   "checkbox@@check-color": true,
-  "CodeMirror Options@@cm-theme-selection": "cm-theme-custom",
   "sanctum@@relationship-lines-alternating": true,
   "sanctum@@line-width": 66,
   "sanctum@@heading-3": 50,
@@ -62,5 +61,14 @@
   "sanctum@@font-ui": "'iA Writer Quattro V'",
   "sanctum@@font-mono": "'iA Writer Quattro V'",
   "sanctum@@font-heading": "-apple-",
-  "checkbox@@chck-pad": false
+  "checkbox@@chck-pad": false,
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-custom",
+  "ITS-AT@@slrvb-b": false,
+  "ITS-AT@@slrvb-g": false,
+  "ITS-AT@@s-d": false,
+  "ITS-AT@@dnd": false,
+  "ITS-AT@@t-d": false,
+  "ITS-AT@@its-d": false,
+  "ITS-AT@@paper": true,
+  "ITS-AT@@drwn": false
 }
