@@ -22,6 +22,10 @@ H2A = H2S o succinato en [[bacterias]] fotosinteticas purpuras o verdes
 A = reactivos de hill
 _en cloroplastos_ el aceptor de e- sera [[NADP+]]
 
+## Experimento de Hill
+
+
+
 # Complejo de almacenamiento de luz (LHC)
 
 Clorofila asociada con proteinas de union especifica, formando LHC.
