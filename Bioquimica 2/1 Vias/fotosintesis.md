@@ -118,10 +118,12 @@ LHC es un trimero, con los monomeros:
 > > 4. Transferencia de e-
 
 # Fotorrespiracion
+
 ## Mecanismo
-Al aumentar la concentracion de O2, aumenta la actividad oxidasa de la *rubisco*.
- 
-> R1.5BP –(*Rubisco*)→  glicerato 3P + P glicolato
+
+Al aumentar la concentracion de O2, aumenta la actividad oxidasa de la _rubisco_.
+
+> R1.5BP –(_Rubisco_)→ glicerato 3P + P glicolato
 
 Dentro de cloroplasto
 
@@ -137,34 +139,37 @@ Glioxolato se Amida
 
 Glicina entra a [[mitocondria]] y se une a otra glicina utilizando descarboxilasa
 
-> 2 Glioxolato  + H2O –(*Descarboxilasa*)→ Serina + NH4 + CO2 + [[NADH]]
+> 2 Glioxolato + H2O –(_Descarboxilasa_)→ Serina + NH4 + CO2 + [[NADH]]
 
 Serina entra de nuevo a peroxisoma y se transforma a glicerato
 
 > Serina → Glicerato
 
-Glicerato entra al cloroplasto y con el uso de una kinasa se añade un grupo P para formar  glicerato 3P
+Glicerato entra al cloroplasto y con el uso de una kinasa se añade un grupo P para formar glicerato 3P
 
-> Glicerato + ATP –(*kinasa*)→ Glicerato 3P + ADP
+> Glicerato + ATP –(_kinasa_)→ Glicerato 3P + ADP
 
 ## Pros y contras
+
 Pros:
+
 - Recupera parte del carbono
 - Consume O2 en condiciones de estres (elevada luminosidad ya que evita la fotooxidacion)
 - Produce importantes intermediarios metabolicos ([[NADH]]; Glioxilato)
-Contras:
+    Contras:
 - Se pierde ribulosa 1.5BP
 - Se consume O2 y libera CO2
 - Se gasta ATP extra
+
 ## Fotorespiracion y La Temperatura
 
 A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad _oxigenasa_ de la _Rubisco_ aumenta más que su actividad _carboxilasa_ porque:
-  
-   - la solubilidad del CO2 disminuye con la temperatura en mayor proporción que la solubilidad del O2,
 
-   - el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
+- la solubilidad del CO2 disminuye con la temperatura en mayor proporción que la solubilidad del O2,
 
-   - Las [[plantas]] CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
+- el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
+
+- Las [[plantas]] CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
 
 # Factores sobre rendimiento
 
@@ -186,8 +191,21 @@ A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que 
     Condicion la Fotorrespiracion
 
 # Anoxigenica o Bacteriana
-tipo de fotosintesis la cual ocurre en bacterias purpura y verdes del azufre 
+
+tipo de fotosintesis la cual ocurre en bacterias purpura y verdes del azufre
 Al igual que la oxigenica. tiene 2 fases
+
 ## Fases
-- Luminica
-- Oscura
+
+### Luminica
+
+- obtiene [[ATP]] y [[NADH]]
+
+Cadena aciclica de e(-)
+
+ocurre entre el [[citosol]] y el espacio periplasmico. El fotosistema localizado aqui se llama p870 y funciona de manera similar al fotosistema 2
+
+### Oscura
+
+- Carboxilacion de CO2
+- [[Ciclo de Calvin]]
