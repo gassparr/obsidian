@@ -118,7 +118,7 @@ LHC es un trimero, con los monomeros:
 > > 4. Transferencia de e-
 
 # Fotorrespiracion
-
+## Mecanismo
 Al aumentar la concentracion de O2, aumenta la actividad oxidasa de la *rubisco*.
  
 > R1.5BP –(*Rubisco*)→  glicerato 3P + P glicolato
@@ -147,6 +147,15 @@ Glicerato entra al cloroplasto y con el uso de una kinasa se añade un grupo P p
 
 > Glicerato + ATP –(*kinasa*)→ Glicerato 3P + ADP
 
+## Pros y contras
+Pros:
+- Recupera parte del carbono
+- Consume O2 en condiciones de estres (elevada luminosidad ya que evita la fotooxidacion)
+- Produce importantes intermediarios metabolicos ([[NADH]]; Glioxilato)
+Contras:
+- Se pierde ribulosa 1.5BP
+- Se consume O2 y libera CO2
+- Se gasta ATP extra
 ## Fotorespiracion y La Temperatura
 
 A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad _oxigenasa_ de la _Rubisco_ aumenta más que su actividad _carboxilasa_ porque:
@@ -155,7 +164,7 @@ A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que 
 
    - el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
 
-   - Las [[plantas]] C4 y CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
+   - Las [[plantas]] CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
 
 # Factores sobre rendimiento
 
