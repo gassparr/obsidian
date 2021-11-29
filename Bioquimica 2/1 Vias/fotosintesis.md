@@ -184,3 +184,10 @@ A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que 
 
 - Concentracion de Oxigeno:
     Condicion la Fotorrespiracion
+
+# Anoxigenica o Bacteriana
+tipo de fotosintesis la cual ocurre en bacterias purpura y verdes del azufre 
+Al igual que la oxigenica. tiene 2 fases
+## Fases
+- Luminica
+- Oscura
