@@ -197,5 +197,10 @@
   "ITS@@sphd-pre-fs-4": 18,
   "ITS@@sphd-ed-fs-4": 18,
   "ITS@@sphd-pre-fs-5": 18,
-  "ITS@@sphd-ed-fs-5": 18
+  "ITS@@sphd-ed-fs-5": 18,
+  "ITS@@hr-tog": false,
+  "ITS@@org-em": false,
+  "ITS@@naked-em": false,
+  "ITS@@bl-c": false,
+  "ITS@@footnote@@light": "#8996A0"
 }

@@ -40,16 +40,28 @@ la cual puede ser **ciclica** o **aciclica**. Para recuperar los e(-) perdidos p
 - Fotosistema 2: Clorofila A2 (reacciones a 680nm)
 
 # Fases
+
 ## Luminosa
+
 Ocurre en la membrana del [[tilacoide]]
 
 Ocurren 3 procesos:
+
 - Fotolisis: lisis de la molecula donadora de e(-)
 - Fotofosforilacion: formacion del [[ATP]]
 - Fotorreducion: Formacion de [[NADPH]]
 
+![](https://i.imgur.com/jvKo5Xt.png)
+
+1. En la fotolisis, el complejo antena es exitado por luz y la energia se pasa hacia Clorofila A2, la cual cedera 2 e(-) empezando asi la cadena de electrones (**En toda la cadena se transportan 2e(-)**)
+
+	> Clorofila A2 → Feofitina → Plastoquinona A
+	> > Los e(-) que pierde la clorofila son donados por el H2O la cual le ocurre una lisis, liberando oxigeno y protones
+2. La plastoquinona A cede los e(-) hacia la Plastoquinona B la cual bombeara H(+) 
 ## Oscura
+
 - Biosintesis de Moleculas organicas
+
 # Ocurrencia
 
 - [[Bacterias]]
