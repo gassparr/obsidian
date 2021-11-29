@@ -41,6 +41,8 @@ la cual puede ser **ciclica** o **aciclica**. Para recuperar los e(-) perdidos p
 
 # Fases
 ## Luminosa
+Ocurre en la membrana del [[tilacoide]]
+
 Ocurren 3 procesos:
 - Fotolisis: lisis de la molecula donadora de e(-)
 - Fotofosforilacion: formacion del [[ATP]]
