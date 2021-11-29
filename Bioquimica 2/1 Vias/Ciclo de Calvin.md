@@ -8,15 +8,18 @@ Via anabolica acompañada de la [[fotosintesis]] por la cual [[Plantas]] fijan C
 
 # Mecanismo
 
-1. asimilacion del CO2 por la actividad de carboxilasa de la Rubisco
+1. asimilacion del CO2 por la actividad de carboxilasa de la _Rubisco_
 
-    > Rubisco regulada por:
+    > _Rubisco_ regulada por:
     >
-    > > Rubisco activasa: activa por luz
-    > > Rubisco carbomilada: inhibe y se sintetiza en falta de luz
+    > > _Rubisco activasa_: activa por luz
+    > > _Rubisco carbomilada_: inhibe y se sintetiza en falta de luz
 
 2. Conversion de fosfoglicerato a Gly 3-P
-3. Regeneracion de R5P
+	
+1. Ocurren:
+	- Regeneracion de R5P
+    - Formacion de Hexosas: Se forman 3 F6P las cuales con el accionar de una isomerasa, se forma G6P
 
 # Activacion
 
