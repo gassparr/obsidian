@@ -72,8 +72,8 @@ Ocurren 3 procesos:
 **En casos de que se necesite por alguna razon mucho ATP se puede tomar la `via ciclica` y los e(-) de la Feredoxina (Fd) se van hacia el Cit B6F para reinsertace en la plastoquino B y asi bombear protones externos hacia el [[tilacoide]]**
 
 ## Oscura
-
-- Biosintesis de Moleculas organicas
+[[Ciclo de Calvin]]
+- Biosintesis de Moleculas organicas 
 
 # Ocurrencia
 

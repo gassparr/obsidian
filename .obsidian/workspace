@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+            "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "0bd8543d556aebc3",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Microbiologia/Microorganismos/Plantas.md",
     "cloroplastos.md",
@@ -162,7 +163,6 @@
     "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
     "Bioquimica 2/1 Vias/glucolisis.md",
-    "Bioquimica 2/1 Vias/glucogenolisis.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
+    "Bioquimica 2/1 Vias/glucogenolisis.md"
   ]
 }
