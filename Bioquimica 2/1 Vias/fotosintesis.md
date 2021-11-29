@@ -67,13 +67,15 @@ Ocurren 3 procesos:
 
 3. El Citocromo B6F cede los e(-) hacia una la _plastocianina_, la cual cede esos e(-) hacia la Clorofila A1 en el fotosistema 1. La Clorofila A1 pierde 2 e(-) cediendolos hacia una Clorofila A0 y la misma cedera hacia una Citoquinona (K1), esta los cede hacia la Feredoxina(Fd) para asi proveerlos hacia el [[NADP+]] reductasa
 
-	> Cit B6F → PQ → A1 → A0 → K1 → Fd → [[NADP+]]
+    > Cit B6F → PQ → A1 → A0 → K1 → Fd → [[NADP+]]
 
 **En casos de que se necesite por alguna razon mucho ATP se puede tomar la `via ciclica` y los e(-) de la Feredoxina (Fd) se van hacia el Cit B6F para reinsertace en la plastoquino B y asi bombear protones externos hacia el [[tilacoide]]**
 
 ## Oscura
+
 [[Ciclo de Calvin]]
-- Biosintesis de Moleculas organicas 
+
+- Biosintesis de Moleculas organicas
 
 # Ocurrencia
 
@@ -116,14 +118,60 @@ LHC es un trimero, con los monomeros:
 > > 4. Transferencia de e-
 
 # Fotorrespiracion
+
+Al aumentar la concentracion de O2, aumenta la actividad oxidasa de la *rubisco*.
+ 
+> R1.5BP –(*Rubisco*)→  glicerato 3P + P glicolato
+
+Dentro de cloroplasto
+
+> P glicolato + H2O → Glicolato + Pi
+
+Glicolato entra a peroxisomas
+
+> Glicolato + O2 → Glioxilato + H2O2
+
+Glioxolato se Amida
+
+> Glioxolato + NH4 → Glicina
+
+Glicina entra a [[mitocondria]] y se une a otra glicina utilizando descarboxilasa
+
+> 2 Glioxolato  + H2O –(*Descarboxilasa*)→ Serina + NH4 + CO2 + [[NADH]]
+
+Serina entra de nuevo a peroxisoma y se transforma a glicerato
+
+> Serina → Glicerato
+
+Glicerato entra al cloroplasto y con el uso de una kinasa se añade un grupo P para formar  glicerato 3P
+
+> Glicerato + ATP –(*kinasa*)→ Glicerato 3P + ADP
+
 ## Fotorespiracion y La Temperatura
 
-- A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad _oxigenasa_ de la _Rubisco_ aumenta más que su actividad _carboxilasa_ porque:
-    - la solubilidad del CO2 disminuye con la temperatura en mayor proporción que la solubilidad del O2,
-    - el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
-    - Las [[plantas]] C4 y CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
+A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad _oxigenasa_ de la _Rubisco_ aumenta más que su actividad _carboxilasa_ porque:
+  
+   - la solubilidad del CO2 disminuye con la temperatura en mayor proporción que la solubilidad del O2,
+
+   - el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
+
+   - Las [[plantas]] C4 y CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
 
 # Factores sobre rendimiento
-- Temperatura: Condiciona la actividad enzimatica.
-- Fotoperiodo: Segun la especie, se necesitan periodos de oscuridad para reponer la maquinaria fotosintetica.
-- Escases de H2O: Cierre de estromas, lo cua
+
+- Temperatura:
+    Condiciona la actividad enzimatica.
+
+- Fotoperiodo:
+    Segun la especie, se necesitan periodos de oscuridad para reponer la maquinaria fotosintetica.
+
+- Escases de H2O:
+    Cierre de estomas, lo cual disminuye la concentracion de CO2, lo cual aumenta la concentracion de O2, lo cual nos dara el fenomeno de Fotorrespiracion.
+
+- Intensidad luminosa:
+    la fotosintesis aumentara hasta un maximo, hasta un momento donde se produce caida brusca de actividad, ya que empieza la fotooxidacion; donde los pigmentos se oxidaran y se desactivaran.
+
+- Color de luz:
+
+- Concentracion de Oxigeno:
+    Condicion la Fotorrespiracion
