@@ -55,9 +55,22 @@ Ocurren 3 procesos:
 
 1. En la fotolisis, el complejo antena es exitado por luz y la energia se pasa hacia Clorofila A2, la cual cedera 2 e(-) empezando asi la cadena de electrones (**En toda la cadena se transportan 2e(-)**)
 
-	> Clorofila A2 → Feofitina → Plastoquinona A
-	> > Los e(-) que pierde la clorofila son donados por el H2O la cual le ocurre una lisis, liberando oxigeno y protones
-2. La plastoquinona A cede los e(-) hacia la Plastoquinona B la cual bombeara H(+) 
+    > Clorofila A2 → Feofitina → Plastoquinona A
+    >
+    > > Los e(-) que pierde la clorofila son donados por el H2O la cual le ocurre una lisis, liberando oxigeno y protones
+
+2. La plastoquinona A cede los e(-) hacia la Plastoquinona B la cual bombeara H(+) del estroma hacia el [[tilacoide]]. En el proceso, los e(-) iran al Citocromo B6F
+
+    > Qa → (Qb ←→ QbH2) → Cit B6F
+
+    Los protones que ahoran estan dentro del [[tilacoide]] seran bombeados por la fuerza proton motriz a travez de la [[ATP]] Sintetasa formando asi [[ATP]]
+
+3. El Citocromo B6F cede los e(-) hacia una la _plastocianina_, la cual cede esos e(-) hacia la Clorofila A1 en el fotosistema 1. La Clorofila A1 pierde 2 e(-) cediendolos hacia una Clorofila A0 y la misma cedera hacia una Citoquinona (K1), esta los cede hacia la Feredoxina(Fd) para asi proveerlos hacia el [[NADP+]] reductasa
+
+	> Cit B6F → PQ → A1 → A0 → K1 → Fd → [[NADP+]]
+
+**En casos de que se necesite por alguna razon mucho ATP se puede tomar la `via ciclica` y los e(-) de la Feredoxina (Fd) se van hacia el Cit B6F para reinsertace en la plastoquino B y asi bombear protones externos hacia el [[tilacoide]]**
+
 ## Oscura
 
 - Biosintesis de Moleculas organicas
