@@ -115,13 +115,15 @@ LHC es un trimero, con los monomeros:
 > > 3. transferencia de energia a pigmento vecino
 > > 4. Transferencia de e-
 
-# Fotorespiracion
-
-## Fotosintesis a menor concentracion de O2, mas activada estara.
-
+# Fotorrespiracion
 ## Fotorespiracion y La Temperatura
 
-- A ** temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad _oxigenasa_ de la _Rubisco_ aumenta más que su actividad _carboxilasa_ porque:
+- A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad _oxigenasa_ de la _Rubisco_ aumenta más que su actividad _carboxilasa_ porque:
     - la solubilidad del CO2 disminuye con la temperatura en mayor proporción que la solubilidad del O2,
     - el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
     - Las [[plantas]] C4 y CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
+
+# Factores sobre rendimiento
+- Temperatura: Condiciona la actividad enzimatica.
+- Fotoperiodo: Segun la especie, se necesitan periodos de oscuridad para reponer la maquinaria fotosintetica.
+- Escases de H2O: Cierre de estromas, lo cua
