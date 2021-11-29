@@ -1,7 +1,18 @@
-Almacenamiento de energia luminica.
+Transformacion de Energia luminica a Quimica (ATP)
 
 > CO2 + H2O + Luz --> O2 + CH2O
 
+Pigmentos cederan electrones hacia un aceptor primario
+
+
+# Pigmentos
+ 
+ Sustancia que absorve cierta longitud de onda del espectro visible y refleja otras.
+
+Cuando absorve puede: 
+* Aumenta temperatura
+* Produce fluorescencia o fosforescencia
+* Ionizacion
 # Ocurrencia
 
 - [[Bacterias]]
@@ -28,7 +39,7 @@ _en cloroplastos_ el aceptor de e- sera [[NADP+]]
 
 # Complejo de almacenamiento de luz (LHC)
 
-Clorofila asociada con proteinas de union especifica, formando LHC.
+Clorofila asociada con proteinas de union especifica, formando LHC (light harvesting complex).
 LHC es un trimero, con los monomeros:
 
 - segmento transmembrana
