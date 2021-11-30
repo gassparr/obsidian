@@ -8,6 +8,3 @@ Organela de las [[Plantas]]
 - Stroma (matriz del cloroplasto)
 - Tilacoide
 
-hola hola
-como va 
-todo bien y vos 
