@@ -255,9 +255,11 @@ Cuarta Etapa: Escualeno a esteroide
 ## Regulacion
 
 - Concentracion de colesterol intracelular
-> Activacion de SREBP
->![](https://i.imgur.com/q29Fwj0.png)
->> SREBP: Proteina vinculante a elemento regulatorio de esteroles
->> SCAP: proteina activadora de clevage de SREBP (sensor de colesterol)
+
+    > Activacion de SREBP
+    > ![](https://i.imgur.com/q29Fwj0.png)
+    >
+    > > SREBP: Proteina vinculante a elemento regulatorio de esteroles
+    > > SCAP: proteina activadora de clevage de SREBP (sensor de colesterol)
 
 - Insulina/glucagon
