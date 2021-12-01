@@ -1,3 +1,4 @@
+![](https://i.imgur.com/uNrDlVG.png)
 # Funciones de los [[lipidos]]
 
 - Almacenamiento de Energia: TAG
