@@ -37,6 +37,6 @@ Plantas:
 
 ### Transporte
 
-Una vez que pasa el estomago, se secretan sales biliares las cuales emulsionan los AG para que las _lipasas intestinales_[^]
+Una vez que pasa el estomago, se secretan sales biliares las cuales emulsionan los AG para que las _lipasas intestinales_ [^1]
 
-> _Lipasa pancreatica_; _Estearasa_; _Fosfolipasa_
+[^1]: _Lipasa pancreatica_; _Estearasa_; _Fosfolipasa_
