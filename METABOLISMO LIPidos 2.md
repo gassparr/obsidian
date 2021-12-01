@@ -69,7 +69,11 @@ Ocurre dentro de la [[mitocondria]] para eso los AG deben ingresar a la misma, c
 El acido graso utiliza _Carnitina aciltransferasa 1_ la cual retira el grupo CoA y en su lugar posiciona una **carnitina** formando un Acil-Carnitina, la cual utiliza una [[transportador]] antiporter el cual saca **carnitina** de a matriz mitocondrial e ingresa un Acil-Carnitina.
 La Acil-carnitina sera sustrato de la *Carnitina aciltransferasa 2* la cual remueve la carnitina, el AG resultante reacciona con CoASH para forma un AcilCoA (forma activada). 
 
-Una vez ocurrido la transporte, la Betaoxidacion consta de 4 pasos en donde los productos seran AcCoA y el AG (C-2)
+Una vez ocurrido la transporte, la Betaoxidacion consta de 4 pasos en donde los productos seran AcCoA y el AG (C-2):
+
+En un primer paso la *AcilCoA DH* oxida el AGCoA con cofactor FAD para formar FADH2
+
+> AGCoA + FAD –(*AcilCoA DH*)→ RC=CCoA + FADH2
 
 
 
