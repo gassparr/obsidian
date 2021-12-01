@@ -91,6 +91,17 @@ Una vez ocurrido la transporte, la Betaoxidacion consta de 4 pasos en donde los 
 **las enzimas de la beta oxidacion solo actuan en dobles enlaces trans, por lo que en AG insaturados (Cis), se necesitara el accionar de una enzima *isomerasa*, para oider continuar con la oxidacion**
 
 
+### Regulacion
+la regulacion es dependiente del ingreso de AG a la mitocondria, donde actua el *malonil CoA*, el cual proviene de la glucolisis y es un intermediario de la AcCoA. el *malonil CoA* inhibe la *carnitina Acil transferasa 1*.
+
+Glucosa –(glucolisis)→ AcCoA –(*ACCactiva*)→ Malonil CoA 
+
+La insulina activa la *proteina fosfatasa* la cual activa la *AcCoA carboxilasa* (ACC) desfosforilandola.
+
+ACC inactiva –(*protein fosfatasa*)→ ACC activada + Pi
+
+La ACC activa es la que permite la formacion de Malonil CoA a partir de AcCoA
+
 # Triacilglicerol
 
 ## movilizacion
