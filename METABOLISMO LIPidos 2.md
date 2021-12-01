@@ -51,15 +51,27 @@ La ecuacion global sera:
 
 La reaccion ocurre en pasos, en la membrana externa de la [[mitocondria]]:
 
- En primer lugar el AG reacciona con ATP para formar AG-Adenilato utilizando la _AcilCoA sintetasa_
+En primer lugar el AG reacciona con ATP para formar AG-Adenilato utilizando la _AcilCoA sintetasa_
 
-> ATP + AG -(_Acil CoA sintetasa_)→ AG-Adenilato
+> ATP + AG -(_Acil CoA sintetasa_)→ AG-Adenilata
 
- Siguiente a esto, el AG-Adenilato reaccionara con el CoASH utilizando _AcilCoA sintetasa_ para formar AcilCoA. Esta reaccion esta acoplada a la ruptura del pirofosfato.
+Siguiente a esto, el AG-Adenilato reaccionara con el CoASH utilizando _AcilCoA sintetasa_ para formar AcilCoA. Esta reaccion esta acoplada a la ruptura del pirofosfato.
 
 > AG-Adenilato + CoASH –(_AcilCoA Sintetasa_)→ AcilCoA + AMP
 >
 > PPi → 2Pi
+
+En su forma de AcilCoA se encuentra a dispocision dentro del [[citosol]], y tiene 2 destinos posible:
+
+### Beta oxidacion:
+
+Ocurre dentro de la [[mitocondria]] para eso los AG deben ingresar a la misma, cuando los AG<12C entran a la mitocondria sin transportador, en el caso que los AG>14C necesitaran del transporte con la lanzadera de **carnitina**.
+El acido graso utiliza _Carnitina aciltransferasa 1_ la cual retira el grupo CoA y en su lugar posiciona una **carnitina** formando un Acil-Carnitina, la cual utiliza una [[transportador]] antiporter el cual saca **carnitina** de a matriz mitocondrial e ingresa un Acil-Carnitina.
+La Acil-carnitina sera sustrato de la *Carnitina aciltransferasa 2* la cual remueve la carnitina, el AG resultante reacciona con CoASH para forma un AcilCoA (forma activada). 
+
+Una vez ocurrido la transporte, la Betaoxidacion consta de 4 pasos en donde los productos seran AcCoA y el AG (C-2)
+
+
 
 # Triacilglicerol
 
