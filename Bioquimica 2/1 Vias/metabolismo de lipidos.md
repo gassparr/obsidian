@@ -115,6 +115,7 @@ AG > 14C se iran oxidando para remover 2C en cada paso del proceso. Para asi obt
 Como los enlaces (-CH2-) en los AG son muy estables, El mecanismo desestabiliza esos enlaces y los rompe.
 Los primeros 3 pasos, crean un enlace (C-C) menos estables que en el que el(C-alpha) estara unido a dos (C=O) quedando (C-beta) disponible para ataque de CoASH
 
+Como producto, nos dara AcetilCoa, [[NADH]] y FAD
 ### Regulacion
 
 #### Corto plazo
