@@ -71,21 +71,21 @@ La Acil-carnitina sera sustrato de la *Carnitina aciltransferasa 2* la cual remu
 
 Una vez ocurrido la transporte, la Betaoxidacion consta de 4 pasos en donde los productos seran AcCoA y el AG (C-2):
 
-En un primer paso la *AcilCoA DH* oxida el AGCoA en los carbonos alpha y beta con cofactor FAD para formar FADH2
+1. En un primer paso la *AcilCoA DH* oxida el AGCoA en los carbonos alpha y beta con cofactor FAD para formar FADH2, los G
 
-> AGCoA + FAD –(*AcilCoA DH*)→ RC=C**(CO)CoA** + FADH2
+	> AGCoA + FAD –(*AcilCoA DH*)→ RC=C**(CO)CoA** + FADH2
 
-En un segundo paso como el doble enlace es mas reactivo, con el uso de *EnolCoA Hidratasa* ocurre una hidratracion
+2. En un segundo paso como el doble enlace es mas reactivo, con el uso de *EnolCoA Hidratasa* ocurre una hidratracion
 
-> RC=C**CCoA** + H2O –(*EnolCoA Hidratasa*)→ R(COH)C**(CO)CoA**
+	> RC=C**CCoA** + H2O –(*EnolCoA Hidratasa*)→ R(COH)C**(CO)CoA**
 
-El AG oxidado (-OH) reaccionara con NAD para formar NADH2 conn el uso de *beta hidroxiacilCoA DH*
+3. El AG oxidado (-OH) reaccionara con NAD para formar NADH2 conn el uso de *beta hidroxiacilCoA DH*
 
-> R(COH)C**CCoA** + NAD(+) –(*beta hidroxiacilCoA DH*)→ R(CO)C**(CO)CoA** + NADH2
+	> R(COH)C**CCoA** + NAD(+) –(*beta hidroxiacilCoA DH*)→ R(CO)C**(CO)CoA** + NADH2
 
-La B cetoacilCoA sera sustrata de la *thiolasa* la cual rompera el enlace Beta (CO)-C cuando reacciona con CoASH
+4. La B cetoacilCoA sera sustrata de la *thiolasa* la cual rompera el enlace Beta (CO)-C cuando reacciona con CoASH
 
-R(CO)C**CCoA** + CoASH –(*thiolasa*)→ R(CO)CoAS + **CH3(CO)CoA**
+	> R(CO)C**CCoA** + CoASH –(*thiolasa*)→ R(CO)CoAS + **CH3(CO)CoA**
 
 
 
