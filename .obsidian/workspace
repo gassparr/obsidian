@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "3fcbc6b35c0e7662",
+    "id": "1da98d1018e4e0b2",
     "type": "split",
     "children": [
       {
-        "id": "f4fc6c7d00127f84",
+        "id": "0bd8543d556aebc3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "METABOLISMO LIPidos 2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -32,7 +29,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "METABOLISMO LIPidos 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "METABOLISMO LIPidos 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "METABOLISMO LIPidos 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "METABOLISMO LIPidos 2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,17 +144,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "f4fc6c7d00127f84",
+  "active": "0bd8543d556aebc3",
   "lastOpenFiles": [
     "METABOLISMO LIPidos 2.md",
-    "Bioquimica 2/1 Vias/fotosintesis.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
-    "citosol.md",
     "conflict-files-obsidian-git.md",
-    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
     "metabolismo de lipidos.md",
+    "Bioquimica 2/1 Vias/fotosintesis.md",
+    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "cloroplastos.md"
+    "cloroplastos.md",
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
   ]
 }
