@@ -122,6 +122,6 @@ En mamiferos el Acetil Coa formado en higado tiene 2 destinos
 - [[Ciclo de Acido Citrico]]
 - Cuerpos Cetonicos
 
-Los cuerpos cetonicos se forman en la matriz mitocondrial hepatica, su funcion es 
+Los cuerpos cetonicos se forman en la matriz mitocondrial hepatica, su funcion es de fuente de energia quimica
 ![](https://i.imgur.com/L4aJ959.png)
 
