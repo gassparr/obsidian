@@ -118,6 +118,11 @@ la PKA tendra 2 destinos:
 La _lipasa_ hidroliza el TAG hacia AG los cuales pasan al torrente sanguineo, donde para su transporte se asocia con _albumina serica_.
 
 # Cuerpos Cetonicos
+
+![](https://i.imgur.com/L4aJ959.png)
+
 En mamiferos el Acetil Coa formado en higado tiene 2 destinos
 - [[Ciclo de Acido Citrico]]
 - Cuerpos Cetonicos
+
+
