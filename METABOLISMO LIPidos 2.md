@@ -49,12 +49,17 @@ La ecuacion global sera:
 
 > Ag + CoA + ATP → AcilCoA + AMP + 2Pi
 
-La reaccion ocurre en pasos.
-En primer lugar el AG reacciona con ATP para formar AG-Adenilato utilizando la *AcilCoA sintetasa*
+La reaccion ocurre en pasos, en la membrana externa de la [[mitocondria]]:
 
->ATP + AG -(_Acil CoA sintetasa_)→ AG-Adenilato
+ En primer lugar el AG reacciona con ATP para formar AG-Adenilato utilizando la _AcilCoA sintetasa_
 
-Siguiente a esto, 
+> ATP + AG -(_Acil CoA sintetasa_)→ AG-Adenilato
+
+ Siguiente a esto, el AG-Adenilato reaccionara con el CoASH utilizando _AcilCoA sintetasa_ para formar AcilCoA. Esta reaccion esta acoplada a la ruptura del pirofosfato.
+
+> AG-Adenilato + CoASH –(_AcilCoA Sintetasa_)→ AcilCoA + AMP
+>
+> PPi → 2Pi
 
 # Triacilglicerol
 
