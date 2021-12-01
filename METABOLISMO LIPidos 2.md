@@ -67,40 +67,43 @@ En su forma de AcilCoA se encuentra a dispocision dentro del [[citosol]], y tien
 
 Ocurre dentro de la [[mitocondria]] para eso los AG deben ingresar a la misma, cuando los AG<12C entran a la mitocondria sin transportador, en el caso que los AG>14C necesitaran del transporte con la lanzadera de **carnitina**.
 El acido graso utiliza _Carnitina aciltransferasa 1_ la cual retira el grupo CoA y en su lugar posiciona una **carnitina** formando un Acil-Carnitina, la cual utiliza una [[transportador]] antiporter el cual saca **carnitina** de a matriz mitocondrial e ingresa un Acil-Carnitina.
-La Acil-carnitina sera sustrato de la *Carnitina aciltransferasa 2* la cual remueve la carnitina, el AG resultante reacciona con CoASH para forma un AcilCoA (forma activada). 
+La Acil-carnitina sera sustrato de la _Carnitina aciltransferasa 2_ la cual remueve la carnitina, el AG resultante reacciona con CoASH para forma un AcilCoA (forma activada).
 
 Una vez ocurrido la transporte, la Betaoxidacion consta de 4 pasos en donde los productos seran AcCoA y el AG (C-2). Este AG(C-2) tendra sucesivos pasos de oxidacion:
 
-1. En un primer paso la *AcilCoA DH* oxida el AGCoA en los carbonos alpha y beta con cofactor FAD para formar FADH2, los FADH2 iran a la [[cadena transportadora de electrones]].
+1. En un primer paso la _AcilCoA DH_ oxida el AGCoA en los carbonos alpha y beta con cofactor FAD para formar FADH2, los FADH2 iran a la [[cadena transportadora de electrones]].
 
-	> AGCoA + FAD –(*AcilCoA DH*)→ RC=C**(CO)CoA** + FADH2
+    > AGCoA + FAD –(_AcilCoA DH_)→ RC=C**(CO)CoA** + FADH2
 
-2. En un segundo paso como el doble enlace es mas reactivo, con el uso de *EnolCoA Hidratasa* ocurre una hidratracion
+2. En un segundo paso como el doble enlace es mas reactivo, con el uso de _EnolCoA Hidratasa_ ocurre una hidratracion
 
-	> RC=C**CCoA** + H2O –(*EnolCoA Hidratasa*)→ R(COH)C**(CO)CoA**
+    > RC=C**CCoA** + H2O –(_EnolCoA Hidratasa_)→ R(COH)C**(CO)CoA**
 
-3. El AG oxidado (-OH) reaccionara con NAD para formar NADH2 conn el uso de *beta hidroxiacilCoA DH*
+3. El AG oxidado (-OH) reaccionara con NAD para formar NADH2 conn el uso de _beta hidroxiacilCoA DH_
 
-	> R(COH)C**CCoA** + NAD(+) –(*beta hidroxiacilCoA DH*)→ R(CO)C**(CO)CoA** + NADH2
+    > R(COH)C**CCoA** + NAD(+) –(_beta hidroxiacilCoA DH_)→ R(CO)C**(CO)CoA** + NADH2
 
-4. La B cetoacilCoA sera sustrata de la *thiolasa* la cual rompera el enlace Beta (CO)-C cuando reacciona con CoASH
+4. La B cetoacilCoA sera sustrata de la _thiolasa_ la cual rompera el enlace Beta (CO)-C cuando reacciona con CoASH
 
-	> R(CO)C**CCoA** + CoASH –(*thiolasa*)→ R(CO)CoAS + **CH3(CO)CoA**
+    > R(CO)C**CCoA** + CoASH –(_thiolasa_)→ R(CO)CoAS + **CH3(CO)CoA**
 
-
-**las enzimas de la beta oxidacion solo actuan en dobles enlaces trans, por lo que en AG insaturados (Cis), se necesitara el accionar de una enzima *isomerasa*, para oider continuar con la oxidacion**
-
+**las enzimas de la beta oxidacion solo actuan en dobles enlaces trans, por lo que en AG insaturados (Cis), se necesitara el accionar de una enzima _isomerasa_, para oider continuar con la oxidacion**
 
 ### Regulacion
-la regulacion es dependiente del ingreso de AG a la mitocondria, donde actua el *malonil CoA*, el cual proviene de la glucolisis y es un intermediario de la AcCoA. el *malonil CoA* inhibe la *carnitina Acil transferasa 1*.
 
-Glucosa –(glucolisis)→ AcCoA –(*ACCactiva*)→ Malonil CoA 
+la regulacion es dependiente del ingreso de AG a la mitocondria, donde actua el _malonil CoA_, el cual proviene de la glucolisis y es un intermediario de la AcCoA. el _malonil CoA_ inhibe la _carnitina Acil transferasa 1_.
 
-La insulina activa la *proteina fosfatasa* la cual activa la *AcCoA carboxilasa* (ACC) desfosforilandola.
+Glucosa –(glucolisis)→ AcCoA –(_ACC activa_)→ Malonil CoA
 
-ACC inactiva –(*protein fosfatasa*)→ ACC activada + Pi
+Activacion (glucosa alta):
+La insulina activa la _proteina fosfatasa_ la cual activa la _AcCoA carboxilasa_ (ACC) desfosforilandola.
 
-La ACC activa es la que permite la formacion de Malonil CoA a partir de AcCoA
+> _ACC_ inactiva –(_protein fosfatasa_)→ _ACC_ activada + Pi
+
+La _ACC_ activa es la que permite la formacion de Malonil CoA a partir de AcCoA
+
+Inhibicion (glucosa baja):
+El glucagon activa la _PKA_ la cual fosforila el _ACC_ asi inactivandolo
 
 # Triacilglicerol
 
@@ -113,3 +116,8 @@ la PKA tendra 2 destinos:
 - Fosforila Perilipina (Lipoproteinas en la superficie de la gota) para asi permitir el accionar de la _lipasa_.
 
 La _lipasa_ hidroliza el TAG hacia AG los cuales pasan al torrente sanguineo, donde para su transporte se asocia con _albumina serica_.
+
+# Cuerpos Cetonicos
+En mamiferos el Acetil Coa formado en higado tiene 2 destinos
+- [[Ciclo de Acido Citrico]]
+- Cuerpos Cetonicos
