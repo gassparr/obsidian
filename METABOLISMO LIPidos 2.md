@@ -42,7 +42,28 @@ Una vez que pasa el estomago, se secretan sales biliares las cuales emulsionan l
 [^1]: _Lipasa pancreatica_; _Estearasa_; _Fosfolipasa_
 [^2]: Lipoproteinas formadas por una capa de fosfolipidos con su cabeza polar hacia afuera y hacia adentro donde se encuentran los TAG su porcion hidrofobica
 
+## Oxidacion
 
-# Triacilgliceridos
+El AG tiene que ser activado con CoA utilizando _AcilCoA Sintetasa_, formando un Tioester lo cual disminuye drasticamente su Delta G (activandolo).
+La ecuacion global sera:
+
+> Ag + CoA + ATP → AcilCoA + AMP + 2Pi
+
+La reaccion ocurre en pasos.
+En primer lugar el AG reacciona con ATP para formar AG-Adenilato utilizando la *AcilCoA sintetasa*
+
+>ATP + AG -(_Acil CoA sintetasa_)→ AG-Adenilato
+
+Siguiente a esto, 
+
+# Triacilglicerol
+
 ## movilizacion
-mecanismo simil a [[Transduccion de señal]] excepto que cAMP activa la  PKA, la cual activa *lipasa* 
+
+mecanismo simil a [[Transduccion de señal]] excepto que cAMP activa la PKA,
+la PKA tendra 2 destinos:
+
+- activa la _lipasa_ (actua sobre gota de lipidos).
+- Fosforila Perilipina (Lipoproteinas en la superficie de la gota) para asi permitir el accionar de la _lipasa_.
+
+La _lipasa_ hidroliza el TAG hacia AG los cuales pasan al torrente sanguineo, donde para su transporte se asocia con _albumina serica_.
