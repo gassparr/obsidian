@@ -37,7 +37,7 @@ Plantas:
 
 ### Transporte
 
-Una vez que pasa el estomago, se secretan sales biliares las cuales emulsionan los AG para que las _lipasas intestinales_ [^1] formen TAG y DAG, lo cual permite el pasaje hacia los enterositos, en donde se asocian con lipoproteinas (ApoC-II). Los TAG al asociarse forman Chylomicrones [^2] las cuales son gotas de lipidos que sirven para el transporte, los tejidos tienen una _lipoprotein lipasa_ la cual rompera este chylomicron para asi poder integrar los TAG en el tejido.
+Una vez que pasa el estomago, se secretan sales biliares las cuales emulsionan los AG para que las _lipasas intestinales_ [^1] formen TAG y DAG, lo cual permite el pasaje hacia los enterositos, en donde se asocian con lipoproteinas (ApoC-II). Los TAG al asociarse forman **Chylomicrones** [^2] las cuales son gotas de lipidos que sirven para el transporte, los tejidos tienen una _lipoprotein lipasa_ la cual rompera este chylomicron para asi poder integrar los TAG en el tejido.
 
 [^1]: _Lipasa pancreatica_; _Estearasa_; _Fosfolipasa_
 [^2]: Lipoproteinas formadas por una capa de fosfolipidos con su cabeza polar hacia afuera y hacia adentro donde se encuentran los TAG su porcion hidrofobica
