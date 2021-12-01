@@ -105,6 +105,18 @@ La _ACC_ activa es la que permite la formacion de Malonil CoA a partir de AcCoA
 Inhibicion (glucosa baja):
 El glucagon activa la _PKA_ la cual fosforila el _ACC_ asi inactivandolo
 
+### En [[plantas]]
+
+Ocurre en sistema peroxisomal / glioxisomal, por lo tanto es diferente al sistema mitocondrial:
+
+- 1a ox. e- directamente a O2 → H2O2
+- NADH no reoxida, se exporta a mitocondria
+- AcCoA exportado para:
+    - precursores biosinteticos
+    - Oxidacion en [[mitocondria]]
+
+El AcCoA procedente no se utiliza para energia, sino que exclusivamente como precursor biosintetico
+
 # Triacilglicerol
 
 ## movilizacion
