@@ -13,6 +13,14 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "b00a34f60aad0756",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -32,7 +40,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,10 +155,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "f4fc6c7d00127f84",
+  "active": "b00a34f60aad0756",
   "lastOpenFiles": [
-    "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
     "conflict-files-obsidian-git.md",
+    "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
     "metabolismo de lipidos.md",
