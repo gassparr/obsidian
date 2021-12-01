@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "2d8fe9a9d9179f3a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -43,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Bioquimica 2/1 Vias/metabolismo de lipidos.md"
               }
             }
           }
@@ -163,10 +152,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "2d8fe9a9d9179f3a",
+  "active": "f4fc6c7d00127f84",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+    "conflict-files-obsidian-git.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Bioquimica 2/1 Vias/metabolismo de nitrogeno.md",
     "metabolismo de lipidos.md",

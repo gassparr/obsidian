@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/uNrDlVG.png)
-# Funciones de los [[lipidos]]
+- # Funciones de los [[lipidos]]
 
 - Almacenamiento de Energia: TAG
 - Componentes de membranas: Fosfolipidos, glicolipidos, esteroles
