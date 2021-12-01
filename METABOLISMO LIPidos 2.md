@@ -41,3 +41,8 @@ Una vez que pasa el estomago, se secretan sales biliares las cuales emulsionan l
 
 [^1]: _Lipasa pancreatica_; _Estearasa_; _Fosfolipasa_
 [^2]: Lipoproteinas formadas por una capa de fosfolipidos con su cabeza polar hacia afuera y hacia adentro donde se encuentran los TAG su porcion hidrofobica
+
+
+# Triacilgliceridos
+## movilizacion
+mecanismo simil a [[Transduccion de señal]] excepto que cAMP activa la  PKA, la cual activa *lipasa* 
