@@ -71,7 +71,7 @@ La Acil-carnitina sera sustrato de la *Carnitina aciltransferasa 2* la cual remu
 
 Una vez ocurrido la transporte, la Betaoxidacion consta de 4 pasos en donde los productos seran AcCoA y el AG (C-2):
 
-1. En un primer paso la *AcilCoA DH* oxida el AGCoA en los carbonos alpha y beta con cofactor FAD para formar FADH2, los G
+1. En un primer paso la *AcilCoA DH* oxida el AGCoA en los carbonos alpha y beta con cofactor FAD para formar FADH2, los FADH2 iran a la [[cadena transportadora de electrones]].
 
 	> AGCoA + FAD –(*AcilCoA DH*)→ RC=C**(CO)CoA** + FADH2
 
