@@ -5,10 +5,10 @@
   "autoPullInterval": 21,
   "autoPullOnBoot": true,
   "disablePush": false,
-  "pullBeforePush": false,
+  "pullBeforePush": true,
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
-  "updateSubmodules": false,
+  "updateSubmodules": true,
   "gitPath": ""
 }
