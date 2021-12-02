@@ -104,14 +104,17 @@ Se utiliza cofactor PLP, el cual transporta NH2.
 
 > Alpha-Cetoglutarato —(PLP; _aminotransferasa_)→ Glutamato
 
-## Desaminacion Oxidativa
+El glutamato, puede tomar 2 caminos:
+
+### Desaminacion Oxidativa
 
 _glutamato deshidrogenasa (GDH)_
 _en el higado_
 utiliza NAD(+) y NADP(+) indistintamente
 
-NH4 → urea
-alpha-cetoglutarato → [[Ciclo de Acido Citrico]] o [[gluconeogenesis]]
+> Glutamato + NADP+ –(*GDH*)→ Glutarato + NADPH
+> NH4 → [[Ciclo de la Urea]]
+> alpha-cetoglutarato → [[Ciclo de Acido Citrico]] o [[gluconeogenesis]]
 
 **Regulacion**
 
@@ -129,11 +132,12 @@ el amonio libre es toxico en mamiferos, pro lo que los aminoacidos Ala y Glm son
 degradacion de nucleotidos producen amonio.
 Glm sera transportador no toxico, desde medio extra hepatico hacia interior de **higado o rinon**
 
-> Glutamato + ATP —(_glutamina sintetasa_)→
-> glutamina P + **NH4(+)** —(_glutamina_ _sintetasa_)→
-> Glutamina —(_Glutaminasa_)→ glutamasa + **NH4(+)**
+> Glutamato + ATP —(_glutamina sintetasa_)→ Gama Glutamil P + ADP
+> glutamil P + **NH4(+)** —(_glutamina_ _sintetasa_)→ Glutamina + Pi
+> Glutamina + H2O  —(_Glutaminasa_)→ glutamasa + **NH4(+)**
 
 se puede ver como la glutamina P desde el medio externo, transporta el NH4 al interno
+el NH4 ira al [[Ciclo de la Urea]]
 
 ## Ciclo Glucosa-Ala
 
