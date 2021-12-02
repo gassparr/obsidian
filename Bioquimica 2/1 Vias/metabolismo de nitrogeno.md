@@ -16,6 +16,7 @@ la fraccion de energia metabolica obtenida por degradacion oxidativa de amino ac
 > los amino acidos **no se almacenan**, se reciclan y se convierten en glucosa
 
 # Introduccion a sistemas biologicos
+![](https://i.imgur.com/ktFDrNF.png)
 
 La fuente mas importante de N2 es el aire.
 
