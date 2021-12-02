@@ -67,7 +67,7 @@ Las cuales se sintetizan a traves:
 
 - Alosterica:
     Glutamato + NH3 + ATP –(_glutamina sintetasa_)→ Glutamina + ADP + Pi
-    Inhibido por productos de Glutamina:
+    Inhibido por **productos de Glutamina**:
 
     - Gly
     - Ala
