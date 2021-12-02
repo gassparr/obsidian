@@ -69,7 +69,7 @@ Las cuales se sintetizan a traves:
     Glutamato + NH3 + ATP –(_glutamina sintetasa_)→ Glutamina + ADP + Pi
     Inhibido por **productos de Glutamina**:
 
-    - Gly
+    - Gly       
     - Ala
     - Glucosamina 6P
     - Hys
