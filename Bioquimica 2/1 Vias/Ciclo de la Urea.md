@@ -1,6 +1,8 @@
+![450](https://i.imgur.com/BdljJGH.png)
 # Localizacion
 
 Ocurre en el [[citosol]] y [[mitocondria]] en celulas hepaticas
+
 
 # Mecanismo
 
@@ -35,6 +37,8 @@ Ocurre en el [[citosol]] y [[mitocondria]] en celulas hepaticas
 6. La Arginina continua el ciclo para dar ornitina y urea con el uso de _Arginasa_
 
     > Arginina + H2O -(Arginasa)→ Ornitina + Urea
+
+El fumarato puede ir hacia el [[Ciclo de Acido Citrico]]
 
 # Regulacion
 
