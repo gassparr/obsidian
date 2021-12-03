@@ -34,3 +34,6 @@ En el caso de la via Intrahipotalamica, tiene diferencia negativa ya que pasada 
 
 # punto d
 
+En el caso de los denervados e intactos, a los 15 minutos no se ve diferencia, ya que leptina estara ampliamente disponible para señalizar la fosforilacion del AMPk. Con el pasar de las 6 horas, se ve como los denervados pierden la presencia de AMPk fosforilado mientras que los intactos no. 
+ Esta diferencia en el tiempo, se atribuye a que como la leptina necesita el sistema nervioso simpatico hipotalamico.
+ En un inicio se encuentra disponible, pero con el pasar del tiempo, despues de consumirse la leptina inyecta, no habra mas forma de señalizar la fosforilacion debido a la incapacidad de la leptina a desplazarse hacia el musculo
