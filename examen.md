@@ -9,4 +9,15 @@ Se puede ver como la actividad de la AMPk tambien sera menor ya que el pico tien
 # punto b
 
 La respuesta de AMPk sera dependiente de la dosis de leptina, ya que en el grafico c, se puede observar como para el incremento de dosis, se ve una diferencia significativa de la actividad para los ratones Wild Type.
- Por otro lado, para los WT los valores
+ En el caso de las mutantes, no se ve diferencia en la actividad de AMPk
+ Por otro lado, para los WT los valores de Leptina en suero con la inyeccion intravenosa se ve un aumento de la concentracion con un posterior descenso a las 6 horas donde se ven valores cercanos a los originales.
+ 
+  En los ratones mutantes no se ve aumento de la actividad debido que como tienen modificado los receptores de leptina, no tendran la via de señalizacion hacia la AMPk
+  
+  # punto c
+  
+  Los valores de nuecleotidos para el caso de la Leptina I.H.P; y Leptina I.V(6h) no se ven modificaciones en las concentraciones respecto al control.
+   En el unico caso que se ve modificacions significativas es en la concentracion de AMP de la leptina I.V (15min).
+ 
+ Por via intravenosa se ve una inicial aumento de  AMP con una caida posterior a valores cercanos a los orginal
+ 
