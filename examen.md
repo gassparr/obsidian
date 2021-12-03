@@ -19,5 +19,12 @@ La respuesta de AMPk sera dependiente de la dosis de leptina, ya que en el grafi
   Los valores de nuecleotidos para el caso de la Leptina I.H.P; y Leptina I.V(6h) no se ven modificaciones en las concentraciones respecto al control.
    En el unico caso que se ve modificacions significativas es en la concentracion de AMP de la leptina I.V (15min).
  
- Por via intravenosa se ve una inicial aumento de  AMP con una caida posterior a valores cercanos a los orginal
+ Por via intravenosa se ve una inicial aumento de  AMP con una caida posterior a valores cercanos a los orginales. 
+ En el caso de la via intra hipotalamica no hay modificaciones.
  
+ 
+# punto d
+ 
+El objetivo de usar el AICAR, es de verificar si la leptina requere del sistema nerviosos simpatico hipotalamico, para la activacion del AMPk.
+Ya que en el caso de del AICAR se ve una misma actividad en los desnervados y los intactos.
+En el 
