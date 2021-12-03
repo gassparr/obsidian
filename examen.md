@@ -25,6 +25,12 @@ La respuesta de AMPk sera dependiente de la dosis de leptina, ya que en el grafi
  
 # punto d
  
-El objetivo de usar el AICAR, es de verificar si la leptina requere del sistema nerviosos simpatico hipotalamico, para la activacion del AMPk.
-Ya que en el caso de del AICAR se ve una misma actividad en los desnervados y los intactos.
-En el 
+El objetivo de usar el AICAR, es de verificar si la leptina requiere del sistema nerviosos simpatico hipotalamico, para la activacion del AMPk.
+
+# punto e
+
+La remocion del nervio ciatico,  para la leptina inyecta por via intravenosa en la actividad de AMPk no tendra efecto sobre la misma despues los 15 minutos, pero si pasadas las 6 horas.
+En el caso de la via Intrahipotalamica, tiene diferencia negativa ya que pasada 1 hora, se ve actividad cercana al control.
+
+# punto d
+
