@@ -18,7 +18,7 @@ En la naturaleza controlan poblaciones, en medios clinicos, sirven como control 
 ## Productores
 
 - Hongos filamentosos:
-	- Penicillium 
+	- [[Penicillium]] 
 	- Aspergillus
 	- Acremonium
 
