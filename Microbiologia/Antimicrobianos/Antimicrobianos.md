@@ -22,12 +22,12 @@ En la naturaleza controlan poblaciones, en medios clinicos, sirven como control 
 	- Aspergillus
 	- Acremonium
 
-- Actinomicetos:
+- [[Actinomicetos]]:
 	- Strptomuces
 	- Nocardia
 	- Micromonospora
 
-- Bacillaceae
+- [[Bacillaceae]]
 
 # Propiedades
 
