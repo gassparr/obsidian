@@ -202,5 +202,9 @@
   "ITS@@org-em": false,
   "ITS@@naked-em": false,
   "ITS@@bl-c": false,
-  "ITS@@footnote@@light": "#8996A0"
+  "ITS@@footnote@@light": "#8996A0",
+  "obsidian-prism-theme@@light-mark-highlight-style": "pt-highlight-style-borderandfilled-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-filled-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-light-accent-color-blue",
+  "obsidian-prism-theme@@background-type-lt": "pt-background-color-lt"
 }
