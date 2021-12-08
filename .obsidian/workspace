@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Actinomicetos.md",
+            "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Actinomicetos.md",
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actinomicetos.md",
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actinomicetos.md",
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actinomicetos.md"
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md"
               }
             }
           }
@@ -154,9 +154,9 @@
   },
   "active": "055c6fc70be6bd3e",
   "lastOpenFiles": [
-    "Actinomicetos.md",
     "Microbiologia/Antimicrobianos/Antimicrobianos.md",
-    "Bacillaceae.md",
+    "Microbiologia/Antimicrobianos/Actinomicetos.md",
+    "Microbiologia/Antimicrobianos/Bacillaceae.md",
     "Microbiologia/Antimicrobianos/Penicillium.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos 2.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
