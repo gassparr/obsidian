@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
+            "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
             "mode": "source"
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md"
+                "file": "Microbiologia/Antimicrobianos/Antimicrobianos.md"
               }
             }
           }
@@ -154,12 +154,12 @@
   },
   "active": "9d5d8c7696db6d9f",
   "lastOpenFiles": [
+    "Microbiologia/Antimicrobianos/Antimicrobianos.md",
+    "examen.md",
     "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
     "conflict-files-obsidian-git.md",
-    "Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Microbiologia/Antimicrobianos/Actinomicetos.md",
     "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "examen.md",
     "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
