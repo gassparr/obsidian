@@ -46,4 +46,3 @@ En la naturaleza controlan poblaciones, en medios clinicos, sirven como control 
 - Efecto sobre sintesis de acidos nucleicos
 - Analogos de metabolitos
 
-
