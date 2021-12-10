@@ -47,4 +47,3 @@ En la naturaleza controlan poblaciones, en medios clinicos, sirven como control 
 - Analogos de metabolitos
 
 
-vacadc
