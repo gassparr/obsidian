@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,
@@ -10,5 +10,6 @@
   "showLineNumber": false,
   "tabSize": 4,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "useMarkdownLinks": false
 }
