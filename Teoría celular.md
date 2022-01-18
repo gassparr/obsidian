@@ -12,4 +12,14 @@ se le agrega el concepto de Virchow, el cual plantea que
 
 debido a que
 
-## organizacion de las celulas es semeja
+## organizacion de las celulas es semejante
+
+La organizacion y el tamano de las celulas permite mantener la [[homeostasis]]. Debido a que las celulas experimentan cambios constantes en su entorno (Temp; pH; Tonicidad).
+ Para esto, se dividen los entornos a travez de la [[membrana citoplasmatica]].
+ Por otro lado, tienen [[organulos]] que son estructuras especializadas en diferentes actividades metabolicas
+
+
+ ## Tamanos de los microorganismos
+
+ Procariotas (1 - 10)um
+ Eucariotas(10 - 30)um
