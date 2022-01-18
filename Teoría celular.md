@@ -25,3 +25,5 @@ La organizacion y el tamano de las celulas permite mantener la [[homeostasis]]. 
  [[eucariota]]   (10 - 30) um
 
  El tamano esta limitado por la relacion entre el area superficial - volumen, ya que el area superficial debe ser lo suficientemente grande para intercambiar materiales con el entorno.
+
+ Para verse se utiliza la [[microscopia]]

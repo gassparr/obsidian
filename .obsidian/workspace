@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teoría celular.md",
+            "file": "Leyes de Mendel y sus excepciones.md",
             "mode": "source",
             "source": false
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Teoría celular.md",
+                "file": "Leyes de Mendel y sus excepciones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoría celular.md",
+                "file": "Leyes de Mendel y sus excepciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoría celular.md",
+                "file": "Leyes de Mendel y sus excepciones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoría celular.md"
+                "file": "Leyes de Mendel y sus excepciones.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "9d5d8c7696db6d9f",
   "lastOpenFiles": [
-    "Teoría celular.md",
+    "Leyes de Mendel y sus excepciones.md",
     "Biologia/Ideas Centrales.md",
+    "Teoría celular.md",
     "Biologia/Dogma central de la Biología molecular.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "examen.md",
     "Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
     "conflict-files-obsidian-git.md",
-    "Microbiologia/Antimicrobianos/Actinomicetos.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
+    "Microbiologia/Antimicrobianos/Actinomicetos.md"
   ]
 }
