@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leyes de Mendel y sus excepciones.md",
-            "mode": "source",
+            "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Leyes de Mendel y sus excepciones.md",
+                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leyes de Mendel y sus excepciones.md",
+                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leyes de Mendel y sus excepciones.md",
+                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leyes de Mendel y sus excepciones.md"
+                "file": "Biologia/Leyes de Mendel y sus excepciones.md"
               }
             }
           }
@@ -155,9 +155,9 @@
   },
   "active": "9d5d8c7696db6d9f",
   "lastOpenFiles": [
-    "Leyes de Mendel y sus excepciones.md",
+    "Biologia/Leyes de Mendel y sus excepciones.md",
     "Biologia/Ideas Centrales.md",
-    "Teoría celular.md",
+    "Biologia/Teoría celular.md",
     "Biologia/Dogma central de la Biología molecular.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "examen.md",

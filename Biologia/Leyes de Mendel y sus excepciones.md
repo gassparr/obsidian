@@ -11,6 +11,6 @@ Si se cruzan dos lineas puras para un determinado caracter, los desencientes de 
 > AA x aa = Aa + Aa + Aa + Aa
 
 | ... | A | A |
-| ---- | ---- | 
+| ---- | ---- | ---- |
 | a | Aa | Aa |
 | a | Aa | Aa |
