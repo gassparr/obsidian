@@ -37,7 +37,8 @@ Diferentes rasgos son heredados independientemente unos de los otros, sin relaci
 
  |  | AL | Al | aL | al |
 | ---- | ---- | ---- | --- | --- |
-		| AL | AA | Aa |
-| Al | Aa | aa |
-| aL | AA | Aa |
-| ala | Aa | aa |
+		| AL | AL-AL | Al-AL | aL-AL | al-AL |
+| Al | AL-Al | Al-Al | aL-Al | al-Al |
+| aL | AL-aL | Al-aL | aL-aL | al-AL |
+| al | AL-al | Al-al | aL-al | al-al |
+
