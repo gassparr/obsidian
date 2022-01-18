@@ -16,4 +16,7 @@ Tambien propone que solo el ADN puede duplicarse y por lo tanto, reproducirse pa
 	obtencion de proteinas in vitro, en sistema libre de celulas y en ausencia de [[ARN]]. 
 
 - Priones:
-	
+	Proteinas libres de acido nucleico que se propagan sin que se medie ningun tipo de duplicacion o transcipcion directa. 
+
+- Ribozimas:
+	[[ARN]] con propiedades autocataliticas, capaces de modificarse y duplicarse a si mismos en ausencia de proteina y [[ADN]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Dogma central de la Biología molecular.md",
+            "file": "Teoría celular.md",
             "mode": "source",
             "source": false
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Dogma central de la Biología molecular.md",
+                "file": "Teoría celular.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Dogma central de la Biología molecular.md",
+                "file": "Teoría celular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Dogma central de la Biología molecular.md",
+                "file": "Teoría celular.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Dogma central de la Biología molecular.md"
+                "file": "Teoría celular.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "9d5d8c7696db6d9f",
   "lastOpenFiles": [
-    "Biologia/Dogma central de la Biología molecular.md",
+    "Teoría celular.md",
     "Biologia/Ideas Centrales.md",
+    "Biologia/Dogma central de la Biología molecular.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "examen.md",
     "Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
     "conflict-files-obsidian-git.md",
     "Microbiologia/Antimicrobianos/Actinomicetos.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md"
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
   ]
 }
