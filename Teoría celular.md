@@ -21,5 +21,7 @@ La organizacion y el tamano de las celulas permite mantener la [[homeostasis]]. 
 
  ## Tamanos de los microorganismos
 
- Procariotas (1 - 10)um
- Eucariotas(10 - 30)um
+ [[procariota]] (1 - 10)   um
+ [[eucariota]]   (10 - 30) um
+
+ El tamano esta limitado por la relacion entre el area superficial - volumen, ya que el area superficial debe ser lo suficientemente grande para intercambiar materiales con el entorno.
