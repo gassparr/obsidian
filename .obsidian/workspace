@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+            "file": "Teoría de la evolución biológica.md",
             "mode": "source",
             "source": false
           }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+                "file": "Teoría de la evolución biológica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+                "file": "Teoría de la evolución biológica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+                "file": "Teoría de la evolución biológica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Leyes de Mendel y sus excepciones.md"
+                "file": "Teoría de la evolución biológica.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "9d5d8c7696db6d9f",
   "lastOpenFiles": [
+    "Teoría de la evolución biológica.md",
+    "Biologia/Ideas Centrales.md",
     "Biologia/Leyes de Mendel y sus excepciones.md",
     "Biologia/Dogma central de la Biología molecular.md",
     "conflict-files-obsidian-git.md",
-    "Biologia/Ideas Centrales.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "examen.md",
     "Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
-    "Microbiologia/Antimicrobianos/Actinomicetos.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
+    "Microbiologia/Antimicrobianos/Actinomicetos.md"
   ]
 }
