@@ -1,15 +1,4 @@
 {
   "baseFontSize": 16,
-<<<<<<< HEAD
-  "theme": "moonstone",
-  "translucency": true,
-  "cssTheme": "ITS Theme",
-=======
-  "theme": "obsidian",
-  "translucency": false,
-  "cssTheme": "Obsidian Nord",
->>>>>>> 7e25915848788e7cd721dbca6f145ce3f2454042
-  "enabledCssSnippets": [
-    "minimal_dracula_skin - Copy - Copy"
-  ]
+  "theme": "moonstone"
 }
