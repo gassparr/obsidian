@@ -15,4 +15,20 @@ Dos modelos principales explican como se originan ls precursores organicos
 
 # Primeras celulas
 **Hipotesis del primer metabolismo**:
-plantea que la vida comienza como un sistema autosustentable organizado que consiste de reacciones quimicas entre moleculas simples separadas del ambiente externo a traves de una frontera
+plantea que la vida comienza como un sistema autosustentable organizado que consiste de reacciones quimicas entre moleculas simples separadas del ambiente externo a traves de una frontera.
+Para ser autosustentable, la fuente de energia de las reacciones deben estar acopladas
+
+## Reproduccion molecular
+Se sugiere que el [[ARN]] fue la prmera molecula en evolucionar hacia una celula, y que al [[ADN]] y proteinas ocurrieron mas tarde.
+
+**Mundo del ARN**:
+Tierra prebiotica da origen a moleculas de [[ARN]] que funcionaban como enzimas y sustratos para su replicacion.
+[[ARN]] enzimatico se le llama *ribozima*. Se plantea que las *ribozimas* catalizaban sintesis de proteinas y otras reacciones biologicas.
+La incorporacion del [[ADN]] es ventajosa ya que es una molecula mas estable que la hebra unica de [[ARN]] por lo que se incorpora como almacenamiento de informacion
+# Evolucion biologica
+Celulas mas tempranas [[procariota]] heterotrofas, ya que no podian sintetizar moleculas organicas que necesitaban, por lo que las obtenian del ambiente. Consumiendo azucares, nucleotidos y aminoacidos formados espontaneamente en la tierra. 
+Las mismas eran anaerobeos y fermetaban.
+Con el pasar del tiempo el suministro de moleculas organicas disminuye, dejando sobrevivir a celulas que puedan obtener energia luminica.
+ Dando asi el crecimiento de los primeros autotrofos, los cuales utilizaban la [[fotosintesis]] para obtener potencial reductor y generar sus propios compuestos organicos a partir de moleculas ricas en hidrogeno.
+ Los autotrofos fotosinteticos que utilizan H2O son las cianobacterias, las cuales liberan oxigeno, el cual oxido los minerales oceanicos y 
+
