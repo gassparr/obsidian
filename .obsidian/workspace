@@ -131,7 +131,7 @@
               "state": {
                 "file": "Biologia/Leyes de Mendel y sus excepciones.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

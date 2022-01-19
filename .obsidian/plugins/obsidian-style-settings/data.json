@@ -3,13 +3,10 @@
   "minimal-style@@dark-mode-style": "minimal-dark",
   "minimal-style@@fancy-cursor": false,
   "minimal-style@@full-file-names": true,
-  "minimal-style@@focus-mode": false,
   "minimal-style@@borders-none": false,
   "minimal-style@@minimal-status-off": false,
   "minimal-style@@minimal-icons-off": false,
   "minimal-style@@minimal-folding": true,
-  "minimal-style@@minimal-rel-edit": true,
-  "minimal-style@@minimal-rel-preview": true,
   "minimal-style@@links-int-on": false,
   "minimal-style@@links-ext-on": false,
   "obsidian-california-coast-theme@@cc-fancy-cursor": true,
@@ -206,5 +203,6 @@
   "obsidian-prism-theme@@light-mark-highlight-style": "pt-highlight-style-borderandfilled-lt",
   "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-filled-lt",
   "obsidian-prism-theme@@light-accent-color-preset": "pt-light-accent-color-blue",
-  "obsidian-prism-theme@@background-type-lt": "pt-background-color-lt"
+  "obsidian-prism-theme@@background-type-lt": "pt-background-color-lt",
+  "minimal-style@@cursor": "default"
 }

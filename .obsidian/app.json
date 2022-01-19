@@ -10,5 +10,10 @@
   "showLineNumber": false,
   "tabSize": 4,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-AR"
+  ],
+  "spellcheck": true
 }
