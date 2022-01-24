@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": true,
-  "gitPath": "/var/lib/flatpak/app/io.github.shiftey.Desktop/current/active/export/share/applications/io.github.shiftey.Desktop.desktop",
+  "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "mergeOnPull": true,
