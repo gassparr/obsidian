@@ -1,0 +1,1 @@
+tipo de [[microscopia]] donde las muestras se visualizan por pequenas diferencias de contraste que existen entre ellas y el medio 

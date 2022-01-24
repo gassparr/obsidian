@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Bioquimica 2/1 Vias\"",
+      "color": {
+        "a": 1,
+        "rgb": 15235252
+      }
+    },
+    {
+      "query": "path:\"Bioquimica 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Microbiologia/Estructuras Microbianas\"",
+      "color": {
+        "a": 1,
+        "rgb": 6941900
+      }
+    },
+    {
+      "query": "path:Microbiologia/Microorganismos",
+      "color": {
+        "a": 1,
+        "rgb": 8454081
+      }
+    },
+    {
+      "query": "path:Microbiologia/microscopia",
+      "color": {
+        "a": 1,
+        "rgb": 7381260
+      }
+    },
+    {
+      "query": "path:Microbiologia",
+      "color": {
+        "a": 1,
+        "rgb": 2059078
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.6,
+  "nodeSizeMultiplier": 2.17307692307692,
+  "lineSizeMultiplier": 0.312367864693446,
+  "collapse-forces": true,
+  "centerStrength": 0.525303911205074,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 346,
+  "scale": 0.1565129659801547,
+  "close": false
+}
