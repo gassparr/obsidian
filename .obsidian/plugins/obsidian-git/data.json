@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{date}} {{gaspar}}",
+  "commitMessage": "{{date}}",
   "commitDateFormat": "DD-MM-YY HH:mm",
   "autoSaveInterval": 20,
   "autoPullInterval": 21,
@@ -10,9 +10,5 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": true,
-  "gitPath": "/var/lib/flatpak/app/io.github.shiftey.Desktop/current/active/export/share/applications/io.github.shiftey.Desktop.desktop",
-  "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
-  "mergeOnPull": true,
-  "treeStructure": false
+  "gitPath": ""
 }
