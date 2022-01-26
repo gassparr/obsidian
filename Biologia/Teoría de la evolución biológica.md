@@ -34,4 +34,5 @@ Con el pasar del tiempo el suministro de moleculas organicas disminuye, dejando 
  Los autotrofos fotosinteticos que utilizan H2O son las cianobacterias, las cuales liberan oxigeno, el cual oxido los minerales oceanicos y terrestres. una vez ocurrido, se empieza a acumular O2 en la atmosfera
 
 **Atmosfera Oxidante**
-Formacion de aerobeos.
+Formacion de aerobios debido a la adaptacion de las celulas ya que la concentracion de O2 atmosferico aumenta, estos primeros aerobios introducen la [[cadena transportadora de electrones]] y la [[fosforilacion oxidativa]].
+Estas formas de metabolismo dan lugar para la **Teoria endosimbionte**, donde se forman celulas protoeucariotas, las cuales adquieren la [[fagocitosis]]

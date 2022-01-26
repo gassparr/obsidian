@@ -4,8 +4,8 @@
 - [x]  [[Teoría celular]]
 - [ ]  [[Relación estructura-función y modelos biológicos]]
 - [x]  [[Leyes de Mendel y sus excepciones]]
-- [ ]  [[Teoría de la evolución biológica]]
-- [ ]  [[Teoría endosimbiótica seriada]]
+- [x]  [[Teoría de la evolución biológica]]
+- [x]  [[Teoría endosimbiótica seriada]]
 - [ ]  [[Niveles de organización y propiedades emergentes]]
 
 # Procesos biológicos:
