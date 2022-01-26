@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Metabolismo.md",
+            "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Metabolismo.md",
+                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Metabolismo.md",
+                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Metabolismo.md"
+                "file": "Bioquimica 2/Sustratos y Productos/ATP.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Biologia/Metabolismo.md",
     "Biologia/Ideas Centrales.md",
     "Microbiologia/Estructuras Microbianas/cloroplastos.md",
@@ -164,7 +165,6 @@
     "Biologia/Teoría de la evolución biológica.md",
     "Biologia/Leyes de Mendel y sus excepciones.md",
     "Biologia/Dogma central de la Biología molecular.md",
-    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
-    "examen.md"
+    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md"
   ]
 }
