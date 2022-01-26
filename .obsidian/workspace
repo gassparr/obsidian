@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
+            "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,11 +34,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
+                "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -57,7 +57,7 @@
                   "repelStrength": 18.8794926004228,
                   "linkStrength": 1,
                   "linkDistance": 500,
-                  "scale": 0.343789864569304,
+                  "scale": 0.16795715563927036,
                   "close": true
                 }
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
+                "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/ATP.md"
+                "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
+    "Biologia/movimiento.md",
+    "Biologia/Ideas Centrales.md",
+    "Biologia/Relación estructura-función y modelos biológicos.md",
+    "Biologia/Teoría endosimbiótica seriada.md",
     "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Biologia/Metabolismo.md",
-    "Biologia/Ideas Centrales.md",
     "Microbiologia/Estructuras Microbianas/cloroplastos.md",
     "Biologia/Niveles de organización y propiedades emergentes.md",
-    "Biologia/Teoría celular.md",
-    "Biologia/Teoría de la evolución biológica.md",
-    "Biologia/Leyes de Mendel y sus excepciones.md",
-    "Biologia/Dogma central de la Biología molecular.md",
-    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md"
+    "Biologia/Teoría celular.md"
   ]
 }

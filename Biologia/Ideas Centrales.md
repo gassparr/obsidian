@@ -1,12 +1,12 @@
 # Ideas centrales:
 
-- [x] [[Dogma central de la Biología molecular]] 
-- [x]  [[Teoría celular]]
-- [x]  [[Relación estructura-función y modelos biológicos]]
-- [x]  [[Leyes de Mendel y sus excepciones]]
-- [x]  [[Teoría de la evolución biológica]]
-- [x]  [[Teoría endosimbiótica seriada]]
-- [x]  [[Niveles de organización y propiedades emergentes]]
+- [ ] [[Dogma central de la Biología molecular]] 
+- [ ]  [[Teoría celular]]
+- [ ]  [[Relación estructura-función y modelos biológicos]]
+- [ ]  [[Leyes de Mendel y sus excepciones]]
+- [ ]  [[Teoría de la evolución biológica]]
+- [ ]  [[Teoría endosimbiótica seriada]]
+- [ ]  [[Niveles de organización y propiedades emergentes]]
 
 # Procesos biológicos:
 

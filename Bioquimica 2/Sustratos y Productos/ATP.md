@@ -9,3 +9,5 @@ La adenosina se puede encontrar en 4 formas:
 - Monofosfato (AMP)
 - Difosfato (ADP)
 - Trifosfato (ATP)
+
+![](https://i.imgur.com/lrAM5bs.png)
