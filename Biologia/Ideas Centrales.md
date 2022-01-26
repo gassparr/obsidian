@@ -2,11 +2,11 @@
 
 - [x] [[Dogma central de la Biología molecular]] 
 - [x]  [[Teoría celular]]
-- [ ]  [[Relación estructura-función y modelos biológicos]]
+- [x]  [[Relación estructura-función y modelos biológicos]]
 - [x]  [[Leyes de Mendel y sus excepciones]]
 - [x]  [[Teoría de la evolución biológica]]
 - [x]  [[Teoría endosimbiótica seriada]]
-- [ ]  [[Niveles de organización y propiedades emergentes]]
+- [x]  [[Niveles de organización y propiedades emergentes]]
 
 # Procesos biológicos:
 
