@@ -42,3 +42,43 @@ Diferentes rasgos son heredados independientemente unos de los otros, sin relaci
 | aL | AL-aL | Al-aL | aL-aL | al-AL |
 | al | AL-al | Al-al | aL-al | al-al |
 
+
+# Excepciones
+## Variaciones que involucran genes individuales
+
+-   **Alelos múltiples.** 
+	Mendel estudió solo dos alelos de los genes de sus guisantes, pero las poblaciones reales frecuentemente tienen múltiples alelos de un gen dado.
+    
+-   **Dominancia incompleta.** 
+	Dos alelos pueden producir un fenotipo intermedio cuando ambos están presentes, en lugar de que uno determine completamente el fenotipo.
+    
+-   **Codominancia**. 
+	Dos alelos pueden expresarse de manera simultánea cuando ambos están presentes, en lugar de que uno determine completamente el fenotipo.
+    
+-   **Pleitropía.** 
+	Algunos genes afectan muchas características diferentes, no solo una característica.
+    
+-   **Alelos letales.** 
+	Algunos genes tienen alelos que previenen la supervivencia cuando son homocigotos o hetereocigotos.
+    
+-   **Ligamiento al sexo.** 
+	Los genes que llevan los cromosomas sexuales, como el cromosoma X de los humanos, muestran diferentes patrones de herencia que los genes en los cromosomas autosómicos (no sexuales).
+
+## Variaciones que involucran múltiples genes
+-   **Genes complementarios.** 
+	Alelos recesivos de dos diferentes genes pueden dar el mismo fenotipo.
+    
+-   **Epistasis.** 
+	Los alelos de un gen pueden enmascarar o encubrir los alelos de otro gen
+
+
+
+
+
+## Herencia poligénica y efectos ambientales
+
+-   **Herencia poligénica,** 
+	Algunas características son **poligénicas**, que significa que están controladas por una serie de diferentes genes. En la herencia poligénica, los rasgos a menudo forman un espectro fenotípico en lugar de caer en categorías bien definidas.
+    
+-   **Efectos ambientales.** 
+	La mayoría de las características del mundo real se determinan no solo por el genotipo, sino también por los factores ambientales que influyen en cómo se traduce el genotipo en fenotipo.

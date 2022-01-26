@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+            "file": "Biologia/Teoría de la evolución biológica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+                "file": "Biologia/Teoría de la evolución biológica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Leyes de Mendel y sus excepciones.md",
+                "file": "Biologia/Teoría de la evolución biológica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Leyes de Mendel y sus excepciones.md"
+                "file": "Biologia/Teoría de la evolución biológica.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
-    "Biologia/Leyes de Mendel y sus excepciones.md",
+    "Biologia/Teoría de la evolución biológica.md",
     "Biologia/Ideas Centrales.md",
-    "Biologia/Teoría celular.md",
+    "Biologia/Leyes de Mendel y sus excepciones.md",
     "Biologia/Dogma central de la Biología molecular.md",
+    "Biologia/Teoría celular.md",
     "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "examen.md",
     "Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Bioquimica 2/2 Enzimas/glucogeno fosforilasa.md",
-    "conflict-files-obsidian-git.md",
-    "Microbiologia/Antimicrobianos/Actinomicetos.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

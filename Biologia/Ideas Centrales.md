@@ -3,7 +3,7 @@
 - [x] [[Dogma central de la Biología molecular]] 
 - [x]  [[Teoría celular]]
 - [ ]  [[Relación estructura-función y modelos biológicos]]
-- [ ]  [[Leyes de Mendel y sus excepciones]]
+- [x]  [[Leyes de Mendel y sus excepciones]]
 - [ ]  [[Teoría de la evolución biológica]]
 - [ ]  [[Teoría endosimbiótica seriada]]
 - [ ]  [[Niveles de organización y propiedades emergentes]]
