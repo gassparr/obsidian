@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
+            "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
+                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
+                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/Citoesqueleto.md"
+                "file": "Bioquimica 2/Sustratos y Productos/ATP.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Bioquimica 2/Sustratos y Productos/ATP.md",
+    "Biologia/Procesos Biologicos/Metabolismo.md",
+    "Biologia/Ideas Centrales.md",
+    "Biologia/Ideas Centrales/Teoría endosimbiótica seriada.md",
     "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
     "Biologia/movimiento.md",
-    "Biologia/Ideas Centrales.md",
-    "Biologia/Relación estructura-función y modelos biológicos.md",
-    "Biologia/Teoría endosimbiótica seriada.md",
-    "Bioquimica 2/Sustratos y Productos/ATP.md",
-    "Biologia/Metabolismo.md",
+    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md",
     "Microbiologia/Estructuras Microbianas/cloroplastos.md",
-    "Biologia/Niveles de organización y propiedades emergentes.md",
-    "Biologia/Teoría celular.md"
+    "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
+    "Biologia/Ideas Centrales/Teoría celular.md"
   ]
 }
