@@ -20,4 +20,8 @@ En el metabolismo quimiotrofo, ocurre la oxidacion de moleculas organicas, lo cu
  >
 > [[NAD+]] + 2H --> [[NADH]] + H(+)
 
-Existen muchos sustratos en las oxidaciones biologicas
+Existen muchos sustratos en las oxidaciones biologicas. dentro de ellos compuestos inorganicos, como por ejemplo, formas reducidas de hierro, azufre o nitrogeno como fuente de energia.
+Tambien se utilizan compuestos organicos, como por ejemplo, la glucosa.
+
+**Glucosa**
+La oxidacion de la misma libera mas energia cuando esta en presencia de oxigeno
