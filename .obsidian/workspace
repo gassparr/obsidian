@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
+            "file": "Biologia/Procesos Biologicos/Metabolismo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
+                "file": "Biologia/Procesos Biologicos/Metabolismo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/ATP.md",
+                "file": "Biologia/Procesos Biologicos/Metabolismo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/Sustratos y Productos/ATP.md"
+                "file": "Biologia/Procesos Biologicos/Metabolismo.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
-    "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
+    "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Biologia/Ideas Centrales.md",
     "Biologia/Ideas Centrales/Teoría endosimbiótica seriada.md",
     "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",

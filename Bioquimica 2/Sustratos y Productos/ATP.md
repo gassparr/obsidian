@@ -13,3 +13,5 @@ La adenosina se puede encontrar en 4 formas:
 ![](https://i.imgur.com/lrAM5bs.png)
 
 > ATP + H2O <--> ADP + Pi + H2               AG= -7.3 kcal/mol
+
+El ATP funciona no solo como donador de P, sino que tambien como aceptor 

@@ -1,12 +1,10 @@
 Los [[microorganismo]] no pueden vivir sin fuentes de energia y sin fuentes quimicas, ya que sin esto no pueden sintetizar precursores biologicos.
 
-Las Rutas metabolicas se dividen en dos tipos generales.
+Las Rutas metabolicas se dividen en dos tipos generales. Las 2 mediadas por [[ATP]]
 
 
 ## Anabolisis
 Son rutas endergonicas y los productos de estas vias tienen un nivel de organizacion mayor
-
-- ### [[ATP]]
 
 ## Catabolisis
 Son rutas exergonicas y los productos de estas vias tienen un nivel de organizacion menor.
