@@ -13,3 +13,10 @@ Son rutas exergonicas y los productos de estas vias tienen un nivel de organizac
 
 ## Energetico quimiotrofo
 En el metabolismo quimiotrofo, ocurre la oxidacion de moleculas organicas, lo cual implica para la liberacion de e(-), estas reacciones son de deshidrogenacion, por lo que tambien se libera H(+)
+ La mayoria de las reacciones estan catalizadas por *deshidrogenasas*.
+ Ninguna de las reacciones de oxidaciones pueden ocurrir de forma aislada, ya que los electrones tienen que poder transferirse a otra molecula, por lo que las reacciones oxidacion y reduccion ocurren en simultaneo.
+
+ >**Coenzima [[NAD+]] funciona como aceptor de electrones**
+ >
+> [[NAD+]] + 2H --> [[NADH]] + H(+)
+
