@@ -2,10 +2,14 @@ Los [[microorganismo]] no pueden vivir sin fuentes de energia y sin fuentes quim
 
 Las Rutas metabolicas se dividen en dos tipos generales. Las 2 mediadas por [[ATP]]
 
-
-## Anabolisis
+# Rutas
+## Anabolicas
 Son rutas endergonicas y los productos de estas vias tienen un nivel de organizacion mayor
 
-## Catabolisis
+## Catabolicas
 Son rutas exergonicas y los productos de estas vias tienen un nivel de organizacion menor.
 	Estas rutas tienen dos funciones complementarias. Por un lado la energia liberada se utiliza para las vias anabolicas y por otro, se obtienen los elementos precursores tambien utilizadas por las vias anabolicas.
+# Tipos de Metabolismo
+
+## Energetico quimiotrofo
+En el metabolismo quimiotrofo, ocurre la oxidacion de moleculas organicas, lo cual implica para la liberacion de e(-), estas reacciones son de deshidrogenacion, por lo que tambien se libera H(+)
