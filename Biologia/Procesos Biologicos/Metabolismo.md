@@ -20,3 +20,4 @@ En el metabolismo quimiotrofo, ocurre la oxidacion de moleculas organicas, lo cu
  >
 > [[NAD+]] + 2H --> [[NADH]] + H(+)
 
+Existen muchos sustratos en las oxidaciones biologicas
