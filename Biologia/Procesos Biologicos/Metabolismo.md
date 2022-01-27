@@ -24,4 +24,5 @@ Existen muchos sustratos en las oxidaciones biologicas. dentro de ellos compuest
 Tambien se utilizan compuestos organicos, como por ejemplo, la glucosa.
 
 **Glucosa**
-La oxidacion de la misma libera mas energia cuando esta en presencia de oxigeno
+La oxidacion de la misma libera mas energia cuando esta en presencia de oxigeno.
+El catabolismo de la glucosa en medio con oxigeno se denomina respiracion aerobia, aun asi tambien existe la respiracion anaerobia.
