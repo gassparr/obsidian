@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Ideas Centrales.md",
+            "file": "Microbiologia/Estructuras Microbianas/mitocondria.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Ideas Centrales.md",
+                "file": "Microbiologia/Estructuras Microbianas/mitocondria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 18.8794926004228,
                   "linkStrength": 1,
                   "linkDistance": 500,
-                  "scale": 0.0686009790971379,
+                  "scale": 0.20089639826670297,
                   "close": true
                 }
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales.md",
+                "file": "Microbiologia/Estructuras Microbianas/mitocondria.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Ideas Centrales.md"
+                "file": "Microbiologia/Estructuras Microbianas/mitocondria.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Microbiologia/Estructuras Microbianas/mitocondria.md",
+    "Biologia/Bioenergética.md",
     "Biologia/Ideas Centrales.md",
     "Comunicación celular y transducción de señales.md",
-    "Biologia/Bioenergética.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
     "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Biologia/Ideas Centrales/Teoría endosimbiótica seriada.md",
     "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
     "Biologia/movimiento.md",
-    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md",
-    "Microbiologia/Estructuras Microbianas/cloroplastos.md"
+    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md"
   ]
 }
