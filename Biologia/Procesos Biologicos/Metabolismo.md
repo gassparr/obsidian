@@ -26,3 +26,17 @@ Tambien se utilizan compuestos organicos, como por ejemplo, la glucosa.
 **Glucosa**
 La oxidacion de la misma libera mas energia cuando esta en presencia de oxigeno.
 El catabolismo de la glucosa en medio con oxigeno se denomina respiracion aerobia, aun asi tambien existe la respiracion anaerobia.
+
+**Requerimientos de Oxigeno**
+Clasificacion:
+- Aerobios estrictos 
+	Necesidad absoluta de oxigeno.
+	Para oxidar la glucosa, esta pasa por la via de la [[glucolisis]]
+
+- Anaerobios estrictos:
+	No pueden utilizar O2 como aceptor final de e(-).
+	Para oxidar la glucosa utilizan la fermentacion
+
+- Facultativos
+	pueden desarrollarse tanto en presencia como ausencia de O2,
+	aun asi principalmente utilizan respiracion aerobia cuando se puede.

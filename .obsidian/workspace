@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Procesos Biologicos/Metabolismo.md",
+            "file": "Biologia/Ideas Centrales.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Metabolismo.md",
+                "file": "Biologia/Ideas Centrales.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 18.8794926004228,
                   "linkStrength": 1,
                   "linkDistance": 500,
-                  "scale": 0.16795715563927036,
+                  "scale": 0.0686009790971379,
                   "close": true
                 }
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Metabolismo.md",
+                "file": "Biologia/Ideas Centrales.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Metabolismo.md"
+                "file": "Biologia/Ideas Centrales.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Biologia/Ideas Centrales.md",
+    "Comunicación celular y transducción de señales.md",
+    "Biologia/Bioenergética.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
     "Bioquimica 2/Sustratos y Productos/ATP.md",
-    "Biologia/Ideas Centrales.md",
     "Biologia/Ideas Centrales/Teoría endosimbiótica seriada.md",
     "Microbiologia/Estructuras Microbianas/Citoesqueleto.md",
     "Biologia/movimiento.md",
     "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md",
-    "Microbiologia/Estructuras Microbianas/cloroplastos.md",
-    "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
-    "Biologia/Ideas Centrales/Teoría celular.md"
+    "Microbiologia/Estructuras Microbianas/cloroplastos.md"
   ]
 }
