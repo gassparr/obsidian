@@ -6,6 +6,784 @@ if you want to view the source visit the plugins github repository
 'use strict';
 
 var obsidian = require('obsidian');
+var state = require('@codemirror/state');
+var view = require('@codemirror/view');
+
+function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
+
+var obsidian__default = /*#__PURE__*/_interopDefaultLegacy(obsidian);
+
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+
+function __awaiter(thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+}
+
+function createCommonjsModule(fn, basedir, module) {
+	return module = {
+		path: basedir,
+		exports: {},
+		require: function (path, base) {
+			return commonjsRequire(path, (base === undefined || base === null) ? module.path : base);
+		}
+	}, fn(module, module.exports), module.exports;
+}
+
+function commonjsRequire () {
+	throw new Error('Dynamic requires are not currently supported by @rollup/plugin-commonjs');
+}
+
+var main = createCommonjsModule(function (module, exports) {
+
+Object.defineProperty(exports, '__esModule', { value: true });
+
+
+
+const DEFAULT_DAILY_NOTE_FORMAT = "YYYY-MM-DD";
+const DEFAULT_WEEKLY_NOTE_FORMAT = "gggg-[W]ww";
+const DEFAULT_MONTHLY_NOTE_FORMAT = "YYYY-MM";
+const DEFAULT_QUARTERLY_NOTE_FORMAT = "YYYY-[Q]Q";
+const DEFAULT_YEARLY_NOTE_FORMAT = "YYYY";
+
+function shouldUsePeriodicNotesSettings(periodicity) {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const periodicNotes = window.app.plugins.getPlugin("periodic-notes");
+    return periodicNotes && periodicNotes.settings?.[periodicity]?.enabled;
+}
+/**
+ * Read the user settings for the `daily-notes` plugin
+ * to keep behavior of creating a new note in-sync.
+ */
+function getDailyNoteSettings() {
+    try {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const { internalPlugins, plugins } = window.app;
+        if (shouldUsePeriodicNotesSettings("daily")) {
+            const { format, folder, template } = plugins.getPlugin("periodic-notes")?.settings?.daily || {};
+            return {
+                format: format || DEFAULT_DAILY_NOTE_FORMAT,
+                folder: folder?.trim() || "",
+                template: template?.trim() || "",
+            };
+        }
+        const { folder, format, template } = internalPlugins.getPluginById("daily-notes")?.instance?.options || {};
+        return {
+            format: format || DEFAULT_DAILY_NOTE_FORMAT,
+            folder: folder?.trim() || "",
+            template: template?.trim() || "",
+        };
+    }
+    catch (err) {
+        console.info("No custom daily note settings found!", err);
+    }
+}
+/**
+ * Read the user settings for the `weekly-notes` plugin
+ * to keep behavior of creating a new note in-sync.
+ */
+function getWeeklyNoteSettings() {
+    try {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const pluginManager = window.app.plugins;
+        const calendarSettings = pluginManager.getPlugin("calendar")?.options;
+        const periodicNotesSettings = pluginManager.getPlugin("periodic-notes")?.settings?.weekly;
+        if (shouldUsePeriodicNotesSettings("weekly")) {
+            return {
+                format: periodicNotesSettings.format || DEFAULT_WEEKLY_NOTE_FORMAT,
+                folder: periodicNotesSettings.folder?.trim() || "",
+                template: periodicNotesSettings.template?.trim() || "",
+            };
+        }
+        const settings = calendarSettings || {};
+        return {
+            format: settings.weeklyNoteFormat || DEFAULT_WEEKLY_NOTE_FORMAT,
+            folder: settings.weeklyNoteFolder?.trim() || "",
+            template: settings.weeklyNoteTemplate?.trim() || "",
+        };
+    }
+    catch (err) {
+        console.info("No custom weekly note settings found!", err);
+    }
+}
+/**
+ * Read the user settings for the `periodic-notes` plugin
+ * to keep behavior of creating a new note in-sync.
+ */
+function getMonthlyNoteSettings() {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const pluginManager = window.app.plugins;
+    try {
+        const settings = (shouldUsePeriodicNotesSettings("monthly") &&
+            pluginManager.getPlugin("periodic-notes")?.settings?.monthly) ||
+            {};
+        return {
+            format: settings.format || DEFAULT_MONTHLY_NOTE_FORMAT,
+            folder: settings.folder?.trim() || "",
+            template: settings.template?.trim() || "",
+        };
+    }
+    catch (err) {
+        console.info("No custom monthly note settings found!", err);
+    }
+}
+/**
+ * Read the user settings for the `periodic-notes` plugin
+ * to keep behavior of creating a new note in-sync.
+ */
+function getQuarterlyNoteSettings() {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const pluginManager = window.app.plugins;
+    try {
+        const settings = (shouldUsePeriodicNotesSettings("quarterly") &&
+            pluginManager.getPlugin("periodic-notes")?.settings?.quarterly) ||
+            {};
+        return {
+            format: settings.format || DEFAULT_QUARTERLY_NOTE_FORMAT,
+            folder: settings.folder?.trim() || "",
+            template: settings.template?.trim() || "",
+        };
+    }
+    catch (err) {
+        console.info("No custom quarterly note settings found!", err);
+    }
+}
+/**
+ * Read the user settings for the `periodic-notes` plugin
+ * to keep behavior of creating a new note in-sync.
+ */
+function getYearlyNoteSettings() {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const pluginManager = window.app.plugins;
+    try {
+        const settings = (shouldUsePeriodicNotesSettings("yearly") &&
+            pluginManager.getPlugin("periodic-notes")?.settings?.yearly) ||
+            {};
+        return {
+            format: settings.format || DEFAULT_YEARLY_NOTE_FORMAT,
+            folder: settings.folder?.trim() || "",
+            template: settings.template?.trim() || "",
+        };
+    }
+    catch (err) {
+        console.info("No custom yearly note settings found!", err);
+    }
+}
+
+// Credit: @creationix/path.js
+function join(...partSegments) {
+    // Split the inputs into a list of path commands.
+    let parts = [];
+    for (let i = 0, l = partSegments.length; i < l; i++) {
+        parts = parts.concat(partSegments[i].split("/"));
+    }
+    // Interpret the path commands to get the new resolved path.
+    const newParts = [];
+    for (let i = 0, l = parts.length; i < l; i++) {
+        const part = parts[i];
+        // Remove leading and trailing slashes
+        // Also remove "." segments
+        if (!part || part === ".")
+            continue;
+        // Push new path segments.
+        else
+            newParts.push(part);
+    }
+    // Preserve the initial slash if there was one.
+    if (parts[0] === "")
+        newParts.unshift("");
+    // Turn back into a single string path.
+    return newParts.join("/");
+}
+function basename(fullPath) {
+    let base = fullPath.substring(fullPath.lastIndexOf("/") + 1);
+    if (base.lastIndexOf(".") != -1)
+        base = base.substring(0, base.lastIndexOf("."));
+    return base;
+}
+async function ensureFolderExists(path) {
+    const dirs = path.replace(/\\/g, "/").split("/");
+    dirs.pop(); // remove basename
+    if (dirs.length) {
+        const dir = join(...dirs);
+        if (!window.app.vault.getAbstractFileByPath(dir)) {
+            await window.app.vault.createFolder(dir);
+        }
+    }
+}
+async function getNotePath(directory, filename) {
+    if (!filename.endsWith(".md")) {
+        filename += ".md";
+    }
+    const path = obsidian__default['default'].normalizePath(join(directory, filename));
+    await ensureFolderExists(path);
+    return path;
+}
+async function getTemplateInfo(template) {
+    const { metadataCache, vault } = window.app;
+    const templatePath = obsidian__default['default'].normalizePath(template);
+    if (templatePath === "/") {
+        return Promise.resolve(["", null]);
+    }
+    try {
+        const templateFile = metadataCache.getFirstLinkpathDest(templatePath, "");
+        const contents = await vault.cachedRead(templateFile);
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const IFoldInfo = window.app.foldManager.load(templateFile);
+        return [contents, IFoldInfo];
+    }
+    catch (err) {
+        console.error(`Failed to read the daily note template '${templatePath}'`, err);
+        new obsidian__default['default'].Notice("Failed to read the daily note template");
+        return ["", null];
+    }
+}
+
+/**
+ * dateUID is a way of weekly identifying daily/weekly/monthly notes.
+ * They are prefixed with the granularity to avoid ambiguity.
+ */
+function getDateUID(date, granularity = "day") {
+    const ts = date.clone().startOf(granularity).format();
+    return `${granularity}-${ts}`;
+}
+function removeEscapedCharacters(format) {
+    return format.replace(/\[[^\]]*\]/g, ""); // remove everything within brackets
+}
+/**
+ * XXX: When parsing dates that contain both week numbers and months,
+ * Moment choses to ignore the week numbers. For the week dateUID, we
+ * want the opposite behavior. Strip the MMM from the format to patch.
+ */
+function isFormatAmbiguous(format, granularity) {
+    if (granularity === "week") {
+        const cleanFormat = removeEscapedCharacters(format);
+        return (/w{1,2}/i.test(cleanFormat) &&
+            (/M{1,4}/.test(cleanFormat) || /D{1,4}/.test(cleanFormat)));
+    }
+    return false;
+}
+function getDateFromFile(file, granularity) {
+    return getDateFromFilename(file.basename, granularity);
+}
+function getDateFromPath(path, granularity) {
+    return getDateFromFilename(basename(path), granularity);
+}
+function getDateFromFilename(filename, granularity) {
+    const getSettings = {
+        day: getDailyNoteSettings,
+        week: getWeeklyNoteSettings,
+        month: getMonthlyNoteSettings,
+        quarter: getQuarterlyNoteSettings,
+        year: getYearlyNoteSettings,
+    };
+    const format = getSettings[granularity]().format.split("/").pop();
+    const noteDate = window.moment(filename, format, true);
+    if (!noteDate.isValid()) {
+        return null;
+    }
+    if (isFormatAmbiguous(format, granularity)) {
+        if (granularity === "week") {
+            const cleanFormat = removeEscapedCharacters(format);
+            if (/w{1,2}/i.test(cleanFormat)) {
+                return window.moment(filename, 
+                // If format contains week, remove day & month formatting
+                format.replace(/M{1,4}/g, "").replace(/D{1,4}/g, ""), false);
+            }
+        }
+    }
+    return noteDate;
+}
+
+class DailyNotesFolderMissingError extends Error {
+}
+/**
+ * This function mimics the behavior of the daily-notes plugin
+ * so it will replace {{date}}, {{title}}, and {{time}} with the
+ * formatted timestamp.
+ *
+ * Note: it has an added bonus that it's not 'today' specific.
+ */
+async function createDailyNote(date) {
+    const app = window.app;
+    const { vault } = app;
+    const moment = window.moment;
+    const { template, format, folder } = getDailyNoteSettings();
+    const [templateContents, IFoldInfo] = await getTemplateInfo(template);
+    const filename = date.format(format);
+    const normalizedPath = await getNotePath(folder, filename);
+    try {
+        const createdFile = await vault.create(normalizedPath, templateContents
+            .replace(/{{\s*date\s*}}/gi, filename)
+            .replace(/{{\s*time\s*}}/gi, moment().format("HH:mm"))
+            .replace(/{{\s*title\s*}}/gi, filename)
+            .replace(/{{\s*(date|time)\s*(([+-]\d+)([yqmwdhs]))?\s*(:.+?)?}}/gi, (_, _timeOrDate, calc, timeDelta, unit, momentFormat) => {
+            const now = moment();
+            const currentDate = date.clone().set({
+                hour: now.get("hour"),
+                minute: now.get("minute"),
+                second: now.get("second"),
+            });
+            if (calc) {
+                currentDate.add(parseInt(timeDelta, 10), unit);
+            }
+            if (momentFormat) {
+                return currentDate.format(momentFormat.substring(1).trim());
+            }
+            return currentDate.format(format);
+        })
+            .replace(/{{\s*yesterday\s*}}/gi, date.clone().subtract(1, "day").format(format))
+            .replace(/{{\s*tomorrow\s*}}/gi, date.clone().add(1, "d").format(format)));
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        app.foldManager.save(createdFile, IFoldInfo);
+        return createdFile;
+    }
+    catch (err) {
+        console.error(`Failed to create file: '${normalizedPath}'`, err);
+        new obsidian__default['default'].Notice("Unable to create new file.");
+    }
+}
+function getDailyNote(date, dailyNotes) {
+    return dailyNotes[getDateUID(date, "day")] ?? null;
+}
+function getAllDailyNotes() {
+    /**
+     * Find all daily notes in the daily note folder
+     */
+    const { vault } = window.app;
+    const { folder } = getDailyNoteSettings();
+    const dailyNotesFolder = vault.getAbstractFileByPath(obsidian__default['default'].normalizePath(folder));
+    if (!dailyNotesFolder) {
+        throw new DailyNotesFolderMissingError("Failed to find daily notes folder");
+    }
+    const dailyNotes = {};
+    obsidian__default['default'].Vault.recurseChildren(dailyNotesFolder, (note) => {
+        if (note instanceof obsidian__default['default'].TFile) {
+            const date = getDateFromFile(note, "day");
+            if (date) {
+                const dateString = getDateUID(date, "day");
+                dailyNotes[dateString] = note;
+            }
+        }
+    });
+    return dailyNotes;
+}
+
+class WeeklyNotesFolderMissingError extends Error {
+}
+function getDaysOfWeek() {
+    const { moment } = window;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    let weekStart = moment.localeData()._week.dow;
+    const daysOfWeek = [
+        "sunday",
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+    ];
+    while (weekStart) {
+        daysOfWeek.push(daysOfWeek.shift());
+        weekStart--;
+    }
+    return daysOfWeek;
+}
+function getDayOfWeekNumericalValue(dayOfWeekName) {
+    return getDaysOfWeek().indexOf(dayOfWeekName.toLowerCase());
+}
+async function createWeeklyNote(date) {
+    const { vault } = window.app;
+    const { template, format, folder } = getWeeklyNoteSettings();
+    const [templateContents, IFoldInfo] = await getTemplateInfo(template);
+    const filename = date.format(format);
+    const normalizedPath = await getNotePath(folder, filename);
+    try {
+        const createdFile = await vault.create(normalizedPath, templateContents
+            .replace(/{{\s*(date|time)\s*(([+-]\d+)([yqmwdhs]))?\s*(:.+?)?}}/gi, (_, _timeOrDate, calc, timeDelta, unit, momentFormat) => {
+            const now = window.moment();
+            const currentDate = date.clone().set({
+                hour: now.get("hour"),
+                minute: now.get("minute"),
+                second: now.get("second"),
+            });
+            if (calc) {
+                currentDate.add(parseInt(timeDelta, 10), unit);
+            }
+            if (momentFormat) {
+                return currentDate.format(momentFormat.substring(1).trim());
+            }
+            return currentDate.format(format);
+        })
+            .replace(/{{\s*title\s*}}/gi, filename)
+            .replace(/{{\s*time\s*}}/gi, window.moment().format("HH:mm"))
+            .replace(/{{\s*(sunday|monday|tuesday|wednesday|thursday|friday|saturday)\s*:(.*?)}}/gi, (_, dayOfWeek, momentFormat) => {
+            const day = getDayOfWeekNumericalValue(dayOfWeek);
+            return date.weekday(day).format(momentFormat.trim());
+        }));
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        window.app.foldManager.save(createdFile, IFoldInfo);
+        return createdFile;
+    }
+    catch (err) {
+        console.error(`Failed to create file: '${normalizedPath}'`, err);
+        new obsidian__default['default'].Notice("Unable to create new file.");
+    }
+}
+function getWeeklyNote(date, weeklyNotes) {
+    return weeklyNotes[getDateUID(date, "week")] ?? null;
+}
+function getAllWeeklyNotes() {
+    const weeklyNotes = {};
+    if (!appHasWeeklyNotesPluginLoaded()) {
+        return weeklyNotes;
+    }
+    const { vault } = window.app;
+    const { folder } = getWeeklyNoteSettings();
+    const weeklyNotesFolder = vault.getAbstractFileByPath(obsidian__default['default'].normalizePath(folder));
+    if (!weeklyNotesFolder) {
+        throw new WeeklyNotesFolderMissingError("Failed to find weekly notes folder");
+    }
+    obsidian__default['default'].Vault.recurseChildren(weeklyNotesFolder, (note) => {
+        if (note instanceof obsidian__default['default'].TFile) {
+            const date = getDateFromFile(note, "week");
+            if (date) {
+                const dateString = getDateUID(date, "week");
+                weeklyNotes[dateString] = note;
+            }
+        }
+    });
+    return weeklyNotes;
+}
+
+class MonthlyNotesFolderMissingError extends Error {
+}
+/**
+ * This function mimics the behavior of the daily-notes plugin
+ * so it will replace {{date}}, {{title}}, and {{time}} with the
+ * formatted timestamp.
+ *
+ * Note: it has an added bonus that it's not 'today' specific.
+ */
+async function createMonthlyNote(date) {
+    const { vault } = window.app;
+    const { template, format, folder } = getMonthlyNoteSettings();
+    const [templateContents, IFoldInfo] = await getTemplateInfo(template);
+    const filename = date.format(format);
+    const normalizedPath = await getNotePath(folder, filename);
+    try {
+        const createdFile = await vault.create(normalizedPath, templateContents
+            .replace(/{{\s*(date|time)\s*(([+-]\d+)([yqmwdhs]))?\s*(:.+?)?}}/gi, (_, _timeOrDate, calc, timeDelta, unit, momentFormat) => {
+            const now = window.moment();
+            const currentDate = date.clone().set({
+                hour: now.get("hour"),
+                minute: now.get("minute"),
+                second: now.get("second"),
+            });
+            if (calc) {
+                currentDate.add(parseInt(timeDelta, 10), unit);
+            }
+            if (momentFormat) {
+                return currentDate.format(momentFormat.substring(1).trim());
+            }
+            return currentDate.format(format);
+        })
+            .replace(/{{\s*date\s*}}/gi, filename)
+            .replace(/{{\s*time\s*}}/gi, window.moment().format("HH:mm"))
+            .replace(/{{\s*title\s*}}/gi, filename));
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        window.app.foldManager.save(createdFile, IFoldInfo);
+        return createdFile;
+    }
+    catch (err) {
+        console.error(`Failed to create file: '${normalizedPath}'`, err);
+        new obsidian__default['default'].Notice("Unable to create new file.");
+    }
+}
+function getMonthlyNote(date, monthlyNotes) {
+    return monthlyNotes[getDateUID(date, "month")] ?? null;
+}
+function getAllMonthlyNotes() {
+    const monthlyNotes = {};
+    if (!appHasMonthlyNotesPluginLoaded()) {
+        return monthlyNotes;
+    }
+    const { vault } = window.app;
+    const { folder } = getMonthlyNoteSettings();
+    const monthlyNotesFolder = vault.getAbstractFileByPath(obsidian__default['default'].normalizePath(folder));
+    if (!monthlyNotesFolder) {
+        throw new MonthlyNotesFolderMissingError("Failed to find monthly notes folder");
+    }
+    obsidian__default['default'].Vault.recurseChildren(monthlyNotesFolder, (note) => {
+        if (note instanceof obsidian__default['default'].TFile) {
+            const date = getDateFromFile(note, "month");
+            if (date) {
+                const dateString = getDateUID(date, "month");
+                monthlyNotes[dateString] = note;
+            }
+        }
+    });
+    return monthlyNotes;
+}
+
+class QuarterlyNotesFolderMissingError extends Error {
+}
+/**
+ * This function mimics the behavior of the daily-notes plugin
+ * so it will replace {{date}}, {{title}}, and {{time}} with the
+ * formatted timestamp.
+ *
+ * Note: it has an added bonus that it's not 'today' specific.
+ */
+async function createQuarterlyNote(date) {
+    const { vault } = window.app;
+    const { template, format, folder } = getQuarterlyNoteSettings();
+    const [templateContents, IFoldInfo] = await getTemplateInfo(template);
+    const filename = date.format(format);
+    const normalizedPath = await getNotePath(folder, filename);
+    try {
+        const createdFile = await vault.create(normalizedPath, templateContents
+            .replace(/{{\s*(date|time)\s*(([+-]\d+)([yqmwdhs]))?\s*(:.+?)?}}/gi, (_, _timeOrDate, calc, timeDelta, unit, momentFormat) => {
+            const now = window.moment();
+            const currentDate = date.clone().set({
+                hour: now.get("hour"),
+                minute: now.get("minute"),
+                second: now.get("second"),
+            });
+            if (calc) {
+                currentDate.add(parseInt(timeDelta, 10), unit);
+            }
+            if (momentFormat) {
+                return currentDate.format(momentFormat.substring(1).trim());
+            }
+            return currentDate.format(format);
+        })
+            .replace(/{{\s*date\s*}}/gi, filename)
+            .replace(/{{\s*time\s*}}/gi, window.moment().format("HH:mm"))
+            .replace(/{{\s*title\s*}}/gi, filename));
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        window.app.foldManager.save(createdFile, IFoldInfo);
+        return createdFile;
+    }
+    catch (err) {
+        console.error(`Failed to create file: '${normalizedPath}'`, err);
+        new obsidian__default['default'].Notice("Unable to create new file.");
+    }
+}
+function getQuarterlyNote(date, quarterly) {
+    return quarterly[getDateUID(date, "quarter")] ?? null;
+}
+function getAllQuarterlyNotes() {
+    const quarterly = {};
+    if (!appHasQuarterlyNotesPluginLoaded()) {
+        return quarterly;
+    }
+    const { vault } = window.app;
+    const { folder } = getQuarterlyNoteSettings();
+    const quarterlyFolder = vault.getAbstractFileByPath(obsidian__default['default'].normalizePath(folder));
+    if (!quarterlyFolder) {
+        throw new QuarterlyNotesFolderMissingError("Failed to find quarterly notes folder");
+    }
+    obsidian__default['default'].Vault.recurseChildren(quarterlyFolder, (note) => {
+        if (note instanceof obsidian__default['default'].TFile) {
+            const date = getDateFromFile(note, "quarter");
+            if (date) {
+                const dateString = getDateUID(date, "quarter");
+                quarterly[dateString] = note;
+            }
+        }
+    });
+    return quarterly;
+}
+
+class YearlyNotesFolderMissingError extends Error {
+}
+/**
+ * This function mimics the behavior of the daily-notes plugin
+ * so it will replace {{date}}, {{title}}, and {{time}} with the
+ * formatted timestamp.
+ *
+ * Note: it has an added bonus that it's not 'today' specific.
+ */
+async function createYearlyNote(date) {
+    const { vault } = window.app;
+    const { template, format, folder } = getYearlyNoteSettings();
+    const [templateContents, IFoldInfo] = await getTemplateInfo(template);
+    const filename = date.format(format);
+    const normalizedPath = await getNotePath(folder, filename);
+    try {
+        const createdFile = await vault.create(normalizedPath, templateContents
+            .replace(/{{\s*(date|time)\s*(([+-]\d+)([yqmwdhs]))?\s*(:.+?)?}}/gi, (_, _timeOrDate, calc, timeDelta, unit, momentFormat) => {
+            const now = window.moment();
+            const currentDate = date.clone().set({
+                hour: now.get("hour"),
+                minute: now.get("minute"),
+                second: now.get("second"),
+            });
+            if (calc) {
+                currentDate.add(parseInt(timeDelta, 10), unit);
+            }
+            if (momentFormat) {
+                return currentDate.format(momentFormat.substring(1).trim());
+            }
+            return currentDate.format(format);
+        })
+            .replace(/{{\s*date\s*}}/gi, filename)
+            .replace(/{{\s*time\s*}}/gi, window.moment().format("HH:mm"))
+            .replace(/{{\s*title\s*}}/gi, filename));
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        window.app.foldManager.save(createdFile, IFoldInfo);
+        return createdFile;
+    }
+    catch (err) {
+        console.error(`Failed to create file: '${normalizedPath}'`, err);
+        new obsidian__default['default'].Notice("Unable to create new file.");
+    }
+}
+function getYearlyNote(date, yearlyNotes) {
+    return yearlyNotes[getDateUID(date, "year")] ?? null;
+}
+function getAllYearlyNotes() {
+    const yearlyNotes = {};
+    if (!appHasYearlyNotesPluginLoaded()) {
+        return yearlyNotes;
+    }
+    const { vault } = window.app;
+    const { folder } = getYearlyNoteSettings();
+    const yearlyNotesFolder = vault.getAbstractFileByPath(obsidian__default['default'].normalizePath(folder));
+    if (!yearlyNotesFolder) {
+        throw new YearlyNotesFolderMissingError("Failed to find yearly notes folder");
+    }
+    obsidian__default['default'].Vault.recurseChildren(yearlyNotesFolder, (note) => {
+        if (note instanceof obsidian__default['default'].TFile) {
+            const date = getDateFromFile(note, "year");
+            if (date) {
+                const dateString = getDateUID(date, "year");
+                yearlyNotes[dateString] = note;
+            }
+        }
+    });
+    return yearlyNotes;
+}
+
+function appHasDailyNotesPluginLoaded() {
+    const { app } = window;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const dailyNotesPlugin = app.internalPlugins.plugins["daily-notes"];
+    if (dailyNotesPlugin && dailyNotesPlugin.enabled) {
+        return true;
+    }
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const periodicNotes = app.plugins.getPlugin("periodic-notes");
+    return periodicNotes && periodicNotes.settings?.daily?.enabled;
+}
+/**
+ * XXX: "Weekly Notes" live in either the Calendar plugin or the periodic-notes plugin.
+ * Check both until the weekly notes feature is removed from the Calendar plugin.
+ */
+function appHasWeeklyNotesPluginLoaded() {
+    const { app } = window;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    if (app.plugins.getPlugin("calendar")) {
+        return true;
+    }
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const periodicNotes = app.plugins.getPlugin("periodic-notes");
+    return periodicNotes && periodicNotes.settings?.weekly?.enabled;
+}
+function appHasMonthlyNotesPluginLoaded() {
+    const { app } = window;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const periodicNotes = app.plugins.getPlugin("periodic-notes");
+    return periodicNotes && periodicNotes.settings?.monthly?.enabled;
+}
+function appHasQuarterlyNotesPluginLoaded() {
+    const { app } = window;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const periodicNotes = app.plugins.getPlugin("periodic-notes");
+    return periodicNotes && periodicNotes.settings?.quarterly?.enabled;
+}
+function appHasYearlyNotesPluginLoaded() {
+    const { app } = window;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const periodicNotes = app.plugins.getPlugin("periodic-notes");
+    return periodicNotes && periodicNotes.settings?.yearly?.enabled;
+}
+function getPeriodicNoteSettings(granularity) {
+    const getSettings = {
+        day: getDailyNoteSettings,
+        week: getWeeklyNoteSettings,
+        month: getMonthlyNoteSettings,
+        quarter: getQuarterlyNoteSettings,
+        year: getYearlyNoteSettings,
+    }[granularity];
+    return getSettings();
+}
+function createPeriodicNote(granularity, date) {
+    const createFn = {
+        day: createDailyNote,
+        month: createMonthlyNote,
+        week: createWeeklyNote,
+    };
+    return createFn[granularity](date);
+}
+
+exports.DEFAULT_DAILY_NOTE_FORMAT = DEFAULT_DAILY_NOTE_FORMAT;
+exports.DEFAULT_MONTHLY_NOTE_FORMAT = DEFAULT_MONTHLY_NOTE_FORMAT;
+exports.DEFAULT_QUARTERLY_NOTE_FORMAT = DEFAULT_QUARTERLY_NOTE_FORMAT;
+exports.DEFAULT_WEEKLY_NOTE_FORMAT = DEFAULT_WEEKLY_NOTE_FORMAT;
+exports.DEFAULT_YEARLY_NOTE_FORMAT = DEFAULT_YEARLY_NOTE_FORMAT;
+exports.appHasDailyNotesPluginLoaded = appHasDailyNotesPluginLoaded;
+exports.appHasMonthlyNotesPluginLoaded = appHasMonthlyNotesPluginLoaded;
+exports.appHasQuarterlyNotesPluginLoaded = appHasQuarterlyNotesPluginLoaded;
+exports.appHasWeeklyNotesPluginLoaded = appHasWeeklyNotesPluginLoaded;
+exports.appHasYearlyNotesPluginLoaded = appHasYearlyNotesPluginLoaded;
+exports.createDailyNote = createDailyNote;
+exports.createMonthlyNote = createMonthlyNote;
+exports.createPeriodicNote = createPeriodicNote;
+exports.createQuarterlyNote = createQuarterlyNote;
+exports.createWeeklyNote = createWeeklyNote;
+exports.createYearlyNote = createYearlyNote;
+exports.getAllDailyNotes = getAllDailyNotes;
+exports.getAllMonthlyNotes = getAllMonthlyNotes;
+exports.getAllQuarterlyNotes = getAllQuarterlyNotes;
+exports.getAllWeeklyNotes = getAllWeeklyNotes;
+exports.getAllYearlyNotes = getAllYearlyNotes;
+exports.getDailyNote = getDailyNote;
+exports.getDailyNoteSettings = getDailyNoteSettings;
+exports.getDateFromFile = getDateFromFile;
+exports.getDateFromPath = getDateFromPath;
+exports.getDateUID = getDateUID;
+exports.getMonthlyNote = getMonthlyNote;
+exports.getMonthlyNoteSettings = getMonthlyNoteSettings;
+exports.getPeriodicNoteSettings = getPeriodicNoteSettings;
+exports.getQuarterlyNote = getQuarterlyNote;
+exports.getQuarterlyNoteSettings = getQuarterlyNoteSettings;
+exports.getTemplateInfo = getTemplateInfo;
+exports.getWeeklyNote = getWeeklyNote;
+exports.getWeeklyNoteSettings = getWeeklyNoteSettings;
+exports.getYearlyNote = getYearlyNote;
+exports.getYearlyNoteSettings = getYearlyNoteSettings;
+});
 
 const ELEMENT_RE = /[\w-]+/g;
 const ID_RE = /#[\w-]+/g;
@@ -126,7 +904,7 @@ function getMatchedCSSRules(element) {
                 continue;
             }
             // check if this element matches this rule's selector
-            if (element.matches(rule.selectorText)) {
+            if (rule.selectorText && element.matches(rule.selectorText)) {
                 // push the rule to the results set
                 result.push(rule);
             }
@@ -134,6 +912,142 @@ function getMatchedCSSRules(element) {
     }
     // sort according to specificity
     return sortBySpecificity(element, result);
+}
+
+const hideTitleField = 'embedded-title';
+
+const updateTitle = state.StateEffect.define();
+function shouldHide(cache, settings) {
+    var _a, _b, _c, _d, _e;
+    if (settings.hideOnMetadataField &&
+        (cache === null || cache === void 0 ? void 0 : cache.frontmatter) &&
+        cache.frontmatter[hideTitleField] === false) {
+        return true;
+    }
+    if (settings.hideOnH1 && (cache === null || cache === void 0 ? void 0 : cache.sections)) {
+        if (!cache.headings)
+            return false;
+        if (cache.sections &&
+            ((_a = cache.sections[0]) === null || _a === void 0 ? void 0 : _a.type) === "heading" &&
+            cache.headings &&
+            ((_b = cache.headings[0]) === null || _b === void 0 ? void 0 : _b.level) === 1) {
+            return true;
+        }
+        if (cache.sections &&
+            ((_c = cache.sections[0]) === null || _c === void 0 ? void 0 : _c.type) === "yaml" &&
+            ((_d = cache.sections[1]) === null || _d === void 0 ? void 0 : _d.type) === "heading" &&
+            ((_e = cache.headings[0]) === null || _e === void 0 ? void 0 : _e.level) === 1) {
+            return true;
+        }
+    }
+    return false;
+}
+function getTitleForView(app, settings, view) {
+    const frontmatterKey = settings.titleMetadataField;
+    const file = view.file;
+    let title = file === null || file === void 0 ? void 0 : file.basename;
+    if (file && frontmatterKey) {
+        const cache = app.metadataCache.getFileCache(file);
+        if (shouldHide(cache, settings)) {
+            return " ";
+        }
+        if ((cache === null || cache === void 0 ? void 0 : cache.frontmatter) && cache.frontmatter[frontmatterKey]) {
+            return cache.frontmatter[frontmatterKey] || title || " ";
+        }
+    }
+    if (file && settings.dailyNoteTitleFormat) {
+        const date = main.getDateFromFile(file, "day");
+        if (date) {
+            return date.format(settings.dailyNoteTitleFormat);
+        }
+    }
+    return title || " ";
+}
+function buildTitleDecoration(plugin, getSettings) {
+    return [
+        view.ViewPlugin.fromClass(class {
+            constructor(view) {
+                this.title = getTitleForView(plugin.app, getSettings(), view.state.field(obsidian.editorViewField));
+                // This shouldn't happen, but just to be safe, remove any straggling titles
+                view.contentDOM.parentElement.childNodes.forEach((node) => {
+                    if (node instanceof HTMLElement &&
+                        node.hasClass("embedded-note-title")) {
+                        plugin.unobserveTitle(node);
+                        node.remove();
+                    }
+                });
+                this.header = createEl("h1", {
+                    text: this.title,
+                    cls: `cm-line embedded-note-title embedded-note-title__edit${this.title === " " ? " embedded-note-title__hidden" : ""}`,
+                    attr: {
+                        id: "title-cm6-" + Math.random().toString(36).substr(2, 9),
+                    },
+                });
+                view.contentDOM.before(this.header);
+                plugin.observeTitle(this.header, (entry) => {
+                    if (entry.borderBoxSize[0]) {
+                        this.adjustGutter(entry.borderBoxSize[0].blockSize);
+                    }
+                    else {
+                        this.adjustGutter(entry.contentRect.height);
+                    }
+                });
+                this.adjustGutter(this.header.getBoundingClientRect().height);
+            }
+            adjustGutter(padding) {
+                clearTimeout(this.debounce);
+                this.debounce = window.setTimeout(() => {
+                    var _a;
+                    const dom = (_a = this.header) === null || _a === void 0 ? void 0 : _a.closest(".markdown-source-view");
+                    if (!dom)
+                        return;
+                    let currentStyle = dom.getAttr("style");
+                    if (!currentStyle) {
+                        currentStyle = "";
+                    }
+                    if (currentStyle.contains("--embedded-note")) {
+                        currentStyle = currentStyle.replace(/--embedded-note-title-height: \d+px;/g, "");
+                    }
+                    if (currentStyle && !currentStyle.endsWith(";")) {
+                        currentStyle += `;--embedded-note-title-height: ${padding}px;`;
+                    }
+                    else {
+                        currentStyle += `--embedded-note-title-height: ${padding}px;`;
+                    }
+                    dom.setAttribute("style", currentStyle);
+                }, 10);
+            }
+            revertGutter() {
+                const dom = this.header.closest(".markdown-source-view");
+                let currentStyle = dom.getAttr("style");
+                if (currentStyle && currentStyle.contains("--embedded-note")) {
+                    currentStyle = currentStyle.replace(/--embedded-note-title-height: \d+px;/g, "");
+                    dom.setAttribute("style", currentStyle);
+                }
+            }
+            update(viewUpdate) {
+                viewUpdate.transactions.forEach((tr) => {
+                    for (let e of tr.effects) {
+                        if (e.is(updateTitle)) {
+                            this.title = getTitleForView(plugin.app, getSettings(), tr.state.field(obsidian.editorViewField));
+                            this.header.setText(this.title);
+                            if (this.title === " ") {
+                                this.header.classList.add("embedded-note-title__hidden");
+                            }
+                            else {
+                                this.header.classList.remove("embedded-note-title__hidden");
+                            }
+                        }
+                    }
+                });
+            }
+            destroy() {
+                plugin.unobserveTitle(this.header);
+                this.header.remove();
+                this.header = null;
+            }
+        }),
+    ];
 }
 
 // Split CSS margin and padding values like `0 auto`, `10px auto 0`, etc.
@@ -194,6 +1108,8 @@ function getRefSizing(el) {
 }
 // Apply reference styles to a heading element
 function applyRefStyles(heading, ref) {
+    if (!ref)
+        return;
     for (const key in ref) {
         const val = ref[key];
         if (val) {
@@ -201,18 +1117,12 @@ function applyRefStyles(heading, ref) {
         }
     }
 }
-class HeadingsManager {
-    constructor() {
+class LegacyCodemirrorHeadingsManager {
+    constructor(getSettings) {
         this.headings = {};
-        this.previewSizerRef = null;
         this.codeMirrorSizerRef = null;
         this.codeMirrorSizerInvalid = true;
-    }
-    getPreviewSizerStyles() {
-        const el = document.getElementsByClassName("markdown-preview-sizer");
-        if (el.length) {
-            this.previewSizerRef = getRefSizing(el[0]);
-        }
+        this.getSettings = getSettings;
     }
     getCodeMirrorSizerStyles() {
         const sizerEl = document.getElementsByClassName("CodeMirror-sizer");
@@ -258,20 +1168,18 @@ class HeadingsManager {
     }
     // Clean up headings once a pane has been closed or the plugin has been disabled
     removeHeading(id) {
+        var _a;
         if (!this.headings[id])
             return;
         const h1Edit = document.getElementById(`${id}-edit`);
-        const h1Preview = document.getElementById(`${id}-preview`);
         if (h1Edit)
             h1Edit.remove();
-        if (h1Preview)
-            h1Preview.remove();
-        this.headings[id].resizeWatcher.disconnect();
+        (_a = this.headings[id].resizeWatcher) === null || _a === void 0 ? void 0 : _a.disconnect();
         delete this.headings[id].resizeWatcher;
         delete this.headings[id];
     }
     createHeading(id, leaf) {
-        var _a, _b;
+        var _a;
         // CodeMirror adds margin and padding only after the editor is visible
         if (this.codeMirrorSizerInvalid &&
             ((_a = leaf.getViewState().state) === null || _a === void 0 ? void 0 : _a.mode) === "source") {
@@ -282,26 +1190,23 @@ class HeadingsManager {
         }
         if (this.headings[id])
             return;
-        const title = (_b = leaf.view.file) === null || _b === void 0 ? void 0 : _b.basename;
-        if (!title)
-            return;
+        const title = getTitleForView(leaf.view.app, this.getSettings(), leaf.view);
         const viewContent = leaf.view.containerEl.getElementsByClassName("CodeMirror-scroll");
         const lines = leaf.view.containerEl.getElementsByClassName("CodeMirror-lines");
-        const previewContent = leaf.view.containerEl.getElementsByClassName("markdown-preview-view");
-        if (!this.previewSizerRef) {
-            this.getPreviewSizerStyles();
-        }
         if (!this.codeMirrorSizerRef) {
             this.getCodeMirrorSizerStyles();
         }
-        if (viewContent.length && previewContent.length) {
+        if (viewContent.length) {
             // Create the codemirror heading
             const editEl = viewContent[0];
             const h1Edit = document.createElement("h1");
             applyRefStyles(h1Edit, this.codeMirrorSizerRef);
             h1Edit.setText(title);
             h1Edit.id = `${id}-edit`;
-            h1Edit.classList.add('embedded-note-title', 'embedded-note-title__edit');
+            h1Edit.classList.add("embedded-note-title", "embedded-note-title__edit");
+            if (title === "") {
+                h1Edit.classList.add("embedded-note-title__hidden");
+            }
             editEl.prepend(h1Edit);
             const onResize = obsidian.debounce((entries) => {
                 if (lines.length) {
@@ -315,29 +1220,94 @@ class HeadingsManager {
             // doesn't cover the content
             const resizeWatcher = new window.ResizeObserver(onResize);
             resizeWatcher.observe(h1Edit);
-            // Create the preview heading
-            const previewEl = previewContent[0];
-            const h1Preview = document.createElement("h1");
-            applyRefStyles(h1Preview, this.previewSizerRef);
-            h1Preview.setText(title);
-            h1Preview.id = `${id}-preview`;
-            h1Preview.classList.add('embedded-note-title', 'embedded-note-title__preview');
-            previewEl.prepend(h1Preview);
             this.headings[id] = { leaf, resizeWatcher };
         }
     }
     // Generate a unique ID for a leaf
     getLeafId(leaf) {
-        const viewState = leaf.getViewState();
-        if (viewState.type === "markdown") {
-            return "title-" + Math.random().toString(36).substr(2, 9);
-        }
-        return null;
+        return "title-" + Math.random().toString(36).substr(2, 9);
     }
     // Iterate through all leafs and generate headings if needed
     createHeadings(app) {
         const seen = {};
-        app.workspace.iterateRootLeaves((leaf) => {
+        app.workspace.getLeavesOfType("markdown").forEach((leaf) => {
+            const id = this.getLeafId(leaf);
+            if (id) {
+                this.createHeading(id, leaf);
+                seen[id] = true;
+            }
+        });
+        Object.keys(this.headings).forEach((id) => {
+            if (!seen[id]) {
+                this.removeHeading(id);
+            }
+        });
+    }
+    cleanup() {
+        this.codeMirrorSizerRef = null;
+        Object.keys(this.headings).forEach((id) => {
+            this.removeHeading(id);
+        });
+    }
+}
+class PreviewHeadingsManager {
+    constructor(getSettings) {
+        this.headings = {};
+        this.previewSizerRef = null;
+        this.getSettings = getSettings;
+    }
+    getPreviewSizerStyles() {
+        const el = document.getElementsByClassName("markdown-preview-sizer");
+        if (el.length) {
+            this.previewSizerRef = getRefSizing(el[0]);
+        }
+    }
+    // Clean up headings once a pane has been closed or the plugin has been disabled
+    removeHeading(id) {
+        if (!this.headings[id])
+            return;
+        const h1Preview = document.getElementById(`${id}-preview`);
+        if (h1Preview)
+            h1Preview.remove();
+        delete this.headings[id];
+    }
+    createHeading(id, leaf) {
+        if (this.headings[id])
+            return;
+        const title = getTitleForView(leaf.view.app, this.getSettings(), leaf.view);
+        const previewContent = leaf.view.containerEl.getElementsByClassName("markdown-preview-view");
+        if (!this.previewSizerRef) {
+            this.getPreviewSizerStyles();
+        }
+        let previewEl;
+        for (let i = 0, len = previewContent.length; i < len; i++) {
+            if (previewContent[i].parentElement.parentElement.hasClass("view-content")) {
+                previewEl = previewContent[i];
+                break;
+            }
+        }
+        if (previewEl) {
+            // Create the preview heading
+            const h1Preview = document.createElement("h1");
+            applyRefStyles(h1Preview, this.previewSizerRef);
+            h1Preview.setText(title);
+            h1Preview.id = `${id}-preview`;
+            h1Preview.classList.add("embedded-note-title", "embedded-note-title__preview");
+            if (title === "") {
+                h1Preview.classList.add("embedded-note-title__hidden");
+            }
+            previewEl.prepend(h1Preview);
+            this.headings[id] = { leaf };
+        }
+    }
+    // Generate a unique ID for a leaf
+    getLeafId(leaf) {
+        return "title-" + Math.random().toString(36).substr(2, 9);
+    }
+    // Iterate through all leafs and generate headings if needed
+    createHeadings(app) {
+        const seen = {};
+        app.workspace.getLeavesOfType("markdown").forEach((leaf) => {
             const id = this.getLeafId(leaf);
             if (id) {
                 this.createHeading(id, leaf);
@@ -352,7 +1322,6 @@ class HeadingsManager {
     }
     cleanup() {
         this.previewSizerRef = null;
-        this.codeMirrorSizerRef = null;
         Object.keys(this.headings).forEach((id) => {
             this.removeHeading(id);
         });
@@ -361,32 +1330,223 @@ class HeadingsManager {
 
 class EmbeddedNoteTitlesPlugin extends obsidian.Plugin {
     onload() {
-        document.body.classList.add("embedded-note-titles");
-        this.headingsManager = new HeadingsManager();
-        this.registerEvent(this.app.workspace.on("layout-change", () => {
-            setTimeout(() => {
-                this.headingsManager.createHeadings(this.app);
-            }, 0);
-        }));
-        // Listen for CSS changes so we can recalculate heading styles
-        this.registerEvent(this.app.workspace.on("css-change", () => {
-            this.headingsManager.cleanup();
-            setTimeout(() => {
-                this.headingsManager.createHeadings(this.app);
-            }, 0);
-        }));
-        this.app.workspace.layoutReady
-            ? this.app.workspace.trigger("layout-change")
-            : this.app.workspace.onLayoutReady(() => {
-                // Trigger layout-change to ensure headings are created when the app loads
-                this.app.workspace.trigger("layout-change");
-            });
+        return __awaiter(this, void 0, void 0, function* () {
+            document.body.classList.add("embedded-note-titles");
+            yield this.loadSettings();
+            this.addSettingTab(new EmbeddedNoteTitlesSettings(this.app, this));
+            const getSettings = () => this.settings;
+            this.app.workspace.trigger("parse-style-settings");
+            this.previewHeadingsManager = new PreviewHeadingsManager(getSettings);
+            this.isLegacyEditor = this.app.vault.getConfig("legacyEditor");
+            if (this.isLegacyEditor) {
+                this.legacyCodemirrorHeadingsManager =
+                    new LegacyCodemirrorHeadingsManager(getSettings);
+            }
+            else {
+                this.observedTitles = new Map();
+                this.observer = new ResizeObserver((entries) => {
+                    entries.forEach((entry) => {
+                        if (this.observedTitles.has(entry.target)) {
+                            this.observedTitles.get(entry.target)(entry);
+                        }
+                    });
+                });
+                this.registerEditorExtension(buildTitleDecoration(this, getSettings));
+                const notifyFileChange = (file) => {
+                    const markdownLeaves = this.app.workspace.getLeavesOfType("markdown");
+                    markdownLeaves.forEach((leaf) => {
+                        const view = leaf.view;
+                        if (view.file === file) {
+                            view.editor.cm.dispatch({
+                                effects: updateTitle.of(),
+                            });
+                        }
+                    });
+                };
+                this.registerEvent(this.app.vault.on("rename", notifyFileChange));
+                this.registerEvent(this.app.metadataCache.on("changed", (file) => {
+                    const frontmatterKey = this.settings.titleMetadataField;
+                    if (frontmatterKey) {
+                        notifyFileChange(file);
+                    }
+                }));
+            }
+            this.registerEvent(this.app.metadataCache.on("changed", (file) => {
+                const frontmatterKey = this.settings.titleMetadataField;
+                if (frontmatterKey) {
+                    const cache = this.app.metadataCache.getFileCache(file);
+                    if ((cache === null || cache === void 0 ? void 0 : cache.frontmatter) && cache.frontmatter[frontmatterKey]) {
+                        setTimeout(() => {
+                            var _a;
+                            (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.createHeadings(this.app);
+                            this.previewHeadingsManager.createHeadings(this.app);
+                        }, 0);
+                    }
+                }
+            }));
+            this.registerEvent(this.app.workspace.on("layout-change", () => {
+                setTimeout(() => {
+                    var _a;
+                    (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.createHeadings(this.app);
+                    this.previewHeadingsManager.createHeadings(this.app);
+                }, 0);
+                if (!this.isLegacyEditor) {
+                    setTimeout(() => {
+                        this.observedTitles.forEach((_, el) => {
+                            if (this.app.workspace
+                                .getLeavesOfType("markdown")
+                                .every((leaf) => !leaf.view.containerEl.find(`#${el.id}`))) {
+                                this.unobserveTitle(el);
+                                el.remove();
+                            }
+                        });
+                    }, 100);
+                }
+            }));
+            // Listen for CSS changes so we can recalculate heading styles
+            this.registerEvent(this.app.workspace.on("css-change", () => {
+                var _a;
+                (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.cleanup();
+                this.previewHeadingsManager.cleanup();
+                setTimeout(() => {
+                    var _a;
+                    (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.createHeadings(this.app);
+                    this.previewHeadingsManager.createHeadings(this.app);
+                }, 0);
+            }));
+            this.app.workspace.layoutReady
+                ? this.app.workspace.trigger("layout-change")
+                : this.app.workspace.onLayoutReady(() => {
+                    // Trigger layout-change to ensure headings are created when the app loads
+                    this.app.workspace.trigger("layout-change");
+                });
+        });
     }
     onunload() {
+        var _a;
         document.body.classList.remove("embedded-note-titles");
-        this.headingsManager.cleanup();
+        (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.cleanup();
+        this.previewHeadingsManager.cleanup();
+        this.observer.disconnect();
+        this.observedTitles.forEach((_, el) => {
+            el.remove();
+        });
+        this.observedTitles.clear();
+    }
+    observeTitle(el, cb) {
+        this.observedTitles.set(el, cb);
+        this.observer.observe(el, {
+            box: "border-box",
+        });
+    }
+    unobserveTitle(el) {
+        if (this.observedTitles.has(el)) {
+            this.observedTitles.delete(el);
+            this.observer.unobserve(el);
+        }
+    }
+    loadSettings() {
+        return __awaiter(this, void 0, void 0, function* () {
+            this.settings = Object.assign({}, yield this.loadData());
+        });
+    }
+    saveSettings() {
+        var _a;
+        return __awaiter(this, void 0, void 0, function* () {
+            if (!this.isLegacyEditor) {
+                const markdownLeaves = this.app.workspace.getLeavesOfType("markdown");
+                markdownLeaves.forEach((leaf) => {
+                    const view = leaf.view;
+                    view.editor.cm.dispatch({
+                        effects: updateTitle.of(),
+                    });
+                });
+            }
+            (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.cleanup();
+            this.previewHeadingsManager.cleanup();
+            setTimeout(() => {
+                var _a;
+                (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.createHeadings(this.app);
+                this.previewHeadingsManager.createHeadings(this.app);
+            }, 0);
+            yield this.saveData(this.settings);
+        });
+    }
+}
+class EmbeddedNoteTitlesSettings extends obsidian.PluginSettingTab {
+    constructor(app, plugin) {
+        super(app, plugin);
+        this.plugin = plugin;
+    }
+    display() {
+        let { containerEl } = this;
+        containerEl.empty();
+        new obsidian.Setting(containerEl)
+            .setName("Frontmatter field as title")
+            .setDesc("When a file contains this frontmatter field, it will be used as the embedded title")
+            .addText((text) => {
+            text
+                .setValue(this.plugin.settings.titleMetadataField || "")
+                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                this.plugin.settings.titleMetadataField = value;
+                yield this.plugin.saveSettings();
+            }));
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Hide embedded title when level 1 heading is present")
+            .addToggle((toggle) => {
+            toggle
+                .setValue(this.plugin.settings.hideOnH1)
+                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                this.plugin.settings.hideOnH1 = value;
+                yield this.plugin.saveSettings();
+            }));
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Hide embedded title using metadata `embedded-title: false`")
+            .addToggle((toggle) => {
+            toggle
+                .setValue(this.plugin.settings.hideOnMetadataField)
+                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                this.plugin.settings.hideOnMetadataField = value;
+                yield this.plugin.saveSettings();
+            }));
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Daily note title format")
+            .then((setting) => {
+            setting.addMomentFormat((mf) => {
+                setting.descEl.appendChild(createFragment((frag) => {
+                    frag.appendText("This format will be used when displaying titles of daily notes.");
+                    frag.createEl("br");
+                    frag.appendText("For more syntax, refer to ");
+                    frag.createEl("a", {
+                        text: "format reference",
+                        href: "https://momentjs.com/docs/#/displaying/format/",
+                    }, (a) => {
+                        a.setAttr("target", "_blank");
+                    });
+                    frag.createEl("br");
+                    frag.appendText("Your current syntax looks like this: ");
+                    mf.setSampleEl(frag.createEl("b", { cls: "u-pop" }));
+                    frag.createEl("br");
+                }));
+                const dailyNoteSettings = main.getDailyNoteSettings();
+                const defaultFormat = dailyNoteSettings.format || "YYYY-MM-DD";
+                mf.setPlaceholder(defaultFormat);
+                mf.setDefaultFormat(defaultFormat);
+                if (this.plugin.settings.dailyNoteTitleFormat) {
+                    mf.setValue(this.plugin.settings.dailyNoteTitleFormat);
+                }
+                mf.onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                    this.plugin.settings.dailyNoteTitleFormat = value
+                        ? value
+                        : undefined;
+                    yield this.plugin.saveSettings();
+                }));
+            });
+        });
     }
 }
 
 module.exports = EmbeddedNoteTitlesPlugin;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZXMiOlsic3JjL2dldE1hdGNoZWRDU1NSdWxlcy50cyIsInNyYy9IZWFkaW5nc01hbmFnZXIudHMiLCJzcmMvbWFpbi50cyJdLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBFTEVNRU5UX1JFID0gL1tcXHctXSsvZztcbmNvbnN0IElEX1JFID0gLyNbXFx3LV0rL2c7XG5jb25zdCBDTEFTU19SRSA9IC9cXC5bXFx3LV0rL2c7XG5jb25zdCBBVFRSX1JFID0gL1xcW1teXFxdXStcXF0vZztcbmNvbnN0IFBTRVVET19DTEFTU0VTX1JFID0gL1xcOig/IW5vdClbXFx3LV0rKFxcKC4qXFwpKT8vZztcbmNvbnN0IFBTRVVET19FTEVNRU5UU19SRSA9IC9cXDpcXDo/KGFmdGVyfGJlZm9yZXxmaXJzdC1sZXR0ZXJ8Zmlyc3QtbGluZXxzZWxlY3Rpb24pL2c7XG5cbi8vIGNvbnZlcnQgYW4gYXJyYXktbGlrZSBvYmplY3QgdG8gYXJyYXlcbmZ1bmN0aW9uIHRvQXJyYXkobGlzdDogYW55KSB7XG4gIHJldHVybiBbXS5zbGljZS5jYWxsKGxpc3QpO1xufVxuXG4vLyBoYW5kbGVzIGV4dHJhY3Rpb24gb2YgYGNzc1J1bGVzYCBhcyBhbiBgQXJyYXlgIGZyb20gYSBzdHlsZXNoZWV0IG9yIHNvbWV0aGluZyB0aGF0IGJlaGF2ZXMgdGhlIHNhbWVcbmZ1bmN0aW9uIGdldFNoZWV0UnVsZXMoc3R5bGVzaGVldDogQ1NTU3R5bGVTaGVldCkge1xuICB2YXIgc2hlZXRfbWVkaWEgPSBzdHlsZXNoZWV0Lm1lZGlhICYmIHN0eWxlc2hlZXQubWVkaWEubWVkaWFUZXh0O1xuICAvLyBpZiB0aGlzIHNoZWV0IGlzIGRpc2FibGVkIHNraXAgaXRcbiAgaWYgKHN0eWxlc2hlZXQuZGlzYWJsZWQpIHJldHVybiBbXTtcbiAgLy8gaWYgdGhpcyBzaGVldCdzIG1lZGlhIGlzIHNwZWNpZmllZCBhbmQgZG9lc24ndCBtYXRjaCB0aGUgdmlld3BvcnQgdGhlbiBza2lwIGl0XG4gIGlmIChcbiAgICBzaGVldF9tZWRpYSAmJlxuICAgIHNoZWV0X21lZGlhLmxlbmd0aCAmJlxuICAgICF3aW5kb3cubWF0Y2hNZWRpYShzaGVldF9tZWRpYSkubWF0Y2hlc1xuICApXG4gICAgcmV0dXJuIFtdO1xuICAvLyBnZXQgdGhlIHN0eWxlIHJ1bGVzIG9mIHRoaXMgc2hlZXRcbiAgcmV0dXJuIHRvQXJyYXkoc3R5bGVzaGVldC5jc3NSdWxlcyk7XG59XG5cbmZ1bmN0aW9uIF9maW5kKHN0cmluZzogc3RyaW5nLCByZTogUmVnRXhwKSB7XG4gIHZhciBtYXRjaGVzID0gc3RyaW5nLm1hdGNoKHJlKTtcbiAgcmV0dXJuIG1hdGNoZXMgPyBtYXRjaGVzLmxlbmd0aCA6IDA7XG59XG5cbi8vIGNhbGN1bGF0ZXMgdGhlIHNwZWNpZmljaXR5IG9mIGEgZ2l2ZW4gYHNlbGVjdG9yYFxuZnVuY3Rpb24gY2FsY3VsYXRlU2NvcmUoc2VsZWN0b3I6IHN0cmluZykge1xuICB2YXIgc2NvcmUgPSBbMCwgMCwgMF0sXG4gICAgcGFydHMgPSBzZWxlY3Rvci5zcGxpdChcIiBcIiksXG4gICAgcGFydCxcbiAgICBtYXRjaDtcbiAgLy9UT0RPOiBjbGVhbiB0aGUgJzpub3QnIHBhcnQgc2luY2UgdGhlIGxhc3QgRUxFTUVOVF9SRSB3aWxsIHBpY2sgaXQgdXBcbiAgd2hpbGUgKCgocGFydCA9IHBhcnRzLnNoaWZ0KCkpLCB0eXBlb2YgcGFydCA9PSBcInN0cmluZ1wiKSkge1xuICAgIC8vIGZpbmQgYWxsIHBzZXVkby1lbGVtZW50c1xuICAgIG1hdGNoID0gX2ZpbmQocGFydCwgUFNFVURPX0VMRU1FTlRTX1JFKTtcbiAgICBzY29yZVsyXSArPSBtYXRjaDtcbiAgICAvLyBhbmQgcmVtb3ZlIHRoZW1cbiAgICBtYXRjaCAmJiAocGFydCA9IHBhcnQucmVwbGFjZShQU0VVRE9fRUxFTUVOVFNfUkUsIFwiXCIpKTtcbiAgICAvLyBmaW5kIGFsbCBwc2V1ZG8tY2xhc3Nlc1xuICAgIG1hdGNoID0gX2ZpbmQocGFydCwgUFNFVURPX0NMQVNTRVNfUkUpO1xuICAgIHNjb3JlWzFdICs9IG1hdGNoO1xuICAgIC8vIGFuZCByZW1vdmUgdGhlbVxuICAgIG1hdGNoICYmIChwYXJ0ID0gcGFydC5yZXBsYWNlKFBTRVVET19DTEFTU0VTX1JFLCBcIlwiKSk7XG4gICAgLy8gZmluZCBhbGwgYXR0cmlidXRlc1xuICAgIG1hdGNoID0gX2ZpbmQocGFydCwgQVRUUl9SRSk7XG4gICAgc2NvcmVbMV0gKz0gbWF0Y2g7XG4gICAgLy8gYW5kIHJlbW92ZSB0aGVtXG4gICAgbWF0Y2ggJiYgKHBhcnQgPSBwYXJ0LnJlcGxhY2UoQVRUUl9SRSwgXCJcIikpO1xuICAgIC8vIGZpbmQgYWxsIElEc1xuICAgIG1hdGNoID0gX2ZpbmQocGFydCwgSURfUkUpO1xuICAgIHNjb3JlWzBdICs9IG1hdGNoO1xuICAgIC8vIGFuZCByZW1vdmUgdGhlbVxuICAgIG1hdGNoICYmIChwYXJ0ID0gcGFydC5yZXBsYWNlKElEX1JFLCBcIlwiKSk7XG4gICAgLy8gZmluZCBhbGwgY2xhc3Nlc1xuICAgIG1hdGNoID0gX2ZpbmQocGFydCwgQ0xBU1NfUkUpO1xuICAgIHNjb3JlWzFdICs9IG1hdGNoO1xuICAgIC8vIGFuZCByZW1vdmUgdGhlbVxuICAgIG1hdGNoICYmIChwYXJ0ID0gcGFydC5yZXBsYWNlKENMQVNTX1JFLCBcIlwiKSk7XG4gICAgLy8gZmluZCBhbGwgZWxlbWVudHNcbiAgICBzY29yZVsyXSArPSBfZmluZChwYXJ0LCBFTEVNRU5UX1JFKTtcbiAgfVxuICByZXR1cm4gcGFyc2VJbnQoc2NvcmUuam9pbihcIlwiKSwgMTApO1xufVxuXG4vLyByZXR1cm5zIHRoZSBoZWlnaHRzIHBvc3NpYmxlIHNwZWNpZmljaXR5IHNjb3JlIGFuIGVsZW1lbnQgY2FuIGdldCBmcm9tIGEgZ2l2ZSBydWxlJ3Mgc2VsZWN0b3JUZXh0XG5mdW5jdGlvbiBnZXRTcGVjaWZpY2l0eVNjb3JlKGVsZW1lbnQ6IEhUTUxFbGVtZW50LCBzZWxlY3RvclRleHQ6IHN0cmluZykge1xuICB2YXIgc2VsZWN0b3JzID0gc2VsZWN0b3JUZXh0LnNwbGl0KFwiLFwiKSxcbiAgICBzZWxlY3RvcixcbiAgICBzY29yZSxcbiAgICByZXN1bHQgPSAwO1xuXG4gIHdoaWxlICgoc2VsZWN0b3IgPSBzZWxlY3RvcnMuc2hpZnQoKSkpIHtcbiAgICBpZiAoZWxlbWVudC5tYXRjaGVzKHNlbGVjdG9yKSkge1xuICAgICAgc2NvcmUgPSBjYWxjdWxhdGVTY29yZShzZWxlY3Rvcik7XG4gICAgICByZXN1bHQgPSBzY29yZSA+IHJlc3VsdCA/IHNjb3JlIDogcmVzdWx0O1xuICAgIH1cbiAgfVxuXG4gIHJldHVybiByZXN1bHQ7XG59XG5cbmZ1bmN0aW9uIHNvcnRCeVNwZWNpZmljaXR5KGVsZW1lbnQ6IEhUTUxFbGVtZW50LCBydWxlczogQ1NTU3R5bGVSdWxlW10pIHtcbiAgLy8gY29tcGFyaW5nIGZ1bmN0aW9uIHRoYXQgc29ydHMgQ1NTU3R5bGVSdWxlcyBhY2NvcmRpbmcgdG8gc3BlY2lmaWNpdHkgb2YgdGhlaXIgYHNlbGVjdG9yVGV4dGBcbiAgZnVuY3Rpb24gY29tcGFyZVNwZWNpZmljaXR5KGE6IENTU1N0eWxlUnVsZSwgYjogQ1NTU3R5bGVSdWxlKSB7XG4gICAgbGV0IGFTY29yZSA9IGdldFNwZWNpZmljaXR5U2NvcmUoZWxlbWVudCwgYS5zZWxlY3RvclRleHQpO1xuICAgIGxldCBiU2NvcmUgPSBnZXRTcGVjaWZpY2l0eVNjb3JlKGVsZW1lbnQsIGIuc2VsZWN0b3JUZXh0KTtcblxuICAgIC8vIElmIHRoZSBzdHlsZXMgY29tZSBmcm9tIGFwcC5jc3MsIHRoZXkgdGFrZSBhIGxvd2VyIHByaW9yaXR5XG4gICAgaWYgKGFTY29yZSA9PT0gYlNjb3JlKSB7XG4gICAgICBpZiAoYS5wYXJlbnRTdHlsZVNoZWV0LmhyZWYpIGFTY29yZSAtPSAxO1xuICAgICAgaWYgKGIucGFyZW50U3R5bGVTaGVldC5ocmVmKSBiU2NvcmUgLT0gMTtcbiAgICB9XG5cbiAgICByZXR1cm4gKFxuICAgICAgYVNjb3JlIC1cbiAgICAgIGJTY29yZVxuICAgICk7XG4gIH1cblxuICByZXR1cm4gcnVsZXMuc29ydChjb21wYXJlU3BlY2lmaWNpdHkpO1xufVxuXG5leHBvcnQgZnVuY3Rpb24gZ2V0TWF0Y2hlZENTU1J1bGVzKGVsZW1lbnQ6IEhUTUxFbGVtZW50KTogQ1NTU3R5bGVSdWxlW10ge1xuICBsZXQgc3R5bGVTaGVldHMgPSB0b0FycmF5KHdpbmRvdy5kb2N1bWVudC5zdHlsZVNoZWV0cylcbiAgbGV0IHNoZWV0O1xuICBsZXQgcnVsZXM7XG4gIGxldCBydWxlO1xuICBsZXQgcmVzdWx0OiBDU1NTdHlsZVJ1bGVbXSA9IFtdO1xuXG4gIC8vIGFzc3VtaW5nIHRoZSBicm93c2VyIGhhbmRzIHVzIHN0eWxlc2hlZXRzIGluIG9yZGVyIG9mIGFwcGVhcmFuY2VcbiAgLy8gd2UgaXRlcmF0ZSB0aGVtIGZyb20gdGhlIGJlZ2lubmluZyB0byBmb2xsb3cgcHJvcGVyIGNhc2NhZGUgb3JkZXJcbiAgd2hpbGUgKChzaGVldCA9IHN0eWxlU2hlZXRzLnNoaWZ0KCkpKSB7XG4gICAgLy8gZ2V0IHRoZSBzdHlsZSBydWxlcyBvZiB0aGlzIHNoZWV0XG4gICAgcnVsZXMgPSBnZXRTaGVldFJ1bGVzKHNoZWV0KTtcbiAgICAvLyBsb29wIHRoZSBydWxlcyBpbiBvcmRlciBvZiBhcHBlYXJhbmNlXG4gICAgd2hpbGUgKChydWxlID0gcnVsZXMuc2hpZnQoKSkpIHtcbiAgICAgIC8vIGlmIHRoaXMgaXMgYW4gQGltcG9ydCBydWxlXG4gICAgICBpZiAocnVsZS5zdHlsZVNoZWV0KSB7XG4gICAgICAgIC8vIGluc2VydCB0aGUgaW1wb3J0ZWQgc3R5bGVzaGVldCdzIHJ1bGVzIGF0IHRoZSBiZWdpbm5pbmcgb2YgdGhpcyBzdHlsZXNoZWV0J3MgcnVsZXNcbiAgICAgICAgcnVsZXMgPSBnZXRTaGVldFJ1bGVzKHJ1bGUuc3R5bGVTaGVldCkuY29uY2F0KHJ1bGVzKTtcbiAgICAgICAgLy8gYW5kIHNraXAgdGhpcyBydWxlXG4gICAgICAgIGNvbnRpbnVlO1xuICAgICAgfVxuICAgICAgLy8gaWYgdGhlcmUncyBubyBzdHlsZXNoZWV0IGF0dHJpYnV0ZSBCVVQgdGhlcmUgSVMgYSBtZWRpYSBhdHRyaWJ1dGUgaXQncyBhIG1lZGlhIHJ1bGVcbiAgICAgIGVsc2UgaWYgKHJ1bGUubWVkaWEpIHtcbiAgICAgICAgLy8gaW5zZXJ0IHRoZSBjb250YWluZWQgcnVsZXMgb2YgdGhpcyBtZWRpYSBydWxlIHRvIHRoZSBiZWdpbm5pbmcgb2YgdGhpcyBzdHlsZXNoZWV0J3MgcnVsZXNcbiAgICAgICAgcnVsZXMgPSBnZXRTaGVldFJ1bGVzKHJ1bGUpLmNvbmNhdChydWxlcyk7XG4gICAgICAgIC8vIGFuZCBza2lwIGl0XG4gICAgICAgIGNvbnRpbnVlO1xuICAgICAgfVxuXG4gICAgICAvLyBjaGVjayBpZiB0aGlzIGVsZW1lbnQgbWF0Y2hlcyB0aGlzIHJ1bGUncyBzZWxlY3RvclxuICAgICAgaWYgKGVsZW1lbnQubWF0Y2hlcyhydWxlLnNlbGVjdG9yVGV4dCkpIHtcbiAgICAgICAgLy8gcHVzaCB0aGUgcnVsZSB0byB0aGUgcmVzdWx0cyBzZXRcbiAgICAgICAgcmVzdWx0LnB1c2gocnVsZSk7XG4gICAgICB9XG4gICAgfVxuICB9XG4gIC8vIHNvcnQgYWNjb3JkaW5nIHRvIHNwZWNpZmljaXR5XG4gIHJldHVybiBzb3J0QnlTcGVjaWZpY2l0eShlbGVtZW50LCByZXN1bHQpO1xufVxuIiwiaW1wb3J0IHsgQXBwLCBXb3Jrc3BhY2VMZWFmLCBkZWJvdW5jZSB9IGZyb20gXCJvYnNpZGlhblwiO1xuaW1wb3J0IHsgZ2V0TWF0Y2hlZENTU1J1bGVzIH0gZnJvbSBcIi4vZ2V0TWF0Y2hlZENTU1J1bGVzXCI7XG5cbmludGVyZmFjZSBSZWZTaXppbmcge1xuICB3aWR0aD86IHN0cmluZztcbiAgbWF4V2lkdGg/OiBzdHJpbmc7XG4gIG1hcmdpbkxlZnQ/OiBzdHJpbmc7XG4gIG1hcmdpblJpZ2h0Pzogc3RyaW5nO1xuICBwYWRkaW5nTGVmdD86IHN0cmluZztcbiAgcGFkZGluZ1JpZ2h0Pzogc3RyaW5nO1xufVxuXG4vLyBTcGxpdCBDU1MgbWFyZ2luIGFuZCBwYWRkaW5nIHZhbHVlcyBsaWtlIGAwIGF1dG9gLCBgMTBweCBhdXRvIDBgLCBldGMuXG5mdW5jdGlvbiBnZXRSaWdodExlZnQodmFsOiBzdHJpbmcpIHtcbiAgaWYgKC9cXHMvLnRlc3QodmFsKSkge1xuICAgIGNvbnN0IHZhbHMgPSB2YWwuc3BsaXQoL1xccysvZyk7XG5cbiAgICBpZiAodmFscy5sZW5ndGggPT09IDIgfHwgdmFscy5sZW5ndGggPT09IDMpIHtcbiAgICAgIHJldHVybiBbdmFsc1sxXSwgdmFsc1sxXV07XG4gICAgfVxuXG4gICAgaWYgKHZhbHMubGVuZ3RoID09PSA0KSB7XG4gICAgICByZXR1cm4gW3ZhbHNbMV0sIHZhbHNbM11dO1xuICAgIH1cbiAgfVxuXG4gIHJldHVybiBbdmFsLCB2YWxdO1xufVxuXG5jb25zdCBrZXlNYXA6IHsgW2s6IHN0cmluZ106IHN0cmluZyB9ID0ge1xuICB3aWR0aDogXCJ3aWR0aFwiLFxuICBtYXhXaWR0aDogXCJtYXgtd2lkdGhcIixcbiAgbWFyZ2luOiBcIm1hcmdpblwiLFxuICBtYXJnaW5MZWZ0OiBcIm1hcmdpbi1sZWZ0XCIsXG4gIG1hcmdpblJpZ2h0OiBcIm1hcmdpbi1yaWdodFwiLFxuICBwYWRkaW5nOiBcInBhZGRpbmdcIixcbiAgcGFkZGluZ0xlZnQ6IFwicGFkZGluZy1sZWZ0XCIsXG4gIHBhZGRpbmdSaWdodDogXCJwYWRkaW5nLXJpZ2h0XCIsXG59O1xuXG4vLyBHZXQgdGhlIHJlbGV2YW50IHN0eWxlIHZhbHVlcyBmcm9tIGEgcmVmZXJlbmNlIGVsZW1lbnRcbmZ1bmN0aW9uIGdldFJlZlNpemluZyhlbDogSFRNTEVsZW1lbnQpIHtcbiAgY29uc3QgcnVsZXMgPSBnZXRNYXRjaGVkQ1NTUnVsZXMoZWwpO1xuICBjb25zdCBzaXppbmc6IFJlZlNpemluZyA9IHt9O1xuXG4gIHJ1bGVzLmZvckVhY2goKHIpID0+IHtcbiAgICBjb25zdCB7XG4gICAgICB3aWR0aCxcbiAgICAgIG1heFdpZHRoLFxuICAgICAgbWFyZ2luLFxuICAgICAgbWFyZ2luTGVmdCxcbiAgICAgIG1hcmdpblJpZ2h0LFxuICAgICAgcGFkZGluZyxcbiAgICAgIHBhZGRpbmdMZWZ0LFxuICAgICAgcGFkZGluZ1JpZ2h0LFxuICAgIH0gPSByLnN0eWxlO1xuXG4gICAgaWYgKHdpZHRoKSB7XG4gICAgICBzaXppbmcud2lkdGggPSB3aWR0aDtcbiAgICB9XG5cbiAgICBpZiAobWF4V2lkdGgpIHtcbiAgICAgIHNpemluZy5tYXhXaWR0aCA9IG1heFdpZHRoO1xuICAgIH1cblxuICAgIGlmIChtYXJnaW4pIHtcbiAgICAgIGNvbnN0IFttUmlnaHQsIG1MZWZ0XSA9IGdldFJpZ2h0TGVmdChtYXJnaW4pO1xuICAgICAgc2l6aW5nLm1hcmdpbkxlZnQgPSBtTGVmdDtcbiAgICAgIHNpemluZy5tYXJnaW5MZWZ0ID0gbVJpZ2h0O1xuICAgIH1cblxuICAgIGlmIChtYXJnaW5MZWZ0KSBzaXppbmcubWFyZ2luTGVmdCA9IG1hcmdpbkxlZnQ7XG4gICAgaWYgKG1hcmdpblJpZ2h0KSBzaXppbmcubWFyZ2luUmlnaHQgPSBtYXJnaW5SaWdodDtcblxuICAgIGlmIChwYWRkaW5nKSB7XG4gICAgICBjb25zdCBbcFJpZ2h0LCBwTGVmdF0gPSBnZXRSaWdodExlZnQocGFkZGluZyk7XG4gICAgICBzaXppbmcucGFkZGluZ0xlZnQgPSBwTGVmdDtcbiAgICAgIHNpemluZy5wYWRkaW5nTGVmdCA9IHBSaWdodDtcbiAgICB9XG5cbiAgICBpZiAocGFkZGluZ0xlZnQpIHNpemluZy5wYWRkaW5nTGVmdCA9IHBhZGRpbmdMZWZ0O1xuICAgIGlmIChwYWRkaW5nUmlnaHQpIHNpemluZy5wYWRkaW5nUmlnaHQgPSBwYWRkaW5nUmlnaHQ7XG4gIH0pO1xuXG4gIHJldHVybiBzaXppbmc7XG59XG5cbi8vIEFwcGx5IHJlZmVyZW5jZSBzdHlsZXMgdG8gYSBoZWFkaW5nIGVsZW1lbnRcbmZ1bmN0aW9uIGFwcGx5UmVmU3R5bGVzKGhlYWRpbmc6IEhUTUxFbGVtZW50LCByZWY6IFJlZlNpemluZykge1xuICBmb3IgKGNvbnN0IGtleSBpbiByZWYpIHtcbiAgICBjb25zdCB2YWwgPSByZWZba2V5IGFzIGtleW9mIFJlZlNpemluZ107XG5cbiAgICBpZiAodmFsKSB7XG4gICAgICBoZWFkaW5nLnN0eWxlLnNldFByb3BlcnR5KGtleU1hcFtrZXldLCB2YWwpO1xuICAgIH1cbiAgfVxufVxuXG5leHBvcnQgY2xhc3MgSGVhZGluZ3NNYW5hZ2VyIHtcbiAgaGVhZGluZ3M6IHtcbiAgICBbaWQ6IHN0cmluZ106IHtcbiAgICAgIGxlYWY6IFdvcmtzcGFjZUxlYWY7XG4gICAgICByZXNpemVXYXRjaGVyOiBSZXNpemVPYnNlcnZlcjtcbiAgICB9O1xuICB9ID0ge307XG5cbiAgcHJldmlld1NpemVyUmVmOiBSZWZTaXppbmcgfCBudWxsID0gbnVsbDtcbiAgY29kZU1pcnJvclNpemVyUmVmOiBSZWZTaXppbmcgfCBudWxsID0gbnVsbDtcbiAgY29kZU1pcnJvclNpemVySW52YWxpZDogYm9vbGVhbiA9IHRydWU7XG5cbiAgZ2V0UHJldmlld1NpemVyU3R5bGVzKCkge1xuICAgIGNvbnN0IGVsID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZShcIm1hcmtkb3duLXByZXZpZXctc2l6ZXJcIik7XG5cbiAgICBpZiAoZWwubGVuZ3RoKSB7XG4gICAgICB0aGlzLnByZXZpZXdTaXplclJlZiA9IGdldFJlZlNpemluZyhlbFswXSBhcyBIVE1MRWxlbWVudCk7XG4gICAgfVxuICB9XG5cbiAgZ2V0Q29kZU1pcnJvclNpemVyU3R5bGVzKCkge1xuICAgIGNvbnN0IHNpemVyRWwgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKFwiQ29kZU1pcnJvci1zaXplclwiKTtcbiAgICBjb25zdCBsaW5lRWwgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKFwiQ29kZU1pcnJvci1saW5lXCIpO1xuXG4gICAgaWYgKHNpemVyRWwubGVuZ3RoICYmIGxpbmVFbC5sZW5ndGgpIHtcbiAgICAgIGNvbnN0IHNpemVyID0gc2l6ZXJFbFswXSBhcyBIVE1MRWxlbWVudDtcblxuICAgICAgY29uc3QgeyBtYXJnaW5MZWZ0LCBwYWRkaW5nUmlnaHQsIGJvcmRlclJpZ2h0V2lkdGggfSA9IHNpemVyLnN0eWxlO1xuXG4gICAgICAvLyBJZiBjb2RlbWlycm9yIGhhc24ndCBhcHBsaWVkIHN0eWxlcyB0byB0aGUgZGl2IHlldCwgbGV0J3MgY29uc2lkZXIgaXRcbiAgICAgIC8vIGludmFsaWQgc28gd2UgY2FuIGNoZWNrIGl0IGFnYWluIGxhdGVyXG4gICAgICBpZiAobWFyZ2luTGVmdCAhPT0gXCIwcHhcIiAmJiBwYWRkaW5nUmlnaHQgIT09IFwiMHB4XCIpIHtcbiAgICAgICAgdGhpcy5jb2RlTWlycm9yU2l6ZXJJbnZhbGlkID0gZmFsc2U7XG4gICAgICB9XG5cbiAgICAgIGNvbnN0IGlubGluZTogUmVmU2l6aW5nID0ge1xuICAgICAgICBtYXJnaW5MZWZ0LFxuICAgICAgICBtYXJnaW5SaWdodDogYm9yZGVyUmlnaHRXaWR0aCxcbiAgICAgICAgcGFkZGluZ1JpZ2h0LFxuICAgICAgfTtcblxuICAgICAgY29uc3Qgc2l6ZXJSZWYgPSBnZXRSZWZTaXppbmcoc2l6ZXIpO1xuXG4gICAgICBjb25zdCBsaW5lID0gbGluZUVsWzBdIGFzIEhUTUxFbGVtZW50O1xuICAgICAgY29uc3QgbGluZVJlZiA9IGdldFJlZlNpemluZyhsaW5lKTtcblxuICAgICAgLy8gQ29tYmluZSBpbmxpbmUgc3R5bGVzIHdpdGggQ1NTIHN0eWxlc1xuICAgICAgdGhpcy5jb2RlTWlycm9yU2l6ZXJSZWYgPSB7XG4gICAgICAgIC4uLmlubGluZSxcbiAgICAgICAgLi4uc2l6ZXJSZWYsXG4gICAgICB9O1xuXG4gICAgICBpZiAobGluZVJlZi5wYWRkaW5nTGVmdCkge1xuICAgICAgICB0aGlzLmNvZGVNaXJyb3JTaXplclJlZi5wYWRkaW5nTGVmdCA9IHRoaXMuY29kZU1pcnJvclNpemVyUmVmXG4gICAgICAgICAgLnBhZGRpbmdMZWZ0XG4gICAgICAgICAgPyBgY2FsYygke3RoaXMuY29kZU1pcnJvclNpemVyUmVmLnBhZGRpbmdMZWZ0fSArICR7bGluZVJlZi5wYWRkaW5nTGVmdH0pYFxuICAgICAgICAgIDogbGluZVJlZi5wYWRkaW5nTGVmdDtcbiAgICAgIH1cblxuICAgICAgaWYgKGxpbmVSZWYucGFkZGluZ1JpZ2h0KSB7XG4gICAgICAgIHRoaXMuY29kZU1pcnJvclNpemVyUmVmLnBhZGRpbmdSaWdodCA9IHRoaXMuY29kZU1pcnJvclNpemVyUmVmXG4gICAgICAgICAgLnBhZGRpbmdSaWdodFxuICAgICAgICAgID8gYGNhbGMoJHt0aGlzLmNvZGVNaXJyb3JTaXplclJlZi5wYWRkaW5nUmlnaHR9ICsgJHtsaW5lUmVmLnBhZGRpbmdSaWdodH0pYFxuICAgICAgICAgIDogbGluZVJlZi5wYWRkaW5nUmlnaHQ7XG4gICAgICB9XG4gICAgfVxuICB9XG5cbiAgLy8gT25jZSB0aGUgY29kZW1pcnJvciBoZWFkaW5nIHN0eWxlcyBoYXZlIGJlZW4gdmFsaWRhdGVkLCBsb29wIHRocm91Z2ggYW5kIHVwZGF0ZSBldmVyeXRoaW5nXG4gIHVwZGF0ZUNvZGVNaXJyb3JIZWFkaW5ncygpIHtcbiAgICBPYmplY3Qua2V5cyh0aGlzLmhlYWRpbmdzKS5mb3JFYWNoKChpZCkgPT4ge1xuICAgICAgY29uc3QgaDFFZGl0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYCR7aWR9LWVkaXRgKTtcbiAgICAgIGFwcGx5UmVmU3R5bGVzKGgxRWRpdCwgdGhpcy5jb2RlTWlycm9yU2l6ZXJSZWYpO1xuICAgIH0pO1xuICB9XG5cbiAgLy8gQ2xlYW4gdXAgaGVhZGluZ3Mgb25jZSBhIHBhbmUgaGFzIGJlZW4gY2xvc2VkIG9yIHRoZSBwbHVnaW4gaGFzIGJlZW4gZGlzYWJsZWRcbiAgcmVtb3ZlSGVhZGluZyhpZDogc3RyaW5nKSB7XG4gICAgaWYgKCF0aGlzLmhlYWRpbmdzW2lkXSkgcmV0dXJuO1xuXG4gICAgY29uc3QgaDFFZGl0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYCR7aWR9LWVkaXRgKTtcbiAgICBjb25zdCBoMVByZXZpZXcgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChgJHtpZH0tcHJldmlld2ApO1xuXG4gICAgaWYgKGgxRWRpdCkgaDFFZGl0LnJlbW92ZSgpO1xuICAgIGlmIChoMVByZXZpZXcpIGgxUHJldmlldy5yZW1vdmUoKTtcblxuICAgIHRoaXMuaGVhZGluZ3NbaWRdLnJlc2l6ZVdhdGNoZXIuZGlzY29ubmVjdCgpO1xuXG4gICAgZGVsZXRlIHRoaXMuaGVhZGluZ3NbaWRdLnJlc2l6ZVdhdGNoZXI7XG4gICAgZGVsZXRlIHRoaXMuaGVhZGluZ3NbaWRdO1xuICB9XG5cbiAgY3JlYXRlSGVhZGluZyhpZDogc3RyaW5nLCBsZWFmOiBXb3Jrc3BhY2VMZWFmKSB7XG4gICAgLy8gQ29kZU1pcnJvciBhZGRzIG1hcmdpbiBhbmQgcGFkZGluZyBvbmx5IGFmdGVyIHRoZSBlZGl0b3IgaXMgdmlzaWJsZVxuICAgIGlmIChcbiAgICAgIHRoaXMuY29kZU1pcnJvclNpemVySW52YWxpZCAmJlxuICAgICAgbGVhZi5nZXRWaWV3U3RhdGUoKS5zdGF0ZT8ubW9kZSA9PT0gXCJzb3VyY2VcIlxuICAgICkge1xuICAgICAgdGhpcy5nZXRDb2RlTWlycm9yU2l6ZXJTdHlsZXMoKTtcblxuICAgICAgaWYgKCF0aGlzLmNvZGVNaXJyb3JTaXplckludmFsaWQpIHtcbiAgICAgICAgdGhpcy51cGRhdGVDb2RlTWlycm9ySGVhZGluZ3MoKTtcbiAgICAgIH1cbiAgICB9XG5cbiAgICBpZiAodGhpcy5oZWFkaW5nc1tpZF0pIHJldHVybjtcblxuICAgIGNvbnN0IHRpdGxlID0gKGxlYWYudmlldyBhcyBhbnkpLmZpbGU/LmJhc2VuYW1lO1xuXG4gICAgaWYgKCF0aXRsZSkgcmV0dXJuO1xuXG4gICAgY29uc3Qgdmlld0NvbnRlbnQgPVxuICAgICAgbGVhZi52aWV3LmNvbnRhaW5lckVsLmdldEVsZW1lbnRzQnlDbGFzc05hbWUoXCJDb2RlTWlycm9yLXNjcm9sbFwiKTtcblxuICAgIGNvbnN0IGxpbmVzID1cbiAgICAgIGxlYWYudmlldy5jb250YWluZXJFbC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKFwiQ29kZU1pcnJvci1saW5lc1wiKTtcblxuICAgIGNvbnN0IHByZXZpZXdDb250ZW50ID0gbGVhZi52aWV3LmNvbnRhaW5lckVsLmdldEVsZW1lbnRzQnlDbGFzc05hbWUoXG4gICAgICBcIm1hcmtkb3duLXByZXZpZXctdmlld1wiXG4gICAgKTtcblxuICAgIGlmICghdGhpcy5wcmV2aWV3U2l6ZXJSZWYpIHtcbiAgICAgIHRoaXMuZ2V0UHJldmlld1NpemVyU3R5bGVzKCk7XG4gICAgfVxuXG4gICAgaWYgKCF0aGlzLmNvZGVNaXJyb3JTaXplclJlZikge1xuICAgICAgdGhpcy5nZXRDb2RlTWlycm9yU2l6ZXJTdHlsZXMoKTtcbiAgICB9XG5cbiAgICBpZiAodmlld0NvbnRlbnQubGVuZ3RoICYmIHByZXZpZXdDb250ZW50Lmxlbmd0aCkge1xuICAgICAgLy8gQ3JlYXRlIHRoZSBjb2RlbWlycm9yIGhlYWRpbmdcbiAgICAgIGNvbnN0IGVkaXRFbCA9IHZpZXdDb250ZW50WzBdIGFzIEhUTUxEaXZFbGVtZW50O1xuICAgICAgY29uc3QgaDFFZGl0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImgxXCIpO1xuXG4gICAgICBhcHBseVJlZlN0eWxlcyhoMUVkaXQsIHRoaXMuY29kZU1pcnJvclNpemVyUmVmKTtcblxuICAgICAgaDFFZGl0LnNldFRleHQodGl0bGUpO1xuICAgICAgaDFFZGl0LmlkID0gYCR7aWR9LWVkaXRgO1xuICAgICAgaDFFZGl0LmNsYXNzTGlzdC5hZGQoJ2VtYmVkZGVkLW5vdGUtdGl0bGUnLCAnZW1iZWRkZWQtbm90ZS10aXRsZV9fZWRpdCcpXG4gICAgICBlZGl0RWwucHJlcGVuZChoMUVkaXQpO1xuXG4gICAgICBjb25zdCBvblJlc2l6ZSA9IGRlYm91bmNlKFxuICAgICAgICAoZW50cmllczogYW55KSA9PiB7XG4gICAgICAgICAgaWYgKGxpbmVzLmxlbmd0aCkge1xuICAgICAgICAgICAgY29uc3QgbGluZXNFbCA9IGxpbmVzWzBdIGFzIEhUTUxEaXZFbGVtZW50O1xuICAgICAgICAgICAgY29uc3QgaGVpZ2h0ID0gTWF0aC5jZWlsKGVudHJpZXNbMF0uYm9yZGVyQm94U2l6ZVswXS5ibG9ja1NpemUpO1xuXG4gICAgICAgICAgICBsaW5lc0VsLnN0eWxlLnBhZGRpbmdUb3AgPSBgJHtoZWlnaHR9cHhgO1xuICAgICAgICAgICAgaDFFZGl0LnN0eWxlLm1hcmdpbkJvdHRvbSA9IGAtJHtoZWlnaHR9cHhgO1xuICAgICAgICAgIH1cbiAgICAgICAgfSxcbiAgICAgICAgMjAsXG4gICAgICAgIHRydWVcbiAgICAgICk7XG5cbiAgICAgIC8vIFdlIG5lZWQgdG8gcHVzaCB0aGUgY29udGVudCBkb3duIHdoZW4gdGhlIHBhbmUgcmVzaXplcyBzbyB0aGUgaGVhZGluZ1xuICAgICAgLy8gZG9lc24ndCBjb3ZlciB0aGUgY29udGVudFxuICAgICAgY29uc3QgcmVzaXplV2F0Y2hlciA9IG5ldyAod2luZG93IGFzIGFueSkuUmVzaXplT2JzZXJ2ZXIob25SZXNpemUpO1xuXG4gICAgICByZXNpemVXYXRjaGVyLm9ic2VydmUoaDFFZGl0KTtcblxuICAgICAgLy8gQ3JlYXRlIHRoZSBwcmV2aWV3IGhlYWRpbmdcbiAgICAgIGNvbnN0IHByZXZpZXdFbCA9IHByZXZpZXdDb250ZW50WzBdIGFzIEhUTUxEaXZFbGVtZW50O1xuICAgICAgY29uc3QgaDFQcmV2aWV3ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImgxXCIpO1xuXG4gICAgICBhcHBseVJlZlN0eWxlcyhoMVByZXZpZXcsIHRoaXMucHJldmlld1NpemVyUmVmKTtcblxuICAgICAgaDFQcmV2aWV3LnNldFRleHQodGl0bGUpO1xuICAgICAgaDFQcmV2aWV3LmlkID0gYCR7aWR9LXByZXZpZXdgO1xuICAgICAgaDFQcmV2aWV3LmNsYXNzTGlzdC5hZGQoJ2VtYmVkZGVkLW5vdGUtdGl0bGUnLCAnZW1iZWRkZWQtbm90ZS10aXRsZV9fcHJldmlldycpXG4gICAgICBwcmV2aWV3RWwucHJlcGVuZChoMVByZXZpZXcpO1xuXG4gICAgICB0aGlzLmhlYWRpbmdzW2lkXSA9IHsgbGVhZiwgcmVzaXplV2F0Y2hlciB9O1xuICAgIH1cbiAgfVxuXG4gIC8vIEdlbmVyYXRlIGEgdW5pcXVlIElEIGZvciBhIGxlYWZcbiAgZ2V0TGVhZklkKGxlYWY6IFdvcmtzcGFjZUxlYWYpIHtcbiAgICBjb25zdCB2aWV3U3RhdGUgPSBsZWFmLmdldFZpZXdTdGF0ZSgpO1xuXG4gICAgaWYgKHZpZXdTdGF0ZS50eXBlID09PSBcIm1hcmtkb3duXCIpIHtcbiAgICAgIHJldHVybiBcInRpdGxlLVwiICsgTWF0aC5yYW5kb20oKS50b1N0cmluZygzNikuc3Vic3RyKDIsIDkpO1xuICAgIH1cblxuICAgIHJldHVybiBudWxsO1xuICB9XG5cbiAgLy8gSXRlcmF0ZSB0aHJvdWdoIGFsbCBsZWFmcyBhbmQgZ2VuZXJhdGUgaGVhZGluZ3MgaWYgbmVlZGVkXG4gIGNyZWF0ZUhlYWRpbmdzKGFwcDogQXBwKSB7XG4gICAgY29uc3Qgc2VlbjogeyBbazogc3RyaW5nXTogYm9vbGVhbiB9ID0ge307XG5cbiAgICBhcHAud29ya3NwYWNlLml0ZXJhdGVSb290TGVhdmVzKChsZWFmKSA9PiB7XG4gICAgICBjb25zdCBpZCA9IHRoaXMuZ2V0TGVhZklkKGxlYWYpO1xuXG4gICAgICBpZiAoaWQpIHtcbiAgICAgICAgdGhpcy5jcmVhdGVIZWFkaW5nKGlkLCBsZWFmKTtcbiAgICAgICAgc2VlbltpZF0gPSB0cnVlO1xuICAgICAgfVxuICAgIH0pO1xuXG4gICAgT2JqZWN0LmtleXModGhpcy5oZWFkaW5ncykuZm9yRWFjaCgoaWQpID0+IHtcbiAgICAgIGlmICghc2VlbltpZF0pIHtcbiAgICAgICAgdGhpcy5yZW1vdmVIZWFkaW5nKGlkKTtcbiAgICAgIH1cbiAgICB9KTtcbiAgfVxuXG4gIGNsZWFudXAoKSB7XG4gICAgdGhpcy5wcmV2aWV3U2l6ZXJSZWYgPSBudWxsO1xuICAgIHRoaXMuY29kZU1pcnJvclNpemVyUmVmID0gbnVsbDtcblxuICAgIE9iamVjdC5rZXlzKHRoaXMuaGVhZGluZ3MpLmZvckVhY2goKGlkKSA9PiB7XG4gICAgICB0aGlzLnJlbW92ZUhlYWRpbmcoaWQpO1xuICAgIH0pO1xuICB9XG59XG4iLCJpbXBvcnQgeyBQbHVnaW4gfSBmcm9tIFwib2JzaWRpYW5cIjtcclxuaW1wb3J0IHsgSGVhZGluZ3NNYW5hZ2VyIH0gZnJvbSBcIi4vSGVhZGluZ3NNYW5hZ2VyXCI7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBjbGFzcyBFbWJlZGRlZE5vdGVUaXRsZXNQbHVnaW4gZXh0ZW5kcyBQbHVnaW4ge1xyXG4gIGhlYWRpbmdzTWFuYWdlcjogSGVhZGluZ3NNYW5hZ2VyO1xyXG5cclxuICBvbmxvYWQoKSB7XHJcbiAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5hZGQoXCJlbWJlZGRlZC1ub3RlLXRpdGxlc1wiKTtcclxuICAgIHRoaXMuaGVhZGluZ3NNYW5hZ2VyID0gbmV3IEhlYWRpbmdzTWFuYWdlcigpO1xyXG5cclxuICAgIHRoaXMucmVnaXN0ZXJFdmVudChcclxuICAgICAgdGhpcy5hcHAud29ya3NwYWNlLm9uKFwibGF5b3V0LWNoYW5nZVwiLCAoKSA9PiB7XHJcbiAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7XHJcbiAgICAgICAgICB0aGlzLmhlYWRpbmdzTWFuYWdlci5jcmVhdGVIZWFkaW5ncyh0aGlzLmFwcCk7XHJcbiAgICAgICAgfSwgMCk7XHJcbiAgICAgIH0pXHJcbiAgICApO1xyXG5cclxuICAgIC8vIExpc3RlbiBmb3IgQ1NTIGNoYW5nZXMgc28gd2UgY2FuIHJlY2FsY3VsYXRlIGhlYWRpbmcgc3R5bGVzXHJcbiAgICB0aGlzLnJlZ2lzdGVyRXZlbnQoXHJcbiAgICAgIHRoaXMuYXBwLndvcmtzcGFjZS5vbihcImNzcy1jaGFuZ2VcIiwgKCkgPT4ge1xyXG4gICAgICAgIHRoaXMuaGVhZGluZ3NNYW5hZ2VyLmNsZWFudXAoKTtcclxuXHJcbiAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7XHJcbiAgICAgICAgICB0aGlzLmhlYWRpbmdzTWFuYWdlci5jcmVhdGVIZWFkaW5ncyh0aGlzLmFwcCk7XHJcbiAgICAgICAgfSwgMCk7XHJcbiAgICAgIH0pXHJcbiAgICApO1xyXG5cclxuICAgIHRoaXMuYXBwLndvcmtzcGFjZS5sYXlvdXRSZWFkeVxyXG4gICAgICA/IHRoaXMuYXBwLndvcmtzcGFjZS50cmlnZ2VyKFwibGF5b3V0LWNoYW5nZVwiKVxyXG4gICAgICA6IHRoaXMuYXBwLndvcmtzcGFjZS5vbkxheW91dFJlYWR5KCgpID0+IHtcclxuICAgICAgICAgIC8vIFRyaWdnZXIgbGF5b3V0LWNoYW5nZSB0byBlbnN1cmUgaGVhZGluZ3MgYXJlIGNyZWF0ZWQgd2hlbiB0aGUgYXBwIGxvYWRzXHJcbiAgICAgICAgICB0aGlzLmFwcC53b3Jrc3BhY2UudHJpZ2dlcihcImxheW91dC1jaGFuZ2VcIik7XHJcbiAgICAgICAgfSk7XHJcbiAgfVxyXG5cclxuICBvbnVubG9hZCgpIHtcclxuICAgIGRvY3VtZW50LmJvZHkuY2xhc3NMaXN0LnJlbW92ZShcImVtYmVkZGVkLW5vdGUtdGl0bGVzXCIpO1xyXG4gICAgdGhpcy5oZWFkaW5nc01hbmFnZXIuY2xlYW51cCgpO1xyXG4gIH1cclxufVxyXG4iXSwibmFtZXMiOlsiZGVib3VuY2UiLCJQbHVnaW4iXSwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBLE1BQU0sVUFBVSxHQUFHLFNBQVMsQ0FBQztBQUM3QixNQUFNLEtBQUssR0FBRyxVQUFVLENBQUM7QUFDekIsTUFBTSxRQUFRLEdBQUcsV0FBVyxDQUFDO0FBQzdCLE1BQU0sT0FBTyxHQUFHLGFB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
