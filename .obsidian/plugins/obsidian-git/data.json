@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": true,
-  "gitPath": "/usr/lib/git-core",
+  "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "mergeOnPull": true,
