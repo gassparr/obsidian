@@ -51,7 +51,6 @@ Senales a por impulsos electricos, las cuales cumplen 3 funciones:
 - Cerebro
 - Medula Espinal
 
-**Funciones**:
 
 ### Sistema nervioso periferico
 **Composicion**:
