@@ -31,3 +31,26 @@ producto de la fosforilacion de los residuos Ser y Tyr de las proteinas blanco, 
 ## Hormonas
 
 - [[Insulina]]
+
+
+# Sistema Nervioso
+
+Senales a por impulsos electricos, las cuales cumplen 3 funciones:
+- Captar informacion
+- Procesamiento de Informacion
+- Respuesta
+
+## Componentes especializados
+### Sistema nervioso central 
+**Composicion**:
+- Cerebro
+- Medula Espinal
+
+**Funciones**:
+
+### Sistema nervioso periferico
+**Composicion**:
+- Sistema nervioso somatico
+	Controla movimientos voluntarios de musculos esqueleticos
+- Sistema nervioso autonomo
+	Controla actividades involuntarias 

@@ -3,7 +3,7 @@
 Además de sus numerosos orgánulos delimitados por membrana, el citoplasma eucarionte contiene un conjunto de fibras largas y delgadas denominadas citoesqueleto, éste cumple varias funciones importantes. El citoesqueleto se divide en:
 
 *Microfilamentos*: son filamentos únicos en haces o en redes.Miden alrededor de 7nm de diámetro y hasta varios micrómetros de largo. Se ensamblan a partir de actina, la cual se pliega y tiene diferentes extremos los cuales interactúan con otros monómeros de actina y forman cadenas de hélice doble largas. Los microfilamentos tienen dos funciones principales:
-- Ayudan al [[movimiento]] de toda la célula o a partes de ella.
+- Ayudan al [[Movimiento]] de toda la célula o a partes de ella.
 - Determinan y estabilizan la forma celular.
 
 *Filamentos Intermedios*: Compuestos por proteínas fibrosas organizadas en enzamblados resistentes con forma de cuerda, los cuales miden alrededor de 8-12 nm. Los filamentos intermedios cumplen varias funciones importantes:

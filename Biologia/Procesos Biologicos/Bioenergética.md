@@ -10,4 +10,4 @@ Flujo de e(-) en o a traves de una membrana, desde sustratos reducidos hasta un 
 Todo el proceso ocurre todo en la [[mitocondria]]
 
 
-# Foto
+# [[fotosintesis]]

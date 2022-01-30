@@ -11,8 +11,8 @@
 # Procesos biológicos:
 
 - [x]  [[Metabolismo]]: anabolismo y catabolismo
-- [ ]  [[Bioenergética]]: respiración y fotosíntesis
-- [ ]  [[Movimiento]]
+- [x]  [[Bioenergética]]: respiración y fotosíntesis
+- [ ]  [[Movimiento celular]]
 - [ ]  [[Comunicación celular y transducción de señales]]
 - [ ]  [[Transporte]]
 - [ ]  [[Ciclo celular]]
