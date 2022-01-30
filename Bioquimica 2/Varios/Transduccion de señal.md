@@ -40,6 +40,11 @@ Senales a por impulsos electricos, las cuales cumplen 3 funciones:
 - Procesamiento de Informacion
 - Respuesta
 
+**Celulas***:
+
+- [[Neuronas]]
+- [[Celulas de glia]]
+
 ## Componentes especializados
 ### Sistema nervioso central 
 **Composicion**:
@@ -53,4 +58,4 @@ Senales a por impulsos electricos, las cuales cumplen 3 funciones:
 - Sistema nervioso somatico
 	Controla movimientos voluntarios de musculos esqueleticos
 - Sistema nervioso autonomo
-	Controla actividades involuntarias 
+	Controla actividades involuntarias del musculo cardiaco y musculo liso. Ademas de glandulas secretoras
