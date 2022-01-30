@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Estructuras Microbianas/mitocondria.md",
+            "file": "Biologia/Bioenergética.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/mitocondria.md",
+                "file": "Biologia/Bioenergética.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/mitocondria.md",
+                "file": "Biologia/Bioenergética.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras Microbianas/mitocondria.md"
+                "file": "Biologia/Bioenergética.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
-    "Microbiologia/Estructuras Microbianas/mitocondria.md",
     "Biologia/Bioenergética.md",
+    "Microbiologia/Estructuras Microbianas/mitocondria.md",
     "Biologia/Ideas Centrales.md",
     "Comunicación celular y transducción de señales.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
