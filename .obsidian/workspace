@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Ideas Centrales.md",
+            "file": "Microbiologia/Estructuras y Organelas/organulos.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Ideas Centrales.md",
+                "file": "Microbiologia/Estructuras y Organelas/organulos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales.md",
+                "file": "Microbiologia/Estructuras y Organelas/organulos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Ideas Centrales.md"
+                "file": "Microbiologia/Estructuras y Organelas/organulos.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Microbiologia/Estructuras y Organelas/organulos.md",
     "Biologia/Ideas Centrales.md",
     "Biologia/Procesos Biologicos/Comunicación celular y transducción de señales.md",
     "Bioquimica 2/Varios/Transduccion de señal.md",
-    "Microbiologia/Estructuras Microbianas/Neuronas.md",
-    "Microbiologia/Estructuras Microbianas/Celulas de glia.md",
+    "Microbiologia/Estructuras y Organelas/Neuronas.md",
+    "Microbiologia/Estructuras y Organelas/Celulas de glia.md",
     "Comunicación celular y transducción de señales.md",
     "Bioquimica 2/Varios/adenilciclasa.md",
-    "Microbiologia/Estructuras Microbianas/Movimiento celular.md",
-    "Biologia/Procesos Biologicos/Bioenergética.md",
-    "Biologia/Procesos Biologicos/Movimiento.md"
+    "Microbiologia/Estructuras y Organelas/Movimiento celular.md",
+    "Biologia/Procesos Biologicos/Bioenergética.md"
   ]
 }
