@@ -26,7 +26,11 @@ La membrana externa, continua con el reticulo endoplasmatico, proporcionando con
 Al igual que la membrana del RE, esta recubierta de rbosomas implicados en la sintesis de proteinas
 
 **Poros nucleares**
-Canal cilindrico pequeno que se extiende a traves de ambas membranas de la envuelta, conectando el [[citosol]] con el *nucleoplasma*
+Canal cilindrico pequeno que se extiende a traves de ambas membranas de la envuelta, conectando el [[citosol]] con el *nucleoplasma*. 
+Estos se utilizan para exportar ARN y para importar proteinas necesarias para la replicacion.
+
+**Complejo del poro nuclear**
+Complejo de poros de unos 120nm. Consta de docenas de clases diferentes de subunidades polipeptidicas, se las ve por [[microscopia]] electronica en disposicion oxtogonal
 
 **Nucleoplasma**
 Espacio interior del nucleo
