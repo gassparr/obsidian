@@ -21,9 +21,22 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 
 ## Lipidos
 
-**Fosfolipidos**
-**Fosfogliceridos**
-**Esfingolipidos**
+**Fosfolipidos**:
+
+- *Fosfogliceridos*
+- *Esfingolipidos*
+
+**Glicolipidos**:
+
+Lipidos con grupos carbohidratos, algunos de ellos tienen como base al glicerol
+
+- *Cerebrosidos*
+- *Glangliosidos*
+
+Estos dos ultimos grupos de lipidos, contienen **acidos grasos**, los cuales son esenciales ya que las largas colas hidrocarbonadas forman una barrera hidrofobica
+**Esteroles**
+
+El principal esterol en [[eucariota]]s es el *colesterol*. Para las plantas tambien se encuentran los *fitoesteroles*, por otro lado, para los [[procariota]]s se encuentran los *hopanoides* las cuales son moleculas parecidas a los esteroles
 # Funciones
 
 - barrera de permeabilidad:
