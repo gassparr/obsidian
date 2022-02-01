@@ -1,5 +1,11 @@
 Elemento comun en todo [[microorganismo]].
-La [[membrana citoplasmatica]] rodea el [[citosol]] y lo separa de su entorno, la membrana es estructuralmente debil y confiere poca proteccion ante la lisis osmotica. Aun asi, es especial para la permeabilidad selectiva.
+La membrana citoplasmatica rodea el [[citosol]] y lo separa de su entorno, la membrana es estructuralmente debil y confiere poca proteccion ante la lisis osmotica. Aun asi, es especial para la permeabilidad selectiva.
+
+
+# Estructura
+## Modelo de mosaico fluido
+Membrana como dos capas de lipidos bastante fluidas, con proteinas localizadas dentro y sobre las capas lipidicas y orientadas de forma especifica respecto a las dos superficies de la membrana.
+
 
 # Composicion:
 
