@@ -17,8 +17,20 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 - Proteinas Integrales:
     Embedidas en la membrana, estan ancladas al interior hidrofobico a traves de segmentos hidrofobicos transmembrana, mientras que los segmentos hidrofilicos estaran orientados hacia el exterior.
 - Proteinas Perifericas:
-    No se encuentran embedidas, aun asi estan asociadas
+    No se encuentran embedidas, aun asi estan asociadas a traves de fuerzas debiles y puentes de hidrogeno.
+- Proteinas Transmembana
+	cruzan la membrana y tienen regiones hidrofilicas que sobresalen de la membrana por los 2 lados, estan ancladas por segmentos transmembrana hidrofobicos
 
+**Proteinas ancladas a lipidos**: se localizan en la superficie, pero se anclan covalentemente con lipidos dentro de la bicapa, estan se sintetizan en el [[reticulo endoplasmico]]
+
+**Funciones**:
+- Enzima
+- Transporte de e(-)
+- [[transportador|Transporte de solutos]]
+- [[Transduccion de señal|Receptores]]
+- Comunicacion intercelular
+- Endocitosis y Exocitosis
+- Estructural
 ## Lipidos
 
 **Fosfolipidos**:
