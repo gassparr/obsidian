@@ -13,3 +13,20 @@ Lugar de la celula donde se localizan y replican los cromosomas y donde se trans
 - Almacen de informacion genetica de la celula
 - Centro de control para expresion de la informacion
 
+# **Estructura**
+
+Rodeada de membrana que compartimentaliza las actividades del genoma con poros que perforan esta envoltura.
+
+## Envuelta Nuclear
+**Membrana interna**
+La membrana interna se apoya sobre fibras de soporto, denominada lamina nuclear
+
+**Membrana externa**
+La membrana externa, continua con el reticulo endoplasmatico, proporcionando continuidad entre el espacio perinuclear y el RE.
+Al igual que la membrana del RE, esta recubierta de rbosomas implicados en la sintesis de proteinas
+
+**Poros nucleares**
+Canal cilindrico pequeno que se extiende a traves de ambas membranas de la envuelta, conectando el [[citosol]] con el *nucleoplasma*
+
+**Nucleoplasma**
+Espacio interior del nucleo
