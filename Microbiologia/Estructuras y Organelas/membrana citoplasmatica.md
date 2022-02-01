@@ -6,7 +6,6 @@ La membrana citoplasmatica rodea el [[citosol]] y lo separa de su entorno, la me
 ## Modelo de mosaico fluido
 Membrana como dos capas de lipidos bastante fluidas, con proteinas localizadas dentro y sobre las capas lipidicas y orientadas de forma especifica respecto a las dos superficies de la membrana.
 
-
 # Composicion:
 
 sera una bicapa fosfolipidica, la cual tendra componentes hidrofobicos e hidrofilos. La misma contiene hopanoides, los cuales son moleculas parecidas a los esteroles, los cuales le confieren rigides.
@@ -16,10 +15,15 @@ sera una bicapa fosfolipidica, la cual tendra componentes hidrofobicos e hidrofi
 la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estaran en distintas disposiciones:
 
 - Proteinas Integrales:
-    Embedidas en la membrana
+    Embedidas en la membrana, estan ancladas al interior hidrofobico a traves de segmentos hidrofobicos transmembrana, mientras que los segmentos hidrofilicos estaran orientados hacia el exterior.
 - Proteinas Perifericas:
     No se encuentran embedidas, aun asi estan asociadas
 
+## Lipidos
+
+**Fosfolipidos**
+**Fosfogliceridos**
+**Esfingolipidos**
 # Funciones
 
 - barrera de permeabilidad:
