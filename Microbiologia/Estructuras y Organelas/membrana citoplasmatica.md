@@ -31,6 +31,8 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 - Comunicacion intercelular
 - Endocitosis y Exocitosis
 - Estructural
+
+
 ## Lipidos
 
 **Fosfolipidos**:
