@@ -27,6 +27,11 @@ Al igual que la membrana del RE, esta recubierta de rbosomas implicados en la si
 La membrana interna se apoya sobre fibras de soporto, denominada lamina nuclear
 
 **Matriz nuclear**
+Matriz de cromatina con funcion estructural, tambien se denomina nucleoesqueleto.
+
+**Lamina nuclear**
+Red de fibras densa y fina que limita la superficie interna de la membrana nuclear interna  y ayuda a sostener la envuelta nuclear.
+Esta compuesta por filamentos intermedios con proteinas denominadas *laminas*
 
 **Poros nucleares**
 Canal cilindrico pequeno que se extiende a traves de ambas membranas de la envuelta, conectando el [[citosol]] con el *nucleoplasma*. 
@@ -45,3 +50,13 @@ Complejo de poros de unos 120nm. Consta de docenas de clases diferentes de subun
 
 **Nucleoplasma**
 Espacio interior del nucleo
+## Nucleolo
+Es la fabrica de ribosomas de la celulas. Su tamano es dependiente de la actividad del mismo
+
+**Estructura**
+
+- Fibrillas: 
+	Contienen el [[ADN]] que esta siendo transcrito en rRNA (ribosomico)
+
+- Granulos:
+	Moleculas de rRNA empaquetados con proteinas del citoplasma. para formar subunidades ribosomales
