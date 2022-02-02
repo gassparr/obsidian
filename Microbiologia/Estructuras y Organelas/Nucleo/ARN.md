@@ -1,3 +1,5 @@
 # tRNA
 
-Como los aminoacidos no pueden reconocer directamente secuencias de bases de nucleotidos, existe el tRNA como adaptador, el cual posee dos sitios. uno para la union a un aminoacido y otro el cual reconoce una secuencia de bases del mRNA
+Como los aminoacidos no pueden reconocer directamente secuencias de bases de nucleotidos, existe el tRNA como adaptador, el cual posee dos sitios. uno para la union a un aminoacido y otro el cual reconoce una secuencia de bases del mRNA.
+
+tRNA une a aminoacido especifico y reconoce codones de mRNA porque cada tRNA posee un *anticodon* el cual por complementaridad se une a los codones del mRNA
