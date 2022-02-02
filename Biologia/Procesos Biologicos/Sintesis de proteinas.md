@@ -29,3 +29,4 @@ En el ribosoma existen 4 lugares importantes para la sintesis:
 	- Sitio A (aminoacil)
 	- Sitio P (peptidil)
 	- Sitio E (Exit)
+
