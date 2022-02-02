@@ -19,3 +19,13 @@ Cinco componentes:
 - Aminoacil-tRNA sintetasas
 - mRNA
 - Factores proteicos
+
+## Ribosomas
+particulas de RNA y proteinas que se encuentran en el [[citosol]], tanto en [[eucariota]] como en [[procariota]].
+En el ribosoma existen 4 lugares importantes para la sintesis:
+
+- Sitio de union a mRNA
+- Tres sitios de union del tRNA
+	- Sitio A (aminoacil)
+	- Sitio P (peptidil)
+	- Sitio E (Exit)
