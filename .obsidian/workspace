@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
+            "file": "Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md"
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ARN.md"
               }
             }
           }
@@ -156,11 +156,11 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "Microbiologia/Antimicrobianos/Actinomicetos.md",
     "Bioquimica 2/integracion metabolica.md",
-    "Biologia/Procesos Biologicos/ARN.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Biologia/Ideas Centrales.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
