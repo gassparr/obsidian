@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+            "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "adn",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md"
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
+    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
+    "Microbiologia/Antimicrobianos/Actinomicetos.md",
+    "Bioquimica 2/integracion metabolica.md",
+    "Biologia/Procesos Biologicos/ARN.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Biologia/Ideas Centrales.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
-    "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
-    "Microbiologia/Estructuras y Organelas/Transporte.md",
-    "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
-    "Microbiologia/Estructuras y Organelas/organulos.md",
-    "Biologia/Procesos Biologicos/Comunicación celular y transducción de señales.md",
-    "Bioquimica 2/Varios/Transduccion de señal.md"
+    "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md"
   ]
 }

@@ -10,7 +10,7 @@ Tambien propone que solo el ADN puede duplicarse y por lo tanto, reproducirse pa
 
 - Transciptasa inversa:
 	los virus pertenecientes a clasificacion VI y VII de baltimore.
-	Sintetizan ADN mediante la transcriptasa inversa que tiene como molde al [[ARN]]
+	Sintetizan [[ADN]] mediante la transcriptasa inversa que tiene como molde al [[ARN]]
 
 - Traduccion en sistemas libres de [[ARN]]:
 	obtencion de proteinas in vitro, en sistema libre de celulas y en ausencia de [[ARN]]. 
