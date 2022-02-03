@@ -79,7 +79,7 @@ Ocurren 3 procesos:
 
 # Ocurrencia
 
-- [[Bacterias]]
+- [[bacterias]]
 - Algas
 - [[Plantas]]
 
@@ -169,7 +169,7 @@ A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que 
 
 - el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
 
-- Las [[plantas]] CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
+- Las [[Plantas]] CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
 
 # Factores sobre rendimiento
 

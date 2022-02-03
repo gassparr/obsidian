@@ -6,7 +6,7 @@ la fraccion de energia metabolica obtenida por degradacion oxidativa de amino ac
 
     - animales carnivoros y herbivoros
     - [[microorganismo]]
-    - [[plantas]]
+    - [[Plantas]]
 
 - Situacion metabolica:
     - recambio de proteinas

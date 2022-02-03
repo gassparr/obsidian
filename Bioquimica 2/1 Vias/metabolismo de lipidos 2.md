@@ -105,7 +105,7 @@ La _ACC_ activa es la que permite la formacion de Malonil CoA a partir de AcCoA
 Inhibicion (glucosa baja):
 El glucagon activa la _PKA_ la cual fosforila el _ACC_ asi inactivandolo
 
-### En [[plantas]]
+### En [[Plantas]]
 
 Ocurre en sistema peroxisomal / glioxisomal, por lo tanto es diferente al sistema mitocondrial:
 
