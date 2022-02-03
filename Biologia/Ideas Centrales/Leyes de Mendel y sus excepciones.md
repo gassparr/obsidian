@@ -82,3 +82,11 @@ Diferentes rasgos son heredados independientemente unos de los otros, sin relaci
     
 -   **Efectos ambientales.** 
 	La mayoría de las características del mundo real se determinan no solo por el genotipo, sino también por los factores ambientales que influyen en cómo se traduce el genotipo en fenotipo.
+
+**Cruzamiento de prueba**:
+saber si un organismo con un fenotipo dominante, es heterocigoto u homocigoto.
+El organismo con fenotipo dominante se cruza con un organismo que homocigoto recesivo.
+***Homocigoto**
+si el organismo dominante es homocigoto, entonces los descendientes obtendran un alelo dominante y seran heterocigotos y mostraran el fenotipo dominante.
+**Heterocigoto**
+Si el organismo dominante es heterocigoto, los descendientes seran la mitad heterocigotos dominantes y la mitad homocigotos recesivos
