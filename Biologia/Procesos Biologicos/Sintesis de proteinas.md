@@ -1,4 +1,4 @@
-- ARN ribosómico y ribosomas. 
+- [[ARN]] ribosómico y ribosomas. 
 - ARNt (transferencia) como adaptador entre aminoácidos y ARNm (mensajero). 
 - El Código genético. 
 - Procesos de síntesis de Polipéptidos. 
@@ -20,6 +20,7 @@ Cinco componentes:
 - mRNA
 - Factores proteicos
 
+Es un proceso secuencial y ordenado que comienza con la sintesis de una cadena polipeptidica por la cadena amino terminal
 ## Ribosomas
 particulas de RNA y proteinas que se encuentran en el [[citosol]], tanto en [[eucariota]] como en [[procariota]].
 En el ribosoma existen 4 lugares importantes para la sintesis:
