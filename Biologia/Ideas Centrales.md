@@ -19,4 +19,4 @@
 - [ ]  [[Reproducción]]
 - [ ]  [[Transmisión de la información genética]]
 - [ ]  [[Diferenciación y desarrollo]]
-- [ ] [[Sintesis de proteinas]]
+- [x] [[Sintesis de proteinas]]

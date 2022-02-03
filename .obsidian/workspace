@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+            "file": "Biologia/Ideas Centrales.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+                "file": "Biologia/Ideas Centrales.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+                "file": "Biologia/Ideas Centrales.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Sintesis de proteinas.md"
+                "file": "Biologia/Ideas Centrales.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Biologia/Ideas Centrales.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Biologia/Microbiologia/Laboratorio/esterilizacion.md",
     "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
@@ -164,7 +165,6 @@
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md",
-    "Bioquimica 2/integracion metabolica.md",
-    "Biologia/Ideas Centrales.md"
+    "Bioquimica 2/integracion metabolica.md"
   ]
 }
