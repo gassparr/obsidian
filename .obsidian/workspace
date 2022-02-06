@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+            "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
+                "file": "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
+    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
     "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Biologia/Ideas Centrales.md",
     "Biologia/Microbiologia/Laboratorio/esterilizacion.md",
     "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/mitocondria.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
-    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
-    "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md"
   ]
 }
