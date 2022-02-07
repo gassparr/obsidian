@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Procesos Biologicos/Bioenergética.md",
+            "file": "Biologia/Resumen primer parcial.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
+                "file": "Biologia/Resumen primer parcial.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
+                "file": "Biologia/Resumen primer parcial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Bioenergética.md"
+                "file": "Biologia/Resumen primer parcial.md"
               }
             }
           }
@@ -156,11 +156,11 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
-    "Biologia/Procesos Biologicos/Bioenergética.md",
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
+    "Biologia/Resumen primer parcial.md",
+    "Biologia/Ideas Centrales/Teoría de la evolución biológica.md",
+    "Biologia/Ideas Centrales/Teoría celular.md",
+    "Biologia/Microbiologia/Antimicrobianos/Bacillaceae.md",
+    "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md",
     "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Biologia/Ideas Centrales.md",
