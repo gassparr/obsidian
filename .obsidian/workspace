@@ -7,13 +7,8 @@
         "id": "46837c025d4b7eb8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biologia/Resumen primer parcial.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -34,7 +29,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Resumen primer parcial.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Resumen primer parcial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biologia/Resumen primer parcial.md"
-              }
+              "state": {}
             }
           }
         ],
