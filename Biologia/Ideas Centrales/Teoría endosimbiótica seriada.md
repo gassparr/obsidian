@@ -1,3 +1,14 @@
 # Teoría Endosimbiótoca
 
-- Dicha teoría sugiere como surgieron los eucariontes a travez de los procariones. Los primero procariones probablemente absorvieron alimento de forma directa del ambiente; posteriormente algunos optaron por volverse fotosintéticos, mientras que otros, sobrevivieron fagocitando a otros procariones más pequeños. En algún momento se estima que un procarionte fagocita a otro procarionte fotosintético, pero este último no se degrada sino que queda atrapado en el citoplasma. Añadiendo la suposición de que ambos procariontes (el fagocitador y el fotosintético), se dividieron a un tiempo similar, por lo que sucesivas generaciones de la célula más grande contuvieron a la progenie de la célula más pequeña (la fotosintética). Dicha endosimbiosis habría beneficiado a ambos participantes: la célula fotosintética habría provisto a la mas grande de monosacáridos producto de la fotosíntesis, y la mas grande a su vez habría protegido a la más pequeña. A lo largo del tiempo el procarionte fotosintético habría evolucionado en lo que hoy en día se conoce como el cloroplasto moderno. Una idea similar puede aplicarse al origen procarionte de las mitocondrias, puesto que tienen un tamaño similar y que se puede hayar [[ADN]] en la mitocondria.
+ describe la aparición de las células [[eucariota]]s o eucariogénesis como consecuencia de la sucesiva incorporación simbiogenética de diferentes bacterias de vida libre (procariotas). La teoría actual acepta tres de cuatro pasos propuestos por Lynn Margulis.![http://cnho.files.wordpress.com/2010/06/22243_497735315112_419219510112_11399927_122037_n.jpg](https://lh4.googleusercontent.com/joBGBJPurtOepSrTnSgTnNPxXTzZJJ8eL73kf3n60Ze-GCNc1610xVRSmFEMLRF8jetW_vXgTFpEPbRHTG26dty09zenDfyi20nxvuntBw9H0fg1NBMY962YNn3GGYHZbT5zWCY)
+
+Se parte de una célula procariota con pared celular y ribosomas y ADN en el citoplasma.
+1. Se perdió la pared celular protectora.
+2. Las invaginaciones de la mp aumentan la superficie celular.
+3. Se formaron membranas internas donde se anclaron los ribosomas.
+4. Se constituyó el cito esqueleto. 
+5. El [[ADN]] se adhirió a la membrana de una vesícula invaginada generando el núcleo.
+6. Los micro túbulos del [[Citoesqueleto]] dieron origen al flagelo eucarionte. 
+7. Las primeras vesículas digestivas evolucionan a lisosomas utilizando enzimas del RE.
+8. Por endosimbiosis de una proteobacteria se formaron [[mitocondria]]. 
+9. La endosimbiosis de cianobacterias condujo al desarrollo de cloroplastos.

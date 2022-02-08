@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
+            "file": "Biologia/Procesos Biologicos/Metabolismo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
+                "file": "Biologia/Procesos Biologicos/Metabolismo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
+                "file": "Biologia/Procesos Biologicos/Metabolismo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md"
+                "file": "Biologia/Procesos Biologicos/Metabolismo.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Biologia/Procesos Biologicos/Metabolismo.md",
+    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md",
+    "Biologia/Ideas Centrales/Teoría celular.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
-    "Biologia/Resumen primer parcial.md",
-    "Biologia/Procesos Biologicos/Bioenergética.md",
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md",
-    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
-    "Biologia/Ideas Centrales.md"
+    "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
+    "Biologia/Ideas Centrales/Teoría endosimbiótica seriada.md",
+    "Biologia/Microbiologia/Microorganismos/eucariota.md",
+    "Biologia/Microbiologia/Microorganismos/procariota.md",
+    "Biologia/Ideas Centrales/Teoría de la evolución biológica.md"
   ]
 }
