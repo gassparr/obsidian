@@ -36,3 +36,13 @@ Con el pasar del tiempo el suministro de moleculas organicas disminuye, dejando 
 **Atmosfera Oxidante**
 Formacion de aerobios debido a la adaptacion de las celulas ya que la concentracion de O2 atmosferico aumenta, estos primeros aerobios introducen la [[cadena transportadora de electrones]] y la [[fosforilacion oxidativa]].
 Estas formas de metabolismo dan lugar para la **Teoria endosimbionte**, donde se forman celulas protoeucariotas, las cuales adquieren la [[fagocitosis]]
+
+
+# Método científico
+Es una aproximación conceptual que proporciona fuertes fundamentos para avanzar en el conocimiento biológico. Consta de 5 pasos: realizar observaciones, formular preguntas, formular hipótesis, hacer predicciones y probar esas predicciones mediante observaciones adicionales o la realización de experimentos.
+
+Tipos de experimentos:
+-   Comparativo: se predice que van a  existir diferencias entre las muestras o grupos basados en las hipótesis y se comprueba.
+-   Controlado: los grupos resultan lo más parecidos posibles, se predice que algún factor desempeñara un papel en el fenómeno que se está investigando.
+    
+

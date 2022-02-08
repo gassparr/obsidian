@@ -1,5 +1,20 @@
 tipo de [[microorganismo]] su forma y su pequeño tamaño son los 2 factores mas notables de este tipo de celulas.
 
+-   pequeñas, desde 0,25 x 1,2 µm a 1,5 x 4 µm 
+    
+-   Poseen membrana plasmática que contiene a la célula, regula el tránsito de materiales dentro y fuera de ella y la separa del ambiente (carecen de colesterol)
+    
+-   El nucleoide consiste en el material hereditario de la célula
+    
+-   La mayoría tienen una pared celular fuera de la membrana que sostiene a la célula y determina su forma, contienen peptidoglucanos que forman una sola molécula gigante alrededor de la célula. ![http://www.definicionabc.com/wp-content/uploads/2013/12/Procariota-450x373.jpg](https://lh5.googleusercontent.com/HEEPDX7UfHyckvn0Gj-I8FM3tlUMSH0UWKiCcRSs7HzUII_aivZVnbZqE8It4NJBkDZx1P2pxlkCkofGk0BLnid3xJ6P9zjbUEfEsKsgHUltdzXKc2Qr_jilYo6gRyD-wOPWnCM)
+    
+-   Los únicos organelos membranosos son los mesosomas (invaginación de la membrana plasmática) sirve pre j, para la fotosíntesis
+    
+-   Los flagelos se encuentran anclados a la mp y permiten el movimiento de la célula; mediante movimientos giratorios conduce a la célula hacia adelante. Los Pili se proyectan desde las superficies de algunas bacterias, son más cortos q los flagelos y ayudan a las bacterias a adherirse con otras cuando intercambian material genético.
+    
+
+El cito esqueleto se encuentra formado x proteínas y cumplen la función del mantenimiento celular.
+
 # Morfologia:
 
 ## Grandes Rasgos;

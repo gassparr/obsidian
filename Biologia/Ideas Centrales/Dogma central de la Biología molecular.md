@@ -1,3 +1,15 @@
+# Biologia
+
+La biología es el estudio científico de los seres vivos -> toda la diversidad de organismos que descienden de un ancestro común unicelular que surgió hace casi 4mil millones de años. Todos los org vivos compartes caracterisrucas que no se encuentran en el mundo no vivo:
+
+-   tienen una o más células
+-   contienen info genética
+-   se hallan genéticamente emparentadas y han evolucionado de otros similares
+-   pueden convertir moléculas tomadas de su ambiente y conv en nuevas mol biológicas
+-   pueden tomar energía del ambiente y utilizar para realizar un trabajo biológico
+-   pueden regular su medio interno
+
+## Dogma de la biologia
 Concepto que ilustra los mecanismos de [[Transmisión de la información genética]] y [[expresion genetica]].
 
 Propone unidireccionalidad en la expresion de la informacion contenica en los genes de una celula, donde:
@@ -6,7 +18,7 @@ Propone unidireccionalidad en la expresion de la informacion contenica en los ge
 
 Tambien propone que solo el ADN puede duplicarse y por lo tanto, reproducirse para transmitir la informacion genetica a la descendencia
 
-# Excepciones
+### Excepciones
 
 - Transciptasa inversa:
 	los virus pertenecientes a clasificacion VI y VII de baltimore.
@@ -20,3 +32,4 @@ Tambien propone que solo el ADN puede duplicarse y por lo tanto, reproducirse pa
 
 - Ribozimas:
 	[[ARN]] con propiedades autocataliticas, capaces de modificarse y duplicarse a si mismos en ausencia de proteina y [[ADN]]
+
