@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
+            "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
+                "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
+                "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md"
+                "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "46837c025d4b7eb8",
   "lastOpenFiles": [
+    "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
+    "Biologia/Microbiologia/Microorganismos/virus.md",
+    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
     "Biologia/Ideas Centrales/Transmisión de la información genética.md",
     "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
     "Biologia/Ideas Centrales.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
-    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md",
-    "Biologia/Ideas Centrales/Teoría celular.md",
-    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
-    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
+    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md"
   ]
 }
