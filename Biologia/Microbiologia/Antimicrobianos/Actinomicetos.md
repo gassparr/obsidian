@@ -1,1 +1,1 @@
-Los actinomicetos sintetizan [[Antimicrobianos]] los cuales actuan sobre el ADN (actinomicina)
+Los actinomicetos sintetizan [[Antimicrobianos]] los cuales actuan sobre el [[ADN]] (actinomicina)

@@ -45,16 +45,45 @@ Clasificacion:
 # Metabolismo en procariontes:
 
 -   Heterótrofos 
--   Fotoheterotrofos: utilizan luz como fuente de energía pero obtienen los átomos de carbono a partir de compuestos orgánicos sintetizados x otros organismos
--   Quimioheterotrofos: obtienen energía y átomos de carbono a partir de uno o más compuestos orgánicos
+	-   Fotoheterotrofos: utilizan luz como fuente de energía pero obtienen los átomos de carbono a partir de compuestos orgánicos sintetizados x otros organismos
+	-   Quimioheterotrofos: obtienen energía y átomos de carbono a partir de uno o más compuestos orgánicos
+
 -   Autótrofos:
--   Fotoautotrofos: llevan a cabo la fotosíntesis, utilizan la luz como fuente de energía y el dióxido de carbono como fuente de carbono
--   Quimioautotrofos: obtienen energía al oxidar sustancias inorgánicas y utilizan una parte de esa energía para fijar dióxido de carbono.
+	-   Fotoautotrofos: llevan a cabo la fotosíntesis, utilizan la luz como fuente de energía y el dióxido de carbono como fuente de carbono
+	-   Quimioautotrofos: obtienen energía al oxidar sustancias inorgánicas y utilizan una parte de esa energía para fijar dióxido de carbono.
     
 
 Fundamentos quimicos de la org de la célula: Alrededor del 98% de la masa de cualquier organismo vivo está compuesto por: carbono, hidrogeno, nitrógeno, oxigeno, fosforo y azufre.
 
+## Enlaces en interacciones Metabolismo en procariontes:
+Heterótrofos 
+Fotoheterotrofos: utilizan luz como fuente de energía pero obtienen los átomos de carbono a partir de compuestos orgánicos sintetizados x otros organismos
+Quimioheterotrofos: obtienen energía y átomos de carbono a partir de uno o más compuestos orgánicos
+Autótrofos:
+Fotoautotrofos: llevan a cabo la fotosíntesis, utilizan la luz como fuente de energía y el dióxido de carbono como fuente de carbono
+Quimioautotrofos: obtienen energía al oxidar sustancias inorgánicas y utilizan una parte de esa energía para fijar dióxido de carbono.
+Fundamentos qcos de la org de la célula: Alrededor del 98% de la masa de cualq org vivo está compuesto por: carbono, hidrogeno, nitrógeno, oxigeno, fosforo y azufre.
 Enlaces en interacciones químicas:
+Enlaces covalentes: se forman cuando 2 at alcanzan sus números electrónicos estables en las capas más externas por compartir uno o más pares de electrones, son muy fuertes (se requiere mucha energía para romperlos); su long, ángulo y dirección son siempre los mismos; pueden ser simples, dobles o triples; y pueden ser polares (cercanos en electronegatividad) o no polares (cuando los electrones son arrastrados más hacia un núcleo).
+Enlaces iónicos: se forman por atracción eléctrica, cuando un at es mucho más electronegativo que otro ocurre la transferencia completa de uno o más electrones. 
+Puentes de hidrogeno: es el enlace que resulta cuando el oxígeno cargado negativamente (δ-) de una molécula de agua se ve atraído por los átomos de hidrogeno con carga positiva (δ+) de otra molécula de agua.
+Interacciones hidrófobas: las moléculas no polares tienden a interactuar con otras no polares, entonces, en presencia de agua (polar) presenta interacciones hidrófobas
+Fuerzas de van der Waals: interacción de electrones de sust no polares
+uímicas:Metabolismo en procariontes:
+Heterótrofos 
+Fotoheterotrofos: utilizan luz como fuente de energía pero obtienen los átomos de carbono a partir de compuestos orgánicos sintetizados x otros organismos
+Quimioheterotrofos: obtienen energía y átomos de carbono a partir de uno o más compuestos orgánicos
+Autótrofos:
+Fotoautotrofos: llevan a cabo la fotosíntesis, utilizan la luz como fuente de energía y el dióxido de carbono como fuente de carbono
+Quimioautotrofos: obtienen energía al oxidar sustancias inorgánicas y utilizan una parte de esa energía para fijar dióxido de carbono.
+Fundamentos qcos de la org de la célula: Alrededor del 98% de la masa de cualq org vivo está compuesto por: carbono, hidrogeno, nitrógeno, oxigeno, fosforo y azufre.
+Enlaces en interacciones químicas:
+Enlaces covalentes: se forman cuando 2 at alcanzan sus números electrónicos estables en las capas más externas por compartir uno o más pares de electrones, son muy fuertes (se requiere mucha energía para romperlos); su long, ángulo y dirección son siempre los mismos; pueden ser simples, dobles o triples; y pueden ser polares (cercanos en electronegatividad) o no polares (cuando los electrones son arrastrados más hacia un núcleo).
+Enlaces iónicos: se forman por atracción eléctrica, cuando un at es mucho más electronegativo que otro ocurre la transferencia completa de uno o más electrones. 
+Puentes de hidrogeno: es el enlace que resulta cuando el oxígeno cargado negativamente (δ-) de una molécula de agua se ve atraído por los átomos de hidrogeno con carga positiva (δ+) de otra molécula de agua.
+Interacciones hidrófobas: las moléculas no polares tienden a interactuar con otras no polares, entonces, en presencia de agua (polar) presenta interacciones hidrófobas
+Fuerzas de van der Waals: interacción de electrones de sust no polares
+
 
 -   Enlaces covalentes: se forman cuando 2 at alcanzan sus números electrónicos estables en las capas más externas por compartir uno o más pares de electrones, son muy fuertes (se requiere mucha energía para romperlos); su long, ángulo y dirección son siempre los mismos; pueden ser simples, dobles o triples; y pueden ser polares (cercanos en electronegatividad) o no polares (cuando los electrones son arrastrados más hacia un núcleo).
     
@@ -65,3 +94,13 @@ Enlaces en interacciones químicas:
 -   Interacciones hidrófobas: las moléculas no polares tienden a interactuar con otras no polares, entonces, en presencia de agua (polar) presenta interacciones hidrófobas
     
 -   Fuerzas de van der Waals: interacción de electrones de sust no polares
+
+### La molécula de agua
+
+Tiene características qcas únicas 🡪 es polar, puede formar puentes de h, y los 4 pares de e- libres del oxígeno se repelen y le dan una forma tetraédrica. Estas caract le otorgan ciertas propiedades:
+
+-   Densidad: el agua solida es menos densa que el agua en estado líquido, por eso el hielo flota (p de h)
+    
+-   Fusión, congelación y capacidad calorífica: el hielo requiere una gran cant de energía calórica para fundirse, pq se deben romper los p de h y en la congelación se pierde una gran cant de energía. El agua ayuda a reducir las variaciones de la Tatm del planeta, esto se debe a su capacidad calórica, lo que es producto de su alto calor específico.
+    
+-   Cohesión y tensión superficial: la cohesión es la capacidad de las moléculas de agua de resistir su separación cuando se las ubica bajo tensión; esta fuerza cohesiva permite el movimiento del agua desde las raíces hasta las hojas de los arboles a más de 100m. La tensión superficial del agua permite que un contenedor se llene ligeramente por encima de su borde y no se desborde o que los insectos caminen sobre la sup de un estanque.
