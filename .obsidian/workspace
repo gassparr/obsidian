@@ -1,19 +1,14 @@
 {
   "main": {
-    "id": "39b2b936d0817463",
+    "id": "1da98d1018e4e0b2",
     "type": "split",
     "children": [
       {
-        "id": "46837c025d4b7eb8",
+        "id": "055c6fc70be6bd3e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -34,11 +29,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -50,14 +44,14 @@
                   "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 3.01159420289855,
+                  "nodeSizeMultiplier": 1.10321489001692,
                   "lineSizeMultiplier": 0.704727157360406,
                   "collapse-forces": false,
                   "centerStrength": 0.436575052854123,
                   "repelStrength": 18.8794926004228,
                   "linkStrength": 1,
                   "linkDistance": 500,
-                  "scale": 0.41121287919942673,
+                  "scale": 0.20431925032880768,
                   "close": true
                 }
               }
@@ -113,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Ideas Centrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,17 +144,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "46837c025d4b7eb8",
+  "active": "055c6fc70be6bd3e",
   "lastOpenFiles": [
-    "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
-    "Biologia/Microbiologia/Microorganismos/virus.md",
-    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ARN.md",
-    "Biologia/Ideas Centrales/Transmisión de la información genética.md",
-    "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/ADN.md",
     "Biologia/Ideas Centrales.md",
-    "Biologia/Procesos Biologicos/Metabolismo.md",
-    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md"
+    "Microbiologia/Antimicrobianos/Penicillium.md",
+    "Microbiologia/Antimicrobianos/Antimicrobianos.md",
+    "Bioquimica 2/1 Vias/metabolismo de lipidos 2.md",
+    "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
+    "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
+    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
+    "Bioquimica 2/1 Vias/glucolisis.md"
   ]
 }
