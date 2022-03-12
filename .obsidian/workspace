@@ -7,8 +7,13 @@
         "id": "055c6fc70be6bd3e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -29,6 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ],
@@ -146,6 +155,8 @@
   },
   "active": "055c6fc70be6bd3e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
     "Biologia/Ideas Centrales.md",
     "Microbiologia/Antimicrobianos/Penicillium.md",
     "Microbiologia/Antimicrobianos/Antimicrobianos.md",
@@ -153,8 +164,6 @@
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
     "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/glucolisis.md"
+    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
   ]
 }
