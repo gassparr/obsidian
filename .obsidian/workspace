@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+            "file": "Genetica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+                "file": "Genetica.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+                "file": "Genetica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
+                "file": "Genetica.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "055c6fc70be6bd3e",
   "lastOpenFiles": [
-    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "Genetica.md",
+    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "Untitled 1.md",
     "Biologia/Ideas Centrales.md",
     "Microbiologia/Antimicrobianos/Penicillium.md",
