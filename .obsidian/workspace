@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
               }
             }
           }
@@ -155,7 +155,8 @@
   },
   "active": "055c6fc70be6bd3e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+    "Genetica.md",
     "Untitled 1.md",
     "Biologia/Ideas Centrales.md",
     "Microbiologia/Antimicrobianos/Penicillium.md",
@@ -163,7 +164,6 @@
     "Bioquimica 2/1 Vias/metabolismo de lipidos 2.md",
     "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
     "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md"
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
   ]
 }
