@@ -82,3 +82,15 @@ De dia, estromas cerrados (evita perdida de H2O y malato Descarboxilado). El CO2
 
 ### anatomia
 ![](https://i.imgur.com/U3ioCky.png)
+
+
+
+
+
+
+# Division
+Cuando celula de planta se divide, lo primero que se deposita es un tabique separador, denominado [[lamina media]], situada entre las 2 celulas hijas. 
+Luego cada celula sintetiza la [[Pared Celular]] primaria a ambos lados de la lamina media.
+
+Una vez que la planta alcanza su estado embrionario, la planta se desarrolla y crece, gracias a la actividad de los [[meristemos]].
+El primer crecimiento es el crecimiento en longitud, denominado crecimiento primario, el cual esta a cargo de las celulas meristematicas ubicados en tallos y raices

@@ -1,4 +1,4 @@
-Las plantas tienen distintos sistema de tejidos que formas
+Las plantas tienen distintos sistema de tejidos que forman [[organos]]
 - Sistema protector:
 	- [[epidermis]]
 	- [[peridermis]]
