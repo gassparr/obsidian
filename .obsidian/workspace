@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Genetica.md",
+            "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Genetica.md",
+                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetica.md",
+                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetica.md"
+                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "055c6fc70be6bd3e",
   "lastOpenFiles": [
-    "Genetica.md",
-    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
-    "Untitled 1.md",
-    "Biologia/Ideas Centrales.md",
-    "Microbiologia/Antimicrobianos/Penicillium.md",
-    "Microbiologia/Antimicrobianos/Antimicrobianos.md",
-    "Bioquimica 2/1 Vias/metabolismo de lipidos 2.md",
-    "Bioquimica 2/1 Vias/metabolismo de lipidos.md",
-    "Bioquimica 2/1 Vias/Ciclo de la Urea.md",
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
+    "Biologia Vegetal/Tejidos/Caracteristicas.md",
+    "Biologia Vegetal/Plantas Vasculares.md",
+    "Biologia Vegetal/Tejidos/epidermis.md",
+    "Biologia Vegetal/Tejidos/meristemos.md",
+    "Biologia Vegetal/Untitled.md",
+    "Biologia Vegetal/Tejidos/floema.md",
+    "Biologia Vegetal/Tejidos/xilema.md",
+    "Biologia Vegetal/Tejidos/parenquima.md",
+    "Bioquimica 3/Genetica.md",
+    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
   ]
 }

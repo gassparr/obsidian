@@ -1,0 +1,3 @@
+- Funciones:
+	- Fotosintesis 
+	- Almacen de sustancias 
