@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Tejidos/meristemos.md",
+            "file": "Biologia/Microbiologia/Microorganismos/Plantas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Microbiologia/Microorganismos/Plantas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Microbiologia/Microorganismos/Plantas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/meristemos.md"
+                "file": "Biologia/Microbiologia/Microorganismos/Plantas.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "514fa77368217695",
   "lastOpenFiles": [
-    "Biologia Vegetal/Tejidos/meristemos.md",
     "Biologia/Microbiologia/Microorganismos/Plantas.md",
+    "Biologia Vegetal/Plantas Vasculares.md",
+    "Biologia Vegetal/Untitled.md",
+    "Biologia Vegetal/Tejidos/meristemos.md",
+    "conflict-files-obsidian-git.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
     "lamina media.md",
-    "Biologia Vegetal/Plantas Vasculares.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",
-    "Biologia Vegetal/Untitled.md",
     "Biologia Vegetal/Organos/organos.md",
-    "Biologia Vegetal/Organos/tallo.md",
-    "Biologia Vegetal/Organos/hoja.md"
+    "Biologia Vegetal/Organos/tallo.md"
   ]
 }
