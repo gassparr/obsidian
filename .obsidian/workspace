@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -156,9 +157,9 @@
   "active": "514fa77368217695",
   "lastOpenFiles": [
     "Biologia/Microbiologia/Microorganismos/Plantas.md",
+    "Biologia Vegetal/Tejidos/meristemos.md",
     "Biologia Vegetal/Plantas Vasculares.md",
     "Biologia Vegetal/Untitled.md",
-    "Biologia Vegetal/Tejidos/meristemos.md",
     "conflict-files-obsidian-git.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
     "lamina media.md",

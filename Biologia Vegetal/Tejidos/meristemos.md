@@ -4,4 +4,4 @@ tejidos que estan activos a lo largo de toda la vida de la planta, permitiendo s
 	- Ubicados en tallos y raices 
 	- Encargados de crecimiento en longitud
 - Meristemos Secundarios:
-	- Encargados 
+	- Encargados de crecimiento en grosor

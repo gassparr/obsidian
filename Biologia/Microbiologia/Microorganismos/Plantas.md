@@ -94,3 +94,4 @@ Luego cada celula sintetiza la [[Pared Celular]] primaria a ambos lados de la la
 
 Una vez que la planta alcanza su estado embrionario, la planta se desarrolla y crece, gracias a la actividad de los [[meristemos]].
 El primer crecimiento es el crecimiento en longitud, denominado crecimiento primario, el cual esta a cargo de las celulas meristematicas ubicados en tallos y raices
+El segundo crecimiento sera en grosor, dado por los meristemos secundarios
