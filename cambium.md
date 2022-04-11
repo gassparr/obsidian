@@ -1,0 +1,3 @@
+- 2 tipos:
+	- vascular: origen de tejidos conductores secundarios ([[xilema]] y [[floema]] secundarios)
+	- Suberoso: origen de [[peridermis]]

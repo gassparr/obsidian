@@ -1,0 +1,1 @@
+Crecimiento en longitud no depende de [[meristemos]] apicales, sino que de los intercalares

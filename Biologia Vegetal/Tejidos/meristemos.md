@@ -2,6 +2,11 @@ tejidos que estan activos a lo largo de toda la vida de la planta, permitiendo s
 
 - Meristemos Primarios:
 	- Ubicados en tallos y raices 
-	- Encargados de crecimiento en longitud
+	- Encargados de crecimiento en longitud (crecimiento primario)
+	- Apicales 
+	- Intercalares
 - Meristemos Secundarios:
-	- Encargados 
+	- Encargados en crecimiento de grosor (crecimiento secundario)
+	- Laterales
+		- [[cambium]]
+	
