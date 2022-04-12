@@ -9,4 +9,4 @@ tejidos que estan activos a lo largo de toda la vida de la planta, permitiendo s
 	- Encargados en crecimiento de grosor (crecimiento secundario)
 	- Laterales
 		- [[cambium]]
-	
+	- Encargados de crecimiento en grosor
