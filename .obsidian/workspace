@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
+            "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md"
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "514fa77368217695",
   "lastOpenFiles": [
+    "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",
-    "conflict-files-obsidian-git.md",
-    "Biologia Vegetal/Tejidos/meristemos.md",
-    "Biologia Vegetal/Tejidos/epidermis.md",
+    "Biologia/Microbiologia/Microorganismos/Plantas.md",
     "Biologia Vegetal/Plantas Vasculares.md",
-    "Biologia/Microbiologia/Laboratorio/esterilizacion.md",
-    "Biologia/Microbiologia/Laboratorio/Oxido de etileno.md",
-    "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
-    "Biologia/Microbiologia/Antimicrobianos/Penicillium.md",
-    "Biologia/Microbiologia/Antimicrobianos/Bacillaceae.md"
+    "Biologia Vegetal/tipo de planta.md",
+    "Biologia Vegetal/Tejidos/xilema.md",
+    "Biologia Vegetal/Tejidos/parenquima.md",
+    "Biologia Vegetal/Tejidos/meristemos.md",
+    "Biologia Vegetal/Tejidos/floema.md",
+    "Biologia Vegetal/Tejidos/epidermis.md"
   ]
 }

@@ -1,4 +1,5 @@
 Las plantas tienen distintos sistema de tejidos que forman [[organos]]
+Las celulas [[Plantas]] tienen [[Pared Celular]]
 - Sistema protector:
 	- [[epidermis]]
 	- [[peridermis]]
