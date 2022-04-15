@@ -13,8 +13,11 @@ Sintetizada por la propia celula [[Plantas]], siendo una parte imprescindible de
 		- Lignina
 
 
-## plantas
+# plantas
 la pared celular se clasifica segundo se grado de diferenciacion celular, composicion quimica y funcion:
+
+## Pared
+Secundaria por dentro de la primaria. Membrana plasmatica por dentro e la pared secundaria y lamina media por fuera de la pared primaria
 
 ### Pared Primaria 
 Presente en celulas meristematicas, embrionarias y en celulas no diferenciadas.
@@ -33,5 +36,3 @@ Comienza a depositarse sobre la primaria durante la diferenciacion.
 Se diferencia en contener lignina mayor proporcion.
 Esta aparece en celulas que estan totalmente diferenciadas, las cuales poseeen moleculas complejas (lignina, ceras, suberinas y celulosa
 
-**Ubicacion**:
-Por dentro de la pared primaria
