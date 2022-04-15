@@ -36,3 +36,6 @@ Comienza a depositarse sobre la primaria durante la diferenciacion.
 Se diferencia en contener lignina mayor proporcion.
 Esta aparece en celulas que estan totalmente diferenciadas, las cuales poseeen moleculas complejas (lignina, ceras, suberinas y celulosa
 
+
+## Plasmodesmos
+Tuneles entre dos celulas vegetales
