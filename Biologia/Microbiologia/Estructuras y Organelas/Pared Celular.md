@@ -24,6 +24,14 @@ Poseen celulosa, hemicelulosas y pectinas
 	  Sustancias cementantes entre celula y celula, construyendo la lamina media.
 	  Retienen agua y se gelifican con calor, ademas unen calcio a la pared.
 	  Funciones: 
+	  - Regulan adhesion celular
+	  - Regulan porosidad celular
+	  - Regulan el pH de la pared
   
 ### Pared Secundaria
-Comienza a depositarse sobre la primaria durante la diferenciacion
+Comienza a depositarse sobre la primaria durante la diferenciacion.
+Se diferencia en contener lignina mayor proporcion.
+Esta aparece en celulas que estan totalmente diferenciadas, las cuales poseeen moleculas complejas (lignina, ceras, suberinas y celulosa
+
+**Ubicacion**:
+Por dentro de la pared primaria
