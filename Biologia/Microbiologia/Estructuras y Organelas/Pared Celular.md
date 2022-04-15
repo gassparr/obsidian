@@ -38,4 +38,8 @@ Esta aparece en celulas que estan totalmente diferenciadas, las cuales poseeen m
 
 
 ## Plasmodesmos
-Tuneles entre dos celulas vegetales
+Tuneles entre dos celulas vegetales, son extensiones de el [[reticulo endoplasmico]] y de la [[membrana citoplasmatica]], que permite interconexion entre los citoplasmas de las celulas, formando un [[simplasto]].
+*simples: solamente con 1 tunel 
+*complejos*: multiples ramificaciones o tuneles agrupados 
+
+**Desmotubulo**: vesicula del RE que pasa por el plasmodesmo, conectando al RE de otra celula
