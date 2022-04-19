@@ -10,3 +10,5 @@ tejidos que estan activos a lo largo de toda la vida de la planta, permitiendo s
 	- Laterales
 		- [[cambium]]
 	- Encargados de crecimiento en grosor
+
+pueden ser permanentes y funcionales 
