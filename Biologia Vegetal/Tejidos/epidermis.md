@@ -20,3 +20,8 @@ Permiten comunicacion del citoplasma con la cuticula, lo que permite la secrecio
 
 ### Estomas
 Celulas especializadas que forman un poro para dejar en contacto el medio interno de la planta con el externo
+
+### Tricomas 
+Tambien conocidos como pelos, son celulas especializadas, que tienen funcion protectora o glandular
+prolongaciones epidérmicas que realizan numerosas funciones como evitar herbívoros, guiar a los polinizadores, controlar la temperatura y desecación de las hojas, o proteger frente a un exceso de luz
+**Raiz**: Los pelos aqui se utilizan para absorber agua y sales
