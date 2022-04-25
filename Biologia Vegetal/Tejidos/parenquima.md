@@ -1,7 +1,7 @@
 Tejido simple poco especializado y primitivo. Las celulas conservan capacidad de dividirse.
 Se origina de [[meristemos]] apicales o laterales
 
-- Funciones:
+**Funciones**:
 	- Fotosintesis 
 	- Almacen de sustancias 
 	- Regeneracion de tejidos
