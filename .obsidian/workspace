@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Tejidos/peridermis.md",
+            "file": "Biologia Vegetal/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/peridermis.md",
+                "file": "Biologia Vegetal/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/peridermis.md",
+                "file": "Biologia Vegetal/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/peridermis.md"
+                "file": "Biologia Vegetal/Untitled.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "514fa77368217695",
   "lastOpenFiles": [
+    "Biologia Vegetal/Untitled.md",
+    "Biologia Vegetal/monocotiledonea.md",
+    "Biologia Vegetal/cambium.md",
+    "Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia Vegetal/Tejidos/peridermis.md",
     "Biologia Vegetal/Tejidos/epidermis.md",
     "Biologia Vegetal/Tejidos/meristemos.md",
     "Biologia Vegetal/Plantas Vasculares.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
-    "Biologia Vegetal/Tejidos/Caracteristicas.md",
-    "Biologia/Microbiologia/Microorganismos/Plantas.md",
-    "Biologia Vegetal/tipo de planta.md",
-    "Biologia Vegetal/Tejidos/xilema.md",
-    "Biologia Vegetal/Tejidos/parenquima.md"
+    "Biologia Vegetal/Tejidos/Caracteristicas.md"
   ]
 }
