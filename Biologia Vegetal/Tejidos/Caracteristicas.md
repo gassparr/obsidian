@@ -7,7 +7,8 @@ Las celulas [[Plantas]] tienen [[Pared Celular]]
 
 -  Tejidos de Sosten:
 	- [[colenquima]]
-	- [[esclerenquima]]
+	- [[Plantas Vasculares]]
+    - [[esclerenquima]]
 	- [[parenquima]]
 
 - Sistema conductor:

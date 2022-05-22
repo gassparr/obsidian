@@ -16,5 +16,6 @@
     "es-AR"
   ],
   "spellcheck": true,
-  "communityPluginSortOrder": "release"
+  "communityPluginSortOrder": "release",
+  "communityThemeSortOrder": "release"
 }

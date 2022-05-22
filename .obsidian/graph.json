@@ -22,17 +22,24 @@
       }
     },
     {
+      "query": "path:\"Biologia Vegetal\"",
+      "color": {
+        "a": 1,
+        "rgb": 8117179
+      }
+    },
+    {
       "query": "path:Biologia/Microbiologia",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 10420126
       }
     },
     {
       "query": "path:Biologia",
       "color": {
         "a": 1,
-        "rgb": 1669913
+        "rgb": 28672
       }
     }
   ],
@@ -40,12 +47,12 @@
   "showArrow": false,
   "textFadeMultiplier": -2.6,
   "nodeSizeMultiplier": 2.17307692307692,
-  "lineSizeMultiplier": 0.312367864693446,
+  "lineSizeMultiplier": 1.74586615173535,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.1265034618890567,
-  "close": true
+  "scale": 0.48873481162888294,
+  "close": false
 }

@@ -1,3 +1,4 @@
+[[Caracteristicas]]
 Conduce principalmente sustancias organicas a largas distancias.
 
 Sustancias organicas:
