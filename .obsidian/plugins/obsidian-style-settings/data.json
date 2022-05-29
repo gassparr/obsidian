@@ -223,5 +223,7 @@
   "obsidian-prism-theme@@h4-text-color-dt": "var(--color-green-text)",
   "obsidian-prism-theme@@h5-text-color-dt": "var(--color-mint-text)",
   "obsidian-prism-theme@@h6-text-color-dt": "var(--color-aqua-text)",
-  "obsidian-prism-theme@@pt-icon-folder-accent": true
+  "obsidian-prism-theme@@pt-icon-folder-accent": true,
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt"
 }
