@@ -12,7 +12,7 @@ El inicio de la sintesis de RNA se incio con un NTP, este se introduce en el ext
 ![500](https://i.imgur.com/n3kQpSl.png)
 **Unidad transcripcional**
 ![279](https://i.imgur.com/Y6bFlto.png)  
-### Mecanismo
+### Mecanismo y Enzimologia
 **Operones**: 
 - Grupo de genes funcionalmente relacionados que se encuentran contiguos en el DNA con 1 solo promotor
 - Lleva la sintesis coordinada de proteinas funcionalmente relacionadas (estan co-regulados)
@@ -45,4 +45,34 @@ Durante todo el proceso se requiere el *melting* del DNA, esto es que separa las
 **Union de RNA pol modulada por proteinas activadoras y represoras**
 
 **Terminacion de la transcipcion**
-DNA tiene secuencia con simetria, la cual se transcribe como secuencia complementeria de RNA (forma estructura 2da), formando asi un hairpin, el
+*Rho Independiente*
+DNA tiene secuencia con simetria, la cual se transcribe como secuencia complementeria de RNA (forma estructura 2da), formando asi un hairpin el cual desestabiliza la interaccion entre el RNA y DNA molde
+
+*Rho dependiente*
+Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi disminuye la interaccion entre RNA y DNA molde
+
+### Tecnicas de medicion
+
+**Niveles estacionarios de RNA**
+
+- Base pare reconocer el nivel de un mRNA particulas entre muchos RNA
+	  - Hibridacion:
+		1. Preparacion de RNA total marcado (mezcla de sondas; la correspondiente al gen target debe ser atrapada)
+		2. RNA no marcado → cDNA marcados → sondas
+		3. RNA no marcado → Sonda de gen target
+
+ **Tecnicas**
+ - Northern blot 
+	    ![500](https://i.imgur.com/BeFFEvs.png)
+- Dot blot
+  RNA → cDNA (sonda)
+  ![300](https://i.imgur.com/F8EOV5M.png)
+  Alternativas:
+  - Depositar en cada posicion una muestra de RNA con una unica sonda de DNA para el gen target
+  - Depositar en cada posicion exceso de DNA clonado con la secuencia target e hibridar con una sonda incubada en presencia de precursores radioactivos 
+
+- Microarray 
+- Hibridacion in situ
+  preguntar 
+- RT PCR
+  Permite medir la velocidad de trancipcion in vivo
