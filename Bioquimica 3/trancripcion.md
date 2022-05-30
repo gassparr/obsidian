@@ -76,3 +76,9 @@ Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi dismin
   preguntar 
 - RT PCR
   Permite medir la velocidad de trancipcion in vivo
+
+
+**Identifiacion del inicio de la transcipcion**
+
+- Primer Extension
+  
