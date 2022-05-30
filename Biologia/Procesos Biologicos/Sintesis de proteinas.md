@@ -1,4 +1,4 @@
-- [[ARN]] ribosómico y ribosomas. 
+- [[RNA]] ribosómico y ribosomas. 
 - ARNt (transferencia) como adaptador entre aminoácidos y ARNm (mensajero). 
 - El Código genético. 
 - Procesos de síntesis de Polipéptidos. 
@@ -45,4 +45,4 @@ En el ribosoma existen 4 lugares importantes para la sintesis:
 	- Sitio P (peptidil)
 	- Sitio E (Exit)
 
-# [[ARN]]
+# [[RNA]]

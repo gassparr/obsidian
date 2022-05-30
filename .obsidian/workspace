@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
+            "file": "Bioquimica 3/trancripcion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
+                "file": "Bioquimica 3/trancripcion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 18.8794926004228,
                   "linkStrength": 1,
                   "linkDistance": 500,
-                  "scale": 0.20431925032880768,
+                  "scale": 0.401600937727827,
                   "close": true
                 }
               }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md",
+                "file": "Bioquimica 3/trancripcion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Tejidos/Caracteristicas.md"
+                "file": "Bioquimica 3/trancripcion.md"
               }
             }
           }
@@ -150,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198.5
+    "width": 198.5,
+    "collapsed": true
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
+    "Bioquimica 3/trancripcion.md",
+    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia Vegetal/colenquima.md",
     "Biologia Vegetal/esclerenquima.md",
     "Excalidraw/Drawing 2022-05-22 14.10.25.excalidraw.md",
     "Biologia Vegetal/Tejidos/floema.md",
     "Biologia Vegetal/Tejidos/xilema.md",
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
-    "Bioquimica 2/1 Vias/Ciclo de Acido Citrico.md",
-    "Bioquimica 2/1 Vias/cadena transportadora de electrones.md",
-    "Bioquimica 2/1 Vias/Biosintesis y degradacion de nucleotidos.md"
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md"
   ]
 }
