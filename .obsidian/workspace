@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+            "file": "Bioquimica 3/traduccion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+                "file": "Bioquimica 3/traduccion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+                "file": "Bioquimica 3/traduccion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md"
+                "file": "Bioquimica 3/traduccion.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/traduccion.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/trancripcion.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",
