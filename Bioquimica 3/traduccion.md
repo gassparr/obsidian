@@ -18,7 +18,7 @@ cargan tRNA en dos pasos.
 1. Transferencia al tRNA
 	   AMP-AA + tRNA → RNA-AA + AMP
 
-**Traduccion es un proceso de decodificacion en dos etapas**
+*Traduccion es un proceso de decodificacion en dos etapas*
 
 1. Aminoacil-tRNA-sintetasa
 2. Reconocimiento codon-anticodon
