@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/traduccion.md",
+            "file": "Biologia/Procesos Biologicos/ribosoma.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Biologia/Procesos Biologicos/ribosoma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Biologia/Procesos Biologicos/ribosoma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/traduccion.md"
+                "file": "Biologia/Procesos Biologicos/ribosoma.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
+    "Biologia/Procesos Biologicos/ribosoma.md",
+    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Bioquimica 3/traduccion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/trancripcion.md",
-    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia Vegetal/colenquima.md",
     "Biologia Vegetal/esclerenquima.md",
     "Excalidraw/Drawing 2022-05-22 14.10.25.excalidraw.md",
-    "Biologia Vegetal/Tejidos/floema.md",
-    "Biologia Vegetal/Tejidos/xilema.md"
+    "Biologia Vegetal/Tejidos/floema.md"
   ]
 }

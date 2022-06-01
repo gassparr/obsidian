@@ -30,3 +30,4 @@ cargan tRNA en dos pasos.
 
 1. Tiene que reconocer un set correcto de tRNA para un aminoacido particular
 2. Debe cargar todos los iso-accepting tRNA con el aminoacido correcto
+

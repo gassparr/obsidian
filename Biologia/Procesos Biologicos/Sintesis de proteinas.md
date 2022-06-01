@@ -29,7 +29,7 @@ El mRNA es leido en direccion 5’ → 3’
 
 
 1. Iniciacion
-	mRNA se une al ribosoma y se posiciona para la traduccion
+	mRNA se une al [[ribosoma]] y se posiciona para la traduccion
 1. Elongacion
 	Aminoacidos se unen secuencialmetne en el orden de los codones del mRNA
 1. Terminacion
