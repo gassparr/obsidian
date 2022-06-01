@@ -11,4 +11,6 @@ La diferencia del mRNA es que tiene secuencias que no son traducidas en ambos ex
 
 **Estructura de mRNA procariotico**
 
-5’ (Secuencia Shine-dalgarno)(RBS) / (start) / Secuencia de traduccion / (stop)
+5’ (Secuencia Shine-dalgarno)(RBS) / (start) / Secuencia de traduccion / (stop) 3’
+
+En el mRNA eucariotico, no se encuentran los RBS, la subunidad menor del ribosoma escanea por un codon start
