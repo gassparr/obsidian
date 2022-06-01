@@ -11,4 +11,14 @@ Especifica un proteina, estos comienzan y terminan dentro un de mRNA
 	  - Eucariotas: 5’ UAG | UAA | UGA 3’
 	  - Procariotas: 5’ UAG | UAA | UGA 3’
 
+**Aminoacil tRNA sintetasas**
+cargan tRNA en dos pasos.
+1. Adenililacion
+	   Aminoacido + ATP → AMP-AA + PPi
+1. Transferencia al tRNA
+	   AMP-AA + tRNA → RNA-AA + AMP
 
+**Traduccion es un proceso de decodificacion en dos etapas**
+
+1. Aminoacil-tRNA-sintetasa
+2. Reconocimiento codon-anticodon
