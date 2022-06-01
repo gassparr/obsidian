@@ -1,5 +1,33 @@
 es el proceso en el cual se realiza la [[Sintesis de proteinas]]
 
+![](https://i.imgur.com/z4Db61H.png)
+
+mRNA → Polipeptido
+
+Cinco componentes:
+- Ribosomas
+- tRNA
+- Aminoacil-tRNA sintetasas
+- mRNA
+- Factores proteicos
+
+Es un proceso secuencial y ordenado que comienza con la sintesis de una cadena polipeptidica por la cadena amino terminal terminando en carboxilo terminal.
+El mRNA es leido en direccion 5’ → 3’.
+Y la sintesis de los peptidos es en sentido NH2 a COOH terminal
+
+**3 Pasos**:
+
+
+1. Iniciacion
+	mRNA se une al [[ribosoma]] y se posiciona para la traduccion
+2. Elongacion
+	Aminoacidos se unen secuencialmetne en el orden de los codones del mRNA
+3. Terminacion
+	mRNA y  cadena polipeptidica se desligan del ribosoma
+
+- Iniciacion:
+	  Subunidad menor se une al mRNA y al tRNA iniciador, despues ingresa la subunidad mayor
+
 **Marcos de lectura abiertos (ORF)**
 Cadena de codones contiguos en el m[[RNA]], *no solapados*.
 Especifica un proteina, estos comienzan y terminan dentro un de mRNA

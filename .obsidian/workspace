@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Procesos Biologicos/ribosoma.md",
+            "file": "Bioquimica 3/traduccion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Procesos Biologicos/ribosoma.md",
+                "file": "Bioquimica 3/traduccion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Procesos Biologicos/ribosoma.md",
+                "file": "Bioquimica 3/traduccion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Procesos Biologicos/ribosoma.md"
+                "file": "Bioquimica 3/traduccion.md"
               }
             }
           }
@@ -155,9 +155,9 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
-    "Biologia/Procesos Biologicos/ribosoma.md",
-    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Bioquimica 3/traduccion.md",
+    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
+    "Biologia/Procesos Biologicos/ribosoma.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/trancripcion.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",

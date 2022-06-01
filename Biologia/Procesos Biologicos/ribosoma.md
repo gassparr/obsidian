@@ -1,3 +1,6 @@
+[[Sintesis de proteinas]]
+
+Realizan la [[traduccion]] sobre el t[[RNA]]
 particulas de RNA y proteinas que se encuentran en el [[citosol]], tanto en [[eucariota]] como en [[procariota]].
 En el ribosoma existen 4 lugares importantes para la sintesis:
 
@@ -6,6 +9,8 @@ En el ribosoma existen 4 lugares importantes para la sintesis:
 	- Sitio A (aminoacil)
 	- Sitio P (peptidil)
 	- Sitio E (Exit)
+
+
 
 **Ribozima**
 [[RNA]] con actividad catalitica estos forman a los ribosoma
