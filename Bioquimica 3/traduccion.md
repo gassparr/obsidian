@@ -23,4 +23,10 @@ cargan tRNA en dos pasos.
 1. Aminoacil-tRNA-sintetasa
 2. Reconocimiento codon-anticodon
    
-![](https://i.imgur.com/5bmtf6N.png)
+![](https://i.imgur.com/QuJrQBD.png)
+
+
+*2 desafios importantes*
+
+1. Tiene que reconocer un set correcto de tRNA para un aminoacido particular
+2. Debe cargar todos los iso-accepting tRNA con el aminoacido correcto
