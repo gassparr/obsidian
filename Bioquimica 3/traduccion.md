@@ -25,8 +25,11 @@ Y la sintesis de los peptidos es en sentido NH2 a COOH terminal
 3. Terminacion
 	mRNA y  cadena polipeptidica se desligan del ribosoma
 
-- Iniciacion:
-	  Subunidad menor se une al mRNA y al tRNA iniciador, despues ingresa la subunidad mayor
+**Factores de inicio**
+- IF1: Previene tRNA a unirse en la region de la subunidad menor que dara lugar al sitio A
+- IF2: es una GTPasa que interacciona con la subunidad menor, IF1 y el Iniciador tRNA
+- IF3: se una a la subunidad menor para bloquear la reasociacion con la subunidad mayor.
+
 
 **Marcos de lectura abiertos (ORF)**
 Cadena de codones contiguos en el m[[RNA]], *no solapados*.

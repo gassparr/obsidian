@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/traduccion.md",
+            "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/traduccion.md"
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md"
               }
             }
           }
@@ -155,10 +155,10 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
-    "Bioquimica 3/traduccion.md",
-    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
-    "Biologia/Procesos Biologicos/ribosoma.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+    "Bioquimica 3/traduccion.md",
+    "Biologia/Procesos Biologicos/ribosoma.md",
+    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Bioquimica 3/trancripcion.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia Vegetal/colenquima.md",

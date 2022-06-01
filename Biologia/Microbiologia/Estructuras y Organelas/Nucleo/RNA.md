@@ -9,3 +9,6 @@ tRNA une a aminoacido especifico y reconoce codones de mRNA porque cada tRNA pos
 Una molécula de ARN se forma como copia complementaria de una cadena de ADN, éste, viaja del núcleo al citoplasma donde actúa como molde para la síntesis de proteínas en los ribosomas (transcripción).
 La diferencia del mRNA es que tiene secuencias que no son traducidas en ambos extremos, una viene antes del codon de iniciacion y otra despues del codon stop
 
+**Estructura de mRNA procariotico**
+
+5’ (Secuencia Shine-dalgarno)(RBS) / (start) / Secuencia de traduccion / (stop)
