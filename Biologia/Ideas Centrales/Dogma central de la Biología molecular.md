@@ -22,7 +22,7 @@ Tambien propone que solo el ADN puede duplicarse y por lo tanto, reproducirse pa
 
 - Transciptasa inversa:
 	los [[virus]] pertenecientes a clasificacion VI y VII de baltimore.
-	Sintetizan [[ADN]] mediante la transcriptasa inversa que tiene como molde al [[RNA]]
+	Sintetizan [[DNA]] mediante la transcriptasa inversa que tiene como molde al [[RNA]]
 
 - Traduccion en sistemas libres de [[RNA]]:
 	obtencion de proteinas in vitro, en sistema libre de celulas y en ausencia de [[RNA]]. 
@@ -31,5 +31,5 @@ Tambien propone que solo el ADN puede duplicarse y por lo tanto, reproducirse pa
 	Proteinas libres de acido nucleico que se propagan sin que se medie ningun tipo de duplicacion o transcipcion directa. 
 
 - Ribozimas:
-	[[RNA]] con propiedades autocataliticas, capaces de modificarse y duplicarse a si mismos en ausencia de proteina y [[ADN]]
+	[[RNA]] con propiedades autocataliticas, capaces de modificarse y duplicarse a si mismos en ausencia de proteina y [[DNA]]
 

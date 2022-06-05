@@ -19,12 +19,12 @@ plantea que la vida comienza como un sistema autosustentable organizado que cons
 Para ser autosustentable, la fuente de energia de las reacciones deben estar acopladas
 
 ## Reproduccion molecular
-Se sugiere que el [[RNA]] fue la prmera molecula en evolucionar hacia una celula, y que al [[ADN]] y proteinas ocurrieron mas tarde.
+Se sugiere que el [[RNA]] fue la prmera molecula en evolucionar hacia una celula, y que al [[DNA]] y proteinas ocurrieron mas tarde.
 
 **Mundo del ARN**:
 Tierra prebiotica da origen a moleculas de [[RNA]] que funcionaban como enzimas y sustratos para su replicacion.
 [[RNA]] enzimatico se le llama *ribozima*. Se plantea que las *ribozimas* catalizaban sintesis de proteinas y otras reacciones biologicas.
-La incorporacion del [[ADN]] es ventajosa ya que es una molecula mas estable que la hebra unica de [[RNA]] por lo que se incorpora como almacenamiento de informacion
+La incorporacion del [[DNA]] es ventajosa ya que es una molecula mas estable que la hebra unica de [[RNA]] por lo que se incorpora como almacenamiento de informacion
 # Evolucion biologica
 **Atmosfera Reductora**
 Celulas mas tempranas [[procariota]] heterotrofas, ya que no podian sintetizar moleculas organicas que necesitaban, por lo que las obtenian del ambiente. Consumiendo azucares, nucleotidos y aminoacidos formados espontaneamente en la tierra. 

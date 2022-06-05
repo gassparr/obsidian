@@ -4,7 +4,7 @@
 [[Transporte núcleo-citoplasma]]. 
 [[Complejo del poro nuclear:]] mecanismo de transporte a través del mismo. [[Matriz nuclear y Lámina nuclear]]. 
 El [[nucléolo]].
-Estructura del [[ADN]] y su empaquetamiento, cromatina y cromosomas. [[Eucromatina y Heterocromatina]].
+Estructura del [[DNA]] y su empaquetamiento, cromatina y cromosomas. [[Eucromatina y Heterocromatina]].
 [[Estructura y organización del genoma]].
 
 Lugar de la celula donde se localizan y replican los cromosomas y donde se transcribe el ADN. Es un rasgo carateristico de las [[eucariota]] ya que las [[procariota]] no cuentan con uno
@@ -56,7 +56,7 @@ Es la fabrica de ribosomas de la celulas. Su tamano es dependiente de la activid
 **Estructura**
 
 - Fibrillas: 
-	Contienen el [[ADN]] que esta siendo transcrito en rRNA (ribosomico)
+	Contienen el [[DNA]] que esta siendo transcrito en rRNA (ribosomico)
 
 - Granulos:
 	Moleculas de rRNA empaquetados con proteinas del citoplasma. para formar subunidades ribosomales

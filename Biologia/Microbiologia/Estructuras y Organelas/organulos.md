@@ -3,7 +3,7 @@
 Las células poseen compartimentos, los cuales cumplen funciones variadas ya sea como fábricas de productos específicos o de centrales eléctricas.
 Estos compartimentos membranosos, así como otras estructuras se denominan orgánulos.
 
-- **Núcleo**: Contiene la maor parte del material genético celular ([[ADN]]), el cual es usado como instructivo/plano/molde para fabricar productos tales como proteínas, entre otras cosas.
+- **Núcleo**: Contiene la maor parte del material genético celular ([[DNA]]), el cual es usado como instructivo/plano/molde para fabricar productos tales como proteínas, entre otras cosas.
 
 - **[[mitocondria]]**: Es una central eléctrica en la que se procesa los hidratos de carbono y los ácidos grasos (más concretamente la energía almacenada en los enlaces de dichos elementos), y se los transforma en una forma de energía util para la célula ([[ATP]]).
 

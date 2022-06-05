@@ -84,3 +84,10 @@ Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi dismin
 
 **Transcriptoma**
 Conjunto de [[RNA]]s transcriptos en un tipo de celula para un estadio especifico del desarrolo o condicion fisiologica
+
+Las celulas de un mismo organismo tienen el mismo genoma ([[DNA]]), aun asi se expresan distintas partes del mismo (mRNA)
+
+*herramientas de estudio*:
+
+- [[microarrays]]
+- Secuenciacion masiva (NGS)

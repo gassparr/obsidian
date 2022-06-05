@@ -16,7 +16,7 @@ La inactivación por calor de Griffith habría dejado intacto el ADN de los c
 # El experimento de Hershey y Chase
 llevaron a cabo experimentos con el fago T2. El fago consiste únicamente en una cubierta proteica o cápside que contiene su material genético, e infecta a una bacteria cuando se adhiere a su membrana externa, inyecta dicho material y le deja acoplado el cápside. Como consecuencia, el sistema genético de la bacteria reproduce el virus.
 
-En un primer experimento, marcaron el [[ADN]] de los fagos con el isótopo radiactivo fósforo-32 (el [[ADN]] contiene fósforo).  Dejaron que los fagos del cultivo infectaran a las bacterias Escherichia coli y posteriormente retiraron las cubiertas proteicas de las células infectadas mediante una licuadora y una centrífuga. Hallaron que el indicador radiactivo era visible sólo en las células bacterianas, y no en las cubiertas proteicas.
+En un primer experimento, marcaron el [[DNA]] de los fagos con el isótopo radiactivo fósforo-32 (el [[DNA]] contiene fósforo).  Dejaron que los fagos del cultivo infectaran a las bacterias Escherichia coli y posteriormente retiraron las cubiertas proteicas de las células infectadas mediante una licuadora y una centrífuga. Hallaron que el indicador radiactivo era visible sólo en las células bacterianas, y no en las cubiertas proteicas.
 
 En un segundo experimento, marcaron los fagos con el isótopo azufre-35(Los aminoácidos contienen azufre) Tras la separación, se halló que el indicador estaba presente en las cubiertas proteicas, pero no en las bacterias infectadas, con lo que se confirmó que es el material genético lo que infecta a las bacterias
 
