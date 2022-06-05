@@ -2,8 +2,7 @@ Mecanismos y Métodos de Estudio.
 Enzimología
 Regulación
 Aplicaciones en Ingeniería Genética
-# Procariotas
-##  Mecanismos y Métodos de Estudio 
+### Mecanismos y Métodos de Estudio 
 ADN cromosomal –(Transcripcion)→ m[[RNA]] –(Traduccion)→ [[Sintesis de proteinas]]
 
 El inicio de la sintesis de RNA se incio con un NTP, este se introduce en el extremo 3’ de la cadena molde (**sintesis 5’ → 3’**). La RNA polimerasa se mueve **3’ → 5’**
@@ -51,7 +50,7 @@ DNA tiene secuencia con simetria, la cual se transcribe como secuencia complemen
 *Rho dependiente*
 Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi disminuye la interaccion entre RNA y DNA molde
 
-### Tecnicas de medicion
+### Tecnicas de estudio
 
 **Niveles estacionarios de RNA**
 
@@ -81,4 +80,7 @@ Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi dismin
 **Identifiacion del inicio de la transcipcion**
 
 - Primer Extension
-  
+
+
+**Transcriptoma**
+Conjunto de [[RNA]]s transcriptos en un tipo de celula para un estadio especifico del desarrolo o condicion fisiologica

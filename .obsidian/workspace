@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+            "file": "Bioquimica 3/trancripcion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+                "file": "Bioquimica 3/trancripcion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+                "file": "Bioquimica 3/trancripcion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md"
+                "file": "Bioquimica 3/trancripcion.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
+    "Bioquimica 3/trancripcion.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Untitled.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/traduccion.md",
     "Biologia/Procesos Biologicos/ribosoma.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
-    "Bioquimica 3/trancripcion.md",
     "Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia Vegetal/colenquima.md",
     "Biologia Vegetal/esclerenquima.md",
-    "Excalidraw/Drawing 2022-05-22 14.10.25.excalidraw.md",
-    "Biologia Vegetal/Tejidos/floema.md"
+    "Excalidraw/Drawing 2022-05-22 14.10.25.excalidraw.md"
   ]
 }
