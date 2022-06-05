@@ -72,7 +72,7 @@ Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi dismin
 
 ### Identifiacion del inicio de la transcipcion
 
-- Primer Extension
+- [[Primer Extension]]
 
 
 ### Transcriptoma
@@ -88,6 +88,6 @@ Las celulas de un mismo organismo tienen el mismo genoma ([[DNA]]), aun asi se e
 ### Interacciones DNA-proteina
 
 - [[Union a filtros de nitrocelulosa]]
-- EMSA
-- Footprinting 
-- Yeast one hybrid system
+- [[EMSA]]
+- [[Footprinting]] 
+- [[Y1H|Yeast one hybrid]]
