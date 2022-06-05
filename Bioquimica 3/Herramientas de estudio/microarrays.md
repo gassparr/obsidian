@@ -7,8 +7,9 @@
 **Pasos**
 - Preparacion de sonda c[[DNA]]
 	- Se prepara RNA infectado y no infectado.
-	- Transcripcion reversa marcado con fluorescencia.
+	- Transcripcion reversa y marcado con fluorescencia.
 	- cDNA marcado y no marcado
-	- Hibridiza sonda con cDNA
+	- Hibridiza cDNA con microarray
 	- Scan
+
 
