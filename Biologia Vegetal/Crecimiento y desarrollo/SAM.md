@@ -11,4 +11,8 @@ Es el origen de todos los organos que se generan despues de la [[germinacion]]. 
 
 ![400](https://i.imgur.com/Z3QHHOf.png)
 
+**Origenes de tejido**:
+
+- L1: [[epidermis]]
+- L2 y L3: Tejidos internos 
 

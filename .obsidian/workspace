@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
+            "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md"
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
-    "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
     "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+    "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
     "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
     "Bioquimica 3/trancripcion.md",
     "Bioquimica 3/Herramientas de estudio/Primer Extension.md",

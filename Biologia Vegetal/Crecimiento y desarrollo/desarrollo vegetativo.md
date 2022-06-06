@@ -27,9 +27,10 @@ Producto de:
 - Expansion
 - Diferenciacion
 
-**Tres tipos de meristemas**:
+**Tres tipos de meristemas**
 - [[SAM]] (meristema apical)
 - Meristema lateral
 - RAM (Meristema Radicular)
 
+**Senalizacion en el desarrollo**
 
