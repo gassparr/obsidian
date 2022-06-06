@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
+            "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md"
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
+    "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
     "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
     "Bioquimica 3/trancripcion.md",
     "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
@@ -163,7 +164,6 @@
     "Bioquimica 3/Herramientas de estudio/EMSA.md",
     "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md",
     "Bioquimica 3/Herramientas de estudio/dot blot.md",
-    "Bioquimica 3/Herramientas de estudio/northern blot.md",
-    "Bioquimica 3/Herramientas de estudio/microarrays.md"
+    "Bioquimica 3/Herramientas de estudio/northern blot.md"
   ]
 }
