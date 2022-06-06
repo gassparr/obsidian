@@ -7,5 +7,29 @@
 
 Desarrollo = Crecimiento + Diferenciacion
 
-Crecimiento = Cambio irreversible donde incrementa el tamano o vo
+Crecimiento = Cambio irreversible donde incrementa el tamano o volumen
+Diferenciacion = Celulas toman forma y funcion determinada
+
+**Crecimiento en fase vegetativa: Patron axial y radial**
+Patron Radial:
+- Proteccion (epidermis)
+- Crecimiento (Cortex)
+- Cilindro vascular (Endodermis, pariciclo, floema y xilema)
+
+Patron Axial:
+- Eje apical - basal; distal - proximal
+
+# Crecimiento primario
+Desarrolla el cuerpo vegetal primario
+
+Producto de:
+- Division celular
+- Expansion
+- Diferenciacion
+
+**Tres tipos de meristemas**:
+- SAM (meristema apical)
+- Meristema lateral
+- RAM (Meristema Radicular)
+
 
