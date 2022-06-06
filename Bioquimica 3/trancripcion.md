@@ -64,16 +64,14 @@ Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi dismin
  - [[northern blot ]]
 - [[dot blot]]
 - [[microarrays]] 
-- Hibridacion in situ
-  preguntar 
-- RT PCR
-  Permite medir la velocidad de trancipcion in vivo
+- Hibridacion in situ → Preguntar
+- RT PCR →Permite medir la velocidad de trancipcion in vivo
 
 
 ### Identifiacion del inicio de la transcipcion
 
 - [[Primer Extension]]
-
+- [[Genes reportes]]
 
 ### Transcriptoma
 Conjunto de [[RNA]]s transcriptos en un tipo de celula para un estadio especifico del desarrolo o condicion fisiologica
@@ -91,3 +89,5 @@ Las celulas de un mismo organismo tienen el mismo genoma ([[DNA]]), aun asi se e
 - [[EMSA]]
 - [[Footprinting]] 
 - [[Y1H|Yeast one hybrid]]
+
+

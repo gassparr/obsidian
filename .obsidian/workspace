@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/Primer Extension.md",
+            "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bioquimica 3/Primer Extension.md",
+                "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/Primer Extension.md",
+                "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/Primer Extension.md"
+                "file": "Bioquimica 3/Herramientas de estudio/Genes reportes.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
-    "Bioquimica 3/Primer Extension.md",
+    "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
     "Bioquimica 3/trancripcion.md",
+    "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
     "Bioquimica 3/Herramientas de estudio/Footprinting.md",
     "Bioquimica 3/Herramientas de estudio/Y1H.md",
     "Bioquimica 3/Herramientas de estudio/EMSA.md",
     "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md",
     "Bioquimica 3/Herramientas de estudio/dot blot.md",
     "Bioquimica 3/Herramientas de estudio/northern blot.md",
-    "Bioquimica 3/Herramientas de estudio/microarrays.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md"
+    "Bioquimica 3/Herramientas de estudio/microarrays.md"
   ]
 }
