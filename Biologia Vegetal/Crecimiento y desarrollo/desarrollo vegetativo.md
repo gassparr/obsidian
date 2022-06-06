@@ -28,7 +28,7 @@ Producto de:
 - Diferenciacion
 
 **Tres tipos de meristemas**:
-- SAM (meristema apical)
+- [[SAM]] (meristema apical)
 - Meristema lateral
 - RAM (Meristema Radicular)
 
