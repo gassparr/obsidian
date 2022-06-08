@@ -125,3 +125,7 @@ Generalmente unen factores de transcripción gen específico.
 
 RNA pol no se unen directamente al promotor, requieren de ***factores generales de transcripcion (GTF*)**.
 RNA pol se unen a zonas del promotor a traves de interacciones proteina-proteina con GTF
+
+> Algunos GTF se unen al [[DNA]] a traves de interacciones especificas de secuencia, otros deben interactuar previamente con factores de ensamblado
+
+La transcripcion por RNA pol II requiere de la union de un gran numero de GTFs al sitio de inicio, otros factores de transcrip
