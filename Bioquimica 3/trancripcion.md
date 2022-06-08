@@ -113,7 +113,7 @@ Formado por 12 subunidades, donde la mas grande se denomina CTD ( C terminal dom
 Zona mas pequena suficiente para que ocurra transcripción por RNApol II *in vitro*. Esta conformada por:
 
 - TATA box → Localizado aprox. 30 bp upstream del sitio de inicio de transcripcion
-- Initiator element → Localizado en el sitio de inicio de la transcripcion, es una secuencia de 17bp
+- Initiator element (Inr) → Localizado en el sitio de inicio de la transcripcion, es una secuencia de 17bp
 - Islas CpG → Zona rica en CG (20-50 n) dentro de las 100 bp upstream del inicio de la transcripcion
 
 **Elementos proximales del promotr de RNA pol II**
@@ -128,4 +128,8 @@ RNA pol se unen a zonas del promotor a traves de interacciones proteina-proteina
 
 > Algunos GTF se unen al [[DNA]] a traves de interacciones especificas de secuencia, otros deben interactuar previamente con factores de ensamblado
 
-La transcripcion por RNA pol II requiere de la union de un gran numero de GTFs al sitio de inicio, otros factores de transcrip
+La transcripcion por RNA pol II requiere de la union de un gran numero de GTFs al sitio de inicio, otros factores de transcripcion se unen upstream del gen y controlan la velocidad de inicio de la transcripcion, ***formando asi el complejo de pre-iniciacion (PIC)***.
+Una vez formado, este complejo es activado por la fosforilacion de la RNA pol II
+
+![](https://i.imgur.com/2Q7I7iY.png)
+![](https://i.imgur.com/jBJcodA.png)
