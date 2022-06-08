@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+            "file": "Bioquimica 3/trancripcion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+                "file": "Bioquimica 3/trancripcion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plasmodes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+                "file": "Bioquimica 3/trancripcion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,12 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md"
+                "file": "Bioquimica 3/trancripcion.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,10 +155,10 @@
   },
   "active": "e58613bd2d80d5c5",
   "lastOpenFiles": [
+    "Bioquimica 3/trancripcion.md",
+    "Bioquimica 3/Herramientas de estudio/Genes reporteros.md",
     "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
     "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
-    "Bioquimica 3/Herramientas de estudio/Genes reportes.md",
-    "Bioquimica 3/trancripcion.md",
     "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
     "Bioquimica 3/Herramientas de estudio/Footprinting.md",
     "Bioquimica 3/Herramientas de estudio/Y1H.md",

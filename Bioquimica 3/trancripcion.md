@@ -71,7 +71,7 @@ Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi dismin
 ### Identifiacion del inicio de la transcipcion
 
 - [[Primer Extension]]
-- [[Genes reportes]]
+- [[Genes reporteros]]
 
 ### Transcriptoma
 Conjunto de [[RNA]]s transcriptos en un tipo de celula para un estadio especifico del desarrolo o condicion fisiologica
