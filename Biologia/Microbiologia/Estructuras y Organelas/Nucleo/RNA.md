@@ -1,3 +1,7 @@
+**Tipos de RNA**:
+- mRNA → Codifica proteina
+- tRNA → [[Sintesis de proteinas]]
+
 # tRNA
 
 
@@ -14,3 +18,4 @@ La diferencia del mRNA es que tiene secuencias que no son traducidas en ambos ex
 5’ (Secuencia Shine-dalgarno)(RBS) / (start) / Secuencia de traduccion / (stop) 3’
 
 En el mRNA eucariotico, no se encuentran los RBS, la subunidad menor del ribosoma escanea por un codon start
+

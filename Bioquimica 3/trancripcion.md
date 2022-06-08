@@ -2,6 +2,7 @@ Mecanismos y Métodos de Estudio.
 Enzimología
 Regulación
 Aplicaciones en Ingeniería Genética
+
 ## Mecanismos y Métodos de Estudio 
 ADN cromosomal –(Transcripcion)→ m[[RNA]] –(Traduccion)→ [[Sintesis de proteinas]]
 
@@ -11,6 +12,8 @@ El inicio de la sintesis de RNA se incio con un NTP, este se introduce en el ext
 ![500](https://i.imgur.com/n3kQpSl.png)
 **Unidad transcripcional**
 ![279](https://i.imgur.com/Y6bFlto.png)  
+
+
 ## Mecanismo y Enzimologia
 **Operones**: 
 - Grupo de genes funcionalmente relacionados que se encuentran contiguos en el DNA con 1 solo promotor
@@ -49,6 +52,7 @@ DNA tiene secuencia con simetria, la cual se transcribe como secuencia complemen
 
 *Rho dependiente*
 Rho es una proteina la cual forma se aparea con RNA formando hairpin, asi disminuye la interaccion entre RNA y DNA molde
+
 
 ## Tecnicas de estudio
 
@@ -91,3 +95,33 @@ Las celulas de un mismo organismo tienen el mismo genoma ([[DNA]]), aun asi se e
 - [[Y1H|Yeast one hybrid]]
 
 
+
+
+
+# En [[eucariota]]
+
+En el [[nucleo]], poseen 3 tipos de [[RNA]] Polimerasas:
+- RNA pol I → pre RNA
+- RNA pol II → mRNA
+- RNA pol III → tRNA, rRNA, small RNA
+
+## RNA pol II
+
+Formado por 12 subunidades, donde la mas grande se denomina CTD ( C terminal domain) tiene un importante rol  regulatorio.
+
+**Core promoter**
+Zona mas pequena suficiente para que ocurra transcripción por RNApol II *in vitro*. Esta conformada por:
+
+- TATA box → Localizado aprox. 30 bp upstream del sitio de inicio de transcripcion
+- Initiator element → Localizado en el sitio de inicio de la transcripcion, es una secuencia de 17bp
+- Islas CpG → Zona rica en CG (20-50 n) dentro de las 100 bp upstream del inicio de la transcripcion
+
+**Elementos proximales del promotr de RNA pol II**
+
+Generalmente upstream del core.
+Generalmente unen factores de transcripción gen específico.
+
+## Inicio de la transcripcion
+
+RNA pol no se unen directamente al promotor, requieren de factores generales de transcripcion (GTF).
+RNA pol se unen a zo
