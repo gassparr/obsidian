@@ -3,15 +3,15 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Bioquimica 2/1 Vias\"",
+      "query": " path:\"Bioquimica 3\"",
       "color": {
         "a": 1,
-        "rgb": 15235252
+        "rgb": 6171803
       }
     },
     {
@@ -25,34 +25,34 @@
       "query": "path:\"Biologia Vegetal\"",
       "color": {
         "a": 1,
-        "rgb": 8117179
+        "rgb": 7464345
       }
     },
     {
       "query": "path:Biologia/Microbiologia",
       "color": {
         "a": 1,
-        "rgb": 10420126
+        "rgb": 6668795
       }
     },
     {
       "query": "path:Biologia",
       "color": {
         "a": 1,
-        "rgb": 28672
+        "rgb": 10420126
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -2.6,
-  "nodeSizeMultiplier": 2.17307692307692,
-  "lineSizeMultiplier": 1.74586615173535,
+  "nodeSizeMultiplier": 3.36459169673256,
+  "lineSizeMultiplier": 1.53646018598506,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 1,
+  "linkStrength": 0.624777681792774,
   "linkDistance": 500,
-  "scale": 0.48873481162888294,
+  "scale": 0.03018289506732427,
   "close": false
 }

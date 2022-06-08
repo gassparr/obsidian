@@ -1,3 +1,4 @@
+[[transcripcion]]
 ![](https://i.imgur.com/Ek4u7hG.png)
 
 - [[DNA]] solo pasa por la membrana

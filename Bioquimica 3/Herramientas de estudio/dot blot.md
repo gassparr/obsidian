@@ -1,3 +1,4 @@
+[[transcripcion]]
 RNA → cDNA (sonda)
   ![300](https://i.imgur.com/F8EOV5M.png)
   Alternativas:

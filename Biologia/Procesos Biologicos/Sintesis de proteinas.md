@@ -1,5 +1,5 @@
 [[Ideas Centrales]]
-[[trancripcion]]
+[[transcripcion]]
 [[traduccion]]
 
 

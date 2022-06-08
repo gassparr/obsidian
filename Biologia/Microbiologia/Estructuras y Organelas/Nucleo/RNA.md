@@ -1,7 +1,15 @@
+[[Dogma central de la Biología molecular]]
+[[Teoría de la evolución biológica]]
+[[ribosoma]]
+[[Splicing]]
+[[traduccion]]
+[[transcripcion]]
+
 **Tipos de RNA**:
 - mRNA → Codifica proteina
 - tRNA → [[Sintesis de proteinas]]
 
+Contienen [[Intrones]] y exones
 # tRNA
 
 
@@ -19,3 +27,6 @@ La diferencia del mRNA es que tiene secuencias que no son traducidas en ambos ex
 
 En el mRNA eucariotico, no se encuentran los RBS, la subunidad menor del ribosoma escanea por un codon start
 
+
+# snoRNA
+Small nucleolar RNA, estos ayudan a procesar rRNA y ensamblar las subunidades ribosomales a traves de metilacion de los segmentos

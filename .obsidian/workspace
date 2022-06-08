@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e58613bd2d80d5c5",
+        "id": "a30ed297172ed12d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/trancripcion.md",
+            "file": "netlify.toml.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -24,51 +24,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b41e8f695f3050ea",
-        "type": "tabs",
-        "dimension": 33.966745843230406,
-        "children": [
-          {
-            "id": "68ee0d139d91c439",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Bioquimica 3/trancripcion.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1.10321489001692,
-                  "lineSizeMultiplier": 0.704727157360406,
-                  "collapse-forces": false,
-                  "centerStrength": 0.436575052854123,
-                  "repelStrength": 18.8794926004228,
-                  "linkStrength": 1,
-                  "linkDistance": 500,
-                  "scale": 0.401600937727827,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b4111d1970f84605",
         "type": "tabs",
-        "dimension": 66.0332541567696,
         "children": [
           {
             "id": "64a0432d31a19d2e",
@@ -97,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 185
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -108,62 +65,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6aa146432de387b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "2aa936ae1e4a79c8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/trancripcion.md",
+                "file": "netlify.toml.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "aec36d4bada35aa7",
+            "id": "0a044516c7595ad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "netlify.toml.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "743576caa86e49e3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/trancripcion.md"
+                "file": "netlify.toml.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 198.5,
     "collapsed": true
   },
-  "active": "e58613bd2d80d5c5",
+  "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Bioquimica 3/trancripcion.md",
+    "netlify.toml.md",
+    "Bioquimica 3/Splicing.md",
+    "Bioquimica 3/transcripcion.md",
+    "Biologia/Ideas Centrales/Teoría endosimbiótica seriada.md",
+    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
-    "Bioquimica 3/Herramientas de estudio/Genes reporteros.md",
-    "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
-    "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
-    "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
-    "Bioquimica 3/Herramientas de estudio/Footprinting.md",
-    "Bioquimica 3/Herramientas de estudio/Y1H.md",
-    "Bioquimica 3/Herramientas de estudio/EMSA.md",
-    "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md"
+    "Biologia/Procesos Biologicos/ribosoma.md",
+    "Bioquimica 3/traduccion.md",
+    "Biologia Vegetal/Organos/organos.md",
+    "flor.md"
   ]
 }

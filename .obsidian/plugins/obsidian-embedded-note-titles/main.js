@@ -807,7 +807,12 @@ function getSheetRules(stylesheet) {
         !window.matchMedia(sheet_media).matches)
         return [];
     // get the style rules of this sheet
-    return toArray(stylesheet.cssRules);
+    try {
+        return toArray(stylesheet.cssRules);
+    }
+    catch (_a) {
+        return [];
+    }
 }
 function _find(string, re) {
     var matches = string.match(re);
@@ -871,8 +876,7 @@ function sortBySpecificity(element, rules) {
             if (b.parentStyleSheet.href)
                 bScore -= 1;
         }
-        return (aScore -
-            bScore);
+        return aScore - bScore;
     }
     return rules.sort(compareSpecificity);
 }
@@ -946,12 +950,14 @@ function getTitleForView(app, settings, view) {
     const frontmatterKey = settings.titleMetadataField;
     const file = view.file;
     let title = file === null || file === void 0 ? void 0 : file.basename;
-    if (file && frontmatterKey) {
+    if (file) {
         const cache = app.metadataCache.getFileCache(file);
         if (shouldHide(cache, settings)) {
             return " ";
         }
-        if ((cache === null || cache === void 0 ? void 0 : cache.frontmatter) && cache.frontmatter[frontmatterKey]) {
+        if (frontmatterKey &&
+            (cache === null || cache === void 0 ? void 0 : cache.frontmatter) &&
+            cache.frontmatter[frontmatterKey]) {
             return cache.frontmatter[frontmatterKey] || title || " ";
         }
     }
@@ -1029,7 +1035,11 @@ function buildTitleDecoration(plugin, getSettings) {
                 viewUpdate.transactions.forEach((tr) => {
                     for (let e of tr.effects) {
                         if (e.is(updateTitle)) {
-                            this.title = getTitleForView(plugin.app, getSettings(), tr.state.field(obsidian.editorViewField));
+                            const newTitle = getTitleForView(plugin.app, getSettings(), tr.state.field(obsidian.editorViewField));
+                            if (this.title === newTitle) {
+                                return;
+                            }
+                            this.title = newTitle;
                             this.header.setText(this.title);
                             if (this.title === " ") {
                                 this.header.classList.add("embedded-note-title__hidden");
@@ -1366,16 +1376,18 @@ class EmbeddedNoteTitlesPlugin extends obsidian.Plugin {
                 this.registerEvent(this.app.vault.on("rename", notifyFileChange));
                 this.registerEvent(this.app.metadataCache.on("changed", (file) => {
                     const frontmatterKey = this.settings.titleMetadataField;
-                    if (frontmatterKey) {
+                    const hideOnH1 = this.settings.hideOnH1;
+                    if (frontmatterKey || hideOnH1) {
                         notifyFileChange(file);
                     }
                 }));
             }
             this.registerEvent(this.app.metadataCache.on("changed", (file) => {
                 const frontmatterKey = this.settings.titleMetadataField;
-                if (frontmatterKey) {
+                const hideOnH1 = this.settings.hideOnH1;
+                if (frontmatterKey || hideOnH1) {
                     const cache = this.app.metadataCache.getFileCache(file);
-                    if ((cache === null || cache === void 0 ? void 0 : cache.frontmatter) && cache.frontmatter[frontmatterKey]) {
+                    if (hideOnH1 || frontmatterKey && (cache === null || cache === void 0 ? void 0 : cache.frontmatter) && cache.frontmatter[frontmatterKey]) {
                         setTimeout(() => {
                             var _a;
                             (_a = this.legacyCodemirrorHeadingsManager) === null || _a === void 0 ? void 0 : _a.createHeadings(this.app);

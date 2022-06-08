@@ -1,3 +1,4 @@
+[[transcripcion]]
 ![](https://i.imgur.com/BfTgZca.png)
 
 1. Promotores en estudios
