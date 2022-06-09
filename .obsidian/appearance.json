@@ -1,6 +1,10 @@
 {
   "baseFontSize": 14,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Prism",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Auto dark images"
+  ],
+  "baseFontSizeAction": true
 }

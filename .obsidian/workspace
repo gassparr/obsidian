@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/epigenetica.md",
+            "file": "Bioquimica 3/transcripcion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/epigenetica.md",
+                "file": "Bioquimica 3/transcripcion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/epigenetica.md",
+                "file": "Bioquimica 3/transcripcion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/epigenetica.md"
+                "file": "Bioquimica 3/transcripcion.md"
               }
             }
           }
@@ -112,15 +112,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 3/transcripcion.md",
+    "Bioquimica 3/Splicing.md",
+    "Bioquimica 3/Genetica.md",
     "Bioquimica 3/epigenetica.md",
     "netlify.toml.md",
-    "Bioquimica 3/Splicing.md",
-    "Bioquimica 3/transcripcion.md",
     "Biologia/Ideas Centrales/Teoría endosimbiótica seriada.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Biologia/Procesos Biologicos/ribosoma.md",
-    "Bioquimica 3/traduccion.md",
-    "Biologia Vegetal/Organos/organos.md"
+    "Bioquimica 3/traduccion.md"
   ]
 }
