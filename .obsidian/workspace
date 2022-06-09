@@ -7,8 +7,13 @@
         "id": "a30ed297172ed12d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Bioquimica 3/epigenetica.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bioquimica 3/epigenetica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -76,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bioquimica 3/epigenetica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bioquimica 3/epigenetica.md"
+              }
             }
           }
         ]
@@ -103,6 +112,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 3/epigenetica.md",
     "netlify.toml.md",
     "Bioquimica 3/Splicing.md",
     "Bioquimica 3/transcripcion.md",
@@ -111,7 +121,6 @@
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Biologia/Procesos Biologicos/ribosoma.md",
     "Bioquimica 3/traduccion.md",
-    "Biologia Vegetal/Organos/organos.md",
-    "flor.md"
+    "Biologia Vegetal/Organos/organos.md"
   ]
 }
