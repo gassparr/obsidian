@@ -184,6 +184,8 @@ Por Ej:
 La respuesta a esteroides mediada por elementos GRE.
 Se unen a un receptor del [[citosol]] haciendo que este pase por la membrana del [[nucleo]] haciendo que este se una al [[DNA]] y active la [[transcripcion]]
 
-**Reguladores de la transcripcon**; Modulares
+**Reguladores de la transcripcon**: Modulares
 
-Modelos donde los reguladores de transcripcion 
+Modelos donde los reguladores de transcripcion tienen una estructura modular
+
+> Experimientos de cambio de dominio, muestran que 
