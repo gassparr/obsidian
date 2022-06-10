@@ -188,4 +188,4 @@ Se unen a un receptor del [[citosol]] haciendo que este pase por la membrana del
 
 Modelos donde los reguladores de transcripcion tienen una estructura modular
 
-> Experimientos de cambio de dominio, muestran que 
+> Experimientos de cambio de dominio, muestran que los [[DNA binding domain]] (DBD)
