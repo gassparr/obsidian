@@ -11,3 +11,6 @@
 La dirección se determina x los grupos fosfato y los azucares, los primeros se conectan al carbono 3’ de un azúcar y al carbono 5’ del siguiente, uniendo azucares sucesivos entre si
 
 4.  Los bordes externos de las bases nitrogenadas se exponen en los surcos mayor y menor: Son accesibles para otros enlaces potenciales
+
+
+[[cromatina]]

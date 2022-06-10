@@ -4,7 +4,7 @@
 [[Transporte núcleo-citoplasma]]. 
 [[Complejo del poro nuclear:]] mecanismo de transporte a través del mismo. [[Matriz nuclear y Lámina nuclear]]. 
 El [[nucléolo]].
-Estructura del [[DNA]] y su empaquetamiento, cromatina y cromosomas. [[Eucromatina y Heterocromatina]].
+Estructura del [[DNA]] y su empaquetamiento, cromatina y cromosomas. [[cromatina]].
 [[Estructura y organización del genoma]].
 
 Lugar de la celula donde se localizan y replican los cromosomas y donde se transcribe el ADN. Es un rasgo carateristico de las [[eucariota]] ya que las [[procariota]] no cuentan con uno

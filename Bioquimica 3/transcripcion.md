@@ -171,7 +171,7 @@ Una vez formado, este complejo es activado por la fosforilacion de la [[RNA]] po
 ## [[RNA]] pol III
 
 
-## Regulacion hormonal
+## Regulacion 
 
 **Regulacion hormonal**
 
@@ -199,4 +199,31 @@ Pueden contener dominios para:
 - Importacion al [[nucleo]]
 - Interaccion a otras proteinas
 
-El beneficio de ser modulares, es la posibilidad de combinacion la cual se ve reflejada en distintas actividades de regulacion
+El beneficio de ser modulares, es la posibilidad de combinacion por interaccion proteina-proteina la cual se ve reflejada en distintas actividades de regulacion.
+
+Por ejemplo: 3 Factores de transcripcion dimericos si estuviesen solos tendrian 3 actividades regulatorias, ahora, cuando los mismos interactuan potencialmente tendrias 6 actividades unicas ya que 2(numero de subunidades)x3(numero de factores) = 6 
+
+
+### Elemento regulador en cis
+Regiones no codificantes del [[DNA]] que regulan la transcripcion de genes cercanos
+
+**Durante la [[Diferenciación y desarrollo]]**
+a cada elemento cis se unen distintos factores de transcripcion a distintos tiempos
+
+# [[cromatina]]
+
+[[DNA]] de genes que se transcriben se encuentran mas accesible a la digestion con DNasa I
+
+**Cambio de estado inactivo a activo**
+Ocurren activaciones que involucran modificacion como remodelamiento o reposicionamiento de las histonas en un gen
+
+1. Activadores modifican covalentemente la lisina N terminal por ***Acetilacion/Metilacion***
+2. Las histonas modificadas reclutan otras proteinas
+3. Activadores remodelan la estructura del nucleosoma
+
+![](https://i.imgur.com/HJA5YNY.png)
+
+Tipos de activacion o desactivacion:
+- Reversibles: Acetilaciones/desacetilaciones; Fosforilaciones/desfosforilaciones (T,S); Mono Ubiquitinaciones de K. 
+- Irreversibles: Metilaciones S
+
