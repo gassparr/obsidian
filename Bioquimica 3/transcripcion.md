@@ -184,8 +184,19 @@ Por Ej:
 La respuesta a esteroides mediada por elementos GRE.
 Se unen a un receptor del [[citosol]] haciendo que este pase por la membrana del [[nucleo]] haciendo que este se una al [[DNA]] y active la [[transcripcion]]
 
-**Reguladores de la transcripcon**: Modulares
+**Reguladores de la transcripcion**: Modulares
 
 Modelos donde los reguladores de transcripcion tienen una estructura modular
 
 > Experimientos de cambio de dominio, muestran que los [[DNA binding domain]] (DBD)
+
+**Factores de transcripcion modulares**
+Pueden contener dominios para:
+- Union a [[DNA]]
+- Activacion de la transcripcion
+- Represion de la transcripcion
+- Remodelado de la cromatina
+- Importacion al [[nucleo]]
+- Interaccion a otras proteinas
+
+El beneficio de ser modulares, es la posibilidad de combinacion la cual se ve reflejada en distintas actividades de regulacion
