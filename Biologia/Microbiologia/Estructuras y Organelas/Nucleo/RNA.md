@@ -30,3 +30,9 @@ En el mRNA eucariotico, no se encuentran los RBS, la subunidad menor del ribosom
 
 # snoRNA
 Small nucleolar RNA, estos ayudan a procesar rRNA y ensamblar las subunidades ribosomales a traves de metilacion de los segmentos
+
+# siRNA
+Una clase de RNAs de doble cadena de 21-22 nt de longitud generado a partir de dsRNAs de origen viral o celular. Los siRNAs silencian genes promoviendo el clivaje de mRNAs cuyas secuencias son exactamente complementarias, o dirigiendo la modificación de DNA cuya secuencia es exactamente complementaria.
+
+# miRNA
+Una clase de RNA de simple cadena de 21-26 nt de longitud codificados por los genomas de la mayor parte de los organismos multicelulares que se han estudiado. Algunos están evolutivamente conservados y están regulados durante el desarrollo. Silencian genes mediante clivaje de mRNA complementarios o bloqueo de la traducción.
