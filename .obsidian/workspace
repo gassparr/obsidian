@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/transcripcion.md",
+            "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/transcripcion.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/transcripcion.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/transcripcion.md"
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
               }
             }
           }
@@ -112,8 +112,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Bioquimica 3/transcripcion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
+    "Bioquimica 3/transcripcion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md",
     "Bioquimica 3/DNA binding domain.md",
     "Bioquimica 3/Untitled.md",
