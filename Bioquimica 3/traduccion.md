@@ -6,7 +6,7 @@ mRNA → Polipeptido
 
 Cinco componentes:
 - Ribosomas
-- tRNA
+- t[[RNA]]
 - Aminoacil-tRNA sintetasas
 - mRNA
 - Factores proteicos
@@ -23,7 +23,7 @@ Y la sintesis de los peptidos es en sentido NH2 a COOH terminal
 2. Elongacion
 	Aminoacidos se unen secuencialmetne en el orden de los codones del mRNA
 3. Terminacion
-	mRNA y  cadena polipeptidica se desligan del ribosoma
+	mRNA y cadena polipeptidica se desligan del ribosoma
 
 **Factores de inicio**
 - IF1: Previene tRNA a unirse en la region de la subunidad menor que dara lugar al sitio A
@@ -38,7 +38,7 @@ Especifica un proteina, estos comienzan y terminan dentro un de mRNA
 - Codon de inicio (start):
 	  - Eucariotas: 5’ AUG 3’
 	  - Procariotas: 5’ AUG 3’
-- Codon de fin (stop): 
+- Codon de fin (stop):
 	  - Eucariotas: 5’ UAG | UAA | UGA 3’
 	  - Procariotas: 5’ UAG | UAA | UGA 3’
 
@@ -53,7 +53,7 @@ cargan tRNA en dos pasos.
 
 1. Aminoacil-tRNA-sintetasa
 2. Reconocimiento codon-anticodon
-   
+
 ![](https://i.imgur.com/QuJrQBD.png)
 
 
@@ -61,4 +61,3 @@ cargan tRNA en dos pasos.
 
 1. Tiene que reconocer un set correcto de tRNA para un aminoacido particular
 2. Debe cargar todos los iso-accepting tRNA con el aminoacido correcto
-
