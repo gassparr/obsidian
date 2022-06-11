@@ -1,11 +1,9 @@
 [[Intrones]]
+[[epigenetica]]
 
-Mecanismos y Métodos de Estudio. 
-Enzimología
-Regulación
-Aplicaciones en Ingeniería Genética
 
-## Mecanismos y Métodos de Estudio 
+# Mecanismos y Métodos de Estudio
+
 ADN cromosomal –(Transcripcion)→ m[[RNA]] –([[Traduccion]])→ [[Sintesis de proteinas]]
 
 El inicio de la sintesis de [[RNA]] se incio con un NTP, este se introduce en el extremo 3’ de la cadena molde (**sintesis 5’ → 3’**). La [[RNA]] polimerasa se mueve **3’ → 5’**
@@ -13,11 +11,11 @@ El inicio de la sintesis de [[RNA]] se incio con un NTP, este se introduce en el
 **Estructura de gen procarionte**
 ![500](https://i.imgur.com/n3kQpSl.png)
 **Unidad transcripcional**
-![279](https://i.imgur.com/Y6bFlto.png)  
+![279](https://i.imgur.com/Y6bFlto.png)
 
+# Mecanismo y Enzimología
 
-## Mecanismo y Enzimología
-**Operones**: 
+**Operones**:
 - Grupo de genes funcionalmente relacionados que se encuentran contiguos en el [[DNA]] con 1 solo promotor
 - Lleva la sintesis coordinada de proteinas funcionalmente relacionadas (estan co-regulados)
 - Un solo mRNA se transcribe a partir del operon y luego se traduce en proteinas diferentes
@@ -47,7 +45,6 @@ Durante todo el proceso se requiere el *melting* del [[DNA]], esto es que separa
 4. Sigma queda libre para unirse a otras [[RNA]] pol
 
 **Union de [[RNA]] pol modulada por proteinas activadoras y represoras**
-
 **Terminacion de la transcipcion**
 *Rho Independiente*
 [[DNA]] tiene secuencia con simetria, la cual se transcribe como secuencia complementeria de [[RNA]] (forma estructura 2da), formando asi un hairpin el cual desestabiliza la interaccion entre el [[RNA]] y [[DNA]] molde
@@ -55,10 +52,9 @@ Durante todo el proceso se requiere el *melting* del [[DNA]], esto es que separa
 *Rho dependiente*
 Rho es una proteina la cual forma se aparea con [[RNA]] formando hairpin, asi disminuye la interaccion entre [[RNA]] y [[DNA]] molde
 
+# Técnicas de estudio
 
-## Técnicas de estudio
-
-### Niveles estacionarios de [[RNA]]
+## Niveles estacionarios de [[RNA]]
 
 - Base pare reconocer el nivel de un mRNA particulas entre muchos [[RNA]]
 	  - Hibridacion:
@@ -69,17 +65,17 @@ Rho es una proteina la cual forma se aparea con [[RNA]] formando hairpin, asi di
  **Tecnicas**
  - [[northern blot ]]
 - [[dot blot]]
-- [[microarrays]] 
+- [[microarrays]]
 - Hibridacion in situ → Preguntar
 - RT PCR →Permite medir la velocidad de trancipcion in vivo
 
-
-### Identifiacion del inicio de la transcipcion
+## Identifiacion del inicio de la transcipcion
 
 - [[Primer Extension]]
 - [[Genes reporteros]]
 
-### Transcriptoma
+## Transcriptoma
+
 Conjunto de [[RNA]]s transcriptos en un tipo de celula para un estadio especifico del desarrolo o condicion fisiologica
 
 Las celulas de un mismo organismo tienen el mismo genoma ([[DNA]]), aun asi se expresan distintas partes del mismo (mRNA)
@@ -89,16 +85,12 @@ Las celulas de un mismo organismo tienen el mismo genoma ([[DNA]]), aun asi se e
 - [[microarrays]]
 - Secuenciacion masiva (NGS)
 
-### Interacciones [[DNA]]-proteina
+## Interacciones [[DNA]]-proteina
 
 - [[Union a filtros de nitrocelulosa]]
 - [[EMSA]]
-- [[Footprinting]] 
+- [[Footprinting]]
 - [[Y1H|Yeast one hybrid]]
-
-
-
-
 
 # En [[eucariota]]
 
@@ -111,12 +103,12 @@ En el [[nucleo]], poseen 3 tipos de [[RNA]] Polimerasas:
 
 ## [[RNA]] pol II
 
-Formado por 12 subunidades, donde la más grande se denomina CTD ( C terminal domain) tiene un importante rol  regulatorio.
+Formado por 12 subunidades, donde la más grande se denomina CTD ( C terminal domain) tiene un importante rol regulatorio.
 
 **Core promoter**
 Zona más pequeña suficiente para que ocurra transcripción por RNApol II *in vitro*. Está conformada por:
 
-- TATA box → Localizado aprox. 30 bp upstream del sitio de inicio de transcripción  
+- TATA box → Localizado aprox. 30 bp upstream del sitio de inicio de transcripción
 - Initiator element (Inr) → Localizado en el sitio de inicio de la transcripcion, es una secuencia de 17bp
 - Islas CpG → Zona rica en CG (20-50 n) dentro de las 100 bp upstream del inicio de la transcripcion
 
@@ -124,7 +116,6 @@ Zona más pequeña suficiente para que ocurra transcripción por RNApol II *in v
 
 Generalmente upstream del core.
 Generalmente unen factores de transcripción gen específico.
-
 
 ## Inicio de la transcripcion
 
@@ -139,22 +130,19 @@ Una vez formado, este complejo es activado por la fosforilacion de la [[RNA]] po
 ![400](https://i.imgur.com/2Q7I7iY.png)
 ![400](https://i.imgur.com/jBJcodA.png)
 
-
-
-
 ## Procesamiento de RNAs
+
 **mRNA**:
 1. ***Capping y adicion de poly A***
    - 5’ CAP → Adicion de GMP y metilacion de los primeros nucleotidos
    - 3’ Poly A → Adicion de As repetitivos en extremo 3’ 10 a 30 nucleotidos downstream del sitio AAUAAA (consenso), aproximadamente 200 residuos A
    > Poly A y CAP son necesarios para la estabilidad de los mRNA, sin estos son degradados rapidamente
 
-2.  ***[[Splicing]]*** 
-
+2. ***[[Splicing]]***
 
 ## Terminacion y poliadenilacion
 
-- Cambio conformacional en [[RNA]] pol II 
+- Cambio conformacional en [[RNA]] pol II
 - Exo-ribonucleasa que interacciona con [[RNA]] pol II
 - Alteracion de sitio activo de [[RNA]] pol II (complejo [[RNA]]-[[DNA]]) por helicasa
 
@@ -168,10 +156,10 @@ Una vez formado, este complejo es activado por la fosforilacion de la [[RNA]] po
 - Ruta endonucleolitica
 
 ## [[RNA]] pol I
+
 ## [[RNA]] pol III
 
-
-## Regulacion 
+## Regulacion
 
 **Regulacion hormonal**
 
@@ -195,21 +183,34 @@ Pueden contener dominios para:
 - Union a [[DNA]]
 - Activacion de la transcripcion
 - Represion de la transcripcion
-- Remodelado de la cromatina
+- Remodelado de la [[cromatina]]
 - Importacion al [[nucleo]]
 - Interaccion a otras proteinas
 
 El beneficio de ser modulares, es la posibilidad de combinacion por interaccion proteina-proteina la cual se ve reflejada en distintas actividades de regulacion.
 
-Por ejemplo: 3 Factores de transcripcion dimericos si estuviesen solos tendrian 3 actividades regulatorias, ahora, cuando los mismos interactuan potencialmente tendrias 6 actividades unicas ya que 2(numero de subunidades)x3(numero de factores) = 6 
+Por ejemplo: 3 Factores de transcripcion dimericos si estuviesen solos tendrian 3 actividades regulatorias, ahora, cuando los mismos interactuan potencialmente tendrias 6 actividades unicas ya que 2(numero de subunidades)x3(numero de factores) = 6
 
+## Elemento regulador en cis
 
-### Elemento regulador en cis
 Regiones no codificantes del [[DNA]] que regulan la transcripcion de genes cercanos
 
 **Durante la [[Diferenciación y desarrollo]]**
 a cada elemento cis se unen distintos factores de transcripcion a distintos tiempos
 
-# [[cromatina]]
+ [[cromatina]]
 
+[[DNA]] de genes que se transcriben se encuentran mas accesible a la digestion con DNasa I
 
+**Cambio de estado inactivo a activo**
+Ocurren activaciones que involucran modificacion como remodelamiento o reposicionamiento de las histonas en un gen
+
+1. Activadores modifican covalentemente la lisina N terminal por ***Acetilacion/Metilacion***
+2. Las histonas modificadas reclutan otras proteinas
+3. Activadores remodelan la estructura del nucleosoma
+
+![](https://i.imgur.com/HJA5YNY.png)
+
+Tipos de activacion o desactivacion:
+- Reversibles: Acetilaciones/desacetilaciones; Fosforilaciones/desfosforilaciones (T,S); Mono Ubiquitinaciones de K.
+- Irreversibles: Metilaciones S

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/Splicing.md",
+            "file": "Bioquimica 3/transcripcion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,9 +70,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/Splicing.md",
+                "file": "Bioquimica 3/transcripcion.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/Splicing.md",
+                "file": "Bioquimica 3/transcripcion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/Splicing.md"
+                "file": "Bioquimica 3/transcripcion.md"
               }
             }
           }
@@ -107,20 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198.5,
-    "collapsed": true
+    "width": 198.5
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 3/transcripcion.md",
     "Bioquimica 3/Splicing.md",
+    "Bioquimica 3/traduccion.md",
+    "Bioquimica 3/DNA binding domain.md",
+    "Bioquimica 3/epigenetica.md",
     "Bioquimica 3/Genetica.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
-    "Bioquimica 3/epigenetica.md",
-    "Bioquimica 3/DNA binding domain.md",
-    "Bioquimica 3/transcripcion.md",
     "Bioquimica 3/silenciamiento de genes.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Genes Islas CpG.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Genes Islas CpG.md"
   ]
 }
