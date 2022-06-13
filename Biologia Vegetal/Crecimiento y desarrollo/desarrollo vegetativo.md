@@ -30,7 +30,9 @@ Producto de:
 **Tres tipos de meristemas**
 - [[SAM]] (meristema apical)
 - Meristema lateral
-- RAM (Meristema Radicular)
+- [[RAM]] (Meristema Radicular)
 
 **Senalizacion en el desarrollo**
 
+- Efectores de larga distancia → Fitohormonas
+- Efectores locales → Peptidos, factores de [[transcripcion]] y small [[RNA]]

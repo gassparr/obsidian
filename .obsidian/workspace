@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+            "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md"
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
     "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
@@ -120,7 +121,6 @@
     "Bioquimica 3/Splicing.md",
     "Bioquimica 3/DNA binding domain.md",
     "Bioquimica 3/epigenetica.md",
-    "Bioquimica 3/Genetica.md",
-    "Bioquimica 3/silenciamiento de genes.md"
+    "Bioquimica 3/Genetica.md"
   ]
 }
