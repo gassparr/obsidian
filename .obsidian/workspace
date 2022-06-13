@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/traduccion.md",
+            "file": "Bioquimica 3/transcripcion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Bioquimica 3/transcripcion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Bioquimica 3/transcripcion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/traduccion.md"
+                "file": "Bioquimica 3/transcripcion.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 3/transcripcion.md",
     "Bioquimica 3/traduccion.md",
     "Biologia/Procesos Biologicos/ribosoma.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
@@ -120,7 +121,6 @@
     "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md",
     "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
     "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
-    "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
-    "Bioquimica 3/transcripcion.md"
+    "Biologia Vegetal/Crecimiento y desarrollo/SAM.md"
   ]
 }
