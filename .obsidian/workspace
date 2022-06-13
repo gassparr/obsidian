@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+            "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md"
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/SAM.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/traduccion.md",
     "Bioquimica 3/transcripcion.md",
@@ -120,7 +121,6 @@
     "Bioquimica 3/epigenetica.md",
     "Bioquimica 3/Genetica.md",
     "Bioquimica 3/silenciamiento de genes.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Genes Islas CpG.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
   ]
 }
