@@ -1,4 +1,5 @@
 # traduccion
+
 es el proceso en el cual se realiza la [[Sintesis de proteinas]]
 
 ![](https://i.imgur.com/z4Db61H.png)
@@ -43,7 +44,8 @@ Especifica un proteina, estos comienzan y terminan dentro un de mRNA
 	  - Eucariotas: 5’ UAG | UAA | UGA 3’
 	  - Procariotas: 5’ UAG | UAA | UGA 3’
 
-**Aminoacil tRNA sintetasas**
+## Aminoacil tRNA sintetasas
+
 cargan tRNA en dos pasos.
 1. Adenililacion
 	   Aminoacido + ATP → AMP-AA + PPi
@@ -62,4 +64,3 @@ cargan tRNA en dos pasos.
 
 1. Tiene que reconocer un set correcto de tRNA para un aminoacido particular
 2. Debe cargar todos los iso-accepting tRNA con el aminoacido correcto
-
