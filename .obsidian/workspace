@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
+            "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Vegetal/Crecimiento y desarrollo/RAM.md"
+                "file": "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md"
               }
             }
           }
@@ -112,8 +112,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
+    "Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Biologia Vegetal/Crecimiento y desarrollo/SAM.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/traduccion.md",
