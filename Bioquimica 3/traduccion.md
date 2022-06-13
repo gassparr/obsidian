@@ -1,3 +1,4 @@
+# traduccion
 es el proceso en el cual se realiza la [[Sintesis de proteinas]]
 
 ![](https://i.imgur.com/z4Db61H.png)
@@ -61,3 +62,4 @@ cargan tRNA en dos pasos.
 
 1. Tiene que reconocer un set correcto de tRNA para un aminoacido particular
 2. Debe cargar todos los iso-accepting tRNA con el aminoacido correcto
+
