@@ -37,7 +37,7 @@ Durante todo el proceso se requiere el *melting* del [[DNA]], esto es que separa
 - Upstream al inicio de replicacion
 - Tiene porciones relevantes (core, region distal y proximal).
 
-**Ciclo de Sigma**:
+**Factor Sigma**:
 - Sigma es una subunidad de la [[RNA]] pol
 1. Sigma ayuda a [[RNA]] pol ubicar la zona promotora. Forma el complejo cerrado
 2. [[RNA]] pol fusiona [[DNA]] formando el complejo abierto, [[RNA]] pol disminuye la secuencia promotora iniciando elongacion, esto disocia a Sigma.
