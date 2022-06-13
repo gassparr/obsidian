@@ -13,6 +13,8 @@ En el ribosoma existen 4 lugares importantes para la sintesis:
 
 
 **Ribozima**
+![](https://i.imgur.com/PHTY9TK.png)
+
 [[RNA]] con actividad catalitica estos forman a los ribosoma
 
 *ribosoma eucariota*

@@ -7,7 +7,7 @@ es el proceso en el cual se realiza la [[Sintesis de proteinas]]
 mRNA → Polipeptido
 
 Cinco componentes:
-- Ribosomas
+- [[ribosoma]]
 - t[[RNA]]
 - Aminoacil-tRNA sintetasas
 - mRNA
