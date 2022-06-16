@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
+            "file": "Bioquimica 3/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 156
+    "width": 253
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
+                "file": "Bioquimica 3/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
+                "file": "Bioquimica 3/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/Primer Extension.md"
+                "file": "Bioquimica 3/Untitled.md"
               }
             }
           }
@@ -112,15 +112,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
+    "Bioquimica 3/Untitled.md",
     "Bioquimica 3/transcripcion.md",
+    "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
     "Bioquimica 3/traduccion.md",
     "Biologia/Procesos Biologicos/ribosoma.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Bioquimica 3/ribosomas.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md",
-    "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md",
-    "Biologia Vegetal/Crecimiento y desarrollo/RAM.md"
+    "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md"
   ]
 }
