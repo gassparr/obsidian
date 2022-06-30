@@ -24,12 +24,16 @@ Cambio en la forma para adaptarse al ambiente, para mejorar captacion de luz
 ## Meristema
 Celulas totipotentes, las cuales pueden ser parte del crecimiento indeterminado
 **Meristema apical**
+
 **Meristema radicular**
 vasculares 
 laterales
 
 **Crecimiento Radial**
 Divisiones en los ejes XYZ   
+
+# Senalizacion
+ 
 # Fases
 Fase reproductiva
 	Crecimiento determinado
