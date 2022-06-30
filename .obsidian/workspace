@@ -7,8 +7,13 @@
         "id": "a30ed297172ed12d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -76,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -103,6 +112,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Untitled.md",
     "Bioquimica 3/Untitled.md",
     "Bioquimica 3/transcripcion.md",
     "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
@@ -111,7 +121,6 @@
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Bioquimica 3/ribosomas.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
-    "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md",
-    "Biologia Vegetal/Crecimiento y desarrollo/desarrollo vegetativo.md"
+    "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md"
   ]
 }
