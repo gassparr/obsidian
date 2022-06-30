@@ -55,7 +55,12 @@ Divisiones en los ejes XYZ
   TIR1: Receptor intracelular de auxina
   Auxinas se unen a TIR1 el cual es parte de un complejo proteico, el cual contiene una proteina Aux/IAA las cuales estan unidas a factores de transcipcion los cuales inhiber la transcripcion. Cuando Auxina se une a TIR1 se poli ubiquitinisa, lo cual libera al factor de transcripcion, activando la misma.
   
-En el SAM estimula la iniciacion de organos lateras e inhibe el crecimiento de ramas laterales
+  En el SAM estimula la iniciacion de organos lateras e inhibe el crecimiento de ramas laterales (ya que inhiben las citokininas)
+  En el RAM. estimula el crecimiento de raices laterales y mantiene a las celulas madres
+  
+  Dominancia apical: Se corta el SAM, lo cual disminuye la sintesis de auxinas, estimulando el crecimiento de ramas laterales
+
+
 - citokininas
 - giberelinas
 - AC absicico
