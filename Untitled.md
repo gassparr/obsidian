@@ -51,9 +51,13 @@ giberelinas
 AC absicico 
 etileno
 Oxido nitrico
+ABA
+GA
+Hormona se une a proteina, la  cual genera una respuesta
 
 regulan etapas del ciclo de vida:
 Ciclo vegetativo, hay que verlo integralmente el accionar de estas
+
 
 # Control
 
