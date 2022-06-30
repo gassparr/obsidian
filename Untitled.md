@@ -3,6 +3,8 @@ Crecimiento
 
 Zigoto se fecunda y forma embrion
 
+# Embriogenesis
+doble fecundacion da zigoto, con subsiguiente division celular que respeta eje apical-basal y radial
 # Desarrollo post embrionico
 
 Diferenciacion reversible
@@ -26,14 +28,21 @@ Celulas totipotentes, las cuales pueden ser parte del crecimiento indeterminado
 **Meristema apical**
 
 **Meristema radicular**
-vasculares 
-laterales
+diferentes capas 
 
+
+Otros
+	*vasculares 
+	laterales
+	Intercalares*
 **Crecimiento Radial**
 Divisiones en los ejes XYZ   
 
 # Senalizacion
- 
+# Control 
+- Genetica
+- Estimulos 
+- Hormonas
 # Fases
 Fase reproductiva
 	Crecimiento determinado
