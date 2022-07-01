@@ -67,7 +67,7 @@ Divisiones en los ejes XYZ
 - etileno
 - Oxido nitrico
 - ABA
-- GABA
+- GA
 
 Hormona se une a proteina, la cual genera una respuesta
 
