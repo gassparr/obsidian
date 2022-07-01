@@ -62,7 +62,11 @@ Divisiones en los ejes XYZ
 
 
 - citokininas
-  Receptores 
+  Receptores AHK (histidine kinasa) tiene una autofosforilacion, formando AHK-P, le transfriere el fosfato al ARR (regulador de respuesta/ Response regulator) pagina 851. 
+  Promueven el destino de las celulas madres en el SAM
+  Promueve el crecimiento de  ramas laterales
+  Promueve la diferenciacion celular en el RAM
+  Inhibe crecimiento de raices laterales
   
 - giberelinas
 - AC absicico
@@ -70,6 +74,15 @@ Divisiones en los ejes XYZ
 - Oxido nitrico
 - ABA
 - GA
+
+**Crosstalk**
+2 vias no son independientes, puede ser sinergica o antagonica. Puede afectar:
+- Sintesis de la hormona
+- transporte de la hormona
+- vias de senalizacion de la otra hormona
+
+Citokininas actuan anto
+
 
 Hormona se une a proteina, la cual genera una respuesta
 
