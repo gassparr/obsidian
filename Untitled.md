@@ -66,7 +66,7 @@ Divisiones en los ejes XYZ
   Promueven el destino de las celulas madres en el SAM
   Promueve el crecimiento de  ramas laterales
   Promueve la diferenciacion celular en el RAM
-  Inhibe crecimiento de raices laterales
+  Inhibe crecimiento de raices laterales 
   
 - giberelinas
 - AC absicico
