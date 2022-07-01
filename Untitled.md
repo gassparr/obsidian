@@ -69,11 +69,15 @@ Divisiones en los ejes XYZ
   Inhibe crecimiento de raices laterales 
   
 - giberelinas
+  
 - AC absicico
 - etileno
 - Oxido nitrico
 - ABA
 - GA
+  Receptores intracelular, al unirse GA genera cambio conformacional en proteina DELLA ()
+- Estrigolactonas
+  Terpenoides, sintetizados en cloroplastos. Salen de la raiz hacia el suelo, donde promueven la germinacion de estrigas. Actua como auxina 
 
 **Crosstalk**
 2 vias no son independientes, puede ser sinergica o antagonica. Puede afectar:
@@ -82,6 +86,7 @@ Divisiones en los ejes XYZ
 - vias de senalizacion de la otra hormona
 
 Citokininas actuan antagonisticamente a las auxinas. En el RAM auxinas inhiben biosintesis de citokininas, las CK inhiben el transporte de las auxinas
+
 
 
 Hormona se une a proteina, la cual genera una respuesta
