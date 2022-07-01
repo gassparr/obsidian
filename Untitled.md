@@ -81,7 +81,7 @@ Divisiones en los ejes XYZ
 - transporte de la hormona
 - vias de senalizacion de la otra hormona
 
-Citokininas actuan anto
+Citokininas actuan antagonisticamente a las auxinas. En el RAM auxinas inhiben biosintesis de citokininas, las CK inhiben el transporte de las auxinas
 
 
 Hormona se une a proteina, la cual genera una respuesta
