@@ -1,4 +1,4 @@
-Reproduccion:
+# Reproduccion:
 
 - Sexual
 	  - Alogamia
@@ -14,5 +14,16 @@ Reproduccion:
 		   Conserva genotipos con geneticas favorables
 		   Etc.
 		   - Injertos
-		   - Desarollo de raices adventicias por hormonas 
+		   - Desarollo de raices adventicias por hormonas
 		   - Micropropagacion
+
+## Fases
+
+- Floracion
+  Depende de Fotoperiodo, Humedad, Temperatura, Hormonas (GA, Etileno)
+  Vernalizacion → exposicion prolongada a temperaturas bajas para florecer
+	  - Señalización → Falta de luz genera transcripcion de FT y traduccion de FR proteins, las cuales van por el floema hasta los meristemas florales donde actuan como factores de transcipcion para activar genes homeoticos florales
+
+- Polinizacion
+- Fertilizacion
+- Formacion del zigoto
