@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Bloque 2.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Bloque 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Bloque 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Bloque 2.md"
               }
             }
           }
@@ -114,7 +114,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Bloque 2.md",
+    "Bloque 1.md",
     "Bioquimica 3/Untitled.md",
     "Bioquimica 3/transcripcion.md",
     "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
@@ -122,7 +123,6 @@
     "Biologia/Procesos Biologicos/ribosoma.md",
     "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
     "Bioquimica 3/ribosomas.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
-    "Bioquimica 3/Herramientas de estudio/Union a filtros de nitrocelulosa.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md"
   ]
 }
