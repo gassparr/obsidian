@@ -68,14 +68,20 @@ Divisiones en los ejes XYZ
   Promueve la diferenciacion celular en el RAM
   Inhibe crecimiento de raices laterales 
   
-- giberelinas
-  
-- AC absicico
 - etileno
 - Oxido nitrico
-- ABA
-- GA
-  Receptores intracelular, al unirse GA genera cambio conformacional en proteina DELLA ()
+- Brasinoesteroides
+  Receptores se fosforilan, fosforilando proteinas las cuales aflojan las paredes promoviendo la elongacion,
+- ABA (acido absicico)
+  Aumentan ante el stress hidrico, cerrando los estomas disminuyendo la perdida de agua
+  
+- GA (giberelinas)
+  Receptores intracelular, al unirse GA genera cambio conformacional en proteina DELLA (Factores de transcripcion que bloquean transcipcion) y las proteolisa, haciendo que se active la transcripcion.
+  Intervienen durante todo el ciclo de vida. En el SAM promueven el crecimiento de los primordios.
+  En la germinacion son estimulates de amilasas, aumentando la energia disponible para la germinacion.
+  Regulacion 
+  
+  
 - Estrigolactonas
   Terpenoides, sintetizados en cloroplastos. Salen de la raiz hacia el suelo, donde promueven la germinacion de estrigas. Actua como auxina 
 
