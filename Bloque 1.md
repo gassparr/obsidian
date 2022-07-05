@@ -17,7 +17,13 @@ Se establecen las caracteristicas esenciales para la planta madura. En angiosper
 - **Procambium** da lugar al tejido vascular primario y cambium vascular
 
 **Polaridad** 
-La primera division sera aleatoria y asimetrica generando dos celulas, una apical y otra basal
+La primera division sera aleatoria y asimetrica generando dos celulas, una apical y otra basal.
+La parte apical se divide en 8 donde se generan los cotiledones y el SAM.
+En la parte Basal, se divide en 6 de forma horizontal dando origen al suspensor y la hipofisis.
+
+1. Region apical → Cotiledones y SAM
+2. Region media → Hipocotilo, raiz y Meristremo radical
+3. Hipofisis → RAM
 
 # Desarrollo post embrionico
 
