@@ -11,6 +11,13 @@ Embriogenesis a partir de de saco embrionario y estructuras asociadas las cuales
 
 Se establecen las caracteristicas esenciales para la planta madura. En angiospermas se forma el cuerpo rudimentario el cual consta de un **Eje embrionario y Cotiledon/es** 
 
+**Tambien se establecen los meristemos primarios** los cuales son activos tras la germinacion. En estos se encuentran:
+- **Protodermis** el cual se genera la epidermis 
+- **Meristemo fundamental** el cual produce al cortex y endodermis
+- **Procambium** da lugar al tejido vascular primario y cambium vascular
+
+**Polaridad** 
+La primera division sera aleatoria y asimetrica generando dos celulas, una apical y otra basal
 
 # Desarrollo post embrionico
 
