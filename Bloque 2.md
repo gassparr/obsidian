@@ -43,3 +43,4 @@ Requiere de ABA y proteinas especificas protectoras que le confieren tolerancia 
 **Ovario**: pasa a ser el fruto
 **Herencia de plastidos** → No respeta mendel
 **Fruto** → estructura, fases de formacion, maduracion 
+

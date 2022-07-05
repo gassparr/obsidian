@@ -17,5 +17,6 @@
   ],
   "spellcheck": true,
   "communityPluginSortOrder": "release",
-  "communityThemeSortOrder": "release"
+  "communityThemeSortOrder": "release",
+  "useMarkdownLinks": true
 }

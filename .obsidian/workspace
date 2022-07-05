@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bioquimica 3/Splicing.md",
+            "file": "Bloque 2.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/Splicing.md",
+                "file": "Bloque 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/Splicing.md",
+                "file": "Bloque 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/Splicing.md"
+                "file": "Bloque 2.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bloque 2.md",
+    "Bloque 1.md",
+    "Bioquimica 3/epigenetica.md",
+    "Bioquimica 3/transcripcion.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
+    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "Bioquimica 3/Splicing.md",
     "Bioquimica 3/Genetica.md",
-    "Bioquimica 3/epigenetica.md",
-    "Bloque 1.md",
-    "Bloque 2.md",
     "Bioquimica 3/Untitled.md",
-    "Bioquimica 3/transcripcion.md",
-    "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
-    "Bioquimica 3/traduccion.md",
-    "Biologia/Procesos Biologicos/ribosoma.md"
+    "Bioquimica 3/Herramientas de estudio/Primer Extension.md"
   ]
 }
