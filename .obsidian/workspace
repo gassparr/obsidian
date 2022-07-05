@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bloque 1.md",
+            "file": "Bioquimica 3/Splicing.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bloque 1.md",
+                "file": "Bioquimica 3/Splicing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloque 1.md",
+                "file": "Bioquimica 3/Splicing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bloque 1.md"
+                "file": "Bioquimica 3/Splicing.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 3/Splicing.md",
+    "Bioquimica 3/Genetica.md",
+    "Bioquimica 3/epigenetica.md",
     "Bloque 1.md",
     "Bloque 2.md",
     "Bioquimica 3/Untitled.md",
     "Bioquimica 3/transcripcion.md",
     "Bioquimica 3/Herramientas de estudio/Primer Extension.md",
     "Bioquimica 3/traduccion.md",
-    "Biologia/Procesos Biologicos/ribosoma.md",
-    "Biologia/Procesos Biologicos/Sintesis de proteinas.md",
-    "Bioquimica 3/ribosomas.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md"
+    "Biologia/Procesos Biologicos/ribosoma.md"
   ]
 }
