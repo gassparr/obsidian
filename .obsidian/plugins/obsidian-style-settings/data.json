@@ -225,5 +225,6 @@
   "obsidian-prism-theme@@h6-text-color-dt": "var(--color-aqua-text)",
   "obsidian-prism-theme@@pt-icon-folder-accent": true,
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
-  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt"
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
+  "things-style@@cursor": "default"
 }
