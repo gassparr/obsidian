@@ -19,7 +19,7 @@ Phone: **+54 9 221 305-4186**
 **Sales and Public Relations**
 “*2020-2022*”
 
-- Responsible meeting with clients and prospective new ones
+- Responsible of meeting with clients and prospective new ones
 - Collaborated with sales associates to expand the KpK services network
 - Set up, meetings and dates for technical services
 
@@ -46,4 +46,5 @@ Spanish: Mother tongue
 La Plata, Argentina
 **Biotechnology**
 "*2018-In Progress*"
+Advanced student
 Specialization: Molecular Biology

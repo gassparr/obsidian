@@ -1,7 +1,7 @@
 {
   "baseFontSize": 12,
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "",
   "translucency": false,
   "enabledCssSnippets": [
     "Auto dark images"
