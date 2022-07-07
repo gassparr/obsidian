@@ -45,7 +45,7 @@ Complejo formado por la Hoja, Entre nudo y yema axilar
 
 Cambio en la forma para adaptarse al ambiente, para mejorar captacion de luz
 
-# Meristema
+# Meristema (96-108)
 
 Celulas totipotentes, las cuales pueden ser parte del crecimiento indeterminado
 **Meristema apical**
