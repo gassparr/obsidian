@@ -1,7 +1,7 @@
 {
   "baseFontSize": 12,
   "theme": "moonstone",
-  "cssTheme": "",
+  "cssTheme": "Things",
   "translucency": false,
   "enabledCssSnippets": [
     "Auto dark images"
