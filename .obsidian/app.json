@@ -18,7 +18,7 @@
   "spellcheck": true,
   "communityPluginSortOrder": "release",
   "communityThemeSortOrder": "release",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "pdfExportSettings": {
     "pageSize": "Legal",
     "landscape": false,
