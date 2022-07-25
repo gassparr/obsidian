@@ -18,3 +18,4 @@ Para un proceso de movimiento para una sustancia (en este caso interior → exte
 du(i→e) =  R * T * ln(Ce/Ci) - z * F * (Ei-Ee)
 
 Vm = Ei - Ee
+
