@@ -15,4 +15,6 @@ u = u0 + R * T * ln(C) + z * F * E
 
 Para un proceso de movimiento para una sustancia (en este caso interior → exterior):
 
-du(i→e) =  R * T * ln(Ce/Ci) + z * F * (Ee-Ei)
+du(i→e) =  R * T * ln(Ce/Ci) - z * F * (Ei-Ee)
+
+Vm = Ei - Ee
