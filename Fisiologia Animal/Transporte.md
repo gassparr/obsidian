@@ -19,3 +19,7 @@ du(i→e) =  R * T * ln(Ce/Ci) - z * F * (Ei-Ee)
 
 Vm = Ei - Ee
 
+si du = 0 
+
+Vm = (R . T/z . F) . ln (Ce/Ci)
+
