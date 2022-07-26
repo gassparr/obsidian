@@ -23,3 +23,14 @@ si du = 0
 
 Vm = (R . T/z . F) . ln (Ce/Ci)
 
+# Osmosis
+
+pi = presion osmotica
+
+pi = R . T . o . i . C
+
+R = Cte. gases ideales
+T = Temperatura K
+C = Concentracion molar del soluto
+i = Numero de iones por disociacion del soluto
+o = Coeficiente osmotico (Vale cerca de 1 )
