@@ -1,7 +1,7 @@
 
-Denominado **Vm** 
+Denominado **Vm**
 
-i = V / R 
+i = V / R
 
 i = Corriente (A)
 R = Resistencia (Ohm)

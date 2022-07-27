@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisiologia Animal/Potencial de membrana.md",
+            "file": "Fisiologia Animal/Variaciones del potencial de membrana.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisiologia Animal/Potencial de membrana.md",
+                "file": "Fisiologia Animal/Variaciones del potencial de membrana.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisiologia Animal/Potencial de membrana.md",
+                "file": "Fisiologia Animal/Variaciones del potencial de membrana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisiologia Animal/Potencial de membrana.md"
+                "file": "Fisiologia Animal/Variaciones del potencial de membrana.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Fisiologia Animal/Potencial de membrana.md",
+    "Fisiologia Animal/Senalizacion.md",
     "Fisiologia Animal/Transporte.md",
+    "Fisiologia Animal/Variaciones del potencial de membrana.md",
     "Bloque 1.md",
     "Personal/CV.md",
     "semilla.md",
     "Personal/CV 1.md",
     "Personal/blank-line.md",
-    "Bloque 2.md",
-    "Bioquimica 3/epigenetica.md",
-    "Bioquimica 3/transcripcion.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md"
+    "Bloque 2.md"
   ]
 }
