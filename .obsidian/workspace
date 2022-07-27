@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisiologia Animal/Transporte.md",
+            "file": "Fisiologia Animal/Potencial de membrana.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisiologia Animal/Transporte.md",
+                "file": "Fisiologia Animal/Potencial de membrana.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisiologia Animal/Transporte.md",
+                "file": "Fisiologia Animal/Potencial de membrana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisiologia Animal/Transporte.md"
+                "file": "Fisiologia Animal/Potencial de membrana.md"
               }
             }
           }
@@ -113,8 +113,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Bloque 1.md",
     "Fisiologia Animal/Transporte.md",
+    "Bloque 1.md",
     "Personal/CV.md",
     "semilla.md",
     "Personal/CV 1.md",
