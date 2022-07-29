@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisiologia Animal/Sistema Nervioso.md",
+            "file": "Fisiologia Animal/Fisiologia animal/Transporte.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisiologia Animal/Sistema Nervioso.md",
+                "file": "Fisiologia Animal/Fisiologia animal/Transporte.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisiologia Animal/Sistema Nervioso.md",
+                "file": "Fisiologia Animal/Fisiologia animal/Transporte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisiologia Animal/Sistema Nervioso.md"
+                "file": "Fisiologia Animal/Fisiologia animal/Transporte.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Fisiologia Animal/Fisiologia animal/Variaciones del potencial de membrana.md",
-    "Fisiologia Animal/Fisiologia animal/Transporte.md",
-    "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
     "Fisiologia Animal/Fisiologia animal/Potencial de membrana.md",
+    "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
+    "Fisiologia Animal/Fisiologia animal/Variaciones del potencial de membrana.md",
+    "Fisiologia Animal/Sistema Nervioso.md",
+    "Fisiologia Animal/Fisiologia animal/Transporte.md",
     "Bloque 1.md",
     "Personal/CV.md",
     "semilla.md",
     "Personal/CV 1.md",
-    "Personal/blank-line.md",
-    "Bloque 2.md"
+    "Personal/blank-line.md"
   ]
 }
