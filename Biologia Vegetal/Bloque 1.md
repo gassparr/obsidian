@@ -7,7 +7,7 @@ Zigoto se fecunda y forma embrion
 
 Doble fecundacion exclusiva para angiospermas, despues de formacion de zigoto se fecunda de nuevo a partir de otra celula espermatica la cual se une a dos nucleos. El producto se denomina endospermo 
 
-Embriogenesis a partir de de saco embrionario y estructuras asociadas las cuales dan lugar a la [semilla](semilla) 
+Embriogenesis a partir de de saco embrionario y estructuras asociadas las cuales dan lugar a la [semilla](semilla.md) 
 
 Se establecen las caracteristicas esenciales para la planta madura. En angiospermas se forma el cuerpo rudimentario el cual consta de un **Eje embrionario y Cotiledon/es** 
 
