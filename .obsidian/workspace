@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Schedule.md",
+            "file": "Personal/CV.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Schedule.md",
+                "file": "Personal/CV.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Schedule.md",
+                "file": "Personal/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Schedule.md"
+                "file": "Personal/CV.md"
               }
             }
           }
@@ -113,6 +113,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Personal/Schedule.md",
     "Personal/CV.md",
     "Biologia Vegetal/Bloque 1.md",
     "Biologia Vegetal/Bloque 2.md",
@@ -121,7 +122,6 @@
     "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
     "Fisiologia Animal/Fisiologia animal/Potencial de membrana.md",
     "Fisiologia Animal/Fisiologia animal/Variaciones del potencial de membrana.md",
-    "Biologia Vegetal/semilla.md",
-    "Personal/CV 1.md"
+    "Biologia Vegetal/semilla.md"
   ]
 }

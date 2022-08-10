@@ -44,7 +44,10 @@ Spanish: Mother tongue
 ### Universidad Nacional de La Plata
 
 La Plata, Argentina
-**Biotechnology**
+**Biotechnology and Molecular Biology**
 "*2018-In Progress*"
 Advanced student
 Specialization: Molecular Biology
+
+**Tecnical degree in Chemistry**
+“*2018-2021*”
