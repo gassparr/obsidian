@@ -27,9 +27,7 @@ Phone: **+54 9 221 305-4186**
 
 **Technical**
 
-- Excel
-- Microsoft Access
-- GNU/linux
+- Knowledge of Linux enviroments
 - Linked-in
 - Office Suite
 - Use of laboratory equipment
@@ -49,5 +47,5 @@ La Plata, Argentina
 Advanced student
 Specialization: Molecular Biology
 
-**Tecnical degree in Chemistry**
+**Technical degree in Chemistry**
 “*2018-2021*”
