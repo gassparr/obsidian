@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/CV.md",
+            "file": "Bioquimica 3/epigenetica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CV.md",
+                "file": "Bioquimica 3/Genetica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CV.md",
+                "file": "Bioquimica 3/Genetica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CV.md"
+                "file": "Bioquimica 3/Genetica.md"
               }
             }
           }
@@ -111,17 +111,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "a30ed297172ed12d",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
-    "Personal/Schedule.md",
+    "Bioquimica 3/DNA binding domain.md",
+    "Bioquimica 2/Sustratos y Productos/ATP.md",
+    "Bioquimica 2/Sustratos y Productos/AcCoA.md",
     "Personal/CV.md",
+    "Personal/Schedule.md",
     "Biologia Vegetal/Bloque 1.md",
     "Biologia Vegetal/Bloque 2.md",
     "Fisiologia Animal/Sistema Nervioso.md",
     "Fisiologia Animal/Fisiologia animal/Transporte.md",
-    "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
-    "Fisiologia Animal/Fisiologia animal/Potencial de membrana.md",
-    "Fisiologia Animal/Fisiologia animal/Variaciones del potencial de membrana.md",
-    "Biologia Vegetal/semilla.md"
+    "Fisiologia Animal/Fisiologia animal/Senalizacion.md"
   ]
 }
