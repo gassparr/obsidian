@@ -16,10 +16,10 @@ Phone: **+54 9 221 305-4186**
 ### KpK Works
 
 *Neuquen*
-**Sales and Public Relations**
+**Consultant**
 “*2020-2022*”
 
-- Responsible of meeting with clients and prospective new ones
+- Responsible training personnel 
 - Collaborated with sales associates to expand the KpK services network
 - Set up, meetings and dates for technical services
 
@@ -28,7 +28,6 @@ Phone: **+54 9 221 305-4186**
 **Technical**
 
 - Knowledge of Linux enviroments
-- Linked-in
 - Office Suite
 - Use of laboratory equipment
 - Driving on B1 license

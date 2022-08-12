@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Schedule.md",
+            "file": "Personal/CV.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Schedule.md",
+                "file": "Personal/CV.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Schedule.md",
+                "file": "Personal/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Schedule.md"
+                "file": "Personal/CV.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Fenomenos de Transporte/Introduccion.md",
+    "Personal/Schedule.md",
     "Bioquimica 3/epigenetica.md",
     "Bioquimica 3/Genetica.md",
     "Bioquimica 3/DNA binding domain.md",
     "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Bioquimica 2/Sustratos y Productos/AcCoA.md",
     "Personal/CV.md",
-    "Personal/Schedule.md",
     "Biologia Vegetal/Bloque 1.md",
-    "Biologia Vegetal/Bloque 2.md",
-    "Fisiologia Animal/Sistema Nervioso.md"
+    "Biologia Vegetal/Bloque 2.md"
   ]
 }
