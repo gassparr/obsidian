@@ -21,7 +21,8 @@ Phone: **+54 9 221 305-4186**
 
 - Responsible training personnel 
 - Collaborated with sales associates to expand the KpK services network
-- Set up, meetings and dates for technical services
+- Protocol set up for technical services
+- Consult on correct chemical use and procedure
 
 ## Skills
 

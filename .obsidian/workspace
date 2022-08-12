@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/CV.md",
+            "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CV.md",
+                "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CV.md",
+                "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CV.md"
+                "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Fenomenos de Transporte/Introduccion.md",
+    "Fenomenos de Transporte/Clase 1 Introduccion.md",
+    "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
+    "Personal/CV.md",
     "Personal/Schedule.md",
     "Bioquimica 3/epigenetica.md",
     "Bioquimica 3/Genetica.md",
     "Bioquimica 3/DNA binding domain.md",
     "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Bioquimica 2/Sustratos y Productos/AcCoA.md",
-    "Personal/CV.md",
-    "Biologia Vegetal/Bloque 1.md",
-    "Biologia Vegetal/Bloque 2.md"
+    "Biologia Vegetal/Bloque 1.md"
   ]
 }
