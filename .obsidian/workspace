@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/Genetica.md",
+                "file": "Bioquimica 3/epigenetica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/Genetica.md",
+                "file": "Bioquimica 3/epigenetica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/Genetica.md"
+                "file": "Bioquimica 3/epigenetica.md"
               }
             }
           }
@@ -111,8 +111,9 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "64a0432d31a19d2e",
+  "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Bioquimica 3/Genetica.md",
     "Bioquimica 3/DNA binding domain.md",
     "Bioquimica 2/Sustratos y Productos/ATP.md",
     "Bioquimica 2/Sustratos y Productos/AcCoA.md",
@@ -121,7 +122,6 @@
     "Biologia Vegetal/Bloque 1.md",
     "Biologia Vegetal/Bloque 2.md",
     "Fisiologia Animal/Sistema Nervioso.md",
-    "Fisiologia Animal/Fisiologia animal/Transporte.md",
-    "Fisiologia Animal/Fisiologia animal/Senalizacion.md"
+    "Fisiologia Animal/Fisiologia animal/Transporte.md"
   ]
 }
