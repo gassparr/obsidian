@@ -10,3 +10,7 @@ t existe cuando existe gradiente de velocidad en el fluido
 
 F = -p . A
 
+(Fx / Ay) = u . ((0 - Vx)/(Y - 0))
+
+((0 - Vx)/(Y - 0)) → Gradiente de velocidad
+(Fx / Ay) → Tensor de esfuerzo viscoso
