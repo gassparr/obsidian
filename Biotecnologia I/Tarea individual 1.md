@@ -21,6 +21,18 @@ Para la fase estacionaria si a un cultivo batch le sobra su fuente de carbono, e
 
 **c- ¿Cuáles serían los reactivos y los productos de la ecuación de crecimiento microbiano?**
 
+Los reactivos de la ecuacion de crecimiento microbiano seran:
+
+- Fuente de carbono 
+- Fuente de Energia
+- Fuente de Nitrogeno
+- Fuente de Oxigeno (depende del metabolismo)
+
+Los productos seran:
+
+- Dioxido de Carbono
+- Agua
+- Energia (calor)
 
 
 **2-** Resolvé el problema 1 y los puntos b y c del problema 2 del Seminario de problemas adjunto.
