@@ -7,8 +7,8 @@ El crecimiento microbiano esta descripto por 3 fases:
 - Fase exponencial
 - Fase estacionaria
 
-Para cada una de estas fases, se puede plantear una ecuacion quimica  donde los 3 componentes principales seran las fuente de, Carbono, Energia y oxigeno donde depende la fase, los balances de materia y energia seran distintos. Por ej:
-Para la fase estacionaria si a un cultivo batch le sobra su fuente de carbono y energia, el reactivo limitante sera el O2, ya que no puede difundir al medio
+Para cada una de estas fases, se puede plantear una ecuacion quimica donde los 3 componentes principales seran las fuente de, Carbono, Energia, Nitrogeno y oxigeno donde depende la fase, los balances de materia y energia seran distintos. Por ej:
+Para la fase estacionaria si a un cultivo batch le sobra su fuente de carbono, energia y nitrogeno, el reactivo limitante sera el O2 ya que no puede difundir al medio.
 
 
 **b- Buscá las definiciones de C-mol y grado de reducción. ¿A qué definiciones que conocés se parecen?** 
@@ -19,11 +19,12 @@ Para la fase estacionaria si a un cultivo batch le sobra su fuente de carbono y 
 
 
 
-c- ¿Cuáles serían los reactivos y los productos de la ecuación de crecimiento microbiano?
+**c- ¿Cuáles serían los reactivos y los productos de la ecuación de crecimiento microbiano?**
+
+
 
 **2-** Resolvé el problema 1 y los puntos b y c del problema 2 del Seminario de problemas adjunto.
-
-**Algunas cosas que te pueden ayudar:**  
+**Algunas cosas que te pueden ayudar:**
 
  a-Recordá cómo hacías el cálculo de fórmula mínima de un compuesto que te va a ser útil para el cálculo de la fórmula del C-mol de biomasa. Cuando escribas las reacciones de oxidación para calcular el grado de reducción de algún compuesto no te olvides de escribir todos los compuestos en C-mol y utilizá los balances de C, H, O y N para hallar los coeficientes estequiométricos.
 
