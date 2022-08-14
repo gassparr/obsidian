@@ -1,4 +1,4 @@
-**1-** Recordá los conceptos de [estequiometria](https://educacion.quimica.unlp.edu.ar/mod/resource/view.php?id=104824 "EStequiometria") de una reacción, ecuación química, reactivos y productos, coeficientes estequiométricos, balances de materia y energía, reacciones de oxido-reducción, reactivo limitante. Intentemos conectar estos conceptos conocidos con el crecimiento microbiano. 
+**1- Recordá los conceptos de estequiometria de una reacción, ecuación química, reactivos y productos, coeficientes estequiométricos, balances de materia y energía, reacciones de oxido-reducción, reactivo limitante. Intentemos conectar estos conceptos conocidos con el crecimiento microbiano. **
 
 a- **Escribí un párrafo utilizando dichos términos (todos o algunos) aplicados al crecimiento microbiano. 
 
@@ -36,14 +36,5 @@ Los productos seran:
 
 
 **2 Resolvé el problema 1 y los puntos b y c del problema 2 del Seminario de problemas adjunto.**
-Algunas cosas que te pueden ayudar:
-
- a-Recordá cómo hacías el cálculo de fórmula mínima de un compuesto que te va a ser útil para el cálculo de la fórmula del C-mol de biomasa. Cuando escribas las reacciones de oxidación para calcular el grado de reducción de algún compuesto no te olvides de escribir todos los compuestos en C-mol y utilizá los balances de C, H, O y N para hallar los coeficientes estequiométricos.
-
-b-Para el cálculo del grado de reducción, en el problema 2 están definidas las referencias, pero para los problemas que siguen las tenés que elegir siempre antes de calcularlo.
-
-c-Acordate de balancear las ecuaciones antes de plantear los balances de carbono y energía. No te olvides de expresar los coeficientes en C-moles/C-mol de FCE o moles (para el oxígeno por ejemplo)/C-mol de FCE) antes de usarlos en los balances!
-
-d-Fijate que cuando planteas el balance de grado de reducción para la ecuación de crecimiento microbiano, se simplifica mucho el cálculo al tomar como referencias compuestos como el CO2 y el H2O porque como tienen γ igual a cero por ser referencias no aparecen en el balance.
-
- Veremos que es posible expresar cuantitativamente el crecimiento de un microorganismo de una manera simple a través de una única ecuación química. Usando el modelo de caja negra y haciendo ciertas consideraciones, como por ejemplo la de biomasa estándar, esperamos acercarlos a interpretar el crecimiento de los microorganismos de una manera sencilla y de utilidad.
+![](https://i.imgur.com/VTbYTD3.png)
+![](https://i.imgur.com/UF70kbm.png)
