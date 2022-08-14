@@ -34,5 +34,11 @@ n = n (dVx/dy)
 **Comportamientos distintos al newtoniano**
 
 - Fluidos pseudoplasticos: n disminuye al aumentar el gradiente de v
-- Fluidos dilatantes: n aumenta al aumentar el gradiente de v 
-- plasticos de Bingham: para que sistema comience a fluir, debe superar un valor 
+- Fluidos dilatantes: n aumenta al aumentar el gradiente de v
+- plasticos de Bingham: para que sistema comience a fluir, debe superar un valor
+
+# Teoria de la viscosidad en gases a baja presion
+- para calculo de transferencia de cantidad de movimiento en fluido deformado, se necesita conocer la *viscosidad*
+
+![](https://i.imgur.com/jVu84Lt.png)
+
