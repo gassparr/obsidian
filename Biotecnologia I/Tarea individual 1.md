@@ -35,8 +35,8 @@ Los productos seran:
 - Energia (calor)
 
 
-**2-** Resolvé el problema 1 y los puntos b y c del problema 2 del Seminario de problemas adjunto.
-**Algunas cosas que te pueden ayudar:**
+**2 Resolvé el problema 1 y los puntos b y c del problema 2 del Seminario de problemas adjunto.**
+Algunas cosas que te pueden ayudar:
 
  a-Recordá cómo hacías el cálculo de fórmula mínima de un compuesto que te va a ser útil para el cálculo de la fórmula del C-mol de biomasa. Cuando escribas las reacciones de oxidación para calcular el grado de reducción de algún compuesto no te olvides de escribir todos los compuestos en C-mol y utilizá los balances de C, H, O y N para hallar los coeficientes estequiométricos.
 
