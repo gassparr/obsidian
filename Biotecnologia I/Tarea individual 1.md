@@ -7,8 +7,17 @@ El crecimiento microbiano esta descripto por 3 fases:
 - Fase exponencial
 - Fase estacionaria
 
-Para cada una de estas fases,
-b- Buscá las definiciones de C-mol y grado de reducción. ¿A qué definiciones que conocés se parecen? 
+Para cada una de estas fases, se puede plantear una ecuacion quimica  donde los 3 componentes principales seran las fuente de, Carbono, Energia y oxigeno donde depende la fase, los balances de materia y energia seran distintos. Por ej:
+Para la fase estacionaria si a un cultivo batch le sobra su fuente de carbono y energia, el reactivo limitante sera el O2, ya que no puede difundir al medio
+
+
+**b- Buscá las definiciones de C-mol y grado de reducción. ¿A qué definiciones que conocés se parecen?** 
+
+- C-mol o Carbono mol: es la cantidad de cualquier compuesto carbonado que contiene un atomogramo de carbono
+- Grado de reduccion: Cantidad de electrones transferidos al O2 cuando se quema un Cmol de cualquier sustancia a CO2, H2O y alguna forma nitrogenada
+
+
+
 
 c- ¿Cuáles serían los reactivos y los productos de la ecuación de crecimiento microbiano?
 
