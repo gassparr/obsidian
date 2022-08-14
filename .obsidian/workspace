@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
+            "file": "Biotecnologia I/Tarea individual 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cr",
+                "query": "crecimiento micro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
+                "file": "Biotecnologia I/Tarea individual 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
+                "file": "Biotecnologia I/Tarea individual 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fenomenos de Transporte/Clase 2 Conveccion forzada.md"
+                "file": "Biotecnologia I/Tarea individual 1.md"
               }
             }
           }
@@ -112,17 +111,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "f234cb288c04cfaf",
+  "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Fenomenos de Transporte/Clase 1 Introduccion.md",
+    "Biologia/Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
+    "Fenomenos de Transporte/Clase 1 Introduccion.md",
     "Personal/CV.md",
     "Personal/Schedule.md",
     "Bioquimica 3/epigenetica.md",
     "Bioquimica 3/Genetica.md",
     "Bioquimica 3/DNA binding domain.md",
     "Bioquimica 2/Sustratos y Productos/ATP.md",
-    "Bioquimica 2/Sustratos y Productos/AcCoA.md",
-    "Biologia Vegetal/Bloque 1.md"
+    "Bioquimica 2/Sustratos y Productos/AcCoA.md"
   ]
 }
