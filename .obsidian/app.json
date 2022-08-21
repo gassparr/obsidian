@@ -15,7 +15,7 @@
     "en-US",
     "es-AR"
   ],
-  "spellcheck": true,
+  "spellcheck": false,
   "communityPluginSortOrder": "release",
   "communityThemeSortOrder": "release",
   "useMarkdownLinks": false,
