@@ -5,7 +5,7 @@ Estas comunmente tienen 2 actividades enzimaticas:
 
 # Tipos
 
-- Tipo 1
+- **Tipo 1**
 	- Actividad enzimatica:
 	  Endonucleasa, Metiltransferasa, ATPasa
 	- Cofactores para Clivaje del DNA:
@@ -18,6 +18,8 @@ Estas comunmente tienen 2 actividades enzimaticas:
 	  Locacion variable de 1000bp desde el sitio
 	- Translocacion del DNA:
 	   SI
+
+Contienen 2 subunidades (R) Endonucleasa, 1 de especificidad (S) y 2 (M) metiltransferasa
 
 - Tipo 2
 	- Actividad enzimatica:

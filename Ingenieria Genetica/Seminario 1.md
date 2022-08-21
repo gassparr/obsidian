@@ -1,3 +1,4 @@
+k r positivo m positivo
 
 Problema 2
 
