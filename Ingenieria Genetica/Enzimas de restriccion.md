@@ -1,7 +1,7 @@
 Parte del sistema de restriccion-modificacion de las bacterias que funcionan como el sistema inmune de las mismas. Estas atacan al DNA foraneo que ingresa.
 Estas comunmente tienen 2 actividades enzimaticas:
 - Endonucleasa de restriccion: reconoce secuencias de DNA para el clivaje
-- Metiltransferasa: Confiere proteccion contra el clivaje, metilando la adenina (A) o citosina (C)
+- Metiltransferasa: Confiere proteccion contra el clivaje, metilando la adenina (A) o citosina (C). 
 
 # Tipos
 
@@ -11,7 +11,7 @@ Estas comunmente tienen 2 actividades enzimaticas:
 	- Cofactores para Clivaje del DNA:
 	  ATP, SAM, Mg
 	- Cofactores para la metilacion:
-	   SAM
+	   SAM (s adenosil-metionina)
 	- Secuencia de reconocimiento:
 	   Asimetrica y bipartita
 	- Sitio de clivaje:
@@ -19,7 +19,13 @@ Estas comunmente tienen 2 actividades enzimaticas:
 	- Translocacion del DNA:
 	   SI
 
-Contienen 2 subunidades (R) Endonucleasa, 1 de especificidad (S) y 2 (M) metiltransferasa
+Contienen 2 subunidades (R) Endonucleasa, 1 de especificidad (S) y 2 (M) metiltransferasa.
+Segun el estado de Metilacion actuan como Endonucleasa o metiltransferasa:
+- DNA no metilado → Endonucleasa
+- DNA hemi metilado → Metiltransferasa
+- DNA metilado → nada
+
+
 
 - Tipo 2
 	- Actividad enzimatica:
