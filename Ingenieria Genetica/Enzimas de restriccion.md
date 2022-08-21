@@ -1,0 +1,3 @@
+- Tipo 1:  
+  - Tres subunidades: R, M, S
+  - Actividad enzimatica 
