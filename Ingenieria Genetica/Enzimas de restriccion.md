@@ -1,38 +1,57 @@
-Tipo 1
-- Actividad enzimatica: 
-  Endonucleasa, Metiltransferasa, ATPasa
-- Cofactores para Clivaje del DNA: 
-  ATP, SAM, Mg
-- Cofactores para la metilacion:
-   SAM
-- Secuencia de reconocimiento:
-   Asimetrica y bipartita
-- Sitio de clivaje: 
-  Locacion variable de 1000bp desde el sitio
-- Translocacion del DNA:
-   SI
+# Tipos
 
-Tipo 2
-- Actividad enzimatica:
-  Endonucleasa, Metil
-- Cofactores para Clivaje del DNA:
-- Cofactores para la metilacion:
-- Secuencia de reconocimiento:
-- Sitio de clivaje:
-- Translocacion del DNA:
+- Tipo 1
+	- Actividad enzimatica:
+	  Endonucleasa, Metiltransferasa, ATPasa
+	- Cofactores para Clivaje del DNA:
+	  ATP, SAM, Mg
+	- Cofactores para la metilacion:
+	   SAM
+	- Secuencia de reconocimiento:
+	   Asimetrica y bipartita
+	- Sitio de clivaje:
+	  Locacion variable de 1000bp desde el sitio
+	- Translocacion del DNA:
+	   SI
 
-Tipo 3
-- Actividad enzimatica
-- Cofactores para Clivaje del DNA
-- Cofactores para la metilacion
-- Secuencia de reconocimiento
-- Sitio de clivaje
-- Translocacion del DNA
+- Tipo 2
+	- Actividad enzimatica:
+	  Endonucleasa, Metiltransferasa
+	- Cofactores para Clivaje del DNA:
+	  Mg
+	- Cofactores para la metilacion:
+	  SAM
+	- Secuencia de reconocimiento:
+	   Mayormente simetrica
+	- Sitio de clivaje:
+	  Locacion fija en o cerca del sitio
+	- Translocacion del DNA:
+	  No
 
-Tipo 4
-- Actividad enzimatica
-- Cofactores para Clivaje del DNA
-- Cofactores para la metilacion
-- Secuencia de reconocimiento
-- Sitio de clivaje
-- Translocacion del DNA
+- Tipo 3
+	- Actividad enzimatica:
+	  Endonucleasa, Metiltransferasa, ATPasa
+	- Cofactores para Clivaje del DNA:
+	  ATP, Mg, SAM
+	- Cofactores para la metilacion:
+	  SAM
+	- Secuencia de reconocimiento:
+	  Asimetrico
+	- Sitio de clivaje:
+	  Locacion fija a +- 20 bp del sitio
+	- Translocacion del DNA:
+	  Si
+
+- Tipo 4
+	- Actividad enzimatica:
+	  Endonucleasa, GTPasa
+	- Cofactores para Clivaje del DNA:
+	  GTP, Mg
+	- Cofactores para la metilacion:
+	  No Metila
+	- Secuencia de reconocimiento:
+	  Bipartita y metilada
+	- Sitio de clivaje:
+	  En bases metiladas de multiples sitios
+	- Translocacion del DNA:
+	  Si
