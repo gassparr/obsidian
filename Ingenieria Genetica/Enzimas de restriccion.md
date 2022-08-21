@@ -1,3 +1,7 @@
+Parte del sistema de restriccion-modificacion de las bacterias que funcionan como el sistema inmune de las mismas. Estas atacan al DNA foraneo que ingresa.
+Estas comunmente tienen 2 actividades enzimaticas:
+- Endonucleasa de restriccion: reconoce secuencias de DNA para el clivaje
+- Metiltransferasa: Confiere proteccion contra el clivaje, metilando la adenina (A) o citosina (C) 
 # Tipos
 
 - Tipo 1
