@@ -1,9 +1,11 @@
+
+# Enzimas de restriccion
 Parte del sistema de restriccion-modificacion de las bacterias que funcionan como el sistema inmune de las mismas. Estas atacan al DNA foraneo que ingresa.
 Estas comunmente tienen 2 actividades enzimaticas:
 - Endonucleasa de restriccion: reconoce secuencias de DNA para el clivaje
 - Metiltransferasa: Confiere proteccion contra el clivaje, metilando la adenina (A) o citosina (C). 
 
-# Tipos
+## Tipos
 
 - **Tipo 1**
 	- Actividad enzimatica:
@@ -68,3 +70,9 @@ Segun el estado de Metilacion actuan como Endonucleasa o metiltransferasa:
 	  En bases metiladas de multiples sitios
 	- Translocacion del DNA:
 	  Si
+
+Actuan sobre DNA metilado
+
+# Anti Restriccion
+**Modificacion de secuencia de DNA**
+El fago o plasmido remueven secuencias de reconocimiento de su genoma, ya se de forma total o parcial, ya que algunas ER necesitan de al menos 2 sitios de reconocimiento para actuar.
