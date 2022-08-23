@@ -1,6 +1,6 @@
 **1- Recordá los conceptos de estequiometria de una reacción, ecuación química, reactivos y productos, coeficientes estequiométricos, balances de materia y energía, reacciones de oxido-reducción, reactivo limitante. Intentemos conectar estos conceptos conocidos con el crecimiento microbiano. **
 
-a- **Escribí un párrafo utilizando dichos términos (todos o algunos) aplicados al crecimiento microbiano. 
+**a- Escribí un párrafo utilizando dichos términos (todos o algunos) aplicados al crecimiento microbiano.**
 
 El crecimiento microbiano esta descripto por 3 fases:
 - Fase latencia
