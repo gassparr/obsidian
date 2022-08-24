@@ -17,3 +17,8 @@ Las 3 DNA Pol tienen actividad 5’→3’ Polimerasa y 3’→5’ exonucleasa 
 - actividad 5’→3’ polymerasa en la presencia de dNTPs
 
 Como no excibe actividad 5’→3’ exonucleasa, se puede utilizar en vez de Klenow para llenar los extremos 5’ protuyentes 
+
+**T7 DNA polimerasa**:
+Herramienta ideal para secuenciar DNA, ya que permite la polimerizacion de miles de nucleotidos sin desprenderse (procesividad muy alta)
+- Preparacion de marcadores radioactivos
+- 
