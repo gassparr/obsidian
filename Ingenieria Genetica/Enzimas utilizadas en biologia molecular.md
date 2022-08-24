@@ -22,3 +22,8 @@ Como no excibe actividad 5’→3’ exonucleasa, se puede utilizar en vez de Kl
 Herramienta ideal para secuenciar DNA, ya que permite la polimerizacion de miles de nucleotidos sin desprenderse (procesividad muy alta)
 - Preparacion de marcadores radioactivos
 - Amplificacion de fragmentos de DNA grandes
+
+No excibe actividad exonucleasa
+
+**DNA polimerasa termoestables**:
+Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya que para separar estas se necesitan temperaturas altas
