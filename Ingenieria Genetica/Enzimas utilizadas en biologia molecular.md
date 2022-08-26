@@ -26,7 +26,7 @@ Herramienta ideal para secuenciar DNA, ya que permite la polimerizacion de miles
 
 No excibe actividad exonucleasa
 
-**DNA polimerasa termoestables**:
+## DNA polimerasa termoestables:
 Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya que para separar estas se necesitan temperaturas altas
 
 - Bst pol
@@ -49,7 +49,11 @@ Sintetiza cDNA de RNA (RT-PCR)
 Requiere de:
 RNA y primer
 
-**MuLV RT**
+**MuLV RT**:
+RT PCR para transcriptos largos
+Requiere de:
+RNA y primer
+
 
 # RNA Polimerasas
 Elonga RNA de forma 5’ → 3’ a partir de DNA
@@ -62,3 +66,30 @@ Son muy dependientes de promotores especificos, cuando transcriben pasan por los
 Es por esta razon que es mejor linearizar el DNA con extremo 5’ protuyente o romo
 
 # Ligasas
+
+**T4 DNA ligasa**:
+Usada para clonado
+Conecta extremos romos y cohesivos in dsDNA y dsRNA
+Requiere de:
+Mg y ATP
+
+**E. Coli DNA ligasa**:
+Liga cuando se quiere evitar extremos romo
+Conecta extremos cohesivos. 
+Conecta en extremos romos cuando se lo pone en Ficoll o glycol polietileno
+Requiere de:
+Mg y NAD(+)
+
+## Ligasas termoestables
+
+**T4 RNA ligasa I**:
+Marcado de RNA y primer extension.
+Liga NTPs a moleculas de RNA
+Requiere de:
+ATP
+
+**T4 RNA ligasa II**:
+Repara nicks en dsRNA.
+Liga dsRNA o conecta dsRNA a ds DNA.
+Requiere de:
+ATP
