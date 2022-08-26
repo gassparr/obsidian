@@ -42,12 +42,23 @@ Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya qu
 - Tth pol
 	  Cataliza la polimerizacion de dsDNA a partir de DNA en la presencia de Mg(+2) y de RNA en la presnecia de Mn(+2)
 
-# Transcriptasa Reversa
+# Transcriptasas Reversa
 
-# RNA Polimerasa
+**AMV/MAV RT**:
+Sintetiza cDNA de RNA (RT-PCR)
+Requiere de:
+RNA y primer
+
+**MuLV RT**
+
+# RNA Polimerasas
 Elonga RNA de forma 5’ → 3’ a partir de DNA
 
  **SP6 RNA polimerasa**
  **T7 RNA polimerasa**
 
-Enzimas similares, requieren Mg y dsDNA
+Enzimas similares, requieren Mg y dsDNA.
+Son muy dependientes de promotores especificos, cuando transcriben pasan por los Poli(A) por lo que pueden en el caso de DNA circular, dar multiples vueltas antes de disociarse. 
+Es por esta razon que es mejor linearizar el DNA con extremo 5’ protuyente o romo
+
+# Ligasas
