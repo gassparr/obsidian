@@ -32,4 +32,10 @@ Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya qu
 	  T optima = 65 C
 	  T inactivacion = 75 C (20min)
 - Taq pol
-- tth
+	  T optima = 70 C
+	  T inactivacion = 100 C (5min)
+	  No tiene actividad exonucleasa  por lo que se concidera de baja fidelidad.
+	  Aun asi tiene buena precision, puede incorporar 45k nt antes de un error.
+	  Agrega A al final
+- Tth pol
+	  Cataliza la polimerizacion de dsDNA a partir de DNA en la presencia de Mg(+2) y de RNA en la presnecia de Mn(+2)
