@@ -27,3 +27,9 @@ No excibe actividad exonucleasa
 
 **DNA polimerasa termoestables**:
 Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya que para separar estas se necesitan temperaturas altas
+
+- Bst pol
+	  T optima = 65 C
+	  T inactivacion = 75 C (20min)
+- Taq pol
+- tth
