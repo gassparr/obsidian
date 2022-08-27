@@ -27,6 +27,7 @@ Herramienta ideal para secuenciar DNA, ya que permite la polimerizacion de miles
 No excibe actividad exonucleasa
 
 ## DNA polimerasa termoestables:
+
 Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya que para separar estas se necesitan temperaturas altas
 
 - Bst pol
@@ -54,15 +55,15 @@ RT PCR para transcriptos largos
 Requiere de:
 RNA y primer
 
-
 # RNA Polimerasas
+
 Elonga RNA de forma 5’ → 3’ a partir de DNA
 
  **SP6 RNA polimerasa**
  **T7 RNA polimerasa**
 
 Enzimas similares, requieren Mg y dsDNA.
-Son muy dependientes de promotores especificos, cuando transcriben pasan por los Poli(A) por lo que pueden en el caso de DNA circular, dar multiples vueltas antes de disociarse. 
+Son muy dependientes de promotores especificos, cuando transcriben pasan por los Poli(A) por lo que pueden en el caso de DNA circular, dar multiples vueltas antes de disociarse.
 Es por esta razon que es mejor linearizar el DNA con extremo 5’ protuyente o romo
 
 # Ligasas
@@ -75,7 +76,7 @@ Mg y ATP
 
 **E. Coli DNA ligasa**:
 Liga cuando se quiere evitar extremos romo
-Conecta extremos cohesivos. 
+Conecta extremos cohesivos.
 Conecta en extremos romos cuando se lo pone en Ficoll o glycol polietileno
 Requiere de:
 Mg y NAD(+)
@@ -93,3 +94,8 @@ Repara nicks en dsRNA.
 Liga dsRNA o conecta dsRNA a ds DNA.
 Requiere de:
 ATP
+
+# Fosfatasas
+
+**Fosfatasa alcalina**:
+Remueve fosfato 5’ de los acidos nucleicos, previene la recircularizacion de los vectores de DNA
