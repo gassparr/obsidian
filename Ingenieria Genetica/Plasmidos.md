@@ -21,3 +21,5 @@ Se pueden generar caracteristicas favorables para el host.
 # Replicacion
 Al igual que los cromosomas, se replican durante la division celular, dandole a cada una de las bacterias al menos una copia del plasmido.
 Contienen replicones
+
+**Replicones con Iterones**
