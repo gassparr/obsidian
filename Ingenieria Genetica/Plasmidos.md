@@ -19,8 +19,10 @@ Se pueden generar caracteristicas favorables para el host.
 - Biosintesis de agentes nocivos para otras bacterias
 
 # Replicacion
+
 Al igual que los cromosomas, se replican durante la division celular, dandole a cada una de las bacterias al menos una copia del plasmido.
 Contienen replicones
+La replicacion es un proceso controlado, ya que una alta taza de replicacion, seria un gasto de recursos paral la celula. Para controlar la replicacion, se unen proteinas a los Ori para opacar estos sitios, esto se llama “Handcuffing”
 
 **Replicones con Iterones**
 Estructura:
@@ -30,4 +32,3 @@ Estructura:
   los iterones mas cortos estan mas separados que los iterones largos
 - Cajas de DNA(A) con regiones adyacentes ricas en A-T
   DNA (A) forma un complejo con Rep, el cual promueve el melting de las cadenas en las regionas ricas de A-T
-
