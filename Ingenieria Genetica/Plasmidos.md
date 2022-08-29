@@ -24,10 +24,10 @@ Contienen replicones
 
 **Replicones con Iterones**
 Estructura:
-- Proteinas de inciacion de replicacion
+- Proteinas de inciacion de replicacion (Rep)
   Regula negativamente su propia expresion, se une a los iterones
 - Secuencias repetidas (iterones)
   los iterones mas cortos estan mas separados que los iterones largos
 - Cajas de DNA(A) con regiones adyacentes ricas en A-T
-  DNA (A)
+  DNA (A) forma un complejo con Rep, el cual promueve el melting de las cadenas en las regionas ricas de A-T
 
