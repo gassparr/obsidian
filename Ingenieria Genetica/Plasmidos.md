@@ -23,3 +23,11 @@ Al igual que los cromosomas, se replican durante la division celular, dandole a 
 Contienen replicones
 
 **Replicones con Iterones**
+Estructura:
+- Proteinas de inciacion de replicacion
+  Regula negativamente su propia expresion, se une a los iterones
+- Secuencias repetidas (iterones)
+  los iterones mas cortos estan mas separados que los iterones largos
+- Cajas de DNA(A) con regiones adyacentes ricas en A-T
+  DNA (A)
+
