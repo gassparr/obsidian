@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria Genetica/Plasmidos.md",
+            "file": "Ingenieria Genetica/Restriccion y anti restriccion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Plasmidos.md",
+                "file": "Ingenieria Genetica/Restriccion y anti restriccion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Plasmidos.md",
+                "file": "Ingenieria Genetica/Restriccion y anti restriccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Plasmidos.md"
+                "file": "Ingenieria Genetica/Restriccion y anti restriccion.md"
               }
             }
           }
@@ -111,8 +111,9 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "a30ed297172ed12d",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
+    "Ingenieria Genetica/Plasmidos.md",
     "Ingenieria Genetica/Seminario 2.md",
     "Ingenieria Genetica/Seminario 1.md",
     "Ingenieria Genetica/Enzimas utilizadas en biologia molecular.md",
@@ -121,7 +122,6 @@
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "Biologia/Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
-    "Fenomenos de Transporte/Clase 1 Introduccion.md",
-    "Personal/CV.md"
+    "Fenomenos de Transporte/Clase 1 Introduccion.md"
   ]
 }

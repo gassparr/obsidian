@@ -47,4 +47,4 @@ Proteina de replicacion se une a la cadena principal de dsDNA lo cual la abre, e
 **Sistemas de particion activos**
 sistemas que ubican a los plasmidos en regiones de la celulas de tal forma que a la hora de la division, los mismos esten presentes en las 2 celula subsecuentes.
 El mejor estudiado es el del plasmido PI de E. Coli.
-Cassette de un operon autoregulado que contiene genes parA y parB
+Cassette de un operon autoregulado que contiene genes los cuales codifican para proteinas que interactuan con un mecanismo de particion el cual desplaza los plasmidos en intervalos dentro de la celula
