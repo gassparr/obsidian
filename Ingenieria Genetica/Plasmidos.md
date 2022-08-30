@@ -48,3 +48,11 @@ Proteina de replicacion se une a la cadena principal de dsDNA lo cual la abre, e
 sistemas que ubican a los plasmidos en regiones de la celulas de tal forma que a la hora de la division, los mismos esten presentes en las 2 celula subsecuentes.
 El mejor estudiado es el del plasmido PI de E. Coli.
 Cassette de un operon autoregulado que contiene genes los cuales codifican para proteinas que interactuan con un mecanismo de particion el cual desplaza los plasmidos en intervalos dentro de la celula
+
+**Recombinacion sitio especifica**
+![](https://i.imgur.com/hMB0Ppw.png)
+
+Recombinasas sitio especifica, en ambas copias monomericas de los plasmidos (complejo dimerico), estas recombinazas cortan el DNA dentro del complejo plasmidico lo cual promueve el intercambio de monomeros en los 2 sitios
+
+**Diseminacion de plasmidos en poblaciones bacterianas**
+Transferencia de DNA por medio conjugativo, donde el DNA es transferido de una bacteria de forma mediada por el contacto celular y en esa interfase, el donor le transfiere el DNA mediante el [pilus ](https://en.wikipedia.org/wiki/Pilus)
