@@ -16,7 +16,7 @@ Phone: **+54 9 221 305-4186**
 ### KpK Works
 
 *Neuquen*
-**Consultant**
+**Chemical Consultant**
 “*2020-2022*”
 
 - Responsible training personnel 
@@ -34,7 +34,7 @@ Phone: **+54 9 221 305-4186**
 - Driving on B1 license
 
 **Languages**
-English: Fluent
+English: Fluent 
 Spanish: Mother tongue
 
 ## Education
@@ -44,7 +44,7 @@ Spanish: Mother tongue
 La Plata, Argentina
 **Biotechnology and Molecular Biology**
 "*2018-In Progress*"
-Advanced student
+Advanced student (6 courses until degree) 
 Specialization: Molecular Biology
 
 **Technical degree in Chemistry**
