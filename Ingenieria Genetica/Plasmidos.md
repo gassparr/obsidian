@@ -63,4 +63,4 @@ Resuelve los multiples origenes de replicacion de los multimeros que se forman e
 
 **Sistemas toxina-antitoxina**
 
-Sistema por el cual hay una toxina y una antitoxina codificada en el plasmido, el cual si el plasmido esta correctamente codificado, 
+Sistema por el cual hay una toxina y una antitoxina codificada en el plasmido, el cual si el plasmido esta correctamente codificado, la toxina se neutraliza
