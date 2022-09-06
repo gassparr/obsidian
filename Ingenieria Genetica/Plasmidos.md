@@ -45,7 +45,7 @@ Proteina de replicacion se une a la cadena principal de dsDNA lo cual la abre, e
 
 # Segregacion de Plasmidos
 
-**Sistemas de particion activos**
+**Sistemas de particion activos (PAR)**
 sistemas que ubican a los plasmidos en regiones de la celulas de tal forma que a la hora de la division, los mismos esten presentes en las 2 celula subsecuentes.
 El mejor estudiado es el del plasmido PI de E. Coli.
 Cassette de un operon autoregulado que contiene genes los cuales codifican para proteinas que interactuan con un mecanismo de particion el cual desplaza los plasmidos en intervalos dentro de la celula
@@ -57,3 +57,10 @@ Recombinasas sitio especifica, en ambas copias monomericas de los plasmidos (com
 
 **Diseminacion de plasmidos en poblaciones bacterianas**
 Transferencia de DNA por medio conjugativo, donde el DNA es transferido de una bacteria de forma mediada por el contacto celular y en esa interfase, el donor le transfiere el DNA mediante el [pilus ](https://en.wikipedia.org/wiki/Pilus)
+
+**Sistema de resolucion de multimeros (MRS)**
+Resuelve los multiples origenes de replicacion de los multimeros que se forman en la replicacion.
+
+**Sistemas toxina-antitoxina**
+
+Sistema por el cual hay una toxina y una antitoxina codificada en el plasmido, el cual si el plasmido esta correctamente codificado, 
