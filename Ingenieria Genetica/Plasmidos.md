@@ -41,6 +41,7 @@ A diferencia de los replicacones con iterones, no utiliza proteinas acomplejadas
 **Rolling circle**
 Para eubacteria gram positiva y algunos bacteriofagos.
 Proteina de replicacion se une a la cadena principal de dsDNA lo cual la abre, exponiendo una cadena de ssDNA, la proteina introduce un nick a esta lo cual hace que la DNA pol III empieze a sintetizar (ya que se expone un gruopo -OH 3’)
+![](https://i.imgur.com/frGMPES.png)
 
 # Segregacion de Plasmidos
 
