@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/CV.md",
+            "file": "Personal/CV esp.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CV.md",
+                "file": "Personal/CV esp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CV.md",
+                "file": "Personal/CV esp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CV.md"
+                "file": "Personal/CV esp.md"
               }
             }
           }
@@ -113,6 +113,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Personal/CV eng.md",
+    "Personal/CV esp.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/RNA.md",
     "Ingenieria Genetica/Plasmidos.md",
@@ -120,8 +122,6 @@
     "Ingenieria Genetica/Seminario 2.md",
     "Ingenieria Genetica/Seminario 1.md",
     "Ingenieria Genetica/Enzimas utilizadas en biologia molecular.md",
-    "Biotecnologia I/Tarea individual 1.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
-    "Biologia/Microbiologia/Antimicrobianos/Antimicrobianos.md"
+    "Biotecnologia I/Tarea individual 1.md"
   ]
 }
