@@ -27,3 +27,9 @@ utiliza topoisomerasa 1 virales, ya que reconocen las secuencias 5’ (C/T)CCTT 
   - Gateway cloning → es una reaccion BP a partir de un producto de PCR con extremoo attB y un vector attP 
 
 - Transfiere el intserto del vector de entrada con bordes attI al vector destino con bordes attR en una reaccion LR
+
+**Biobrick**
+
+**Golden gate**
+
+**Gibson cloning**
