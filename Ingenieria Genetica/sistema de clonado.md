@@ -1,5 +1,5 @@
 
-Como elegir un sistema:
+# Elegir un sistema
 
 1. objetivo:
 	- Incorporar inserto
@@ -13,3 +13,8 @@ Como elegir un sistema:
 4. ver complejidad de clonado:
 	- necesidad de sistema que simplifique llegada al objetivo
 	- necesidad de utilizar clon para futuras construcciones
+
+# Tipos de sistemas
+
+**Topo Cloning**
+utiliza topoisomerasa 1 virales, ya que reconocen las secuencias 5’ (C/T)CCTT 3’ y digiere dsDNA en esa secuencia, permitiendo la insercion de un fragmento
