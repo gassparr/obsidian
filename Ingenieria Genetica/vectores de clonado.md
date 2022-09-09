@@ -22,3 +22,5 @@
 - Sistema toxina / anti toxina (postsegregacional)
 
 ### Modulo de transferencia conjugativa
+
+- Maiting pair formation
