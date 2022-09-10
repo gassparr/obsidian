@@ -14,14 +14,18 @@ En base a esto, podemos diseñar un experimento para este estudio, diseñando un
    En caso de que sea aeróbico se necesitará de O2 para su crecimiento que será adquirida por agitación o flujo de aireación.
    En caso de que sea anaeróbico se necesitará una bomba de gases de nitrógeno para quitar el oxígeno del ambiente.
    
-
-   
 - función de los componentes
   El amoniaco sera la fuente de nitrogeno, la glucosa la fuente de carbono y energia, las sales seran micronutrientes
 
 - tipo y cantidad de muestras
-  Tipo: Bacterias
-  Cantidad: 
+  Tipo: Bacterias fermentadoras de metano
+  Cantidad: 100mL
 
 - que y como lo medís (determinaciones)
+  Se va a medir la DO de diluciones seriadas en 10^(-n).
+  Esto se hara en intervalos de 0.5hr en un espectro fotometro
+
 - cualquier otro detalle que consideres necesario
+  Las mediciones se hacen considerando que el microorganismo tiene una alta tasa de replicacion.
+  Para la muestra de metabolismo aerobeo, esperaria ver una mayor DO que en el anaerobeo, debido a que parte de la fuente de carbono sera convertida a metano
+  
