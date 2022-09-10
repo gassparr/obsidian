@@ -19,6 +19,9 @@ Condiciones de crecimiento: pH: 7.2, Temperatura: 37C, Presencia de antiespumant
 
 **b.**- Realizá  un esquema de los pasos seguidos para evaluar el crecimiento en ese medio de cultivo y esas condiciones de crecimiento.
 
+![](https://i.imgur.com/qWJ2jCz.png)
 
 
 **c.**- Indicá que parámetros fisiológicos característicos del microorganismo en ese medio fueron evaluados y cuáles fueron las determinaciones analíticas empleadas para obtenerlos.
+
+Ya que los halofilos lisan abajo de 10% p/p NaCl , estos fueron evaluados en soluciones de 20% p/p NaCL
