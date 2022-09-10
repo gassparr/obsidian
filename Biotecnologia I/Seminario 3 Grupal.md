@@ -24,4 +24,5 @@ Condiciones de crecimiento: pH: 7.2, Temperatura: 37C, Presencia de antiespumant
 
 **c.**- Indicá que parámetros fisiológicos característicos del microorganismo en ese medio fueron evaluados y cuáles fueron las determinaciones analíticas empleadas para obtenerlos.
 
-Ya que los halofilos lisan abajo de 10% p/p NaCl , estos fueron evaluados en soluciones de 20% p/p NaCL
+Fueron evaluados en soluciones de 20% p/p NaCL, bajo distintas fuentes de carbono.
+Analiticamente se midio la DO para ver el crecimiento microbiano, se hicier
