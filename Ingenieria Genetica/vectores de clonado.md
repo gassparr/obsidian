@@ -23,4 +23,9 @@
 
 ### Modulo de transferencia conjugativa
 
-- Maiting pair formation
+- Maiting pair formation  (Mpf)
+- DNA transfer and replication (Dtr)
+  - Ori T
+  - Relaxasa
+  - Proteinas accesorias
+
