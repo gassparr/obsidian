@@ -143,6 +143,13 @@ Debido a la severidad del rotavirus, resulta de particular interés la generaci�
 
 **a. Utilizando solo enzimas de restricción (ninguna de las enzimas detalles en la figura corta en otro sitio)**
 
+Para el lado derecho elijo BspHI con NcoI
+NcoI: 5`CCATGG`3
+BspHI: 5`TCATGA`3
 
+Para el lado izquierdo elijo BglII y BamHI
+BglII: 5`AGATCT`3
+BamHI: 5`GGATCC`3
 
 **b. Utilizando primers**
+
