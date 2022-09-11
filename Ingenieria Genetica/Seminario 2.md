@@ -135,3 +135,14 @@ Agrega XhoI y SalI en buffer D, inactivacion termica de  ER, Ligacion con T4 lig
 **B) Cómo evaluaría de dos maneras independientes si las 3 construcciones que ha generado son correctas.**
 
 Insertas DNA target marcado con P32 y despues se corre en
+
+# Problema 6 
+
+Debido a la severidad del rotavirus, resulta de particular interés la generación de vacunas. Una forma simple de generar vacunas consiste en la producción de proteínas o péptidos inmunorrelevantes del patógeno, su purificación y administración en un huésped sano para que genere anticuerpos contra los mismos. La proteína VP4 de la cápside del Rotavirus, antes de ingresar al huésped, es clivada en el tracto intestinal por la tripsina y forma 2 nuevos péptidos llamados VP5 y VP8. Usted está interesado en generar una fusión del fragmento correspondiente a VP8 con la proteína lumazina sintetasa de Brucella spp. (BLS) que se conoce es una proteína capaz de aumentar respuestas inmunes de otras proteínas unidas a ella. BLS ya se encuentra clonada en el vector psRSET. 
+**Diseñe una estrategia para subclonar la región codificante para el péptido VP8 en un vector de expresión fusionada a BLS por el N-term y a His-tag por el C-term.**
+
+**a. Utilizando solo enzimas de restricción (ninguna de las enzimas detalles en la figura corta en otro sitio)**
+
+
+
+**b. Utilizando primers**
