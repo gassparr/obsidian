@@ -42,8 +42,18 @@ Kn → Resistencia a kanamisina
 
 **a) A qué tipo de sistema de replicación pertenece? Describa su funcionamiento e identifique los componentes en la Figura (parte b).**
 
-Pertenece al sistema de replicacion por iterones, en donde hay un gen que codifica para proteina de iniciacion de replicacion (Rep)
+Pertenece al sistema de replicacion por iterones, en donde hay un gen que codifica para la proteina de iniciacion de replicacion (Rep), iterones (Secuencias especificas repetitivas), Cajas de DNA(A) y regiones adyacentes ricas en AT.
+Rep se autoregula negativamente, uniendose a los iterones y cuando se encuentra a DNA(A) debido a cambios comformacionales, permite el inicio de la replicacion
 
 **b) Qué son los sistemas PAR, MRS y TA. Explique brevemente el funcionamiento de cada uno de ellos mencionando todos sus componentes. Ingeniería Genética ALPHA / lacZ: gen que codifica el péptido Alfa para alfa-complementación. ApR / AmpR : resistencia a ampicilina. TcR : Resistencia a tetraciclina. P1 y P2: promotores prokariotas. SD seq: secuencias de Shine-Dalgarno. pGEM-T Easy se comercializa linearizado, dejando una T 3’ protruyente.**
 
+PAR: 
+Sistema de particion activo. Sistema por el cual los plasmidos se posicion dentro de la celula, de tal forma que los mismos sean heredados equitativamente entre las dos celulas hijas. 
+Esto se hace a traves de proteinas (complemento ParA y ParB) las cuales mueven a los plasmidos
+
+MRS
+Recombinacion sitio especifica. sistema por el cual plasmidos que sufrieron una recombinacion homologa durante la replicacion, puede resolver los los multimeroes resultantes para llevarlos a monomeros
+
+TA
+Sistema Toxina Antitoxina. Sistema por el cual de manera postsegregacional se asegura la correcta forma del plasmido.
 **c) Las posibles proteínas codificadas por el ORF10 y el ORF26 pertenecen a la familia LlaM-I de endonucleasas de restricción tipo II. Explique actividades y características de esta clase de enzimas (ER-Tipo II).**
