@@ -128,4 +128,10 @@ Agrega SacI y SspI en multicore, inactivacion termica de la ER, Agrega exonuclea
 Zona 3:
 Agrega XhoI y SalI en buffer D, inactivacion termica de  ER, Ligacion con T4 ligasa, transformas en E coli XL1 blue, se cultiva en medio de seleccion con ampicila, se eligen las blancas
 
+#duda 
+- para que hace miniprep, a las colonias blancas
+
+
 **B) Cómo evaluaría de dos maneras independientes si las 3 construcciones que ha generado son correctas.**
+
+Insertas DNA target marcado con P32 y despues se corre en
