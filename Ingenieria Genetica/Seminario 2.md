@@ -119,6 +119,13 @@ En el laboratorio donde usted trabaja le han asignado el estudio de la interacci
 
 **A) Diseñe un protocolo experimental para generar los vectores recombinantes que incluyan cada una de las regiones de unión por separado. Recuerde indicar todos los pasos que realizaría en el laboratorio (brevemente, listarlos). No olvide justificar cuando lo crea conveniente. (Usted cuenta con las enzimas de restricción y las cepas que se detallan a continuación, las enzimas de modificación usuales de un laboratorio de Biología Molecular y equipos para trabajos de rutina. Su director de trabajo le ha pedido que intente completar el trabajo en una semana, por lo que le será imposible comprar oligonucleótidos).** 
 
+Zona 1:
+Agrega BamHI en buffer E, inactivacion termica de  ER, Ligacion con T4 ligasa, transformas en E coli XL1 blue, se cultiva en medio de seleccion con ampicila, se eligen las blancas
 
+Zona 2:
+Agrega SacI y SspI en multicore, inactivacion termica de la ER, Agrega exonucleasa 3’ → 5’, Agrega SalI y StuI en buffer D, inactivacion termica de la ER, Agrega exonucleasa 5’ → 3’, ligacion con T4 ligasa, transformas en DH5 alfa, se cultiva en medio de seleccion con Amp, se eligen las blancas
+
+Zona 3:
+Agrega XhoI y SalI en buffer D, inactivacion termica de  ER, Ligacion con T4 ligasa, transformas en E coli XL1 blue, se cultiva en medio de seleccion con ampicila, se eligen las blancas
 
 **B) Cómo evaluaría de dos maneras independientes si las 3 construcciones que ha generado son correctas.**
