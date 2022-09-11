@@ -55,5 +55,58 @@ MRS
 Recombinacion sitio especifica. sistema por el cual plasmidos que sufrieron una recombinacion homologa durante la replicacion, puede resolver los los multimeroes resultantes para llevarlos a monomeros
 
 TA
-Sistema Toxina Antitoxina. Sistema por el cual de manera postsegregacional se asegura la correcta forma del plasmido.
+Sistema Toxina Antitoxina. Sistema por el cual de manera postsegregacional se asegura la correcta copia del plasmido. Esto se hace a traves de una toxina y antitoxina codificada dentro del plasmido, de tal forma que las mismas se neutralizan y cuando la bacteria se divide hereda toxina, si tiene la copia correcta podra sintetizar antitoxina, sino se muere.
+
 **c) Las posibles proteínas codificadas por el ORF10 y el ORF26 pertenecen a la familia LlaM-I de endonucleasas de restricción tipo II. Explique actividades y características de esta clase de enzimas (ER-Tipo II).**
+
+- Tipo 2
+	- Actividad enzimatica:
+	  Endonucleasa, Metiltransferasa
+	- Cofactores para Clivaje del DNA:
+	  Mg
+	- Cofactores para la metilacion:
+	  SAM
+	- Secuencia de reconocimiento:
+	   Mayormente simetrica
+	- Sitio de clivaje:
+	  Locacion fija en o cerca del sitio
+	- Translocacion del DNA:
+	  No
+
+# Problema 4
+Con el objetivo final de construir un mutante en el gen X usted desea amplificar un fragmento interno de dicho gen y clonarlo
+en uno de los siguientes vectores:
+
+Dispone de siguientes enzimas: polimerasas Taq y PFX, Fosfatasa alcalina, Fragmento Klenow, T4 DNA polimerasa, T4 DNA
+ligasa, y Enzimas de restricción. Todas con sus respectivos Buffers y Cofactores.
+
+Dispone de dos juegos de primers para
+amplificar la secuencia deseada:
+F1 TTTGCTAGCAGCCGATTAGCGTAGCGT 
+R1 TTTGCTAGCGGTGCCATGGTAGCTAGC
+F2 AGCCGATTAGCGTAGCGT 
+R2 GGTGCCATGGTAGCTAGC
+
+Cepas de clonado:
+DH5alpha: fhuA2 Δ(argF-lacZ)U169 phoA glnV44 Φ80 Δ(lacZ)M15 gyrA96 recA1 relA1 endA1 thi-1 hsdR17
+DH1: supE44 rfbD1 recA1 relA1 endA1 spoT1 thi-1 hsdR17 gyrA96
+
+Pregunta: ¿Cuál de los siguientes esquemas de trabajo utilizaría para realizar el clonado?
+
+**a)** PCR utilizando PFX y primers F1/R2, Vector pUC18 digestión SmaI, Ligación con T4 DNA Ligasa, Transformación en DH5Alpha, Selección en medio LB suplementado con Ap y X-Gal. Verificación de clones blancos.
+
+No se puede utillizar ya que no inactiva ER 
+
+**b)** PCR utilizando Taq y primers F1/R1, Vector pUC18 digerido SmaI, Inactivación térmica de las ER, Ligación con T4 DNA Ligasa, Transformación en DH1, Selección en medio LB suplementado con Ampicilina y X-Gal. Verificación de clones Blancos.
+
+
+
+**c)** PCR utilizando Taq y primers F1/R1, Producto de PCR digerido BmtI, Vector pBR322 digerido BmtI, Inactivación de las
+ER, Ligación con T4 DNA Ligasa, Transformación en DH1, Selección en medio LB suplementado con Ap y Tc.
+
+**d)** PCR utilizando Taq y primers F2/R2, Vector pBR322 digerido EcoRV, Ligación con T4 DNA Ligasa, Transformación en DH1,
+Selección en medio LB suplementado con Ap. Búsqueda de clones Tc sensibles.
+
+**e)** Ninguna de las anteriores es correcta.
+
+**f)** Todas las estrategias anteriores son válidas
