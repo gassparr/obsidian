@@ -99,14 +99,26 @@ No se puede utillizar ya que no inactiva ER
 
 **b)** PCR utilizando Taq y primers F1/R1, Vector pUC18 digerido SmaI, Inactivación térmica de las ER, Ligación con T4 DNA Ligasa, Transformación en DH1, Selección en medio LB suplementado con Ampicilina y X-Gal. Verificación de clones Blancos.
 
+#duda porque no puede transformar en DH1 (no tiene alfa complementacion)
 
+**c)** PCR utilizando Taq y primers F1/R1, Producto de PCR digerido BmtI, Vector pBR322 digerido BmtI, Inactivación de las ER, Ligación con T4 DNA Ligasa, Transformación en DH1, Selección en medio LB suplementado con Ap y Tc.
 
-**c)** PCR utilizando Taq y primers F1/R1, Producto de PCR digerido BmtI, Vector pBR322 digerido BmtI, Inactivación de las
-ER, Ligación con T4 DNA Ligasa, Transformación en DH1, Selección en medio LB suplementado con Ap y Tc.
+Con BmtI se corta el gen de resistencia a la tetramicina
 
-**d)** PCR utilizando Taq y primers F2/R2, Vector pBR322 digerido EcoRV, Ligación con T4 DNA Ligasa, Transformación en DH1,
-Selección en medio LB suplementado con Ap. Búsqueda de clones Tc sensibles.
+**d)** PCR utilizando Taq y primers F2/R2, Vector pBR322 digerido EcoRV, Ligación con T4 DNA Ligasa, Transformación en DH1, Selección en medio LB suplementado con Ap. Búsqueda de clones Tc sensibles.
 
-**e)** Ninguna de las anteriores es correcta.
+- No inactiva ER por lo que no se puede utilizar
+- Taq genera extremos cohesivos, los cuales no puede ligarse a extremos romos generados por EcoRV
+
+**e)** ==Ninguna de las anteriores es correcta.==
 
 **f)** Todas las estrategias anteriores son válidas
+
+# Problema 5 
+En el laboratorio donde usted trabaja le han asignado el estudio de la interacción entre la proteína p401 de cocodrilo y una región de DNA del mismo organismo a la que se considera como uno de sus posibles sitios de unión. Para ello se le propone realizar ensayos de retardo de movilidad en gel (EMSA o gel-mobility shift) para intentar caracterizar in vitro la interacción DNA-proteína. El ensayo consiste en incubar la proteína purificada con una sonda de DNA marcada que debe contener la posible secuencia implicada en el proceso de unión. La reacción se realiza bajo condiciones adecuadas que favorezcan la interacción DNA-proteína. El producto de esta reacción se siembra en un gel de poliacrilamida no desnaturalizante: la movilidad de la sonda en el gel variará si ocurre unión de la misma a la proteína. Estudios previos con otras proteínas similares a p401 han demostrado que en la misma existe una región de reconocimiento pero que, dependiendo de la proteína, la región de DNA con la que interacciona puede corresponder a uno de 3 tres posibles dominios cercanos uno de otro. Previamente, un colaborador suyo le ha enviado, en una cepa DH5α, el plásmido p1. Dicho plásmido corresponde a un pUC19 en el que se han clonado los tres dominios de reconocimiento de la de p401. También se le ha enviado el plásmido pUC19 vacío. Su objetivo es, específicamente, demostrar cuál de las 3 porciones de DNA (que han sido seleccionadas mediante el uso de herramientas bioinformáticas), es la reconocida por la proteína p401. Como primer paso experimental debe clonar cada una de las potenciales zonas de unión en forma independiente. Recuerde queUd. Conoce la secuencia del inserto del plásmido p1 que contiene las 3 zonas de unión.
+
+**A) Diseñe un protocolo experimental para generar los vectores recombinantes que incluyan cada una de las regiones de unión por separado. Recuerde indicar todos los pasos que realizaría en el laboratorio (brevemente, listarlos). No olvide justificar cuando lo crea conveniente. (Usted cuenta con las enzimas de restricción y las cepas que se detallan a continuación, las enzimas de modificación usuales de un laboratorio de Biología Molecular y equipos para trabajos de rutina. Su director de trabajo le ha pedido que intente completar el trabajo en una semana, por lo que le será imposible comprar oligonucleótidos).** 
+
+
+
+**B) Cómo evaluaría de dos maneras independientes si las 3 construcciones que ha generado son correctas.**
