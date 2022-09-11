@@ -153,3 +153,10 @@ BamHI: 5`GGATCC`3
 
 **b. Utilizando primers**
 
+Primers VP4
+forward
+*G GAT CC*T ATA CCT TGC GCA GAA GAT CTT TGC
+reverse
+
+# Problema 7
+
