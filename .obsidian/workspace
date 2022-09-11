@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biotecnologia I/Seminario 3 Grupal.md",
+            "file": "Ingenieria Genetica/Seminario 2.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Seminario 3 Grupal.md",
+                "file": "Ingenieria Genetica/Seminario 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Seminario 3 Grupal.md",
+                "file": "Ingenieria Genetica/Seminario 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Seminario 3 Grupal.md"
+                "file": "Ingenieria Genetica/Seminario 2.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Biotecnologia I/Seminario 3 individual.md",
+    "Ingenieria Genetica/vectores de clonado.md",
     "Ingenieria Genetica/Seminario 2.md",
     "Ingenieria Genetica/Seminario 1.md",
-    "Biotecnologia I/Seminario 3 Grupal.md",
-    "Ingenieria Genetica/vectores de clonado.md",
     "Ingenieria Genetica/Plasmidos.md",
+    "Ingenieria Genetica/sistema de clonado.md",
+    "Biotecnologia I/Seminario 3 Grupal.md",
+    "Biotecnologia I/Seminario 3 individual.md",
     "Bioquimica 3/Herramientas de estudio/Footprinting.md",
     "Bioquimica 3/Herramientas de estudio/EMSA.md",
-    "Bioquimica 3/Herramientas de estudio/dot blot.md",
-    "Bioquimica 3/Herramientas de estudio/Y1H.md"
+    "Bioquimica 3/Herramientas de estudio/dot blot.md"
   ]
 }

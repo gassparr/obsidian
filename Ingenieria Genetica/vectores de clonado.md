@@ -18,7 +18,7 @@
 
 ### Modulo de segragacion (particion y estabilidad)
 - Sistema activo de particion (PAR)
-- Recombinacion especifica de sitio
+- Recombinacion sitio especifica
 - Sistema toxina / anti toxina (postsegregacional)
 
 ### Modulo de transferencia conjugativa
