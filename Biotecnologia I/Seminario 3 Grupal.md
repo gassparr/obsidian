@@ -25,4 +25,5 @@ Condiciones de crecimiento: pH: 7.2, Temperatura: 37C, Presencia de antiespumant
 **c.**- Indicá que parámetros fisiológicos característicos del microorganismo en ese medio fueron evaluados y cuáles fueron las determinaciones analíticas empleadas para obtenerlos.
 
 Fueron evaluados en soluciones de 20% p/p NaCL, bajo distintas fuentes de carbono.
-Analiticamente se midio la DO para ver el crecimiento microbiano, se hicier
+Analiticamente se midio la DO para ver el crecimiento microbiano, se hicieron HPLC para el analisis enzimatico de los sustratos y de posibles metabolitos.
+Para cuantificar la biomasa, se utilizo un metodo indirecto por el cual se mide el consumo de Acido o base
