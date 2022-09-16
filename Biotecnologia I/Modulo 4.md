@@ -28,3 +28,34 @@ Los subíndices 1 y 2 refieren a entrada y salida respectivamente.
 - F1 = F2 = 0 → Sistema batch
 - F1 ≠ 0 y F2 ≠ 0 → Sistema continuo
 - F1 ≠ 0 y F2 = 0 → Sistema Batch alimentado
+
+## Cultivo batch
+
+sistema cerrado para la fase liquida
+F1 = F2 = 0
+
+**Ecuacion 3**
+𝑑𝐶𝑉 / 𝑑𝑡 = 𝑉𝑟𝑓 − 𝑉𝑟c
+
+Como F1 = F2 = 0, si volvemos a la **Ec 2**, V = cte
+
+**Ecuacion 4** → Velocidad volumetrica de formacion de biomasa
+dX / dt = rx
+
+**Ecuacion 5** → Velocidad volumetrica de consumo de sustrato
+dS / dt = rs
+
+**Ecuacion 6** → Velocidad volumetrica de formacion de producto
+dP / dt = rp
+
+tambien se debe caracterizar a las velocidades relativas relacionadas con la concentracion de biomasa (X)
+
+**Ecuacion 7**
+
+u = rx / X
+
+- u → velocidad especifica de crecimiento
+- rx → velocidad volumetrica de formacion de biomasa
+- X → Concentracion de biomasa
+
+Lo mismo se hace para rs y rp
