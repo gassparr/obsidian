@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biotecnologia I/Modulo 4.md",
+            "file": "Ingenieria Genetica/sistema de expresion de proteinas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253,
-    "collapsed": true
+    "width": 253
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Modulo 4.md",
+                "file": "Ingenieria Genetica/sistema de expresion de proteinas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Modulo 4.md",
+                "file": "Ingenieria Genetica/sistema de expresion de proteinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Modulo 4.md"
+                "file": "Ingenieria Genetica/sistema de expresion de proteinas.md"
               }
             }
           }
@@ -114,6 +113,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biotecnologia I/Modulo 4.md",
     "Ingenieria Genetica/Seminario 2.md",
     "Ingenieria Genetica/sistema de clonado.md",
     "Untitled.md",
@@ -122,7 +122,6 @@
     "Ingenieria Genetica/Restriccion y anti restriccion.md",
     "Ingenieria Genetica/vectores de clonado.md",
     "Ingenieria Genetica/Plasmidos.md",
-    "Biotecnologia I/Seminario 3 Grupal.md",
-    "Biotecnologia I/Seminario 3 individual.md"
+    "Biotecnologia I/Seminario 3 Grupal.md"
   ]
 }
