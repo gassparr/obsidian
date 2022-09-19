@@ -59,3 +59,4 @@ Que debe tener:
    - Poca cantidad: Plasmidos de expresion standard
    - Grandes cantidades: Explorar varios sistema huesped y esquemas de purificacion
 3. Proteinas Activas
+   Considerar la formacion de cuerpos de inclusion
