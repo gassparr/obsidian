@@ -67,6 +67,20 @@ Una proteina de interes fusionada con una proteina o peptido conocido, denominad
 
 *Tag*-proteina // proteina-*Tag*
 
+Beneficios:
+- purificacion
+- protege de proteolisis a la proteina de interes
+- mejora solubilidad de la proteina
+- estabiliza la proteina de interes
+
 **Crear proteina de fusion**
 Codon de inicio: ATG (Met)
 Codones STOP: TAG, TGA, TAA
+
+Esquema generico:
+
+Promotor → ATG // A // B // MCS
+
+A → Secuencia Tag
+B → Secuencia concenso (corte de proteasa)
+MCS → Sitio clonado multiple
