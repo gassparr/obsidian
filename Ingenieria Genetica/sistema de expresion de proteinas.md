@@ -168,3 +168,13 @@ Ademas agrega un sitio proteolitico para su posterior eliminacion
 - LacI
 - Resistencia a Km
 - Origen pBR322 y f1
+
+## Construccion de una proteina de fusion
+
+Tag a Fusionar // Gen de interes
+
+MET…………..LEU ARG THR
+ATG…………..GTG CGA ACC ATG G
+
+- El stop de traduccion del gen del tag de fusion debe eliminarse
+- El marco de lectura de la proteina de fusion debe ser contiguo
