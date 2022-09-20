@@ -61,7 +61,7 @@ Que debe tener:
 3. Proteinas Activas
    Considerar la formacion de cuerpos de inclusion
 
-### Proteina de fusion
+# Proteina de fusion
 
 Una proteina de interes fusionada con una proteina o peptido conocido, denominado *Tag*, pueden estar en cualquier extremo (NH3 o COO)
 
@@ -137,9 +137,9 @@ Metodo de purificacion
 - Cromatografia de afinidad
 
 
-# Sistema de expresion His-Tag
+## Sistema de expresion His-Tag
 
-## Objetivo
+### Objetivo
 
 - Purificar la proteina de interes, por fusion con una cola de His (6-12 residuos) que diferencia de demas proteinas del huesped
 - His se unen con alta afinidad a ciertos iones metalicos (Ni) inmovilizados en una columna de afinidad
@@ -157,7 +157,14 @@ Metodo de purificacion
 Para minimizar los problemas, se inserta Tag en los extremos de la proteina donde sea menos probable que afecte su funcion. 
 Ademas agrega un sitio proteolitico para su posterior eliminacion
 
-## Caracteristicas del vector
+### Caracteristicas del vector
 
 - Promotor T7
 - Iniciador de transcripcion T7
+- Terminador T7
+- His-Tag
+- S-Tag
+- MCS (Ncol-Xhol)
+- LacI
+- Resistencia a Km
+- Origen pBR322 y f1
