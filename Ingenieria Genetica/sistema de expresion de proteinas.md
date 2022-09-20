@@ -105,6 +105,11 @@ MCS → Sitio clonado multiple
 	   Buen rendimiento de purificacion, Unico paso de purificacion.
 	   Tag no interfiere con el plegamiento ni con funcion de la proteina.
 	 - Por anticuerpos comerciales (T7, FLAG, HA, C-Myc, Etc)
-	   
 
+- De localizacion en bacterios
+	  - Secuencias de localizacion periplasmica (mejora plegamiento para favorecer formacion de S-S)
+	  - Secuencias que permiten la secrecion al medio de cultivo (facil purificacion)
+
+- De aumento de solubilidad → NusA. 
+- Localizacion de proteinas → GFP, DsRed. Anticuerpos comerciales contra Tags por inmunofluorescenciaMNNMJIKJL6 
 
