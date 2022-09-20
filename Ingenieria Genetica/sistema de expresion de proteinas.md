@@ -127,4 +127,37 @@ DsRed (proteina roja fluorescente)
 Diseno del epitope tagging
 - Criterios de eleccion → Disponibilidad de AcMo anti-Tag
 - Localizacion del Tag → C o N terminal
-- Inmunoprecipitacion → Anti-Tag sepha
+- Inmunoprecipitacion → Anti-Tag sepharosa
+- Deteccion → Western blot
+
+Metodo de purificacion
+- Carga → IEX, IEF, Cromatofocus
+- Tamano → SEC/GF
+- Hidrofobicidad → HIC
+- Cromatografia de afinidad
+
+
+# Sistema de expresion His-Tag
+
+## Objetivo
+
+- Purificar la proteina de interes, por fusion con una cola de His (6-12 residuos) que diferencia de demas proteinas del huesped
+- His se unen con alta afinidad a ciertos iones metalicos (Ni) inmovilizados en una columna de afinidad
+
+**Ventajas**
+- Facilidad en purificacion, inclusive en condiciones desnaturalizantes
+- Aumento de la solubilidad
+- Facilidad en la deteccion
+- Util para obtener proteinas que se encuentran en baja concentracion o carente de anticuerpos para su deteccion
+
+**Desventajas**
+- Alteracion de la activdad proteica
+- Problemas en el plegamiento
+
+Para minimizar los problemas, se inserta Tag en los extremos de la proteina donde sea menos probable que afecte su funcion. 
+Ademas agrega un sitio proteolitico para su posterior eliminacion
+
+## Caracteristicas del vector
+
+- Promotor T7
+- Iniciador de transcripcion T7
