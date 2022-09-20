@@ -73,6 +73,15 @@ Beneficios:
 - mejora solubilidad de la proteina
 - estabiliza la proteina de interes
 
+**Fusiones permiten**
+- Facil y rapida purificacion de la proteina expresada en bacterias, basada en las propiedades del Tag (cromatografia de afinidad, anticuerpos)
+- Direccionar la localizacion de proteinas de fusion en bacterias
+	  - Periplasma → facil purificacion, pocas proteinas contaminantes, ambiente favorable para el buen plegamiento y formacion de puentes disulfuro
+	  - Segregacion al medio → pocas proteinas contaminantes, facil purificacion
+- Aumentar la solubilidad de las proteinas de fusion
+- Caracterizacion de proteinas (Ensayo doble hibrido, GST-pulldown, co-inmunoprecipitacion)
+- Localizacion de proteinas en celulas eucariotas por fusion a proteinas o Tags fluorescentes (microscopia de flurorescencia) o Tag contra los que hay anticuerpos comerciales (inmunofluorescencia)
+
 **Crear proteina de fusion**
 Codon de inicio: ATG (Met)
 Codones STOP: TAG, TGA, TAA
@@ -84,3 +93,18 @@ Promotor → ATG // A // B // MCS
 A → Secuencia Tag
 B → Secuencia concenso (corte de proteasa)
 MCS → Sitio clonado multiple
+
+**Clasificacion de Tags**
+- De purificacion
+	 - Por afinidad a un ligando (GST)
+	   Muy facil purificacion, Aumenta solubilidad de la proteina 
+	 - Por caracteristicas quimicas del Tag (His-Tag)
+	   Tag lineal (4, 6 o 10) His consecutivas.
+	   Muy pequeno (<1 KDa).
+	   Purifica en condiciones desnaturalizantes (Urea 8M).
+	   Buen rendimiento de purificacion, Unico paso de purificacion.
+	   Tag no interfiere con el plegamiento ni con funcion de la proteina.
+	 - Por anticuerpos comerciales (T7, FLAG, HA, C-Myc, Etc)
+	   
+
+
