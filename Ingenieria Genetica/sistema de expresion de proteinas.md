@@ -60,3 +60,12 @@ Que debe tener:
    - Grandes cantidades: Explorar varios sistema huesped y esquemas de purificacion
 3. Proteinas Activas
    Considerar la formacion de cuerpos de inclusion
+
+### Proteina de fusion
+
+Una proteina de interes fusionada con una proteina o peptido conocido, denominado *Tag*, pueden estar en cualquier extremo (NH3 o COO)
+
+*Tag*-proteina // proteina-*Tag*
+
+**Crear proteina de fusion**
+mRNA con ORF, sin STOPs,
