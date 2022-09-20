@@ -68,4 +68,5 @@ Una proteina de interes fusionada con una proteina o peptido conocido, denominad
 *Tag*-proteina // proteina-*Tag*
 
 **Crear proteina de fusion**
-mRNA con ORF, sin STOPs,
+Codon de inicio: ATG (Met)
+Codones STOP: TAG, TGA, TAA
