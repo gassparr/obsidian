@@ -110,3 +110,21 @@ MCS → Sitio clonado multiple
 	  - Secuencias que permiten la secrecion al medio de cultivo (facil purificacion)
 - De aumento de solubilidad → NusA.
 - Localizacion de proteinas → GFP, DsRed. Anticuerpos comerciales contra Tags por inmunofluorescencia
+
+### Localizacion de proteinas
+GFP (Proteina verde fluorescente)
+DsRed (proteina roja fluorescente)
+
+**Epitope Tagging**
+- Epitope de secuencia conocida, tiene anticuerpos especificos
+- Ejerce minimos efectos sobre estructura y funcion de proteina
+- Altamente espefcifica y con minima cross-reactividad
+- Los mas utilizados 
+  HA
+  Myc
+  FLAG
+
+Diseno del epitope tagging
+- Criterios de eleccion → Disponibilidad de AcMo anti-Tag
+- Localizacion del Tag → C o N terminal
+- Inmunoprecipitacion → Anti-Tag sepha
