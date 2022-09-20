@@ -97,7 +97,7 @@ MCS → Sitio clonado multiple
 **Clasificacion de Tags**
 - De purificacion
 	 - Por afinidad a un ligando (GST)
-	   Muy facil purificacion, Aumenta solubilidad de la proteina 
+	   Muy facil purificacion, Aumenta solubilidad de la proteina
 	 - Por caracteristicas quimicas del Tag (His-Tag)
 	   Tag lineal (4, 6 o 10) His consecutivas.
 	   Muy pequeno (<1 KDa).
@@ -105,11 +105,8 @@ MCS → Sitio clonado multiple
 	   Buen rendimiento de purificacion, Unico paso de purificacion.
 	   Tag no interfiere con el plegamiento ni con funcion de la proteina.
 	 - Por anticuerpos comerciales (T7, FLAG, HA, C-Myc, Etc)
-
 - De localizacion en bacterios
 	  - Secuencias de localizacion periplasmica (mejora plegamiento para favorecer formacion de S-S)
 	  - Secuencias que permiten la secrecion al medio de cultivo (facil purificacion)
-
-- De aumento de solubilidad → NusA. 
-- Localizacion de proteinas → GFP, DsRed. Anticuerpos comerciales contra Tags por inmunofluorescenciaMNNMJIKJL6 
-
+- De aumento de solubilidad → NusA.
+- Localizacion de proteinas → GFP, DsRed. Anticuerpos comerciales contra Tags por inmunofluorescencia
