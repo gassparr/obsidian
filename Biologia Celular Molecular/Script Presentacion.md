@@ -6,14 +6,16 @@ Tambien tomaron otra muestra de mix y lo llevaron a un medio que induce la difer
 Filmina 16
 
 Estos últimos resultados los llevo a investigar la importancia del ciclo celular para la producción de células diferenciadas totalmente que terminan formando células pancreáticas y hepáticas. 
+
 Para las células pancréaticas marcan la insulina y llevan a cabo una inmunotincion y qPCR
 En la fase G1 temprano se observa que hay mayor población de células pancreáticas. También se observa lo mismo, altos niveles de insulina y marcadores pancreáticos se expresan en fase G1.
-(L) Fase G1 temprana, diferenciación hacia endodermo, mejora diferenciación pancreática, mientras en fase G1 tardía las células disminuyen la diferenciación pancreática. pancreática. Se marca por inmunomarcador a la insulina. 
+(L) Fase G1 temprana, diferenciación hacia endodermo, mejora diferenciación pancreática, mientras en fase G1 tardía las células disminuyen la diferenciación pancreática. Se marca por inmunomarcador a la insulina. 
 
 Filmina 17
 
 Para las células hepáticas utilizan como marcador FoxA2 y tambien realizan inmunotincion y qPCR Observan lo mismo, la mayor población de células marcadas se encontraba en fase G1 temprana
 Conclusión: La fase del ciclo celular durante la cual las hESCs inician su diferenciación puede influir en su capacidad para generar células diferenciadas.
+
 (M) Estadio del ciclo celular afecta diferenciación hepática. Expresión de marcadores hepáticos en el día 25 de diferenciación muestra variabilidad en el potencial de desarrollo para células que participaron en la diferenciación hacia endodermo.
 
 Filmina 18
