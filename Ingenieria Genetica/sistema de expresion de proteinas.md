@@ -111,7 +111,7 @@ MCS → Sitio clonado multiple
 - De aumento de solubilidad → NusA.
 - Localizacion de proteinas → GFP, DsRed. Anticuerpos comerciales contra Tags por inmunofluorescencia
 
-### Localizacion de proteinas
+## Localizacion de proteinas
 GFP (Proteina verde fluorescente)
 DsRed (proteina roja fluorescente)
 
