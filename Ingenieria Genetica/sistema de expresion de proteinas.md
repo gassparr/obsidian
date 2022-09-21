@@ -196,3 +196,38 @@ ATG…………..GTG CGA A*CC ATG G*
 Ligacion con T4 DNA ligasa
 
 ![500](https://i.imgur.com/825p6bX.png)
+
+**Cepas de clonado**
+
+- recA
+- Deficiente en RNA polimerasa T7 
+- Kanamicina sensible
+
+Produce gran cantidad de plasmidos que se usan para chequear la secuencia obtenida y verificar la obtencion del marco de lectura adecuado
+
+**Antes de purificar**
+
+Ensayo Preliminar
+1. Cultivo de cepa de expresion con y sin inductor (IPTG)
+2. Lisado de celular
+3. Centrifugacion 
+4. Analisis de la presencia de la proteina en el sobrenadante y en el pellet en SDS-PAGE
+
+### Purificacion
+- Se utiliza una columna de afinidad que contiene la resina unida al complejo Acido Nitriloacetico - Ni (+2)
+- Pasos
+  1. Lisis celular
+  2. Union a la matriz
+  3. Lavado
+  4. Elucion
+- Lavado y elucion
+  - concentracion creciente de imidazol 
+  - Disminuir el pH del buffer de elucion 
+  - Agregado de Nal 0.5M para que no se una Ni(+2
+
+**His-Tag**
+- Esquema de purificacion
+- Resinas reusables
+- Alto rendimiento
+
+![400](https://i.imgur.com/IgxojvF.png)
