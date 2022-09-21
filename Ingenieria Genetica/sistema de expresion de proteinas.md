@@ -112,6 +112,7 @@ MCS → Sitio clonado multiple
 - Localizacion de proteinas → GFP, DsRed. Anticuerpos comerciales contra Tags por inmunofluorescencia
 
 ## Localizacion de proteinas
+
 GFP (Proteina verde fluorescente)
 DsRed (proteina roja fluorescente)
 
@@ -119,7 +120,7 @@ DsRed (proteina roja fluorescente)
 - Epitope de secuencia conocida, tiene anticuerpos especificos
 - Ejerce minimos efectos sobre estructura y funcion de proteina
 - Altamente espefcifica y con minima cross-reactividad
-- Los mas utilizados 
+- Los mas utilizados
   HA
   Myc
   FLAG
@@ -135,7 +136,6 @@ Metodo de purificacion
 - Tamano → SEC/GF
 - Hidrofobicidad → HIC
 - Cromatografia de afinidad
-
 
 ## Sistema de expresion His-Tag
 
@@ -154,7 +154,7 @@ Metodo de purificacion
 - Alteracion de la activdad proteica
 - Problemas en el plegamiento
 
-Para minimizar los problemas, se inserta Tag en los extremos de la proteina donde sea menos probable que afecte su funcion. 
+Para minimizar los problemas, se inserta Tag en los extremos de la proteina donde sea menos probable que afecte su funcion.
 Ademas agrega un sitio proteolitico para su posterior eliminacion
 
 ### Caracteristicas del vector
@@ -174,7 +174,25 @@ Ademas agrega un sitio proteolitico para su posterior eliminacion
 Tag a Fusionar // Gen de interes
 
 MET…………..LEU ARG THR
-ATG…………..GTG CGA ACC ATG G
+ATG…………..GTG CGA A*CC ATG G*
+                                       *NcoI*
 
 - El stop de traduccion del gen del tag de fusion debe eliminarse
 - El marco de lectura de la proteina de fusion debe ser contiguo
+
+### Preparacion del inserto
+![500](https://i.imgur.com/IgB612a.png)
+
+### Preparacion del vector 
+
+1. Miniprep
+2. Electroforesis en gel de agarosa 
+3. Digestion con NcoI y XhoI
+4. Electroforesis en gel de agarosa (para ver si digirio)
+5. Cortar banda (espacio donde entra inserto), Inactivar enzimas por calor
+
+### Clonado
+
+Ligacion con T4 DNA ligasa
+
+![500](https://i.imgur.com/825p6bX.png)
