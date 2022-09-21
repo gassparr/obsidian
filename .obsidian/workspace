@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria Genetica/sistema de expresion de proteinas.md",
+            "file": "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253,
-    "collapsed": true
+    "width": 253
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -71,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/sistema de expresion de proteinas.md",
+                "file": "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/sistema de expresion de proteinas.md",
+                "file": "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/sistema de expresion de proteinas.md"
+                "file": "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md"
               }
             }
           }
@@ -112,17 +111,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "a30ed297172ed12d",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
-    "Ingenieria Genetica/Enzimas utilizadas en biologia molecular.md",
-    "Ingenieria Genetica/sistema de expresion de proteinas.md",
+    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
+    "Ingenieria Genetica/Seminarios/Seminario 2.md",
+    "Ingenieria Genetica/vectores de clonado.md",
+    "Ingenieria Genetica/Teorias/sistema de clonado.md",
+    "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Biotecnologia I/Seminario 3 individual.md",
     "Biotecnologia I/Modulo 4.md",
-    "Ingenieria Genetica/Seminario 2.md",
-    "Ingenieria Genetica/sistema de clonado.md",
     "Untitled.md",
-    "Ingenieria Genetica/Seminario 1.md",
-    "Ingenieria Genetica/Restriccion y anti restriccion.md",
-    "Ingenieria Genetica/vectores de clonado.md"
+    "Ingenieria Genetica/Seminarios/Seminario 1.md",
+    "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md"
   ]
 }
