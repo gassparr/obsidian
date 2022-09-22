@@ -23,3 +23,8 @@ Los consumos de sustratos modificaran el pH, por lo que se agregan acidos o base
 **i) Explicá mediante un esquema como pudieron ser determinados experimentalmente dichos valores.**
 
 **ii) Los resultados muestran que en cultivos realizados con diferentes FCE se determinan diferentes velocidades específicas máximas de crecimiento. ¿Esta observación es coherente con el modelo de caja negra que utilizamos en este curso? ¿Por qué? Enumerá 3 variables que pueden afectar µm**
+
+Las variables que pueden afectar a um pueden ser:
+- La temperatura
+- El pH 
+- La composicion del medio
