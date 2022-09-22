@@ -13,7 +13,7 @@ En la fase G1 temprano se observa que hay mayor población de células pancreát
 
 Filmina 17
 
-Para las células hepáticas utilizan como marcador FoxA2 y tambien realizan inmunotincion y qPCR Observan lo mismo, la mayor población de células marcadas se encontraba en fase G1 temprana
+Para las células hepáticas utilizan como marcador (FoxA2) y tambien realizan inmunotincion y qPCR Observan lo mismo, la mayor población de células marcadas se encontraba en fase G1 temprana
 Conclusión: La fase del ciclo celular durante la cual las hESCs inician su diferenciación puede influir en su capacidad para generar células diferenciadas.
 
 (M) Estadio del ciclo celular afecta diferenciación hepática. Expresión de marcadores hepáticos en el día 25 de diferenciación muestra variabilidad en el potencial de desarrollo para células que participaron en la diferenciación hacia endodermo.
@@ -34,6 +34,7 @@ La Inmunoglobulina G se usa como control, porque sabemos que no se une al ADN. R
 Filmina 20
 
 F- Cyclin D double-knockdown cells were analyzed for germ layer marker expression by western blot. 
+
 Ahora querían ver la función de las ciclinas en las células madres embrionarias, entonces silenciaron la expresión de las tres ciclinas en todas las combinaciones posibles.
 Primero silenciaron de a una, y vieron un aumento moderado en la expresión de marcadores del endodermo y mesodermo. Despues silenciaron de a pares y observaron una disminución en los marcadores de pluripotencia y de diferenciación a neuroectodermo, mientras aumentaba la expresión de los marcadores del endodermo. Por ultimo, silencian las 3 a la vez y observan que las células mueren, ósea necesitan de la ciclina D para conservar la pluripotencia entonces para solucionar esto transfectaron células doble silenciamiento con construcciones de simple silenciamiento y un gen reportero GFP para mantener viva la celula y ven que los que aumentan notoriamente son los marcadores de endodermo y mesodermo y se pierde la expresión de los marcadores de pluripotencia.
  Conclusión: las ciclinas D son necesarias para mantener la pluripotencia en hESCs limitando su capacidad de diferenciación en endodermo.
