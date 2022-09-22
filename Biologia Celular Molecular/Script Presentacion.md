@@ -13,7 +13,7 @@ En la fase G1 temprano se observa que hay mayor población de células pancreát
 
 Filmina 17
 
-Para las células hepáticas utilizan como marcador (FoxA2) y tambien realizan inmunotincion y qPCR Observan lo mismo, la mayor población de células marcadas se encontraba en fase G1 temprana
+Para las células hepáticas utilizan como marcador (**FoxA2**) y tambien realizan inmunotincion y qPCR Observan lo mismo, la mayor población de células marcadas se encontraba en fase G1 temprana
 Conclusión: La fase del ciclo celular durante la cual las hESCs inician su diferenciación puede influir en su capacidad para generar células diferenciadas.
 
 (M) Estadio del ciclo celular afecta diferenciación hepática. Expresión de marcadores hepáticos en el día 25 de diferenciación muestra variabilidad en el potencial de desarrollo para células que participaron en la diferenciación hacia endodermo.
@@ -28,7 +28,7 @@ A -  ChIP analyses in Tra-1-60+ sorted FUCCI-hESCs showing Smad2/3 binding on en
 B - Cyclin D1-3 protein expression during days 1–3 of neuroectoderm, endoderm, and mesoderm differentiation shown by western blot analysis.
 
 
-Entonces analizan a Smad2/3 que es un factor de transcripción en esta vía de señalización y Smad2/3 se une específicamente a marcadores de endodermo, llevando a cabo una inmunoprecipitación de cromatina (esta técnica busca conservar la interacción de una proteína en este caso Smad2/3 y el DNA). Lo que hacen es sonicar el ADN para cortar en fragmentos más chicos pero que sigan manteniendo esa interacción con la proteína y … SIGUE EXPLICACION DE COMO ES UNA INMUNOPRECIPITACION DE CROMATINA
+Entonces analizan a Smad2/3 que es un factor de transcripción en esta vía de señalización y Smad2/3 se une específicamente a marcadores de endodermo, llevando a cabo una inmunoprecipitación de cromatina (esta técnica busca conservar la interacción de una proteína en este caso Smad2/3 y el DNA). Lo que hacen es sonicar el ADN para cortar en fragmentos más chicos pero que sigan manteniendo esa interacción con la proteína y … **SIGUE EXPLICACION DE COMO ES UNA INMUNOPRECIPITACION DE CROMATINA**
 La Inmunoglobulina G se usa como control, porque sabemos que no se une al ADN. Realizan esta inmunoprecipitación para cada fase del ciclo celular y lo que se observa es que los marcadores de endodermo estan muy aumentados en la fase G1 temprana y no en las otras fases del ciclo celular.
 
 Filmina 20
