@@ -1,7 +1,8 @@
 Filmina 15 
 
 Ahora lo que analizaron fue si una celula ya diferenciada puede volver hacia atrás y diferenciarse a otra capa germinal. Para eso, del cultivo de las células FUCCI-hESCs tomaron un mix de células y las llevaron a un medio que induce la diferenciación hacia neuroectodermo. 
-Tambien tomaron otra muestra de mix y lo llevaron a un medio que induce la diferenciación hacia endodermo por 12horas y luego lo pasaron a uno que diferencia hacia el neuroectodermo. Hicieron esto mismo con células clasificadas tanto en G1 temprano como G1 tardia. Los resultados del mix de células y G1 tardio muestran que hay un aumento en la expresión de los marcadores de neuroectodermo y las que se encontraban en G1 temprana que primeramente se indujeron a una diferenciación hacia el endodermo pierden la capacidad de diferenciarse hacia neuroectodermo.
+Tambien tomaron otra muestra de mix y lo llevaron a un medio que induce la diferenciación hacia endodermo por 12horas y luego lo pasaron a uno que diferencia hacia el neuroectodermo. 
+Hicieron esto mismo con células clasificadas tanto en G1 temprano como G1 tardia. Los resultados del mix de células y G1 tardio muestran que hay un aumento en la expresión de los marcadores de neuroectodermo y las que se encontraban en G1 temprana que primeramente se indujeron a una diferenciación hacia el endodermo pierden la capacidad de diferenciarse hacia neuroectodermo.
 
 Filmina 16
 
