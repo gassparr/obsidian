@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Script Presentacion.md",
+            "file": "Personal/CV esp.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Script Presentacion.md",
+                "file": "Personal/CV esp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Script Presentacion.md",
+                "file": "Personal/CV esp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Script Presentacion.md"
+                "file": "Personal/CV esp.md"
               }
             }
           }
@@ -113,6 +113,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Script Presentacion.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
     "Ingenieria Genetica/Seminarios/Seminario 2.md",
@@ -121,7 +122,6 @@
     "Biotecnologia I/Seminario 3 individual.md",
     "Biotecnologia I/Modulo 4.md",
     "Untitled.md",
-    "Ingenieria Genetica/Seminarios/Seminario 1.md",
-    "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md"
+    "Ingenieria Genetica/Seminarios/Seminario 1.md"
   ]
 }
