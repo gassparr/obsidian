@@ -4,7 +4,7 @@ Problema 6
 
 ## **a) ¿Cuál fue la proporción de inóculo empleada para la realización de los cultivos en sistema batch en frascos agitados? Teniendo en cuenta los objetivos que se persiguen en la realización de los experimentos ¿qué podría ocurrir si esa concentración fuera mayor?**
 
-La proporcion de inoculo fue del 10%. En el caso de haber utilizado mas inoculo
+La proporcion de inoculo fue del 10%. En el caso de haber utilizado mas inoculo y uno no saber, tendremos errores por defecto ya que los experimentos daran valores acorde a mayor concentracion de inoculo y nosotros utilizaremos calculos con valores acordes al 10%
 
 ## **b) En la figura 2 (a y b) se muestran los resultados de diferentes métodos para el estudio de la evolución de la concentración de biomasa en el tiempo durante cultivo batch de la arquea Haloferax mediterranei. Utilizando solo los resultados mostrados en esas figuras responde:**
 
