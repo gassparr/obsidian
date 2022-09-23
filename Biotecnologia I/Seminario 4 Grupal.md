@@ -1,8 +1,13 @@
 Problema 6
 
-**Utilizando el trabajo científico de Lorantfy et al. 2013, respondé las siguientes consignas:** 
-**a) ¿Cuál fue la proporción de inóculo empleada para la realización de los cultivos en sistema batch en frascos agitados? Teniendo en cuenta los objetivos que se persiguen en la realización de los experimentos ¿qué podría ocurrir si esa concentración fuera mayor?**
-**b) En la figura 2 (a y b) se muestran los resultados de diferentes métodos para el estudio de la evolución de la concentración de biomasa en el tiempo durante cultivo batch de la arquea Haloferax mediterranei. Utilizando solo los resultados mostrados en esas figuras responde:**
+# **Utilizando el trabajo científico de Lorantfy et al. 2013, respondé las siguientes consignas:** 
+
+## **a) ¿Cuál fue la proporción de inóculo empleada para la realización de los cultivos en sistema batch en frascos agitados? Teniendo en cuenta los objetivos que se persiguen en la realización de los experimentos ¿qué podría ocurrir si esa concentración fuera mayor?**
+
+La proporcion de inoculo fue del 10%. En el caso de haber utilizado mas inoculo
+
+## **b) En la figura 2 (a y b) se muestran los resultados de diferentes métodos para el estudio de la evolución de la concentración de biomasa en el tiempo durante cultivo batch de la arquea Haloferax mediterranei. Utilizando solo los resultados mostrados en esas figuras responde:**
+
 **i) ¿Cuáles son las fases de crecimiento que podés distinguir en esas curvas? ¿En cuál de las FCE probadas el crecimiento ocurre a mayor velocidad? ¿Cuál/es son los datos en estas figuras que te permiten llegar a esa conclusión y por qué?** 
 Para (A)
 Fase de lag = +- 9 hs
@@ -22,7 +27,7 @@ Los consumos de sustratos modificaran el pH, por lo que se agregan acidos o base
 **c) En la tabla 2 se muestran valores experimentales de velocidad específica máxima.**
 **i) Explicá mediante un esquema como pudieron ser determinados experimentalmente dichos valores.**
 
-
+![](https://i.imgur.com/PNUOERe.png)
 
 
 **ii) Los resultados muestran que en cultivos realizados con diferentes FCE se determinan diferentes velocidades específicas máximas de crecimiento. ¿Esta observación es coherente con el modelo de caja negra que utilizamos en este curso? ¿Por qué? Enumerá 3 variables que pueden afectar µm**
