@@ -160,7 +160,6 @@ Metilacion de estas inhibe la transcripcion, aun asi los promotores no estan met
 	- Islas CpG
 - RNA pol lll
 
-
 ## Transcripcion en eucariotas
 
 1. Iniciacion
@@ -172,17 +171,31 @@ Metilacion de estas inhibe la transcripcion, aun asi los promotores no estan met
    Adiciona CAP
    Factores para inciar la elongacion
    1. RNA pol II se fosforila en el CTD
-   2. DSIF se liga a RNApII y recruta a NELF, la cual arresta a RNApII 
+   2. DSIF se liga a RNApII y recruta a NELF, la cual arresta a RNApII
    3. Se adicionan enzimas de capping al complejo (Agregan estructuras del cap)
-   4. Enzima cap recruta a PTEF, la cual fosforila al CTD de nuevo 
+   4. Enzima cap recruta a PTEF, la cual fosforila al CTD de nuevo
    5. Fosforilacion genera neutralizacion de NELF, lo cual permite que RNApII siga elongando
 
+      La Cromatina durante la elongacion es manipulada por proteinas y complejos las cuales regulan esta etapa:
+      - Suprimen el pausado
+      - Promueven el pausado
+      - Evitan el frenado
+      - Permiten la elongacion a traves de la cromatina
+
 3. Terminacion
-   Asociada a la adicion de poli A 
+   Asociada a la adicion de poli A
 
 ### Factores de transcripcion y activadores
+
 son requeridos para la activacion de *RNApII*
 
 **Como actuan ?**
 
-1. Modificacion de cromatina
+1. Modificacion de cromatina (antirepresion)
+2. Formacion de PIC
+3. Activacion de PIC (fosforilacion)
+
+**Sistema de doble hibrido de levadura (Y2H)**
+![](https://i.imgur.com/wqgvlWX.png)
+
+# Nivel Post Transcripcional
