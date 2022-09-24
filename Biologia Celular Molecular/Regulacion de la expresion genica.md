@@ -1,6 +1,6 @@
+# Niveles de regulación de la expresión génica en organismos eucariontes.
 
-# Niveles de regulación de la expresión génica en organismos eucariontes. 
-1. Transcripcional 
+1. Transcripcional
    m[[RNA]]:
 	   Codifica para proteinas
    nc[[RNA]]:
@@ -9,7 +9,7 @@
 	   - snoRNA → small nucleolar RNA (modifican el rRNA)
 	   - snRNA → small nuclear RNA (forman spliceosoma)
 	   - IncRNA → long non coding RNA
-	   - sRNA 
+	   - sRNA
 1. Post-transcripcional
 2. Traduccional
 3. Post-traduccional
@@ -18,7 +18,7 @@
 
 ## Herencia
 
-- Genetica 
+- Genetica
 - Congenita
 - Epigenetica
   Cambio potencialmente estable y heredable de la expresion genetica que ocurre sin que se modifique la secuancia del DNA
@@ -28,8 +28,8 @@ Estado inactivo basal → Estado desreprimido → Estado activado
 
 **Estructura de la cromatina**
 - Histonas 2A y 2B
-- Histonas 3 y variantes 
-- Histonas 4 
+- Histonas 3 y variantes
+- Histonas 4
 - Histonas modificadas post traduccionalmente
 - DNA met
 
@@ -38,7 +38,7 @@ Nucleosoma → Octamero de histonas envueltas de DNA
 
 **Organizacion del nucleosoma**
 
-Octamero de histonas 
+Octamero de histonas
 - 2 Tetrameros de H2A, H2B, H3 y H4
 - 147 bp por nucleosoma
 - 1.7 vueltas de DNA por Tetramero
@@ -51,6 +51,12 @@ Octamero de histonas
 
 H1 se une debildmente a nucleosomas acetilados
 
+**Colas de Histonas**
+las colas de histonas atrapan al DNA en el nucleosoma ya que estan cargadas positivamente (el DNA es negativo). Cuando se acetilan, las histonas se vuelven mas neutras y pierden interaccion con el DNA permitiendo la transcripcion
+
+**Modificacion de las histonas**
+La modificacion de las histonas afecta a la estructura de la cromatina, ya que puede comprimirla o descomprimirla
+
 **Orden de compresion del DNA**
 1. DNA
 2. Nucleosomas
@@ -58,13 +64,39 @@ H1 se une debildmente a nucleosomas acetilados
 4. Loops de cromatina
 5. Cromosoma compactado dentro del nucleo
 
+## [[cromatina]]
+
 **Eucromatina**
-- Regiones poco condensadas 
+- Regiones poco condensadas
 - Transcripcionalmente activa
 - Contiene genes housekeeping y genes regulados en respuesta a estimulos endogenos y exogenos
+
 **Heterocromatina**
 - Condensada durante todo el ciclo celular
 - Transcripcionalmente inactiva
 - Contiene DNA repetitivo y algunos genes
 
-Heterocromatina constituv
+Heterocromatina constitutiva
+- telomeros
+- centromeros
+- DNA repetitivo
+
+Heterocromatina facultativa
+Regulada por desarrollo, diferenciacion, estimulos, etc
+
+El DNA que forma parte de la heterocromatina esta altamente metilado
+
+### Organizacion
+Cromatina activada por:
+- Acetilacion
+- Perdida de metilacion
+Cromatina desactivada por:
+- Perdida de acetilacion 
+- Metilacion
+
+**Estado de condensacion**
+- Mediado quimicamente → Modificaciones de las histonas
+- Mediado mecanicamente → Enzimas que hidrolizan ATP (Compactan el DNA sobre un nucleosoma)
+
+
+## M
