@@ -11,4 +11,11 @@
 
 **Citoplasma**
 - Localizacion
-- T
+- Translacion
+- Almacenamiento en granulos
+- decaimiento de mRNA
+- clivaje de mRNA por RISC
+
+
+**Inmunoprecipitacion**
+Utiliza anticuerpos para aislar una proteina conocida
