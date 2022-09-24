@@ -87,17 +87,17 @@ Regulada por desarrollo, diferenciacion, estimulos, etc
 El DNA que forma parte de la heterocromatina esta altamente metilado
 
 ### Organizacion
+
 Cromatina activada por:
 - Acetilacion
 - Perdida de metilacion
 Cromatina desactivada por:
-- Perdida de acetilacion 
+- Perdida de acetilacion
 - Metilacion
 
 **Estado de condensacion**
 - Mediado quimicamente → Modificaciones de las histonas
 - Mediado mecanicamente → Enzimas que hidrolizan ATP (Compactan el DNA sobre un nucleosoma)
-
 
 ## Metilacion del DNA
 
@@ -109,8 +109,62 @@ Cromatina desactivada por:
 Ambos tipos de metilacion ocurre en *transposones, elementos repetidos y genes*
 - Los genes poseen en extremo 5’ *islas CpG
 - Citosina metilada es reconocida por proteinas que reclutan histona deacetilasas (se inactivan)
-- Altos niveles de  CG metilados se asocian a histonas deacetiladas y viceversa (ya que metilacion = inactivacion)
+- Altos niveles de CG metilados se asocian a histonas deacetiladas y viceversa (ya que metilacion = inactivacion)
 
 **islas CpG**
 Regiones ricas en CG que se encuentran antes de un promotor.
 Metilacion de estas inhibe la transcripcion, aun asi los promotores no estan metilados
+
+# Regulacion de la Transcripcion
+
+## Etapas que puede regularse
+
+1. Desrepresion de la cromatina
+2. Union de mas activadores, co activadores, desplazamiento de represores
+3. Interaccion con TFII D y TFII B
+4. Formacion del complejo de preiniciacion
+5. Isomerizacion del complejo cerrado en complejo avierto
+6. Paso de la iniciacion abortiva a elongacion
+7. Transcripcion a traves de nucleosomas
+8. Supresion del pausado y frenado
+9. Terminacion
+
+**Unidad transcripcional de procariontes y eucarioentes**
+
+- Procariotas → Operones
+- Eucariotas → Exones
+
+**Comparacion de mRNA**
+
+- Procariota
+  Extremo 5’ normal
+  RBS → start → stop
+  Cada start tiene un RBS antes
+  Extremo 3’ normal
+
+- Eucariotas
+  Extremo 5’ cap
+  start (AUG) → Stop
+  Extremo 3’ poli A
+
+**RNA polimerasas**
+- RNA pol I
+- RNA pol ll
+  - 12 subunidades
+  - Actividad no puede recuperarse a partir de subunidades purificadas
+  - CTD → C terminal domain (tiene importante rol regulatorio)
+
+	Promotor core → zona mas pequena suficiente para que ocurra la transcripcion in vitro. Formado por:
+	- Tata box → Upstream de start
+	- Initiator element (Inr) → localizado en start
+	- Islas CpG
+- RNA pol lll
+
+
+## Transcripcion en eucariotas
+
+1. Iniciacion
+   es el evento mas regulado
+   Formacion del PIC (complejo de pre iniciacion)
+
+2. Elongacion
