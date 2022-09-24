@@ -9,13 +9,6 @@
 - Checkpoints de control de calidad
 - Exportacion de mRNA
 
-**Citoplasma**
-- Localizacion
-- Translacion
-- Almacenamiento en granulos
-- decaimiento de mRNA
-- clivaje de mRNA por RISC
-
 ## Tecnicas en la remodelacion de cromatina
 
 - Modificacion de Histonas → Inmunoprecipitacion de cromatina
@@ -30,7 +23,7 @@ Utiliza anticuerpos para aislar una proteina conocida
 Protocolo:
 1. Lisar celulas
 2. Incubar solucion con anticuerpos vs proteina de interes
-3. Precipitar el complejo, removiendo el  resto de la solucion
+3. Precipitar el complejo, removiendo el resto de la solucion
 4. Lavar precipitado y centrifugar
 5. Eluir proteinas en buffer
 6. Analisis (SDS-PAGE)
@@ -41,7 +34,7 @@ Utiliza una proteina especifica para observer interaccion entre DNA-Proteina
 1. Lisar celulas
 2. Sonicar DNA (obtiene fragmentos mas pequenos)
 3. Incubar solucion con proteina de interes
-4. Precipitar el complejo, removiendo el  resto de la solucion
+4. Precipitar el complejo, removiendo el resto de la solucion
 5. Lavar precipitado y centrifuga
 6. Eluir complejo y calentar (separa proteinas de DNA)
 7. Separar DNA
@@ -56,8 +49,7 @@ Tecnica para analizar metilacion del genoma en un tipo de nucleotido (A,T,C,G)
 5. PCR
 6. Secuenciado
 
-**Aislamiento de nucleos en celulas taggeadas (INTACT)** #duda 
-
+**Aislamiento de nucleos en celulas taggeadas (INTACT)** #duda
 
 ## Tecnicas en la transcripcion
 
@@ -66,15 +58,25 @@ Hibrida cadenas de DNA marcadas, con sondas.
 Si tengo secuencia de interes tengo marcas
 
 **RNAseq (transcriptoma)**
-
 **Ilumina seq**
-
 **PacBio seq**
-
 **Nanopore seq**
-
 **Diferencia entre microarray y RNAseq**
 - identifica genes nuevos
 - RNA no codificante
 - variantes de splicing
 - Familias genicas
+
+
+
+
+**Citoplasma**
+- Localizacion
+- Traduccion
+- Almacenamiento en granulos
+- decaimiento de mRNA
+- clivaje de mRNA por RISC
+
+## Tecnicas para traduccion
+
+**TRAP**
