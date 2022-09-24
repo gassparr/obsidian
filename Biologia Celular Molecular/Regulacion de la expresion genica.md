@@ -199,3 +199,35 @@ son requeridos para la activacion de *RNApII*
 ![](https://i.imgur.com/wqgvlWX.png)
 
 # Nivel Post Transcripcional
+
+**Splicing de pre mRNA**
+- Intrones comienzan y terminan con secuencias casi invariables
+- Hidrolisis de ATP para ensamblado de spliceosoma (complejo que tiene mismo tamano y complejidad que ribosoma)
+- Splicing inicia con una *A interna*
+- Se utilizan mecanismo de transesterificacion
+
+**Rol de snRNA y snRNP**
+snRNA → small nucleolar RNA
+snRNP → small nucleolar Ribonucleoproteins (RNA + Proteinas)
+
+**Ensamblado de spliceosoma**
+- complejo que tiene mismo tamano y complejidad que ribosoma en el cual ocurre el splicing de pre-mRNA
+- snRNP se ensablam progresivamente en el spliceosoma
+- El ensabamblado requiere ATP
+- El ensamblado utiliza varios factores auxiliares y de splicing
+
+**Splicing alternativo**
+
+Hay distintos formas en la que se hace el splicing entre ellas:
+![](https://i.imgur.com/nZLFmc6.png)
+
+**Degradacion de Mensajeros**
+No son eventos excluyentes uno del otro, su nombre se basa en el primer evento que ocurre
+- Decapping independiente 
+  - Remueve cap / degradacion exonucleolitica 5’ →3’
+- Ruta de deadenilacion 
+  - Remueve poly A / degradacion exonucleolitica 5’ →3’
+  - Remueve poly A / decapping / degradacion exonucleolitica 5’ →3’
+- Rita Endonucleolitica
+  - Sitio de  corte endonucleolitico es digerido (remueve poly A) / degradacion exonucleolitica 5’ →3’
+
