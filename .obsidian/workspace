@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "duda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "a30ed297172ed12d",
+  "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Bioquimica 3/transcripcion.md",

@@ -16,6 +16,12 @@
 - decaimiento de mRNA
 - clivaje de mRNA por RISC
 
+## Tecnicas en la remodelacion de cromatina
+
+- Modificacion de Histonas → Inmunoprecipitacion de cromatina
+- Metilacion de DNA → Secuenciacion de bisulfito
+- Accesibilidad al DNA → ATAC seq
+- Expresion genica → RNA seq
 
 
 **Inmunoprecipitacion**
@@ -49,3 +55,26 @@ Tecnica para analizar metilacion del genoma en un tipo de nucleotido (A,T,C,G)
 4. Conversion a bisulfito (cambia citosina no metilada a uracilo)
 5. PCR
 6. Secuenciado
+
+**Aislamiento de nucleos en celulas taggeadas (INTACT)** #duda 
+
+
+## Tecnicas en la transcripcion
+
+**Microarray cDNA**
+Hibrida cadenas de DNA marcadas, con sondas.
+Si tengo secuencia de interes tengo marcas
+
+**RNAseq (transcriptoma)**
+
+**Ilumina seq**
+
+**PacBio seq**
+
+**Nanopore seq**
+
+**Diferencia entre microarray y RNAseq**
+- identifica genes nuevos
+- RNA no codificante
+- variantes de splicing
+- Familias genicas
