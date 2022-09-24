@@ -99,4 +99,18 @@ Cromatina desactivada por:
 - Mediado mecanicamente → Enzimas que hidrolizan ATP (Compactan el DNA sobre un nucleosoma)
 
 
-## M
+## Metilacion del DNA
+
+- De novo
+  Por accion de DNA metiltransferasas (DMT) (actuan sobre DNA no metilado)
+- Manteniemiento de la metilacion
+  DMT especificas a DNA hemimetilado (replicacion de DNA)
+
+Ambos tipos de metilacion ocurre en *transposones, elementos repetidos y genes*
+- Los genes poseen en extremo 5’ *islas CpG
+- Citosina metilada es reconocida por proteinas que reclutan histona deacetilasas (se inactivan)
+- Altos niveles de  CG metilados se asocian a histonas deacetiladas y viceversa (ya que metilacion = inactivacion)
+
+**islas CpG**
+Regiones ricas en CG que se encuentran antes de un promotor.
+Metilacion de estas inhibe la transcripcion, aun asi los promotores no estan metilados
