@@ -221,13 +221,34 @@ snRNP → small nucleolar Ribonucleoproteins (RNA + Proteinas)
 Hay distintos formas en la que se hace el splicing entre ellas:
 ![](https://i.imgur.com/nZLFmc6.png)
 
-**Degradacion de Mensajeros**
+## Degradacion de Mensajeros
+
 No son eventos excluyentes uno del otro, su nombre se basa en el primer evento que ocurre
-- Decapping independiente 
+- Decapping independiente
   - Remueve cap / degradacion exonucleolitica 5’ →3’
-- Ruta de deadenilacion 
+- Ruta de deadenilacion
   - Remueve poly A / degradacion exonucleolitica 5’ →3’
   - Remueve poly A / decapping / degradacion exonucleolitica 5’ →3’
 - Rita Endonucleolitica
-  - Sitio de  corte endonucleolitico es digerido (remueve poly A) / degradacion exonucleolitica 5’ →3’
+  - Sitio de corte endonucleolitico es digerido (remueve poly A) / degradacion exonucleolitica 5’ →3’
 
+**RNA Turnover**
+- Degradacion dependiente de la deadenilacion del mRNA
+- Degradacion dependiente del decapping del mRNA
+- Degradacion endorribonucleolitica
+
+***Mecanismos de control***
+- Degradacion mediada por informacion sin sentido
+  Detecta presencia de codones de terminacion prematuros en el mRNA e inician la degradacion del mRNA
+
+- Splicing alterado por informacion sin sentindo
+  Induce un splicing alternativo con el fin de remover el codon de stop prematuro, por lo que corrigen el error generando un transcripto de tamano correcto
+
+- Degradacion por falta de STOP
+  Detecta ausencia de codon STOP en el marco de lectura del mRNA maduron e incia la degradacion del transcripto
+
+**Mecanismos que responden a condiciones ambientales**
+
+- Elementos AURE
+- Ribointerruptores
+- Silenciamiento post transcripcional
