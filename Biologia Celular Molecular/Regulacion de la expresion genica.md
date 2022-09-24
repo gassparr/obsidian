@@ -166,9 +166,23 @@ Metilacion de estas inhibe la transcripcion, aun asi los promotores no estan met
 1. Iniciacion
    es el evento mas regulado
    Formacion del PIC (complejo de pre iniciacion)
+   la forsforilacion de RNA pol II activa a PIC
 
 2. Elongacion
    Adiciona CAP
+   Factores para inciar la elongacion
+   1. RNA pol II se fosforila en el CTD
+   2. DSIF se liga a RNApII y recruta a NELF, la cual arresta a RNApII 
+   3. Se adicionan enzimas de capping al complejo (Agregan estructuras del cap)
+   4. Enzima cap recruta a PTEF, la cual fosforila al CTD de nuevo 
+   5. Fosforilacion genera neutralizacion de NELF, lo cual permite que RNApII siga elongando
 
 3. Terminacion
    Asociada a la adicion de poli A 
+
+### Factores de transcripcion y activadores
+son requeridos para la activacion de *RNApII*
+
+**Como actuan ?**
+
+1. Modificacion de cromatina
