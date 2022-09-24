@@ -168,3 +168,7 @@ Metilacion de estas inhibe la transcripcion, aun asi los promotores no estan met
    Formacion del PIC (complejo de pre iniciacion)
 
 2. Elongacion
+   Adiciona CAP
+
+3. Terminacion
+   Asociada a la adicion de poli A 
