@@ -47,3 +47,24 @@ Octamero de histonas
 **Histona H1 (linker)**
 - Histona que se asocia al DNA linker
 - un H1 por cada nucleosoma
+- Efecto represon de la transcripcion
+
+H1 se une debildmente a nucleosomas acetilados
+
+**Orden de compresion del DNA**
+1. DNA
+2. Nucleosomas
+3. Fibras de 30nm
+4. Loops de cromatina
+5. Cromosoma compactado dentro del nucleo
+
+**Eucromatina**
+- Regiones poco condensadas 
+- Transcripcionalmente activa
+- Contiene genes housekeeping y genes regulados en respuesta a estimulos endogenos y exogenos
+**Heterocromatina**
+- Condensada durante todo el ciclo celular
+- Transcripcionalmente inactiva
+- Contiene DNA repetitivo y algunos genes
+
+Heterocromatina constituv
