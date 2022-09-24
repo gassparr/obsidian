@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+            "file": "Biologia Celular Molecular/Regulacion genica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+                "file": "Biologia Celular Molecular/Regulacion genica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+                "file": "Biologia Celular Molecular/Regulacion genica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md"
+                "file": "Biologia Celular Molecular/Regulacion genica.md"
               }
             }
           }
@@ -113,8 +113,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Bioquimica 3/transcripcion.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+    "Bioquimica 3/transcripcion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "[cromatina.md",
     "Biologia Celular Molecular/Script Presentacion.md",
