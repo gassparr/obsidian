@@ -71,5 +71,5 @@ Como se mantiene concentracion de actina libre (actina G)
 El grafico nos da una idea, de que el gasto de ATP es constante y solo tiene funcion reguladora (a simple vista parece futil)
 
 ### Miosinas
-Familia de proteinas motoras mecanoquimicas (utilizan ATP para cambiar conformacion).
+Familia de proteinas motoras mecanoquimicas (utilizan ATP para cambiar conformacion). estan formadas por microfilamento
 Miosinas ligadas a membrana estan asociadas a movimiento de algunas vesiculas
