@@ -80,3 +80,13 @@ Si tengo secuencia de interes tengo marcas
 ## Tecnicas para traduccion
 
 **TRAP**
+purificacion de afinidad de ribosomas traduccionales
+
+1. FLAG taggeado con RPL18 (ribosoma)
+2. Transformacion en plantas
+3. Extracto celular (contiene Polysomas taggeados)
+4. Purificacion por afinidad a ribosomas traduccionales
+5. RNA seq y analisis computacional
+
+
+
