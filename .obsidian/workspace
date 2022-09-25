@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Regulacion genica.md",
+            "file": "Biologia Celular Molecular/Citoesqueleto.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion genica.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion genica.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion genica.md"
+                "file": "Biologia Celular Molecular/Citoesqueleto.md"
               }
             }
           }
@@ -111,17 +111,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "64a0432d31a19d2e",
+  "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md",
+    "Biologia Celular Molecular/Citoesqueleto.md",
+    "Biologia Celular Molecular/Regulacion genica.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Bioquimica 3/transcripcion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "[cromatina.md",
     "Biologia Celular Molecular/Script Presentacion.md",
     "Biotecnologia I/Seminario 4 Grupal.md",
-    "Biotecnologia I/Seminario 3 individual.md",
-    "Biotecnologia I/Modulo 4.md",
-    "Personal/CV esp.md",
-    "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md"
+    "Biotecnologia I/Seminario 3 individual.md"
   ]
 }

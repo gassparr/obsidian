@@ -1,4 +1,4 @@
-## Citoesuqeleto
+## Citoesqueleto
 
 Además de sus numerosos orgánulos delimitados por membrana, el citoplasma eucarionte contiene un conjunto de fibras largas y delgadas denominadas citoesqueleto, éste cumple varias funciones importantes. El citoesqueleto se divide en:
 

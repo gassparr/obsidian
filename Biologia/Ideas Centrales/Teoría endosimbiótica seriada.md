@@ -8,7 +8,7 @@ Se parte de una célula procariota con pared celular y ribosomas y ADN en el cit
 3. Se formaron membranas internas donde se anclaron los ribosomas.
 4. Se constituyó el cito esqueleto. 
 5. El [[DNA]] se adhirió a la membrana de una vesícula invaginada generando el núcleo.
-6. Los micro túbulos del [[Citoesqueleto]] dieron origen al flagelo eucarionte. 
+6. Los micro túbulos del [[Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto]] dieron origen al flagelo eucarionte. 
 7. Las primeras vesículas digestivas evolucionan a lisosomas utilizando enzimas del RE.
 8. Por endosimbiosis de una proteobacteria se formaron [[mitocondria]]. 
 9. La endosimbiosis de cianobacterias condujo al desarrollo de cloroplastos.
