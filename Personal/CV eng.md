@@ -24,19 +24,6 @@ Phone: **+54 9 221 305-4186**
 - Protocol set up for technical services
 - Consult on correct chemical use and procedure
 
-## Skills
-
-**Technical**
-
-- Knowledge of Linux enviroments
-- Office Suite
-- Use of laboratory equipment
-- Driving on B1 license
-
-**Languages**
-English: Fluent 
-Spanish: Mother tongue
-
 ## Education
 
 ### Universidad Nacional de La Plata
@@ -44,8 +31,26 @@ Spanish: Mother tongue
 La Plata, Argentina
 **Biotechnology and Molecular Biology**
 "*2018-In Progress*"
-Advanced student (6 courses until degree) 
+Advanced student (80% completed) 
 Specialization: Molecular Biology
 
 **Technical degree in Chemistry**
 “*2018-2021*”
+
+## Skills
+
+**Technical**
+
+- Java
+- SQL
+- Knowledge of Linux enviroments
+- Office Suite
+- Use of laboratory equipment
+- Design of industrial batch cultures
+- Driving on B1 license
+
+**Languages**
+English: Fluent 
+Spanish: Mother tongue
+
+

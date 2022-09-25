@@ -89,4 +89,4 @@ purificacion de afinidad de ribosomas traduccionales
 5. RNA seq y analisis computacional
 
 
-
+**qPCR**

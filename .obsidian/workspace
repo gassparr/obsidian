@@ -7,8 +7,13 @@
         "id": "a30ed297172ed12d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/CV eng.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/CV eng.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -76,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/CV eng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/CV eng.md"
+              }
             }
           }
         ],
@@ -102,12 +111,12 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "64a0432d31a19d2e",
+  "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Citoesqueleto.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md",
     "Biologia Celular Molecular/Regulacion genica.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+    "Biologia Celular Molecular/Citoesqueleto.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md",
     "Bioquimica 3/transcripcion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "[cromatina.md",
