@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/CV eng.md",
+            "file": "Biologia Celular Molecular/Citoesqueleto.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CV eng.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CV eng.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CV eng.md"
+                "file": "Biologia Celular Molecular/Citoesqueleto.md"
               }
             }
           }
@@ -113,6 +113,7 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Personal/CV eng.md",
     "Biologia Celular Molecular/Regulacion genica.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
@@ -121,7 +122,6 @@
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "[cromatina.md",
     "Biologia Celular Molecular/Script Presentacion.md",
-    "Biotecnologia I/Seminario 4 Grupal.md",
-    "Biotecnologia I/Seminario 3 individual.md"
+    "Biotecnologia I/Seminario 4 Grupal.md"
   ]
 }

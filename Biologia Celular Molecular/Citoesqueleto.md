@@ -19,6 +19,13 @@ El citoesqueleto se encuentra asociado a la membrana plasmatica paradarle forma 
 - **Queratina** → Eucaria
 - Laminina → Eucaria
 
+se asocian con la membrana nuclear y la membrana citoplasmatica, brindando sosten estructural a la celula para protegerlas contra presiones y tensiones
+
+- Rol importante constituyendo tonofilamentos de los desmosomas y uniones intermedias
+- En celulas nerviosas forman neurofilamentos para el transporte axonal
+- Relacionadas con el esfuerzo mecanico
+
+***Localizaciomn**
 # Microfilamentos
 
 Fuertemente asociada al movimiento celular
@@ -73,3 +80,12 @@ El grafico nos da una idea, de que el gasto de ATP es constante y solo tiene fun
 ### Miosinas
 Familia de proteinas motoras mecanoquimicas (utilizan ATP para cambiar conformacion). estan formadas por microfilamento
 Miosinas ligadas a membrana estan asociadas a movimiento de algunas vesiculas
+
+**Contraccion muscular**
+Hidrolisis de ATP genera cambios conformacionales de miosina
+
+**Miosina II**
+Confiere rigidez a la membrana y desempena rol esencial en citocinesis (ya que genera el anillo contractil)
+
+### Movimiento celular
+Actina se reordena para generar extenciones celulares las cuales se adhieren a la superficie, y permiten la movilidad de la misma
