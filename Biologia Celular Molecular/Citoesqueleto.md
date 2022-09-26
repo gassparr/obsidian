@@ -64,6 +64,10 @@ Durante la mitosis, los centromeros elongan micotubulos los cuales se extenderan
 **Centromeros**
 Los microtubulos se fijan a los centromero
 
+**Cilios y flagelos**
+son estructuras moviles construidas a partir de microtubulos y dineinas.
+
+La dineina + ATP puede generar, o deslizamientos de los microtubulos o doblamientos en el caso de los flagelos
 # Filamentos intermedios
 
 - **Queratina** → Eucaria
@@ -153,3 +157,15 @@ Confiere rigidez a la membrana y desempena rol esencial en citocinesis (ya que g
 ## Movimiento celular
 
 Actina se reordena para generar extenciones celulares las cuales se adhieren a la superficie, y permiten la movilidad de la misma
+
+# Tecnicas de estudio
+
+**Microscopia de fluorescencia**
+- inmunofluorescencia → anticuerpos fluorescencia
+- Fluorescencia → injecta compuestos fluorescentes en celulas vivas
+- Microscopia de video → Para ver motilidad in vitro
+- Microscopia electronica
+
+**Direccionamiento del transporte vesicular**
+SNARE → Especifidad y fusion
+Rab GTPasas → Union inicial y enganche a membrana target the SNARE
