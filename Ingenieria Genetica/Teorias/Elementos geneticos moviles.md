@@ -49,4 +49,18 @@ Se van a utilizar [[transposones]], se usan para silenciar gener
 FAGO U → Se integra a los genomas como un transposon
 
 **Moviloma**
-[]Elementos trabs
+[]Elementos transponibles
+- Elementos de clase 2 → Elementos dentro del DNA que se separan y despues se insertan en un target. El lugar que ocupaba el transposon, puede o quedar vacio (cut and paste) o se puede rellenar (copy and paste)
+- Elementos de clase 1 → Se transcriben, se transcriben de forma reversa y se insertan
+
+**Elementos transponibles de clase 2**
+Secuencias de insercion
+*Estructura*:
+Genoma//secuencia repetida//Insertion sequence//secuencia repetida//Genoma
+
+La secuencia de transpososas tiene en los extremos una secuencia revertida (ATCG/ secuencia/ GCTA)
+
+este tipo de estructura nos permite ver si dos cepas distintas tienen secuencias repetidas iguales
+
+*Como se insertan ?*
+La transposasa corta sobre los IR (Secuencias repetida) y en un sitio del DNA target, ahi es donde se dirige la IS. Aun asi se puede volver a mover
