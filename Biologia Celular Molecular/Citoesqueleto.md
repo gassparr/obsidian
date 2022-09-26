@@ -167,5 +167,7 @@ Actina se reordena para generar extenciones celulares las cuales se adhieren a l
 - Microscopia electronica
 
 **Direccionamiento del transporte vesicular**
-SNARE → Especifidad y fusion
-Rab GTPasas → Union inicial y enganche a membrana target the SNARE
+- SNARE → Especifidad y fusion
+  SNARE v → vesicula
+  SNARE t → Membrana
+- Rab GTPasas → Union inicial y enganche a membrana target the SNAREs v y t correctas
