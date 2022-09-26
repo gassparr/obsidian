@@ -14,6 +14,30 @@ El citoesqueleto se encuentra asociado a la membrana plasmatica paradarle forma 
 - **Tubulina** → Eucariota
 - FtsZ → Bacteria
 
+Datos:
+- Participan en movilidad celular: Separacion de cromosomas, movimiento de vesiculas, cilios y flagelos
+- MTOC: Centro organizador de microtubulos, organiza el trafico de vesiculas y la localizacion de organelas, da polaridad a la celulas. En la mitosis organiza el huso
+- Dos tipos de MT: estables y de vida media/corta
+
+Estructura:
+- Heterodimero
+  Alfa + Beta tubulinas
+- Protofilamento
+  Formado por heterodimeros
+- Microtubulo
+  13 protofilamentos
+
+
+**Ensamblaje de microtubulos**
+
+1. Ensamblaje de protofilamentos (Se agregan tubulinas alfa y beta)
+2. Ensamblaje de laminas
+3. Elongacion de microtubulos
+
+**Inestabilidad de los microtubulos**
+- Vida media → 10 min
+- Vida media de tubulina → 20 horas
+- Una tubulina formara part
 # Filamentos intermedios
 
 - **Queratina** → Eucaria
@@ -25,7 +49,19 @@ se asocian con la membrana nuclear y la membrana citoplasmatica, brindando soste
 - En celulas nerviosas forman neurofilamentos para el transporte axonal
 - Relacionadas con el esfuerzo mecanico
 
-***Localizaciomn**
+**Localizacion**
+- epitelios
+- axones (celulas nerviosas)
+- Celulas musculares
+
+**Similitudes y diferencias con microfilamentos y microtubulos**
+- Se asocian a membrana (como los microfilamentos)
+- No participan en movimiento ni transporte de vesiculas (como microfilamentos)
+- Son muy estables en su estructura (como microfilamentos)
+- no unen ni hidrolizan nucleotidos
+- Forman estructuras tipo soga a partir de varillas formadas por alfa helices
+- No polares
+
 # Microfilamentos
 
 Fuertemente asociada al movimiento celular
@@ -77,7 +113,8 @@ Como se mantiene concentracion de actina libre (actina G)
 ![](https://i.imgur.com/E1gxqOm.png)
 El grafico nos da una idea, de que el gasto de ATP es constante y solo tiene funcion reguladora (a simple vista parece futil)
 
-### Miosinas
+## Miosinas
+
 Familia de proteinas motoras mecanoquimicas (utilizan ATP para cambiar conformacion). estan formadas por microfilamento
 Miosinas ligadas a membrana estan asociadas a movimiento de algunas vesiculas
 
@@ -87,5 +124,6 @@ Hidrolisis de ATP genera cambios conformacionales de miosina
 **Miosina II**
 Confiere rigidez a la membrana y desempena rol esencial en citocinesis (ya que genera el anillo contractil)
 
-### Movimiento celular
+## Movimiento celular
+
 Actina se reordena para generar extenciones celulares las cuales se adhieren a la superficie, y permiten la movilidad de la misma
