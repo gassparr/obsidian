@@ -1,0 +1,1 @@
+Elementos de DNA moviles que pueden pasar de una parte a otra por lo comun dentro del mismo genoma

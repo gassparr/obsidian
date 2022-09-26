@@ -35,9 +35,18 @@ puede decir que la modificacion de ese gen sea el causante de la perdida del fen
 - Mutagensis delecional
 
 Mutar un unico gen
+
 **Mutagensis generalizada**
 - Mutagenesis quimica
 - Mutegensis fisica
 - Mutagensis por transposicion
 
-Mutar de tal forma que obtengo todos los genes alterados
+Mutar de tal forma que obtengo todos los genes alterados 1 o pocos genes a la vez.
+
+Se van a utilizar [[transposones]], se usan para silenciar gener
+
+*FAGO P* →
+FAGO U → Se integra a los genomas como un transposon
+
+**Moviloma**
+[]Elementos trabs
