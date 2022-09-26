@@ -32,12 +32,27 @@ Estructura:
 
 1. Ensamblaje de protofilamentos (Se agregan tubulinas alfa y beta)
 2. Ensamblaje de laminas
-3. Elongacion de microtubulos
+3. Elongacion de microtubulos (hidrolisis de GTP)
 
 **Inestabilidad de los microtubulos**
-- Vida media → 10 min
+- Vida media de microtubulo → 10 min
 - Vida media de tubulina → 20 horas
-- Una tubulina formara part
+- Una tubulina formara parte de varios microtubulos
+- Crecimiento rapidos → tubulina se incorpora mas rapido que hidrolisis de GTP
+- Hidrolisis de GTP → Formacion de un casquete
+
+**Drogas que interfieren con microtubulos**
+- Colchina → Impide polimerizacion de tubulina
+- Taxol → Estabiliza microtubulos (no se pueden desarmar)
+- Vincritina y Vimblastina → Impiden la formacion de microtubulos
+
+**MTOC (centros organizadores de microtubulos)**
+- En animales son centrosomas
+- Contienen par de centriolos
+- En plantas y hongos no poseen centriolos
+- Determinan polaridad de los microtubulos
+- 
+
 # Filamentos intermedios
 
 - **Queratina** → Eucaria
