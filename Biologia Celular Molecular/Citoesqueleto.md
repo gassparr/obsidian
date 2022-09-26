@@ -51,7 +51,18 @@ Estructura:
 - Contienen par de centriolos
 - En plantas y hongos no poseen centriolos
 - Determinan polaridad de los microtubulos
-- 
+
+**MAP (proteinas asociada a microtubulo)**
+- Dineina → de extremo positivo a negativo
+- Kinesina → de extremo negativo a positivo
+
+Las kinesinas mueven vesiculas ‘‘caminando’’ sobre los microtubulos
+
+**Mitosis**
+Durante la mitosis, los centromeros elongan micotubulos los cuales se extenderan y romperan la celular
+
+**Centromeros**
+Los microtubulos se fijan a los centromero
 
 # Filamentos intermedios
 
