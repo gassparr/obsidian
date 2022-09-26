@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
+            "file": "transposones.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
+                "file": "transposones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
+                "file": "transposones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md"
+                "file": "transposones.md"
               }
             }
           }
@@ -113,8 +113,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "transposones.md",
     "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
+    "transposones.md",
     "biblioteca genomica.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "Personal/CV eng.md",
