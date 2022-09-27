@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Citoesqueleto.md",
+            "file": "Biologia Celular Molecular/Tecnicas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Citoesqueleto.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Citoesqueleto.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Citoesqueleto.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           }
@@ -111,8 +111,9 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "64a0432d31a19d2e",
+  "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Citoesqueleto.md",
     "Biologia Celular Molecular/Matriz extracelular.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "images/image6.png.md",
@@ -121,7 +122,6 @@
     "Ingenieria Genetica/Miscellaneous/transposones.md",
     "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
     "Ingenieria Genetica/Miscellaneous/biblioteca genomica.md",
-    "Biologia Celular Molecular/Citoesqueleto.md",
     "Personal/CV eng.md"
   ]
 }
