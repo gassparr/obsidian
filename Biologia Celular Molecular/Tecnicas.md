@@ -8,11 +8,11 @@ TAIL PCR: Técnica que se usa para obtener secuencias desconocidas que están a
 
 ¿Cómo hago para direccionar un fluoróforo a un sitio específico y poder visualizar fluorescencia sólo allí? Se fusiona GFP a una proteína que sea direccionada específicamente a la organela que quiera visualizar. Ejemplo: si quiero observar fluorescencia en los microtúbulos debo fusionar GFP a una proteína específica del Golgi.
 
-Microscopía confocal: Permite observar dimensiones. El microscopio confocal emplea una técnica óptica de imagen para incrementar el contraste y/o reconstruir imágenes tridimensionales utilizando un "pinhole" espacial para eliminar la luz desenfocada o destellos de la lente en especímenes que son más gruesos que el plano focal.​ Es precisamente el pinhole (agujerito) el que otorga la confocalidad.
+**Microscopía confocal**: Permite observar dimensiones. El microscopio confocal emplea una técnica óptica de imagen para incrementar el contraste y/o reconstruir imágenes tridimensionales utilizando un "pinhole" espacial para eliminar la luz desenfocada o destellos de la lente en especímenes que son más gruesos que el plano focal.​ Es precisamente el pinhole (agujerito) el que otorga la confocalidad.
 
-Citometría de flujo: es una técnica de análisis que permite identificar a diferentes poblaciones celulares simultáneamente, así como obtener gran información de ellas dependiendo de las proteínas que se expresen. Se cuantifican las células que van pasando de a una.
+**Citometría de flujo**: es una técnica de análisis que permite identificar a diferentes poblaciones celulares simultáneamente, así como obtener gran información de ellas dependiendo de las proteínas que se expresen. Se cuantifican las células que van pasando de a una.
 
-Método de marcado de las integrinas utilizado en paper 3 (no sé el nombre):
+**Método de marcado de las integrinas utilizado en paper 3 (no sé el nombre):**
 
 Se marcan las integrinas y se dejan internalizar en la célula de manera que las que internalicen quedarán marcadas mientras que las que se encuentren en superficie quedarán sin marcar. Para que se internalicen debo permeabilizar, y si no realizo este paso entonces sólo estaré visualizando las integrinas en superficie.
 
@@ -24,13 +24,13 @@ Control: Se adiciona únicamente el anticuerpo secundario
 
 Hay anticuerpos que reconocen específicamente la conformación activa de una proteína.
 
-Antibiótico nocodazol: Antibiótico que ejerce su efecto en las células al interferir con la polimerización de los microtúbulos. Su efecto es reversible.
+**Antibiótico nocodazol**: Antibiótico que ejerce su efecto en las células al interferir con la polimerización de los microtúbulos. Su efecto es reversible.
 
-Ensayo de raspado: Se realiza para ver cuántas células (en condiciones de cultivo) vuelven a colonizar el espacio de la herida. Se ensaya a tiempos cortos para confirmar que se trate de una consecuencia de la movilidad celular y no de proliferación. Además, al cultivo no se le agrega suero para evitar que las células se encuentren en condiciones óptimas para dividirse (más allá de que no tengan tiempo de dividirse debido a que el ensayo se realiza a tiempos cortos como se dijo anteriormente).
+**Ensayo de raspado**: Se realiza para ver cuántas células (en condiciones de cultivo) vuelven a colonizar el espacio de la herida. Se ensaya a tiempos cortos para confirmar que se trate de una consecuencia de la movilidad celular y no de proliferación. Además, al cultivo no se le agrega suero para evitar que las células se encuentren en condiciones óptimas para dividirse (más allá de que no tengan tiempo de dividirse debido a que el ensayo se realiza a tiempos cortos como se dijo anteriormente).
 
-Construcción de GFP + proteína: Se utiliza en uno de los ensayos para que, al introducirse en las células mutantes, se pueda comparar si llegan a tener el mismo nivel de propagación/expansión que las células normales (wt). En este paper, la definición de “propagación” no se evalúa en términos de la división celular sino que se hace referencia a la capacidad que tienen las células de aplastarse sobre el sustrato y expandirse.
+**Construcción de GFP + proteína**: Se utiliza en uno de los ensayos para que, al introducirse en las células mutantes, se pueda comparar si llegan a tener el mismo nivel de propagación/expansión que las células normales (wt). En este paper, la definición de “propagación” no se evalúa en términos de la división celular sino que se hace referencia a la capacidad que tienen las células de aplastarse sobre el sustrato y expandirse.
 
-Combinación de técnicas Frap-Flip (paper 4): La pérdida de fluorescencia en el blanqueamiento fotográfico es una técnica de microscopía de fluorescencia utilizada para examinar el movimiento de las moléculas dentro de las células y las membranas. Una membrana celular se marca típicamente con un tinte fluorescente para permitir la observación.
+**Combinación de técnicas Frap-Flip (paper 4):** La pérdida de fluorescencia en el blanqueamiento fotográfico es una técnica de microscopía de fluorescencia utilizada para examinar el movimiento de las moléculas dentro de las células y las membranas. Una membrana celular se marca típicamente con un tinte fluorescente para permitir la observación.
 
 Cuando un fluoróforo se blanquea, no vuelve a recuperar la fluorescencia (esa proteína no vuelve a fluorescer). El blanqueamiento se da por incidencia de un láser direccionado a un sitio específico, el cual se quema.
 
