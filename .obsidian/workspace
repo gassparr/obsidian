@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "transposones.md",
+            "file": "Biologia Celular Molecular/Tecnicas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transposones.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transposones.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transposones.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           }
@@ -113,13 +113,13 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+    "Biologia Celular Molecular/Regulacion genica.md",
+    "Ingenieria Genetica/Miscellaneous/transposones.md",
     "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
-    "transposones.md",
-    "biblioteca genomica.md",
+    "Ingenieria Genetica/Miscellaneous/biblioteca genomica.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "Personal/CV eng.md",
-    "Biologia Celular Molecular/Regulacion genica.md",
-    "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md",
     "Bioquimica 3/transcripcion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
