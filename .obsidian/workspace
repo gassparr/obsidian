@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Matriz extracelular.md",
+            "file": "Biologia Celular Molecular/Citoesqueleto.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Matriz extracelular.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Matriz extracelular.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Matriz extracelular.md"
+                "file": "Biologia Celular Molecular/Citoesqueleto.md"
               }
             }
           }
@@ -111,11 +111,11 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "a30ed297172ed12d",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Matriz extracelular.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "images/image6.png.md",
-    "Biologia Celular Molecular/Matriz extracelular.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Biologia Celular Molecular/Regulacion genica.md",
     "Ingenieria Genetica/Miscellaneous/transposones.md",
