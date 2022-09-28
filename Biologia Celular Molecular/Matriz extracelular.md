@@ -54,3 +54,7 @@ El colageno tipo iv forma la red de la lamina basal
 - Forma funcional fibrilar
 - Forman red interconectada rodeada 
 - Tienen dominios de union a fibrina, colageno, heparina a las celulas (receptores para integrinas)
+- Participa en formacion de coagulo
+- Median la adhesion y funcionamiento celular
+
+Al desenrollarse, se liberan los sitios de union a las integrinas
