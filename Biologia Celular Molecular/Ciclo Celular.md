@@ -75,4 +75,18 @@ Los niveles de CDK son relativamente constantes a lo largo del ciclo, lo que var
 Causa que ciclinas M se destruyan a partir de la anafase, haciendo que las celulas salgan de la mitosis permitiendo que celulas hijas entren a G1.
 Por otro lado destruye las proteinas que mantienen las cromatidas unidas y permite su superacion en la anafase
 
-APC/C es una kinasa
+APC/C es una kinasa, la cual ubiquitina a la proteina blanco. La ubiquitina sirve como marcador para el proteosoma el cual sera el encargado de la degradacion
+
+## MPF
+
+Complejo formado por Ciclina M y CDK, el cual promueve la transicion del ciclo. 
+Se acumula a medida que se acerca G2/M.
+MPF agrega etiquetas de fosfato a la envoltura nuclear, lo que resulta en la descomposicion de la misma. Tambien activa la condensacion de los cromosomas
+
+## P53
+Proteinas de respuesta al dna del DNA, es un supresor tumoral.
+Por un lado:
+1. Detiene el ciclo celular en el punto de control G1 (activa la produccion de proteinas inhibidoras CDK 1)
+2. CDK1 se fija a complejos CDK-cyclina y bloquan la actividad (Dando tiempo para la reparacion de DNA)
+
+Por el otro, activa las enzimas de reparacion del DNA, si el dano es irreparable, p53 activa la apoptosis previniendo mutacion que se transmitan
