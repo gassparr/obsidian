@@ -80,7 +80,8 @@ Las ciclinas para activar o inactivar proteinas blanco, se asocian a estas activ
 Las CDK fosforilas las proteinas blanco.
 Los niveles de CDK son relativamente constantes a lo largo del ciclo, lo que varia es su actividad
 
-
+**Regulacion**
+Cualquier complejo de Ciclina CDK puede ser regulado por p27 (inactivandolo)
 
 ## APC/C
 
@@ -89,21 +90,21 @@ Por otro lado destruye las proteinas que mantienen las cromatidas unidas y permi
 
 APC/C es una kinasa, la cual ubiquitina a la proteina blanco. La ubiquitina sirve como marcador para el proteosoma el cual sera el encargado de la degradacion
 
-**Regulacion de la activacion**
-regulado por CK1.
-APC/C + p27 → APC/C inactivo
+
 ## MPF
 
 Complejo formado por Ciclina M y CDK, el cual promueve la transicion del ciclo.
 Se acumula a medida que se acerca G2/M.
 MPF agrega etiquetas de fosfato a la envoltura nuclear, lo que resulta en la descomposicion de la misma. Tambien activa la condensacion de los cromosomas
 
+
+
 ## P53
 
 Proteinas de respuesta al dna del DNA, es un supresor tumoral.
 Por un lado:
-1. Detiene el ciclo celular en el punto de control G1 (activa la produccion de proteinas inhibidoras CDK 1)
-2. CDK1 se fija a complejos CDK-cyclina y bloquan la actividad (Dando tiempo para la reparacion de DNA)
+1. Detiene el ciclo celular en el punto de control G1 (activa la produccion de proteinas inhibidoras CKI)
+2. CKI se fija a complejos CDK-cyclina y bloquan la actividad (Dando tiempo para la reparacion de DNA)
 
 Por el otro, activa las enzimas de reparacion del DNA, si el dano es irreparable, p53 activa la apoptosis previniendo mutacion que se transmitan
 
