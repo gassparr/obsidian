@@ -53,4 +53,4 @@ Especialización: Procesos Biotecnologicos
 **Idiomas**
 
 Inglés: Fluido
-Español: Lengua materna
+Español: Nativo

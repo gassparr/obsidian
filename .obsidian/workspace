@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Tecnicas.md",
+            "file": "Personal/CV eng.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "Personal/CV eng.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "Personal/CV eng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md"
+                "file": "Personal/CV eng.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Personal/CV esp.md",
+    "Personal/CV eng.md",
+    "Biologia Celular Molecular/Tecnicas.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "Biologia Celular Molecular/Matriz extracelular.md",
-    "Biologia Celular Molecular/Tecnicas.md",
     "images/image6.png.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Biologia Celular Molecular/Regulacion genica.md",
     "Ingenieria Genetica/Miscellaneous/transposones.md",
-    "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
-    "Ingenieria Genetica/Miscellaneous/biblioteca genomica.md",
-    "Personal/CV eng.md"
+    "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md"
   ]
 }
