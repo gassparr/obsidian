@@ -60,3 +60,8 @@ El colageno tipo iv forma la red de la lamina basal
 Al desenrollarse, se liberan los sitios de union a las integrinas lo cual permite actuar como reguladores mecanicos, activando celulas
 
 ### Laminina
+
+## Proteasas de la matriz extracelular
+- Metaloproteasas: Colagenasas, gelatinasas, stromelisinas, matrilisinas, MTMMPs y MMP
+- Tienen un motivo de dedo de zinc conservado
+- Fundamentales en procesos de remodelacion de tejido, inflamacion, cancer
