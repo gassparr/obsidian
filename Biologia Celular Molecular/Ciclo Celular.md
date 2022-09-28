@@ -18,6 +18,7 @@ Duplica una estructura de organizacion de microtubulos llamado centrosoma estos 
 Celula crece, hace proteinas y organelos. Comienza a reorganizar su contenido en preparacion para la mitosis. Esta fase termina cuando mitosis arranca
 
 ### Punto de control G1
+
 Punto de decision donde se ve si se divide o no, si la celula pasa el punto de control G1 se compromete a la division.
 Verifica:
 - Tamano celular
@@ -26,13 +27,13 @@ Verifica:
 - Dano al DNA
 
 ### Punto de control G2
+
 Verifica la produccion de celulas hijas sanas.
 Verifica:
 - Integridad del DNA
 - Replicacion del DNA
 
 Si detecta errores se detiene en el control G2 para realizar reparaciones. Si el dano es irremediable la celula puede experimentar apoptosis
-
 
 ## Fase Mitotica
 
@@ -47,8 +48,31 @@ DNA nuclear se concensa en cromosomas visibles y es separado por el huso mitotic
 - Telofase
 
 ### Citocinesis
+
 Citoplasma de la celula se divide en dos y forma 2 celulas nuevas, esto comienza apenas termina la mitosis.
 Para celulas animales, se forma una banda de fibras citoesqueletis llamadas anillo contractil el cual parte la celula en 2
 
 ### Punto de control del huso
+
 Examina si las cromatidas hermanas estan unidas correctamente al huso ya que la separacion de las cromatidas es un paso irreversible
+
+# Reguladores
+
+## Ciclinas
+
+Reguladores centrales del ciclo celular, existen cuatro tipos:
+Ciclinas G1, Ciclinas G1/S, Ciclinas S, Ciclinas M.
+Cada ciclina promueve los eventos de la fase que indica, por lo que su concentracion varia dependiendo de la fase
+
+## CDKs
+Cyclin dependant kinase.
+Las ciclinas para activar o inactivar proteinas blanco, se asocian a estas activandolas y permitiendo la modificacion de las proteinas blanco.
+Las CDK fosforilas las proteinas blanco. 
+Los niveles de CDK son relativamente constantes a lo largo del ciclo, lo que varia es su actividad
+
+## APC/C
+
+Causa que ciclinas M se destruyan a partir de la anafase, haciendo que las celulas salgan de la mitosis permitiendo que celulas hijas entren a G1.
+Por otro lado destruye las proteinas que mantienen las cromatidas unidas y permite su superacion en la anafase
+
+APC/C es una kinasa
