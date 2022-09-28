@@ -90,3 +90,7 @@ Por un lado:
 2. CDK1 se fija a complejos CDK-cyclina y bloquan la actividad (Dando tiempo para la reparacion de DNA)
 
 Por el otro, activa las enzimas de reparacion del DNA, si el dano es irreparable, p53 activa la apoptosis previniendo mutacion que se transmitan
+
+Microtubulos Astrales → estan hacia los extremos y fijan la estructura a la membrana
+Microtubulos Polares → polimerizan y despolimerizan hasta dar con un cromosoma donde se forman 
+Microtubulos del cinetocoro → Unidos al centromero
