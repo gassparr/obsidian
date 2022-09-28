@@ -47,3 +47,10 @@ El colageno tipo iv forma la red de la lamina basal
 - Se asocian a colageno
 
 ## Proteinas de Adhesion
+
+### Fibronectina
+- Variedades por splicing alternativo de un gen
+- Variantes de M.E y celulares
+- Forma funcional fibrilar
+- Forman red interconectada rodeada 
+- Tienen dominios de union a fibrina, colageno, heparina a las celulas (receptores para integrinas)
