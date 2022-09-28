@@ -35,3 +35,15 @@ La matriz es altamente dinamica, y se ve en constante remodelacion por accionar 
 
 Comienza en el RE y termina fuera de la celula donde se forman interacciones INTRA e INTERmoleculares de las Lys.
 Estas interacciones generan interacciones laterales entre las triple helices
+
+**Tipo IV**
+El colageno tipo iv forma la red de la lamina basal
+
+### Elastina
+- Parte de las fibras elasticas
+- Forma parte de M.E
+- Presente en grandes vasos
+- Ensambladas temprananmente en el desarrollo y tienen bajo recambio
+- Se asocian a colageno
+
+## Proteinas de Adhesion
