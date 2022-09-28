@@ -6,15 +6,17 @@
 
 **Composicion**
 - Proteinas fibrosas
-- Proteoglicanos/glucosaminoglucanos
-  Proteglicanos: 
+
+- Proteoglicanos
   Dan soporte a la matriz celulas; sitios de union para numerosas moleculas.
   Hidrofilicas, forman hidrogel para compresibilidad y resistencia
   A estos se unen los GAGs
+
+- glucosaminoglucanos
 - Proteinas de adhesion
 - Glicosaminoglicanos (GAGs)
   Muy negativas; Captan Na+; Higroscopicas; Gran volumen; Semi rigidas
-  
+
 
 Se unen entre si, como los receptores de adhesion celular, formando una red en la cual residen las celulas
 
@@ -22,3 +24,14 @@ Se unen entre si, como los receptores de adhesion celular, formando una red en l
 
 Los receptores de la superficie celular, transducen senales desde la matriz hasta adentro de la celulas, en donde regulan distintas funciones para la supervivencia, el crecimiento, la migracion y la diferenciacion.
 La matriz es altamente dinamica, y se ve en constante remodelacion por accionar enzimatico de distintas celulas. La desregulacion de la composicion y estructura de la matriz se debe al desarrollo de patologias
+
+## Proteinas Fibrosas
+
+### Colageno
+- Es la proteinas mas abundante en M.E
+- Secretada por fibroblastos
+
+**ensamblado**
+
+Comienza en el RE y termina fuera de la celula donde se forman interacciones INTRA e INTERmoleculares de las Lys.
+Estas interacciones generan interacciones laterales entre las triple helices
