@@ -57,4 +57,6 @@ El colageno tipo iv forma la red de la lamina basal
 - Participa en formacion de coagulo
 - Median la adhesion y funcionamiento celular
 
-Al desenrollarse, se liberan los sitios de union a las integrinas
+Al desenrollarse, se liberan los sitios de union a las integrinas lo cual permite actuar como reguladores mecanicos, activando celulas
+
+### Laminina
