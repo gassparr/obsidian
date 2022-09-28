@@ -49,8 +49,17 @@ DNA nuclear se concensa en cromosomas visibles y es separado por el huso mitotic
 
 ### Citocinesis
 
-Citoplasma de la celula se divide en dos y forma 2 celulas nuevas, esto comienza apenas termina la mitosis.
-Para celulas animales, se forma una banda de fibras citoesqueletis llamadas anillo contractil el cual parte la celula en 2
+Citoplasma de la celula se divide en dos y forma dos celulas nuevas, esto comienza apenas termina la mitosis.
+Para celulas animales, se forma una banda de Actina y miosina II para formar anillo contractil el cual parte la celula en dos.
+
+#### Anillo contractil
+
+- Necesita ATP 
+- Formado por Actina y Miosina II
+- Puede ser detenido por citocalasinas → Inhiben polimerizacion de actina
+- **Ubicacion** → Definida por los microtubulos polares del huso
+- **Momento** → Luego de la separacion de los cromosomas
+
 
 ### Punto de control del huso
 
@@ -71,6 +80,8 @@ Las ciclinas para activar o inactivar proteinas blanco, se asocian a estas activ
 Las CDK fosforilas las proteinas blanco.
 Los niveles de CDK son relativamente constantes a lo largo del ciclo, lo que varia es su actividad
 
+
+
 ## APC/C
 
 Causa que ciclinas M se destruyan a partir de la anafase, haciendo que las celulas salgan de la mitosis permitiendo que celulas hijas entren a G1.
@@ -78,6 +89,9 @@ Por otro lado destruye las proteinas que mantienen las cromatidas unidas y permi
 
 APC/C es una kinasa, la cual ubiquitina a la proteina blanco. La ubiquitina sirve como marcador para el proteosoma el cual sera el encargado de la degradacion
 
+**Regulacion de la activacion**
+regulado por CK1.
+APC/C + p27 → APC/C inactivo
 ## MPF
 
 Complejo formado por Ciclina M y CDK, el cual promueve la transicion del ciclo.
@@ -93,7 +107,8 @@ Por un lado:
 
 Por el otro, activa las enzimas de reparacion del DNA, si el dano es irreparable, p53 activa la apoptosis previniendo mutacion que se transmitan
 
-## Aparato Mitotico
+
+# Aparato Mitotico
 
 - Microtubulos Astrales → estan hacia los extremos y fijan la estructura a la membrana
 - Microtubulos Polares → Generan fuerza de repulsion para separar a los centrosomas.
