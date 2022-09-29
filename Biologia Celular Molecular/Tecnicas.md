@@ -138,7 +138,7 @@ Sistema indicador de ciclo celular basado en la ubiquitinización fluorescente e
 
 Fucci marca el núcleo con mCherry (rojo) o mVenus (azul) siguiendo un patrón que depende del ciclo celular.  Fucci (CA) proporciona una expresión abundante de mCherry durante la fase G1 con una reducción acusada en la fluorescencia roja al final de la fase G1. Fucci (CA) puede usarse para detectar con fiabilidad una fase G1 corta y distinguir las fases S y G2, lo que anteriormente era difícil de conseguir.
 
-Medida de la actividad relativa de la Luciferasa:
+**Medida de la actividad relativa de la Luciferasa:**
 
 Se genera en un plásmido, como vimos en bioqui 3, un inserto de la sección del promotor del gen de interés y se analiza la actividad de un gen reportero, en este caso es la luciferasa que genera luz entonces la medimos la actividad relativa de la Luciferasa pero en verdad estamos viendo la actividad que debería tener nuestra proteína de interés porque esta usando su promotor
 
