@@ -10,6 +10,10 @@ Canales entre celulas vecinas que permiten transporte de iones, agua y otras sus
 - Conexinas → Forman estructura alargada llamada Conexon para formar un canal con otro conexon
 
 # Uniones estrechas
-Sello a prueba de agua entre 2 celula
+Sello a prueba de agua entre 2 celulas
+
+**Composicion**
+
+Claudinas → Filamentos que forman red ramificada 
 
 # Desmosomas
