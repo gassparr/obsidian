@@ -58,9 +58,10 @@ Hibrida cadenas de DNA marcadas, con sondas.
 Si tengo secuencia de interes tengo marcas
 
 **RNAseq (transcriptoma)**
-**Ilumina seq**
-**PacBio seq**
-**Nanopore seq**
+- Ilumina seq
+- PacBio seq
+- Nanopore seq
+
 **Diferencia entre microarray y RNAseq**
 - identifica genes nuevos
 - RNA no codificante
