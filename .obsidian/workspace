@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "citome",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +111,7 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "a30ed297172ed12d",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
     "Biologia Celular Molecular/Ciclo Celular.md",
     "Biologia Celular Molecular/Tecnicas.md",

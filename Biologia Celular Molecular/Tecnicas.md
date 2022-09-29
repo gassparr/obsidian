@@ -1,15 +1,18 @@
 
 **TAIL PCR:**
-Técnica que se usa para obtener secuencias desconocidas que están adyacentes a secuencias conocidas.
-![](https://i.imgur.com/YRxkVRT.png)
 
+Técnica que se usa para obtener secuencias desconocidas que están adyacentes a secuencias conocidas.
+
+![](https://i.imgur.com/YRxkVRT.png)
 
 ¿Cómo hago para direccionar un fluoróforo a un sitio específico y poder visualizar fluorescencia sólo allí? Se fusiona GFP a una proteína que sea direccionada específicamente a la organela que quiera visualizar. Ejemplo: si quiero observar fluorescencia en los microtúbulos debo fusionar GFP a una proteína específica del Golgi.
 
 **Microscopía confocal**: 
+
 Permite observar dimensiones. El microscopio confocal emplea una técnica óptica de imagen para incrementar el contraste y/o reconstruir imágenes tridimensionales utilizando un "pinhole" espacial para eliminar la luz desenfocada o destellos de la lente en especímenes que son más gruesos que el plano focal.​ Es precisamente el pinhole (agujerito) el que otorga la confocalidad.
 
 **Citometría de flujo**: 
+
 es una técnica de análisis que permite identificar a diferentes poblaciones celulares simultáneamente, así como obtener gran información de ellas dependiendo de las proteínas que se expresen. Se cuantifican las células que van pasando de a una.
 
 **Método de marcado de las integrinas utilizado en paper 3 (no sé el nombre):**
@@ -31,9 +34,11 @@ Antibiótico que ejerce su efecto en las células al interferir con la polimeri
 Se realiza para ver cuántas células (en condiciones de cultivo) vuelven a colonizar el espacio de la herida. Se ensaya a tiempos cortos para confirmar que se trate de una consecuencia de la movilidad celular y no de proliferación. Además, al cultivo no se le agrega suero para evitar que las células se encuentren en condiciones óptimas para dividirse (más allá de que no tengan tiempo de dividirse debido a que el ensayo se realiza a tiempos cortos como se dijo anteriormente).
 
 **Construcción de GFP + proteína**:
+
 Se utiliza en uno de los ensayos para que, al introducirse en las células mutantes, se pueda comparar si llegan a tener el mismo nivel de propagación/expansión que las células normales (wt). En este paper, la definición de “propagación” no se evalúa en términos de la división celular sino que se hace referencia a la capacidad que tienen las células de aplastarse sobre el sustrato y expandirse.
 
 **Combinación de técnicas Frap-Flip (paper 4):**
+
 La pérdida de fluorescencia en el blanqueamiento fotográfico es una técnica de microscopía de fluorescencia utilizada para examinar el movimiento de las moléculas dentro de las células y las membranas. Una membrana celular se marca típicamente con un tinte fluorescente para permitir la observación.
 
 Cuando un fluoróforo se blanquea, no vuelve a recuperar la fluorescencia (esa proteína no vuelve a fluorescer). El blanqueamiento se da por incidencia de un láser direccionado a un sitio específico, el cual se quema.
@@ -109,6 +114,7 @@ Secundaria o indirecta: hace uso de dos anticuerpos; el anticuerpo primario es e
 Pasos: Fijación- Permeabilización - Bloqueo- Inmunodetección (1° o 2°)
 
 **Western Blot:**
+
 es una técnica de laboratorio utilizada para detectar una proteína específica en una muestra. El método implica el uso de electroforesis en gel para separar las proteínas de la muestra. Las proteínas separadas se transfieren del gel a la superficie de una membrana. La membrana se expone a un anticuerpo específico de la proteína diana. La unión del anticuerpo se detecta utilizando una etiqueta radiactiva o química.
 
 Pasos:
