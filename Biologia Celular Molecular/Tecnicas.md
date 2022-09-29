@@ -18,10 +18,10 @@ Se marcan las integrinas y se dejan internalizar en la célula de manera que las
 
 Para diferenciar las que no se internalizaron de las que lo hicieron y volvieron a salir: primero marco con ácido las de afuera, espero un tiempo para que las que internalizaron vuelvan a salir y debo tener en cuenta que éstas tienen adherido un anticuerpo primario cuya fluorescencia se suele perder, por lo que les adicionaré un anticuerpo secundario (que tiene el fluoróforo que servirá para luego poder cuantificar al momento del revelado). Las que estaban afuera (y nunca entraron) no fluorescen debido al agregado de ácido previo a la salida de las que habían entrado al interior celular.
 
-Control: Se adiciona únicamente el anticuerpo secundario
+Control: 
 
+Se adiciona únicamente el anticuerpo secundario
  y se mide la fluorescencia para ver si éste se pegaba a otra cosa distinta de la proteína con anticuerpo primario a la que queremos que se una (en el control no estará presente).
-
 Hay anticuerpos que reconocen específicamente la conformación activa de una proteína.
 
 **Antibiótico nocodazol**:
