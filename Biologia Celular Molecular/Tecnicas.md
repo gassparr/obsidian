@@ -28,9 +28,11 @@ Se adiciona únicamente el anticuerpo secundario
 Hay anticuerpos que reconocen específicamente la conformación activa de una proteína.
 
 **Antibiótico nocodazol**:
+
 Antibiótico que ejerce su efecto en las células al interferir con la polimerización de los microtúbulos. Su efecto es reversible.
 
 **Ensayo de raspado**: 
+
 Se realiza para ver cuántas células (en condiciones de cultivo) vuelven a colonizar el espacio de la herida. Se ensaya a tiempos cortos para confirmar que se trate de una consecuencia de la movilidad celular y no de proliferación. Además, al cultivo no se le agrega suero para evitar que las células se encuentren en condiciones óptimas para dividirse (más allá de que no tengan tiempo de dividirse debido a que el ensayo se realiza a tiempos cortos como se dijo anteriormente).
 
 **Construcción de GFP + proteína**:
