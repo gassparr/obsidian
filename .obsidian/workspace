@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Matriz extracelular.md",
+            "file": "Biologia Celular Molecular/Regulacion genica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Matriz extracelular.md",
+                "file": "Biologia Celular Molecular/Regulacion genica.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Matriz extracelular.md",
+                "file": "Biologia Celular Molecular/Regulacion genica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Matriz extracelular.md"
+                "file": "Biologia Celular Molecular/Regulacion genica.md"
               }
             }
           }
@@ -113,14 +113,14 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Biologia Celular Molecular/Tecnicas.md",
+    "Biologia Celular Molecular/Matriz extracelular.md",
     "Biologia Celular Molecular/Ciclo Celular.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
-    "Biologia Celular Molecular/Matriz extracelular.md",
     "Personal/CV eng.md",
     "Personal/CV esp.md",
     "images/image6.png.md",
-    "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Biologia Celular Molecular/Regulacion genica.md",
     "Ingenieria Genetica/Miscellaneous/transposones.md"
   ]
