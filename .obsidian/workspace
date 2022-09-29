@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biologia Celular Molecular/Ciclo Celular.md",
+            "file": "Biologia Celular Molecular/Tecnicas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p27",
+                "query": "citome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Ciclo Celular.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Ciclo Celular.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Ciclo Celular.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           }
@@ -114,8 +114,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Tecnicas.md",
     "Biologia Celular Molecular/Ciclo Celular.md",
+    "Biologia Celular Molecular/Tecnicas.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "Biologia Celular Molecular/Matriz extracelular.md",
     "Personal/CV eng.md",
