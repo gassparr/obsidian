@@ -1,4 +1,4 @@
-
+ 
 **TAIL PCR:**
 
 Técnica que se usa para obtener secuencias desconocidas que están adyacentes a secuencias conocidas.
