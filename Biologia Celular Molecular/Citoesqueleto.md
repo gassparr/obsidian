@@ -68,6 +68,7 @@ Los microtubulos se fijan a los centromero
 son estructuras moviles construidas a partir de microtubulos y dineinas.
 
 La dineina + ATP puede generar, o deslizamientos de los microtubulos o doblamientos en el caso de los flagelos
+
 # Filamentos intermedios
 
 - **Queratina** → Eucaria
@@ -145,7 +146,7 @@ El grafico nos da una idea, de que el gasto de ATP es constante y solo tiene fun
 
 ## Miosinas
 
-Familia de proteinas motoras mecanoquimicas (utilizan ATP para cambiar conformacion). estan formadas por microfilamento
+Familia de proteinas motoras mecanoquimicas (utilizan ATP para cambiar conformacion). estan formadas por microfilamentos
 Miosinas ligadas a membrana estan asociadas a movimiento de algunas vesiculas
 
 **Contraccion muscular**

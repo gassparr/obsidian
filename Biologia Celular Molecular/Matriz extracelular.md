@@ -1,5 +1,5 @@
 - Rodea a las celulas
-- Formado por: porteinas, moleculas senal, glucidos y otras sustancias secretadas por las celulas
+- Formado por: proteinas, moleculas senal, glucidos y otras sustancias secretadas por las celulas
 - Funcion estructural, da soporte y forma los tejidos
 - Reservorio y medio de transporte de las moleculas senal
 - Fundamental durante morfogenesis y desarrollo
