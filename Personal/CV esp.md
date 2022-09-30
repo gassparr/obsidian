@@ -9,7 +9,7 @@ Phone: **+54 9 221 305-4186**
 
 *La Plata*
 **Ayudante Alumno**
-“*2018*”
+“*2018-2019*”
 
 - Ayudar alumnos en fisica y matematica
 - Organizacion de clases 
@@ -17,7 +17,7 @@ Phone: **+54 9 221 305-4186**
 ### KpK Works
 
 *Neuquen*
-**Consultor Quimico**
+**Tecnico Quimico**
 “*2020-2022*”
 
 - Responsable de la formación del personal
@@ -52,5 +52,5 @@ Especialización: Procesos Biotecnologicos
 
 **Idiomas**
 
-Inglés: Fluido
+Inglés: Bilingüe
 Español: Nativo
