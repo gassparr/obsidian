@@ -29,3 +29,11 @@ El fago o plasmido cubren los sitios con proteinas que no permiten la identifica
 
 Problema 5.
 
+G / G A T C    C
+C    C T A G / G
+
+
+-GATCC
+
+A. Luego de la ligacion, la probabilidad sera 1/4 
+B. Una vez que se tiene el inserto, la probabilidado9
