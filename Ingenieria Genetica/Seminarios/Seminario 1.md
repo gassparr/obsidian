@@ -8,3 +8,4 @@ Problema 2
 - Fago rb(-) mb(+):
 - Fago rk(-) mk(+):
 - Fago rb(+) mb(+)/rk(+) mk(+)::
+
