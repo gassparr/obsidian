@@ -40,3 +40,5 @@ B. Una vez que se tiene el inserto, la probabilidad sera de 1/16
 
 Problema 6.
 
+Ya que tengo 4 bases y la chance de encontrar 1 es 1/4.
+Si yo quiero una secuencia especifica de 19pb la probabilidad sera de (1/4)^19
