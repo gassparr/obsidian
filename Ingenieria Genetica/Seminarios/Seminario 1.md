@@ -41,4 +41,4 @@ B. Una vez que se tiene el inserto, la probabilidad sera de 1/16
 Problema 6.
 
 Ya que tengo 4 bases y la chance de encontrar 1 es 1/4.
-Si yo quiero una secuencia especifica de 19pb la probabilidad sera de (1/4)^19
+Si yo quiero una secuencia especifica de 19pb la probabilidad sera de (1/4)^19 = n* 10^-12 lo cual nos indica que encuentra una secuencia cada 10^12 bases por lo que la probabilidad es 0
