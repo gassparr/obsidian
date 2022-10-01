@@ -36,4 +36,7 @@ C    C T A G / G
 -GATCC
 
 A. Luego de la ligacion, la probabilidad sera 1/4 
-B. Una vez que se tiene el inserto, la probabilidado9
+B. Una vez que se tiene el inserto, la probabilidad sera de 1/16
+
+Problema 6.
+
