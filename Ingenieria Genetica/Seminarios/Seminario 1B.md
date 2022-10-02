@@ -31,3 +31,37 @@ Para la ligación requiero purificar los plasmidos e insertos romos y llevarlos 
 
 Luego de la ligación se procede a transformar bacterias con estos plásmidos en caldo LB y luego se selecciona con antibiótico. Con ampicilina identificamos bacterias que hayan obtenido plasmidos de las que no, ahora bien podrian haber captado solo el plásmido sin inserto. Para saber cual tiene el plásmido y cual no deberia agregar xgal y quedarme con las colonias blancas. 
 
+
+**Responda además las siguientes preguntas:
+a- Si tiene que transformar en romo los extremos 5’ protruyentes de un inserto que se libera al digerir un plásmido con la enzima EcoRI. ¿Qué enzima usaría como primera opción, y por qué? Qué componentes pondría en la mezcla de reacción.**
+
+  
+
+La digestion del plásmido + inserto con EcoRI deja el siguiente corte  
+G🔻AATTC    →  G-OH  
+CTTAA🔻G          CTTAA-5’
+
+Para transformar el extremo a romo utilizaria el fragmento de Klenow que contiene la subunidad polimerasa de DNA pol de E Coli. Este fragmento utilizaria al extremo protruyente como molde y va a polimerizar agregando nucleótidos en el 3’-OH libre
+
+G          → dNTPs+ Fragmento de Klenow→  GAATT  
+CTTAA                                                             CTTAA
+
+En la mezcla de reacción pondria el inserto digerido, el buffer adecuado para el funcionamiento de la enzima, dNTPs y por ultimo la enzima. Debo tener en cuenta la temperatura de trabajo.
+
+  
+
+**b- Y si el inserto tuviera extremos 3’ protruyentes y quisiera obtener extremos romos, ¿Qué enzima usaría como primera opción, y por qué?**
+
+ Si tuviera extremos 3’ protruyentes y los quisiera convertir en romo utilizaria la T4 DNA Pol, la cual tienen una actividad exonucleasa 3’ → 5’ más fuerte en el ADN simple hebra que en doble hebra y 200 veces más fuerte que la DNA polimerasa y el fragmento de Klenow.
+
+En la mezcla de reacción debo poner buffer de la enzima, dNTPs, el pUC18 digerido y la la T4 pol, a la temperatura adecuada. El uso de dNTPS en esta mezcla es debido para que cuando la enzima degrade el DNA protruyente y se encuentre con un 3’OH y retome su actividad polimerasa y no degrade más DNA del deseado
+
+  
+
+C- ¿Cómo haría para marcar en una sola de las cadenas el fragmento EcoRI que obtiene por digestión en el punto a-de modo de obtener una sonda específica de cadena.
+
+ Conoce la secuencia del inserto. Dispone de las enzimas que necesite, de cuba electroforética para ácidos nucleicos, agarosa, tampón TBE, y demás reactivos de uso corriente en un laboratorio de genética molecular.
+
+Para marcar una sola de las cadenas del fragmento EcoRI podria hacer una digestión del plásmido con inserto y luego a esa digestion hacer un End filling, que consta de tratar a los fragmentos digeridos con los extremos 5’ protruyentes con el fragmento de Klenow en presencia de dNTPs marcados. Luego de este paso deberia tratar a la nueva cadena con otra enzima que corte al DNA grande para despues poder identificar donde estan las sondas.
+
+**
