@@ -14,6 +14,7 @@ Para digerir el pGemT voy a necesitar una mezcla de reacción que tenga: un buff
 
 En la otra mezcla de reacción voy a agregar buffer adecuado para la ER, H2O, el plásmido purificado y por último KpnI.
 
+
  Una vez que terminó el tiempo de la digestión hay que comprobar si la misma fue efectiva, esto lo vamos a comprobar usando un gel de agarosa. En este gel vamos a sembrar un patron de peso molecular, a un control del plásmido sin digerir, y a la muestra digerida.
 
 Si salio todo bien, en la calle donde siembro el pGemT esperaría ver dos bandas, la que corre más se va a corresponder con el plásmido (2,6 kb), y la que corra menos al inserto (4kb).
@@ -24,8 +25,9 @@ Para continuar deberia purificar el inserto y el plásmido (por separado) de las
 
  Luego debería purificar el inserto para poder modificar sus extremos y hacerlos compatibles con el sitio de la otra enzima. Observando las secuencias que quedan luego del corte con las enzimas EcoRI y KpnI pensaría en llevar a los extremos, tanto del inserto como del vector, a romo y ligarlos con una ligasa. 
 
+Para aumentar la eficacia de transformacion con plásmidos que contienen el inserto, antes de la ligacion deberia haber tratado al vector con una fosfatasa para desfosforilar el 5’.
+
 Para la ligación requiero purificar los plasmidos e insertos romos y llevarlos a otra mezcla de ligación que contenga el buffer para la enzima que voy a utilizar, Mg++, ATPs y T4 ligasa. Se baja la temperatura a 16 grados para que baje la energia cinetica de las moléculas y aumenta la chance de que se dé la ligación. 
 
 Luego de la ligación se procede a transformar bacterias con estos plásmidos en caldo LB y luego se selecciona con antibiótico. Con ampicilina identificamos bacterias que hayan obtenido plasmidos de las que no, ahora bien podrian haber captado solo el plásmido sin inserto. Para saber cual tiene el plásmido y cual no deberia agregar xgal y quedarme con las colonias blancas. 
 
-Para aumentar la eficacia de transformacion con plásmidos que contienen el inserto, antes de la ligacion deberia haber tratado al vector con una fosfatasa para desfosforilar el 5’.**
