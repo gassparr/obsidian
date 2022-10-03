@@ -102,7 +102,10 @@ Para cada una de las siguientes enzimas utilizadas en clonados moleculares:**
 **a- Transcriptasa reversa murina (MLV)**
 Polimerasa RNA y DNA especifice. Permite convertir ssRNA en dsDNA
 **b- T4 ADN Ligasa**
-c- ADN Ligasa del E. coli
+Fosforilasa, se puede utilizar para ligar extremos cohesivos o romos de DNA y puede ligar RNA a DNA. Requiere ATP
+**c- ADN Ligasa del E. coli**
+Fosforilasa, no puede ligar extremos romos y no puede unir RNA a DNA
+Requiere NAD
 e- ADN polimerasa I
 f- Transferasa terminal
 g- Fosfatasa alcalina bacteriana (E. coli)
