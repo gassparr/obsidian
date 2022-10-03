@@ -106,11 +106,13 @@ Fosforilasa, se puede utilizar para ligar extremos cohesivos o romos de DNA y pu
 **c- ADN Ligasa del E. coli**
 Fosforilasa, no puede ligar extremos romos y no puede unir RNA a DNA
 Requiere NAD
-e- ADN polimerasa I
-f- Transferasa terminal
-g- Fosfatasa alcalina bacteriana (E. coli)
-h- Bacteriofago T4 polinucleótido kinasa
-i- Exonucleasa III
+**e- ADN polimerasa I**
+Actividad 3’-5’ y 5’-3’ exonucleasa y procesamiento de fragmentos de okazaki
+**f- Transferasa terminal**
+Actividad transferasa, utilizada para marcar DNA o producir vectores. Agrega dNTPs en el extremo 3’ sin la necesidad de un primer
+**g- Fosfatasa alcalina bacteriana (E. coli)**
+**h- Bacteriofago T4 polinucleótido kinasa**
+**i- Exonucleasa III**
 
 **Especifique:
 i) Actividad enzimática
