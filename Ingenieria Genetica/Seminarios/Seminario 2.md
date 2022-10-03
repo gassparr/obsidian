@@ -20,7 +20,7 @@ La estabilidad de pA es mas alta que la de pB ya que perdura en el tiempo.
 - Recombinacion sitio especifica
 - Sistema toxina / anti toxina (postsegregacional)
 
-**c) ¿Cómo explica Ud. la aparición de 0,01% de clones con la doble resistencia en el ensayo del punto 2.2.? ¿Cómo evaluaría experimentalmente de modo sencillo si su hipótesis es correcta?**
+**c) ¿Cómo explica Ud. la aparición de 0,01% de clones con la doble resistencia en el ensayo del punto 2? ¿Cómo evaluaría experimentalmente de modo sencillo si su hipótesis es correcta?**
 
 la aparicion de 0.01 con doble resistencia se puede explicar a partir de que, las bacterias con AB son menos competentes para la replicacion, debido a que tienen que gastar mas para crecer y dividirse
 
