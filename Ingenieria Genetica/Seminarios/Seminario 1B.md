@@ -89,22 +89,25 @@ Cuando estos extremos protruyentes se fusionan no se regenera ningun sitio de co
 Acerca de las siguientes polimerasas: PolI, Klenow, Pfx, Taq. Indique similitudes, diferencias y usos.**
 **Luego: indique si las siguientes afirmaciones son verdaderas (V) o falsas (F) (Justifique).
 a) La DNA Pol T4 es más utilizada que el fragmento Klenow para rellenar cuando hay extremos 5´protruyentes por su mayor actividad exonucleasa 3´-5´.**
-Las DNA pol T4 son mas agresivas con su actividad exonucleasa, lo cual las hace menos utilizadas para rellenar extremos 5’
+FALSO. Las DNA pol T4 son mas agresivas con su actividad exonucleasa, lo cual las hace menos utilizadas para rellenar extremos 5’
 **b) La PFX Polimerasa tiene una taza de error más baja que la Taq Polimerasa.**
-Verdadero, es la polimerasa con menor taza de error
+VERDADERO, es la polimerasa con menor taza de error
 **c) La Polimerasa I de E. coli no puede ser utilizada para Nick translation porque carece de la actividad exonucleasa 5´-3´.**
+FALSO. La Pol1 tiene actividad exonucleasa 5’→ 3’ por lo que se puede usar para nick translation
 **d) Con la actividad exonucleasa 5´-3’(Nick translation) del fragmento Klenow y en presencia de dNTPs marcados se marcan las dos hebras de un fragmento de DNA, mientras que con fosfatasa alcalina sólo se marca una de las hebras en su extremo 5´P.**
+VERDADERO
 
 **PROBLEMA 4.
-Para cada una de las siguientes enzimas utilizadas en clonados moleculares:
-a- Transcriptasa reversa murina (MLV)
-b- T4 ADN Ligasa
+Para cada una de las siguientes enzimas utilizadas en clonados moleculares:**
+**a- Transcriptasa reversa murina (MLV)**
+Polimerasa RNA y DNA especifice. Permite convertir ssRNA en dsDNA
+**b- T4 ADN Ligasa**
 c- ADN Ligasa del E. coli
 e- ADN polimerasa I
 f- Transferasa terminal
 g- Fosfatasa alcalina bacteriana (E. coli)
 h- Bacteriofago T4 polinucleótido kinasa
-i- Exonucleasa III**
+i- Exonucleasa III
 
 **Especifique:
 i) Actividad enzimática
