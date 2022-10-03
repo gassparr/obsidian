@@ -124,9 +124,12 @@ iii) Al menos una posible aplicación**
 **PROBLEMA 5
 Usted desea montar un laboratorio de biología molecular. Con ese objetivo está realizando un relevamiento de las enzimas que necesitará para encargarlas a un proveedor local. Describa una posible enzima que utilizaría para cumplir con cada uno de los objetivos que se describen a continuación, indicando de modo conciso la actividad enzimática, cómo la utilizaría y los requerimientos específicos cuando corresponda.**
 
-**a) Detección de secuencias específicas de ADN para el diagnóstico molecular de infecciones bacterianas (sólo se requiere informar resultados positivos/negativos).
-b) Construcción de sondas de ADN específicas de hebra.
-c) Detección de secuencias específicas de RNA para el diagnóstico molecular de infecciones por ARN-virus.**
+**a) Detección de secuencias específicas de ADN para el diagnóstico molecular de infecciones bacterianas (sólo se requiere informar resultados positivos/negativos).**
+PCR con taq polimerasa
+
+**b) Construcción de sondas de ADN específicas de hebra.**
+
+**c) Detección de secuencias específicas de RNA para el diagnóstico molecular de infecciones por ARN-virus.**
 
 **PROBLEMA 6
 Usted se encuentra trabajando en la división de investigación y desarrollo de una reconocida empresa biotecnológica, específicamente en el área de aislamiento y caracterización de nuevas ADN polimerasas.
