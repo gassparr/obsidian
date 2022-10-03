@@ -135,9 +135,17 @@ Transcriptasa reversa
 
 **PROBLEMA 6
 Usted se encuentra trabajando en la división de investigación y desarrollo de una reconocida empresa biotecnológica, específicamente en el área de aislamiento y caracterización de nuevas ADN polimerasas.
-Recientemente ha aislado y caracterizado una novedosa polimerasa termoestable que presenta las siguientes actividades: actividad ADN polimerasa 5’->3’, fuerte actividad 3’->5’ exonucleasa, alta fidelidad y muy alta procesividad (hasta 30 Kpb). No posee las siguientes actividades: Transferasa terminal, 5’->3’ exonucleasa, desplazamiento de cadena.
-Indique si la nueva polimerasa podrá utilizarse para los siguientes fines. Justifique y describa brevemente.
-a) Diagnóstico molecular de infecciones causadas por ADN-virus.
-b) Nick translation.
+Recientemente ha aislado y caracterizado una novedosa polimerasa termoestable que presenta las siguientes actividades: 
+actividad ADN polimerasa 5’->3’, fuerte actividad 3’->5’ exonucleasa, alta fidelidad y muy alta procesividad (hasta 30 Kpb).
+No posee las siguientes actividades: Transferasa terminal, 5’->3’ exonucleasa, desplazamiento de cadena.
+Indique si la nueva polimerasa podrá utilizarse para los siguientes fines. Justifique y describa brevemente.**
+
+**a) Diagnóstico molecular de infecciones causadas por ADN-virus.**
+Para una PCR es necesario tener una alta fidelidad ya que sino se propagan muchos errores. 
+Por otro lado la actividad 3’→ 5’ exonucleasa es encesaria para corregir los nucleotidos mal incorporados
+
+**b) Nick translation.**
+Ya que no tenemos actividad 5’ → 3’ exonucleasa no podremos hacer nick translation. 
+
 c) Degradación de extremos 3’ protruyentes.
 d) Clonado de productos de PCR con extremos romos.**
