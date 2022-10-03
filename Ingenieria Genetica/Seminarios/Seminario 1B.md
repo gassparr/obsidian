@@ -182,8 +182,8 @@ Ya que no tenemos actividad 5’ → 3’ exonucleasa no podremos hacer nick tra
 **c) Degradación de extremos 3’ protruyentes.**
 
 Como tenemos actividad 3’ → 5’ exonucleasa, podremos digerir los extremos 3’ protuyentes
-5’ NNN*NNNN* 3’
-3’ NNN 5’
+> 5’ NNN*NNNN* 3’
+   3’ NNN 5’
 
 **d) Clonado de productos de PCR con extremos romos.**
 
