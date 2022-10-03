@@ -128,8 +128,10 @@ Usted desea montar un laboratorio de biología molecular. Con ese objetivo está
 PCR con taq polimerasa
 
 **b) Construcción de sondas de ADN específicas de hebra.**
+T7 DNA polimerasa
 
 **c) Detección de secuencias específicas de RNA para el diagnóstico molecular de infecciones por ARN-virus.**
+Transcriptasa reversa 
 
 **PROBLEMA 6
 Usted se encuentra trabajando en la división de investigación y desarrollo de una reconocida empresa biotecnológica, específicamente en el área de aislamiento y caracterización de nuevas ADN polimerasas.
