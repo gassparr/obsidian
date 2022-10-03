@@ -1,9 +1,8 @@
 
 # Problema 1
-pA y pB en cepa wp bacteriana.
+**pA y pB en cepa wp bacteriana.
 pA → Resistencia a A
 pB → Resistencia a B
-
 wp → 500 generaciones/ 99.99 % pA/ 0.01% pA y pB
 
 **a) ¿Qué puede decir de los sistemas de replicación de pA y pB?**

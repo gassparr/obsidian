@@ -154,3 +154,5 @@ Como tenemos actividad 3’ → 5’ exonucleasa, podremos digerir los extremos 
 3’ NNN 5’
 
 **d) Clonado de productos de PCR con extremos romos.**
+
+No se podra, ya que se necesita de la actividad de terminasa terminal, este tipo de actividad permite el agregado de dNTPs al extremo 3’ de una cadena independientemente del molde (la cadena complementaria)

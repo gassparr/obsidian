@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria Genetica/Seminarios/Seminario 1B.md",
+            "file": "Ingenieria Genetica/Seminarios/Seminario 2.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Seminarios/Seminario 1B.md",
+                "file": "Ingenieria Genetica/Seminarios/Seminario 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Seminarios/Seminario 1B.md",
+                "file": "Ingenieria Genetica/Seminarios/Seminario 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Seminarios/Seminario 1B.md"
+                "file": "Ingenieria Genetica/Seminarios/Seminario 2.md"
               }
             }
           }
@@ -113,8 +113,8 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Ingenieria Genetica/Seminarios/Seminario 1.md",
     "Ingenieria Genetica/Seminarios/Seminario 1B.md",
+    "Ingenieria Genetica/Seminarios/Seminario 1.md",
     "Ingenieria Genetica/Seminarios/Seminario 2.md",
     "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md",
     "Biologia Celular Molecular/Uniones intercelulares.md",
