@@ -1,5 +1,5 @@
 Problema 1
-**A.** 
+**A.**
 Protocolo para obtener el clon deseado
 
 Partimos de dos placas de petri que contengan células que tengan nuestros dos plásmidos. A partir de estos cultivos vamos a tomar las bacterias y vamos a realizar una miniprep, la cual es una técnica de concentración y purificación de ADN plasmídico. Puedo separar al ADN plásmidico del cromosomal por su capacidad de renaturalizar. Voy a obtener dos tubos, en uno vamos a tener el pGemT con el inserto, y en el otro el pUC18.
@@ -35,20 +35,20 @@ Luego de la ligación se procede a transformar bacterias con estos plásmidos en
 **Responda además las siguientes preguntas:
 a- Si tiene que transformar en romo los extremos 5’ protruyentes de un inserto que se libera al digerir un plásmido con la enzima EcoRI. ¿Qué enzima usaría como primera opción, y por qué? Qué componentes pondría en la mezcla de reacción.**
 
-  
 
-La digestion del plásmido + inserto con EcoRI deja el siguiente corte  
-G🔻AATTC    →  G-OH  
+
+La digestion del plásmido + inserto con EcoRI deja el siguiente corte
+G🔻AATTC    →  G-OH
 CTTAA🔻G          CTTAA-5’
 
 Para transformar el extremo a romo utilizaria el fragmento de Klenow que contiene la subunidad polimerasa de DNA pol de E Coli. Este fragmento utilizaria al extremo protruyente como molde y va a polimerizar agregando nucleótidos en el 3’-OH libre
 
-G          → dNTPs+ Fragmento de Klenow→  GAATT  
+G          → dNTPs+ Fragmento de Klenow→  GAATT
 CTTAA                                                             CTTAA
 
 En la mezcla de reacción pondria el inserto digerido, el buffer adecuado para el funcionamiento de la enzima, dNTPs y por ultimo la enzima. Debo tener en cuenta la temperatura de trabajo.
 
-  
+
 
 **b- Y si el inserto tuviera extremos 3’ protruyentes y quisiera obtener extremos romos, ¿Qué enzima usaría como primera opción, y por qué?**
 
@@ -56,7 +56,7 @@ En la mezcla de reacción pondria el inserto digerido, el buffer adecuado para e
 
 En la mezcla de reacción debo poner buffer de la enzima, dNTPs, el pUC18 digerido y la la T4 pol, a la temperatura adecuada. El uso de dNTPS en esta mezcla es debido para que cuando la enzima degrade el DNA protruyente y se encuentre con un 3’OH y retome su actividad polimerasa y no degrade más DNA del deseado
 
-  
+
 
 C- ¿Cómo haría para marcar en una sola de las cadenas el fragmento EcoRI que obtiene por digestión en el punto a-de modo de obtener una sonda específica de cadena.
 
@@ -64,4 +64,65 @@ C- ¿Cómo haría para marcar en una sola de las cadenas el fragmento EcoRI que 
 
 Para marcar una sola de las cadenas del fragmento EcoRI podria hacer una digestión del plásmido con inserto y luego a esa digestion hacer un End filling, que consta de tratar a los fragmentos digeridos con los extremos 5’ protruyentes con el fragmento de Klenow en presencia de dNTPs marcados. Luego de este paso deberia tratar a la nueva cadena con otra enzima que corte al DNA grande para despues poder identificar donde estan las sondas.
 
-**
+**PROBLEMA 2.
+Compare los resultados de ligar:**
+- 1 [pUC19 + BamHI + CIAP] ligado a [pG18mob2 + inserto 2 kpb + BglII]
+- 2 [pUC19 + BamHI] ligado a [pG18mob2 + inserto 2 kpb + BglII]
+- 3 [pUC19 + BamHI + CIAP] ligado a [pG18mob2 + inserto 2 kpb + BglII+ CIAP]
+Qué productos espera obtener si se plaquean las ligaciones en cajas con:
+a) ampicilina, y b) gentamicina.
+
+**1**
+el plásmido pUC19 tienen resistencia a ampicilina y se lo trata con BamHI y con una fosfatasa alcalina.
+ La otra digestion es de un pG18mob2 que contiene resistencia a gentamicina un inserto de 2kpb tratado con BgIII que supongo que me va a liberar el inserto .
+Para ver si las enzimas son compatibles deberia ver que tipo de corte generan y ver si las secuencias de sus cortes van a ser complementarias.
+BamHI G🔻GATCC  →  ----G
+                  CCTAG🔻G        ----CCTAG
+
+
+BgIII A🔻GATCT  →       GATCT----------
+                  TCTAG🔻A A----------
+
+Cuando estos extremos protruyentes se fusionan no se regenera ningun sitio de corte de las enzimas que estaba utilizando. Por lo que observando estos cortes llego a la conclusión de que estas enzimas son compatibles.
+
+**PROBLEMA 3.
+Acerca de las siguientes polimerasas: PolI, Klenow, Pfx, Taq. Indique similitudes, diferencias y usos.**
+**Luego: indique si las siguientes afirmaciones son verdaderas (V) o falsas (F) (Justifique).
+a) La DNA Pol T4 es más utilizada que el fragmento Klenow para rellenar cuando hay extremos 5´protruyentes por su mayor actividad exonucleasa 3´-5´.**
+Las DNA pol T4 son mas agresivas con su actividad exonucleasa, lo cual las hace menos utilizadas para rellenar extremos 5’
+**b) La PFX Polimerasa tiene una taza de error más baja que la Taq Polimerasa.**
+Verdadero, es la polimerasa con menor taza de error
+**c) La Polimerasa I de E. coli no puede ser utilizada para Nick translation porque carece de la actividad exonucleasa 5´-3´.**
+**d) Con la actividad exonucleasa 5´-3’(Nick translation) del fragmento Klenow y en presencia de dNTPs marcados se marcan las dos hebras de un fragmento de DNA, mientras que con fosfatasa alcalina sólo se marca una de las hebras en su extremo 5´P.**
+
+**PROBLEMA 4.
+Para cada una de las siguientes enzimas utilizadas en clonados moleculares:
+a- Transcriptasa reversa murina (MLV)
+b- T4 ADN Ligasa
+c- ADN Ligasa del E. coli
+e- ADN polimerasa I
+f- Transferasa terminal
+g- Fosfatasa alcalina bacteriana (E. coli)
+h- Bacteriofago T4 polinucleótido kinasa
+i- Exonucleasa III**
+
+**Especifique:
+i) Actividad enzimática
+ii) Requerimientos específicos cuando corresponda
+iii) Al menos una posible aplicación**
+
+**PROBLEMA 5
+Usted desea montar un laboratorio de biología molecular. Con ese objetivo está realizando un relevamiento de las enzimas que necesitará para encargarlas a un proveedor local. Describa una posible enzima que utilizaría para cumplir con cada uno de los objetivos que se describen a continuación, indicando de modo conciso la actividad enzimática, cómo la utilizaría y los requerimientos específicos cuando corresponda.**
+
+**a) Detección de secuencias específicas de ADN para el diagnóstico molecular de infecciones bacterianas (sólo se requiere informar resultados positivos/negativos).
+b) Construcción de sondas de ADN específicas de hebra.
+c) Detección de secuencias específicas de RNA para el diagnóstico molecular de infecciones por ARN-virus.**
+
+**PROBLEMA 6
+Usted se encuentra trabajando en la división de investigación y desarrollo de una reconocida empresa biotecnológica, específicamente en el área de aislamiento y caracterización de nuevas ADN polimerasas.
+Recientemente ha aislado y caracterizado una novedosa polimerasa termoestable que presenta las siguientes actividades: actividad ADN polimerasa 5’->3’, fuerte actividad 3’->5’ exonucleasa, alta fidelidad y muy alta procesividad (hasta 30 Kpb). No posee las siguientes actividades: Transferasa terminal, 5’->3’ exonucleasa, desplazamiento de cadena.
+Indique si la nueva polimerasa podrá utilizarse para los siguientes fines. Justifique y describa brevemente.
+a) Diagnóstico molecular de infecciones causadas por ADN-virus.
+b) Nick translation.
+c) Degradación de extremos 3’ protruyentes.
+d) Clonado de productos de PCR con extremos romos.**
