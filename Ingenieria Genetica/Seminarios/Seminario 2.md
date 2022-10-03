@@ -1,5 +1,9 @@
 
 # Problema 1
+1. Se introducen dos plásmidos diferentes pA y pB en una misma cepa salvaje bacteriana. El primero de ellos confiere resistencia a la droga “A”, y el segundo a la droga “B”. Se observan los siguientes resultados:
+2) Se crece la cepa transformada anterior durante 500 generaciones en ausencia de las drogas A y B, y al término  del crecimiento se observa que aproximadamente la mitad de las células contienen sólo el plásmido pA,y las restantes sólo pB.
+3)  Si durante el crecimiento se agrega la droga A, luego de crecer la cepa 500 generaciones se obtienen en el 99,99% de los clones bacterias sólo con la resistencia que corresponde al plásmido pA, y el 0,01% restante resistente a las drogas A y B.
+
 **pA y pB en cepa wp bacteriana.
 pA → Resistencia a A
 pB → Resistencia a B
