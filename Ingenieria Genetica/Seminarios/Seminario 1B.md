@@ -111,9 +111,11 @@ Actividad 3’-5’ y 5’-3’ exonucleasa y procesamiento de fragmentos de oka
 **f- Transferasa terminal**
 Actividad transferasa, utilizada para marcar DNA o producir vectores. Agrega dNTPs en el extremo 3’ sin la necesidad de un primer
 **g- Fosfatasa alcalina bacteriana (E. coli)**
+Cataliza la transferencia de un P de un ATP a la terminal 5’ OH de DNA o RNA. Tambien puede hacerlo en la terminal 3’ P
 **h- Bacteriofago T4 polinucleótido kinasa**
+Solo cataliza la transferencia de un P de un ATP a la terminal 5’ OH de DNA o RNA
 **i- Exonucleasa III**
-
+Actividad exonucleasa 3’-5’, puede actuar sobre extremo romo, cohesivo 5’ o nicks. No degrada cohesivos 3’
 **Especifique:
 i) Actividad enzimática
 ii) Requerimientos específicos cuando corresponda
