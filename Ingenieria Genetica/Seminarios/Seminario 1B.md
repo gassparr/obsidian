@@ -1,4 +1,5 @@
-Problema 1
+# Problema 1
+
 **A.**
 Protocolo para obtener el clon deseado
 
@@ -58,14 +59,15 @@ En la mezcla de reacción debo poner buffer de la enzima, dNTPs, el pUC18 digeri
 
 
 
-C- ¿Cómo haría para marcar en una sola de las cadenas el fragmento EcoRI que obtiene por digestión en el punto a-de modo de obtener una sonda específica de cadena.
+**C- ¿Cómo haría para marcar en una sola de las cadenas el fragmento EcoRI que obtiene por digestión en el punto a-de modo de obtener una sonda específica de cadena.**
 
  Conoce la secuencia del inserto. Dispone de las enzimas que necesite, de cuba electroforética para ácidos nucleicos, agarosa, tampón TBE, y demás reactivos de uso corriente en un laboratorio de genética molecular.
 
 Para marcar una sola de las cadenas del fragmento EcoRI podria hacer una digestión del plásmido con inserto y luego a esa digestion hacer un End filling, que consta de tratar a los fragmentos digeridos con los extremos 5’ protruyentes con el fragmento de Klenow en presencia de dNTPs marcados. Luego de este paso deberia tratar a la nueva cadena con otra enzima que corte al DNA grande para despues poder identificar donde estan las sondas.
 
-**PROBLEMA 2.
-Compare los resultados de ligar:**
+# PROBLEMA 2.
+
+**Compare los resultados de ligar:**
 - 1 [pUC19 + BamHI + CIAP] ligado a [pG18mob2 + inserto 2 kpb + BglII]
 - 2 [pUC19 + BamHI] ligado a [pG18mob2 + inserto 2 kpb + BglII]
 - 3 [pUC19 + BamHI + CIAP] ligado a [pG18mob2 + inserto 2 kpb + BglII+ CIAP]
@@ -85,67 +87,97 @@ BgIII A🔻GATCT  →       GATCT----------
 
 Cuando estos extremos protruyentes se fusionan no se regenera ningun sitio de corte de las enzimas que estaba utilizando. Por lo que observando estos cortes llego a la conclusión de que estas enzimas son compatibles.
 
-**PROBLEMA 3.
-Acerca de las siguientes polimerasas: PolI, Klenow, Pfx, Taq. Indique similitudes, diferencias y usos.**
+# PROBLEMA 3.
+
+**Acerca de las siguientes polimerasas: PolI, Klenow, Pfx, Taq. Indique similitudes, diferencias y usos.**
 **Luego: indique si las siguientes afirmaciones son verdaderas (V) o falsas (F) (Justifique).
 a) La DNA Pol T4 es más utilizada que el fragmento Klenow para rellenar cuando hay extremos 5´protruyentes por su mayor actividad exonucleasa 3´-5´.**
+
 FALSO. Las DNA pol T4 son mas agresivas con su actividad exonucleasa, lo cual las hace menos utilizadas para rellenar extremos 5’
+
 **b) La PFX Polimerasa tiene una taza de error más baja que la Taq Polimerasa.**
+
 VERDADERO, es la polimerasa con menor taza de error
+
 **c) La Polimerasa I de E. coli no puede ser utilizada para Nick translation porque carece de la actividad exonucleasa 5´-3´.**
+
 FALSO. La Pol1 tiene actividad exonucleasa 5’→ 3’ por lo que se puede usar para nick translation
+
 **d) Con la actividad exonucleasa 5´-3’(Nick translation) del fragmento Klenow y en presencia de dNTPs marcados se marcan las dos hebras de un fragmento de DNA, mientras que con fosfatasa alcalina sólo se marca una de las hebras en su extremo 5´P.**
+
 VERDADERO
 
-**PROBLEMA 4.
-Para cada una de las siguientes enzimas utilizadas en clonados moleculares:**
+# PROBLEMA 4.
+
+**Para cada una de las siguientes enzimas utilizadas en clonados moleculares:**
 **a- Transcriptasa reversa murina (MLV)**
+
 Polimerasa RNA y DNA especifice. Permite convertir ssRNA en dsDNA
+
 **b- T4 ADN Ligasa**
 Fosforilasa, se puede utilizar para ligar extremos cohesivos o romos de DNA y puede ligar RNA a DNA. Requiere ATP
+
 **c- ADN Ligasa del E. coli**
+
 Fosforilasa, no puede ligar extremos romos y no puede unir RNA a DNA
 Requiere NAD
+
 **e- ADN polimerasa I**
+
 Actividad 3’-5’ y 5’-3’ exonucleasa y procesamiento de fragmentos de okazaki
+
 **f- Transferasa terminal**
+
 Actividad transferasa, utilizada para marcar DNA o producir vectores. Agrega dNTPs en el extremo 3’ sin la necesidad de un primer
+
 **g- Fosfatasa alcalina bacteriana (E. coli)**
+
 Cataliza la transferencia de un P de un ATP a la terminal 5’ OH de DNA o RNA. Tambien puede hacerlo en la terminal 3’ P
+
 **h- Bacteriofago T4 polinucleótido kinasa**
+
 Solo cataliza la transferencia de un P de un ATP a la terminal 5’ OH de DNA o RNA
+
 **i- Exonucleasa III**
+
 Actividad exonucleasa 3’-5’, puede actuar sobre extremo romo, cohesivo 5’ o nicks. No degrada cohesivos 3’
+
 **Especifique:
 i) Actividad enzimática
 ii) Requerimientos específicos cuando corresponda
 iii) Al menos una posible aplicación**
 
-**PROBLEMA 5
-Usted desea montar un laboratorio de biología molecular. Con ese objetivo está realizando un relevamiento de las enzimas que necesitará para encargarlas a un proveedor local. Describa una posible enzima que utilizaría para cumplir con cada uno de los objetivos que se describen a continuación, indicando de modo conciso la actividad enzimática, cómo la utilizaría y los requerimientos específicos cuando corresponda.**
+# PROBLEMA 5
 
+**Usted desea montar un laboratorio de biología molecular. Con ese objetivo está realizando un relevamiento de las enzimas que necesitará para encargarlas a un proveedor local. Describa una posible enzima que utilizaría para cumplir con cada uno de los objetivos que se describen a continuación, indicando de modo conciso la actividad enzimática, cómo la utilizaría y los requerimientos específicos cuando corresponda.**
 **a) Detección de secuencias específicas de ADN para el diagnóstico molecular de infecciones bacterianas (sólo se requiere informar resultados positivos/negativos).**
+
 PCR con taq polimerasa
 
 **b) Construcción de sondas de ADN específicas de hebra.**
+
 T7 DNA polimerasa
 
 **c) Detección de secuencias específicas de RNA para el diagnóstico molecular de infecciones por ARN-virus.**
-Transcriptasa reversa 
 
-**PROBLEMA 6
-Usted se encuentra trabajando en la división de investigación y desarrollo de una reconocida empresa biotecnológica, específicamente en el área de aislamiento y caracterización de nuevas ADN polimerasas.
-Recientemente ha aislado y caracterizado una novedosa polimerasa termoestable que presenta las siguientes actividades: 
+Transcriptasa reversa
+
+# PROBLEMA 6
+
+**Usted se encuentra trabajando en la división de investigación y desarrollo de una reconocida empresa biotecnológica, específicamente en el área de aislamiento y caracterización de nuevas ADN polimerasas.
+Recientemente ha aislado y caracterizado una novedosa polimerasa termoestable que presenta las siguientes actividades:
 actividad ADN polimerasa 5’->3’, fuerte actividad 3’->5’ exonucleasa, alta fidelidad y muy alta procesividad (hasta 30 Kpb).
 No posee las siguientes actividades: Transferasa terminal, 5’->3’ exonucleasa, desplazamiento de cadena.
 Indique si la nueva polimerasa podrá utilizarse para los siguientes fines. Justifique y describa brevemente.**
 
 **a) Diagnóstico molecular de infecciones causadas por ADN-virus.**
-Para una PCR es necesario tener una alta fidelidad ya que sino se propagan muchos errores. 
+
+Para una PCR es necesario tener una alta fidelidad ya que sino se propagan muchos errores.
 Por otro lado la actividad 3’→ 5’ exonucleasa es encesaria para corregir los nucleotidos mal incorporados
 
 **b) Nick translation.**
-Ya que no tenemos actividad 5’ → 3’ exonucleasa no podremos hacer nick translation. 
+
+Ya que no tenemos actividad 5’ → 3’ exonucleasa no podremos hacer nick translation.
 
 **c) Degradación de extremos 3’ protruyentes.**
 
