@@ -154,6 +154,15 @@ Para el lado izquierdo elijo BglII y BamHI
 BglII: 5`A:GATCT`3
 BamHI: 5`G:GATCC`3
 
+1. Miniprep
+2. Gel de agarosa y purifico
+3. digiero plasmido con NcoI y BamHI con el buffer adecuado
+4. Digiero DNA circular VP4 con BGLII y BspHI con el buffer adecuado
+5. Purifica DNA 
+6. Lleva a mezcla de ligacion con inserto
+7. Inactivar enzimas con calor y transformar
+
+
 **b. Utilizando primers**
 
 Primers VP4
