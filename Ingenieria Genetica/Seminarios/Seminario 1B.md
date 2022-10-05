@@ -3,8 +3,10 @@
 **A.**
 Protocolo para obtener el clon deseado
 
+**Miniprep**
 Partimos de dos placas de petri que contengan células que tengan nuestros dos plásmidos. A partir de estos cultivos vamos a tomar las bacterias y vamos a realizar una miniprep, la cual es una técnica de concentración y purificación de ADN plasmídico. Puedo separar al ADN plásmidico del cromosomal por su capacidad de renaturalizar. Voy a obtener dos tubos, en uno vamos a tener el pGemT con el inserto, y en el otro el pUC18.
 
+**Electroforesis**
 El siguiente paso seria corroborar si tengo los plásmidos  en cada uno de los tubos, para eso voy a tomar una muestra y voy realizar una electroforesis sembrando la misma en un gel de agarosa 0,8%  con un buffer adecuado. En este gel voy a poder ver si aparecen distintas bandas que corresponden al grado de superenrrollamiento que tienen los plásmidos, por otra parte voy a poder observar la calidad de mi miniprep (si salió bien, que cantidad de DNA obtuve, etc).
 
 La calidad de mi DNA la voy a poder comprobar una vez que obtuve bandas a través de un método espectrofotométrico midiendo a alguna de las bandas absorbancia a 230nm(DNA) y 260nm(proteinas), con estas medidas se hace una relación y si se obtiene un valor mayor a 1,8 se dice que el DNA tiene una buena calidad, mientras que si da por debajo de ese valor es porque tiene una contaminación importante con proteínas. 
