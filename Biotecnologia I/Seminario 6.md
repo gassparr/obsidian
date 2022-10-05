@@ -25,3 +25,5 @@ Medio de cultivo:
 - Volumen de H2O destilada 1L
 
 Ya que cambiamos las concentraciones de sustrato limitante, el valor de u se modificara ya que, segun monod u=umax * (S/(Ks+S))
+
+No se vera cambio en el rendimiento , ya que este valor es dependiente del gamma del sustrato , el cual sigue siendo igual (glucosa)
