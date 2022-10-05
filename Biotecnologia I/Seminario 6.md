@@ -4,3 +4,22 @@ Se desea obtener 5 g/l de levadura para alimentación animal mediante un cultivo
 2. Respecto al modelo de Monod, explicá en que zona de la curva ocurre la mayor parte del tiempo un cultivo en Batch y por qué. Calculá las concentraciones de FCE y FN consumidos y remanentes a las 4 hs de cultivo considerando crecimiento exponencial y que no hubo fase lag. De acuerdo con el modelo de Monod, ¿qué condición debe cumplirse para que en este momento el crecimiento siga siendo exponencial? Justificá. 
 3. Considerando que el máximo valor de Kla del biorreactor es 200 h-1 , evaluá si es posible obtener la biomasa deseada con crecimiento exponencial. Enuncia las consideraciones que hacés. 
 4. Realizá la gráfica de X, qO2 y CL durante el cultivo hasta que se agota el sustrato limitante. Justifica con ecuaciones
+
+DATOS:
+cultivo aerobico con glucosa y NH4, sin producto
+V crecimiento → 0.35 H-1
+Rendimiento → yx/s 0.39 g/g
+
+A. Formulacion de medio de cultivo y sustramo limitante
+
+Para 0.2 g/l de X
+
+2 g/l glucosa
+
+0.106 g/l NH4
+
+Medio de cultivo:
+- Glucosa 2g
+- Sulfato de amonio 0.106 g
+- KCL, MgCl2, FeCl3, Na2HPO3, Na2SO4, CaCl2
+- Volumen de H2O destilada 1L
