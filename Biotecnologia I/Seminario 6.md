@@ -7,19 +7,21 @@ Se desea obtener 5 g/l de levadura para alimentación animal mediante un cultivo
 
 DATOS:
 cultivo aerobico con glucosa y NH4, sin producto
-V crecimiento → 0.35 H-1
+u  → 0.35 H-1
 Rendimiento → yx/s 0.39 g/g
 
 A. Formulacion de medio de cultivo y sustramo limitante
 
-Para 0.2 g/l de X
+Para 5 g/l de X
 
 2 g/l glucosa
 
 0.106 g/l NH4
 
 Medio de cultivo:
-- Glucosa 2g
-- Sulfato de amonio 0.106 g
+- Glucosa 50g
+- Sulfato de amonio 2.65 g
 - KCL, MgCl2, FeCl3, Na2HPO3, Na2SO4, CaCl2
 - Volumen de H2O destilada 1L
+
+Ya que cambiamos las concentraciones de sustrato limitante, el valor de u se modificara ya que, segun monod u=umax * (S/(Ks+S))
