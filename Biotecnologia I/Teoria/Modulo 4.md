@@ -75,3 +75,17 @@ Se separan en cuatro fases:
 2. Exponencial
 3. Estacionaria
 4. Decaimiento
+
+**Ecuacion 9**
+
+rx = u . X
+
+u → Velocidad especifica de crecimiento
+X → Concentracion de biomasa
+
+**Ecuacion 10**
+
+u = u(max) . (S/ (Ks + S))
+
+Ks → Constante del microorganismo
+umax → velocidad especifica maxima
