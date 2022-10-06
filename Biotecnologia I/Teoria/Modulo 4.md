@@ -89,3 +89,5 @@ u = u(max) . (S/ (Ks + S))
 
 Ks → Constante del microorganismo
 umax → velocidad especifica maxima
+S → Nutriente limitante
+
