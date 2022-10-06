@@ -59,3 +59,19 @@ u = rx / X
 - X → Concentracion de biomasa
 
 Lo mismo se hace para rs y rp
+
+**Ecuacion 8**
+
+qs = rs / X
+
+qs → velocidad especifica de consumo de sustrato
+rs → velocidad volumetrica de consumo de sustrato
+X → concentracion de biomasa
+
+# Curva de crecimiento
+
+Se separan en cuatro fases:
+1. Lag
+2. Exponencial
+3. Estacionaria
+4. Decaimiento

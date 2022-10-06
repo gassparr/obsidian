@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biotecnologia I/Seminario 6.md",
+            "file": "Biotecnologia I/Teoria/Modulo 4.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Seminario 6.md",
+                "file": "Biotecnologia I/Teoria/Modulo 4.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Seminario 6.md",
+                "file": "Biotecnologia I/Teoria/Modulo 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Seminario 6.md"
+                "file": "Biotecnologia I/Teoria/Modulo 4.md"
               }
             }
           }
@@ -113,9 +113,9 @@
   },
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
-    "Biotecnologia I/Seminario 4 Grupal.md",
-    "Biotecnologia I/Modulo 4.md",
     "Biotecnologia I/Seminario 6.md",
+    "Biotecnologia I/Seminario 4 Grupal.md",
+    "Biotecnologia I/Teoria/Modulo 4.md",
     "Ingenieria Genetica/Seminarios/Seminario 1B.md",
     "Ingenieria Genetica/Seminarios/Seminario 2.md",
     "Ingenieria Genetica/Seminarios/Seminario 1.md",
