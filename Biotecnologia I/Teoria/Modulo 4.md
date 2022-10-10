@@ -113,17 +113,21 @@ en forma exponencial
 
 x = x0 . e^( u(m) . t )
 
-## Fase lag
-
-Para calcular se puede utilizar
-
 **Ecuacion 15**
+
+Para calcular la fase de lag tl
 
 ln X = ln X0 + um . ( t - tl)
 
 **Ecuacion 16**
-calcular rx
+calcular rx (velocidad volumetrica foramcion de biomasa)
 
 rx = um . x0 . e ^ ( um . t )
 
 > ( rx = u . x ) reemplaza X por ( x = x0 . e^( u(m) . t ) )
+
+Durante fase exponencial rx crece exponencialmente y velocidad especifica se mantiene cte y maxima u(max)
+
+A medida que pasa el tiempo S disminuye hasta que no es mucho mayor que Ks, por lo que se tiene que volver a apreciar Ks
+
+En fase estacionaria rx = 0 y u = 0
