@@ -131,3 +131,39 @@ Durante fase exponencial rx crece exponencialmente y velocidad especifica se man
 A medida que pasa el tiempo S disminuye hasta que no es mucho mayor que Ks, por lo que se tiene que volver a apreciar Ks
 
 En fase estacionaria rx = 0 y u = 0
+
+**Ecuacion 17**
+
+Yx/s = rx / rs
+
+> despejo rx de (17) y dado que rx = u . x, Reemplazo u por el de monod
+
+**Ecuacion 18**
+
+ds/dt = -(um/Yxs) . (S/Ks+S) . x
+
+Como esta ecuacion es durante fase exp. Se cumple S » Ks y reemplazando x por (13)
+
+**Ecuacion 19**
+-ds/dt = (um . x0 . e ^ um) / Yx
+
+**Ecuacion 20**
+Integrando (19)
+
+S = S0 - (x0/yx) . (( e ^ u )- 1)
+
+Esta describe la disminucion de S durante la fase exp.
+Sabien Yx/s nos permite calcular S en cualquier momento
+
+**Ecuacion 21**
+Para calcular el rendimiento global
+
+Yx/s = - (xf- x0) / (Sf - S0)
+
+Si S es limitante, para x = xf; Sf = 0 dando.
+
+**Ecuacion 22**
+
+xf = x0 + Yx/s . S0
+
+
