@@ -97,7 +97,7 @@ Si suponemos valido el modelo de monod
 dx/dt = u(max) . (S / (Ks + S)) . x
 
 **Ecuacion 12**
-Al principio del cultivo batch S » Ks, por lo que se desprecia Ks frente a S
+Al principio del cultivo batch (Durante fase exponencial) S » Ks, por lo que se desprecia Ks frente a S
 
 dx/dt = u(m) . X
 
@@ -109,3 +109,4 @@ ln X = ln X0 + ( u(m)+t )
 en  forma exponencial
 
 x = x0 . e^( u(m) . t )
+
