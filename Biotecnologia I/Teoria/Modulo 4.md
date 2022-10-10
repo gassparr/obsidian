@@ -96,6 +96,8 @@ Si suponemos valido el modelo de monod
 
 dx/dt = u(max) . (S / (Ks + S)) . x
 
+## Fase exponencial
+
 **Ecuacion 12**
 Al principio del cultivo batch (Durante fase exponencial) S » Ks, por lo que se desprecia Ks frente a S
 
@@ -106,7 +108,22 @@ Integrando Ecuacion 12
 
 ln X = ln X0 + ( u(m)+t )
 
-en  forma exponencial
+**Ecuacion 14**
+en forma exponencial
 
 x = x0 . e^( u(m) . t )
 
+## Fase lag
+
+Para calcular se puede utilizar
+
+**Ecuacion 15**
+
+ln X = ln X0 + um . ( t - tl)
+
+**Ecuacion 16**
+calcular rx
+
+rx = um . x0 . e ^ ( um . t )
+
+> ( rx = u . x ) reemplaza X por ( x = x0 . e^( u(m) . t ) )
