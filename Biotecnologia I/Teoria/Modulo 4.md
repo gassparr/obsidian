@@ -78,7 +78,7 @@ Se separan en cuatro fases:
 
 **Ecuacion 9**
 
-rx = u . X
+dx/dt = rx = u . X
 
 u → Velocidad especifica de crecimiento
 X → Concentracion de biomasa
@@ -91,3 +91,21 @@ Ks → Constante del microorganismo
 umax → velocidad especifica maxima
 S → Nutriente limitante
 
+**Ecuacion 11**
+Si suponemos valido el modelo de monod
+
+dx/dt = u(max) . (S / (Ks + S)) . x
+
+**Ecuacion 12**
+Al principio del cultivo batch S » Ks, por lo que se desprecia Ks frente a S
+
+dx/dt = u(m) . X
+
+**Ecuacion 13**
+Integrando Ecuacion 12
+
+ln X = ln X0 + ( u(m)+t )
+
+en  forma exponencial
+
+x = x0 . e^( u(m) . t )
