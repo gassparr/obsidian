@@ -125,4 +125,9 @@ Reordena (4):
 **Ecuacion 8**
 Reemplaza C* y Ci por (7) y (2)
 
-1/Kl = (1 / (H . Kg)) + (1/Kl)
+![](https://i.imgur.com/L9VqDgw.png)
+
+**Ecuacion 9**
+Kl =~ kl
+
+Para compuestos de baja solubilidad en agua, El valor de H es grande, dando que la resistencia esta dada por la transferencia del liquido
