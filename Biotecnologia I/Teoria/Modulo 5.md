@@ -131,3 +131,10 @@ Reemplaza C* y Ci por (7) y (2)
 Kl =~ kl
 
 Para compuestos de baja solubilidad en agua, El valor de H es grande, dando que la resistencia esta dada por la transferencia del liquido
+
+**Ecuacion 10**
+Podemos escribir ecuacion de transferencia como:
+No2 = kl . (C*-Cl)
+
+**Ecuacion 11**
+Como nos interesa saber velocidad de tranferencia de O2, mas que el flujo, denominamos a la velocidad de transferencia como OTR o Ro2
