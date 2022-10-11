@@ -3,7 +3,9 @@ Coeficiente respiratorio (rco2 / ro2) debe mantenerse debaje de 1.1, ya que valo
 **Consumo de O2**
 Para calcular:
 
-ro2 = (1/ Vl) . ( F1s . Cgo2)s - Fe . (Cgo2)e )
+**Ecuacion 1**
+![](https://i.imgur.com/eBSwYgR.png)
+
 
 ro2 → Velocidad de consumo del o2 (mol / L . h)
 F → Caudal gaseoso (L/h o L/min)
@@ -12,3 +14,19 @@ Cgo2 → Concentracion de O2 en el gas (mol/L)
 subindice s → salida
 subindice e → entrada
 
+Por la ley de Dalton
+Cgi = (Pt . Xi) / (R . T)
+
+**Ecuacion 2**
+Reemplazamos en (1) Cgo con dalton
+
+![](https://i.imgur.com/tME0vOs.png)
+
+Esta expresión puede ser utilizada cuando se miden experimentalmente los caudales de entrada y salida de
+gases o cuando se mide sólo uno de ellos pero el cociente respiratorio es 1 o cercano a 1 y por tanto
+los caudales son iguales. 
+Si esto no ocurre, hay expresar uno de los caudales en función del otro y esto se realiza en función del balance de nitrógeno. Debido a que no es consumido ni generado por el metabolismo, la cantidad total de N2 por unidad de tiempo que ingresa al reactor es igual a la que sale del mismo (dentro del balance se incluye al Ar pero , por sencillez, sólo se indica al N2).
+
+![](https://i.imgur.com/5v2eyb7.png)
+
+Expresando las concentraciones 
