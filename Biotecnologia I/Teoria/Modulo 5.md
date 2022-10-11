@@ -11,3 +11,4 @@ Vl → Volumen de cultivo (L)
 Cgo2 → Concentracion de O2 en el gas (mol/L)
 subindice s → salida
 subindice e → entrada
+
