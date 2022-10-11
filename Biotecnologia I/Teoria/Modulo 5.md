@@ -85,3 +85,44 @@ K = No2 / dC
 
 No2 → Flujo de O2 mol/ (area . t)
 dC → Diferencia de concentracion entre dos puntos  de la misma fase
+
+Para gases de baja solubilidad Po2 y Ci estan en equilibrio y relacionados a la ley de henry
+
+**Ecuacion 2**
+Po2 = H . Ci
+
+Independiente de cual sea el gradiente se puede definir Kg (transferencia de la fase gaseosa) y Kl (transferencia de la fase liquida)
+
+**Ecuacion 3**
+Kg = No2 / (Po2 - Po2i)
+
+**Ecuacion 4**
+Kl = No2 / (Ci - Cl)
+
+Como en estado casi estacionario los moles de O2 que atraviesan la interfase son iguales despejamos No2 e igualamos (3)=(4)
+
+**Ecuacion 5**
+
+No2 = Kg . (Po2 - Po2i) = Kl . (Ci - Cl)
+
+**Ecuacion 6**
+
+Como (5) no nos da a conocer Po2 o Ci, definimos un nuevo coeficiente
+
+Kl = No2 / (C* - Cl)
+
+C* → Concentracion O2 disuelto en equilibrio con Po2
+
+**Ecuacion 7**
+
+Reemplaza C* por Ci en (2)
+
+Po2 = H . C*
+
+Reordena (4):
+![](https://i.imgur.com/gJyVjEd.png)
+
+**Ecuacion 8**
+Reemplaza C* y Ci por (7) y (2)
+
+1/Kl = (1 / (H . Kg)) + (1/Kl)
