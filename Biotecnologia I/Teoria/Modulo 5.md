@@ -75,4 +75,13 @@ Lo cual en el caso de que el coeficiente respiratorio
 
 Para averiguar si CR es cercano a 1, sumar (Xo2)2 con (Xco2)2 y si -+ 0.21. CR es cercano a 1
 
-# Utilidad de Coeficiente respiratorio
+
+# Transferencia de materia Gas-Liquido
+
+**Ecuacion 1**
+Coeficiente de transferencia de materia (este caso es con O2)
+
+K = No2 / dC
+
+No2 → Flujo de O2 mol/ (area . t)
+dC → Diferencia de concentracion entre dos puntos  de la misma fase
