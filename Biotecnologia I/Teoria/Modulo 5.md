@@ -43,3 +43,24 @@ Queda el caudal de ingreso y egreso en funcion del otro. Si se determina experim
 
 Introducimos (3) en (2)
 ![](https://i.imgur.com/ZsP3cx9.png)
+
+multiplicando y dividiendo por (Xn2)1
+
+![](https://i.imgur.com/vRJuHzL.png)
+
+y como la fraccion molar esta definida como:
+Xn2 = 1 - (Xo2 + Xco2 + Xh2o)
+reemplazamos
+
+![](https://i.imgur.com/FioNmbH.png)
+
+Como el aire que ingresa esta deshumidificado, la fraccion de H2O se desprecia, quedando:
+
+**Ecuacion 5**
+![](https://i.imgur.com/sr4t0Lt.png)
+
+Expresa velocidad de consumo de O2 en funcion de variables medibles. El factor 60 es para convertir de minutos a horas
+
+**Ecuacion 6**
+Para CO2
+![](https://i.imgur.com/6rnL1S9.png)
