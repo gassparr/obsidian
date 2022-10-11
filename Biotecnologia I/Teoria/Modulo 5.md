@@ -1,4 +1,4 @@
-Coeficiente respiratorio (rco2 / ro2) debe mantenerse debaje de 1.1, ya que valores superiores indican formacion de etanol, disminuyendo el rendimiento celular
+Coeficiente respiratorio (rco2 / ro2) debe mantenerse debajo de 1.1, ya que valores superiores indican formacion de etanol, disminuyendo el rendimiento celular
 
 **Consumo de O2**
 Para calcular:
@@ -61,6 +61,18 @@ Como el aire que ingresa esta deshumidificado, la fraccion de H2O se desprecia, 
 
 Expresa velocidad de consumo de O2 en funcion de variables medibles. El factor 60 es para convertir de minutos a horas
 
-**Ecuacion 6**
 Para CO2
 ![](https://i.imgur.com/6rnL1S9.png)
+
+El gas del biorreactor sale saturado de H2O (vapor).
+Si aproximamos que Pt = Patm resulta que:
+(Xh2o)2 = 0.03
+Lo cual en el caso de que el coeficiente respiratorio 
+(Cr = rco2 / ro2) es cercano a 1, permite simplificar.\
+
+**Ecuacion 6**
+![](https://i.imgur.com/m0bEKOm.png)
+
+Para averiguar si CR es cercano a 1, sumar (Xo2)2 con (Xco2)2 y si -+ 0.21. CR es cercano a 1
+
+# Utilidad de Coeficiente respiratorio
