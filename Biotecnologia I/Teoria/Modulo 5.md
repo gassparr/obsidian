@@ -138,3 +138,8 @@ No2 = kl . (C*-Cl)
 
 **Ecuacion 11**
 Como nos interesa saber velocidad de tranferencia de O2, mas que el flujo, denominamos a la velocidad de transferencia como OTR o Ro2
+
+OTR = No2 . ( At / Vl)
+
+At → Area de transferencia
+Vl → Volumen de la fase liquida
