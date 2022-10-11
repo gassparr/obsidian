@@ -143,3 +143,18 @@ OTR = No2 . ( At / Vl)
 
 At → Area de transferencia
 Vl → Volumen de la fase liquida
+Definimos a = (At / Vl)
+
+**Ecuacion 12**
+Reemplazando en (11)
+No2 por (10)
+
+OTR = kl . a . ( C* - Cl )
+
+Como a es dificil de evaluar sol, se adjunta con kl, para dar una sola constante basada en el bioreactor. (kla)
+
+OTR = kla . ( C* - Cl )
+
+*Kla* → es un valor de la capacidad de un equipo en suministrar O2 (depende de la geometria y condiciones de operacion)
+
+(C* - Cl) → Fuerza impulsora de transferencia, generada por consumo de O22
