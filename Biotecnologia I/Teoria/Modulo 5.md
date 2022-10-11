@@ -24,9 +24,22 @@ Reemplazamos en (1) Cgo con dalton
 
 Esta expresión puede ser utilizada cuando se miden experimentalmente los caudales de entrada y salida de
 gases o cuando se mide sólo uno de ellos pero el cociente respiratorio es 1 o cercano a 1 y por tanto
-los caudales son iguales. 
+los caudales son iguales.
 Si esto no ocurre, hay expresar uno de los caudales en función del otro y esto se realiza en función del balance de nitrógeno. Debido a que no es consumido ni generado por el metabolismo, la cantidad total de N2 por unidad de tiempo que ingresa al reactor es igual a la que sale del mismo (dentro del balance se incluye al Ar pero , por sencillez, sólo se indica al N2).
 
 ![](https://i.imgur.com/5v2eyb7.png)
 
-Expresando las concentraciones 
+Expresando las concentraciones en base a Dalton
+
+![](https://i.imgur.com/QFXaqDX.png)
+
+Queda el caudal de ingreso y egreso en funcion del otro. Si se determina experimentalmente el flujo de ingreso F1 (conocemos su valor)
+
+**Ecuacion 3**
+
+![](https://i.imgur.com/bY3dYNv.png)
+
+**Ecuacion 4**
+
+Introducimos (3) en (2)
+![](https://i.imgur.com/ZsP3cx9.png)
