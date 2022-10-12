@@ -38,6 +38,15 @@ rx → Velocidad volumetrica de formacion de biomasa (Cmol / L * H) o (g / L * H
  
 # b) ¿Qué tipo de muestras se tomaron para obtener los puntos mostrados en el gráfico y cómo se procesaron?
 
+Para medir el peso seco:
+se extrajo 1mL del cultivo y fue centrifuga a 8000 rpm durante 10 minutos.
+Despues de la centrifugacion los pellets fueron lavados dos veces con agua destilada y fueron secados a 90C hasta obtener un peso constante.
+Por ultimo se los enfrio en disecantes hasta tambien obtener un peso constante
+
+Para los PHAs:
+El medio fue centrifugado a 8000 rpm durante 10 minutos.
+
+
 c) Escribí la ecuación estequiométrica de crecimiento para este microorganismo creciendo en estas condiciones incluyendo todos los valores de los coeficientes correspondientes y sus unidades. Enunciá las suposiciones que hacés.
 
 d) ¿La fuente de carbono y energía (glucosa) fue el sustrato limitante de crecimiento en este cultivo? Enunciá las suposiciones que hacés.
