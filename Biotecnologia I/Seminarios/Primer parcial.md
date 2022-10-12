@@ -213,3 +213,15 @@ dHr = - 290.61 kj/ cmol
 
  **Dx = ∆Gr/ (yx/s)**
  La disipacion nos muestra la cantidad de energia libre de gibbs disipada por unidad de biomasa producida (kj/cmol), en otras palabras, nos dice la cantidad de energia que se necesita para producir un Cmol de biomasa
+
+dGs + a * dGnh3 → Yx/s * dGx + Yp/s dGp + dGr
+
+reemplazo por la correlacion de Roels dGc = -(94,4 yN2 + 86,6) (K.J./C-mol) en cada energia libre de gibs y opero
+
+- ys = 4
+- ynh3 = 3
+- yx = 4.8
+- yp = 4.5
+- a = 0.038
+- Yx/s = 0.19
+- Yp/s = 0.15
