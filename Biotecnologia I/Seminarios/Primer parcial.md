@@ -228,7 +228,7 @@ reemplazo por la correlacion de Roels dGc = -(94,4 yN2 + 86,6) (K.J./C-mol) en c
 
 dGs + a * dGnh3 = Yx/s * dGx + Yp/s dGp + dGr
 
-dGr = -178.1 (KJ/cmol)
+dGr = -125.75 (KJ/cmol)
 
 
-Dx = -178.1 / 0.19 =  -937.4
+Dx = -125.75 / 0.19 =  -661.8
