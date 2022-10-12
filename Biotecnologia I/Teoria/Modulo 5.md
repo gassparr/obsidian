@@ -187,4 +187,4 @@ Reemplanzando en (15) con (16)
 > Ecuacion (17) y (10) 
 > Ecuacion 10 → No2 = kl . (C*-Cl)
 
-Ecuacion 18 no permite calcular k
+Ecuacion 18 no permite calcular kl ya que no es posible medir expesor de la pelicula
