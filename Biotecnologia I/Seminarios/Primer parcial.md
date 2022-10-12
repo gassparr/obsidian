@@ -189,10 +189,10 @@ Para corroborar
 
 CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s CH1.5O0.5 + Yco2/s CO2 + w H2O
 
-ya que CO2, H2O y O2 son referencias 
+ya que CO2, H2O y O2 son referencias y= 0
 y ← Gamma
 dejo la ecuacion de arriba expresada en grado de reduccion
-**ys + a ynh3 → yx * Yx/s + yp * Yp/s**
+**ys + a ynh3 → yx * Yx/s + yp * Yp/s + dHr**
 
 - ys = 4
 - ynh3 = 3
@@ -202,5 +202,14 @@ dejo la ecuacion de arriba expresada en grado de reduccion
 - Yx/s = 0.19
 - Yp/s = 0.15
 
-por la correlacion de Roels dHc = -115 * y 
+por la correlacion de Roels dHc = -115 * yn2
+por lo que aplico a la ecuacion
+
+**-115 kj/cmol(ys + a ynh3) → -115 kj/cmol (yx * Yx/s + yp * Yp/s) + dHr**
+dHr = - 290.61 kj/ cmol
+
+
 # j) Definí matemáticamente y explicá el significado de la función disipación. Calculá la energía libre total disipada al ambiente durante el cultivo
+
+ **Dx = ∆Gr/ (yx/s)**
+ La disipacion nos muestra la cantidad de energia libre de gibbs disipada por unidad de biomasa producida (kj/cmol), en otras palabras, nos dice la cantidad de energia que se necesita para producir un Cmol de biomasa
