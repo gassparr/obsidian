@@ -9,10 +9,33 @@
 
 Planteamos la ecuacion general de balance de masa:
 donde C sera nuestra biomasa
+
+(dC * V / dt) = (F1 * C1) - (F2 * C2) + Vrf - Vrc
+
+Donde: 
+- F → flujo 
+- C → concentracion
+- Vrf → Velocidad de formacion 
+- Vrc → Velocidad de consumo
+Los subindices 1 (entrada) y 2 (salida)
+
 Como estamos en un cultivo batch, tenes que el Flujo de entrada y de salida al biorreactor seran 0 
-F1 = F2 = 0
+F1 = F2 = 0. Por lo que mi ecuacion se reduce a 
 
+**Ec. 1**
+(dC * V / dt) = Vrf - Vrc
 
+Tambien como el volumen no  se modifica ( ya que no hay ingreso ni egreso de liquido). Volumen = constante
+
+**Ec. 2**
+dV / dt = F1 - F2 = 0 
+
+Reemplazando para biomasa en **Ec. 1** me da 
+(dX/dt) = rx
+
+donde:
+rx → Velocidad volumetrica de formacion de biomasa (Cmol / L * H) o (g / L * H)
+ 
 # b) ¿Qué tipo de muestras se tomaron para obtener los puntos mostrados en el gráfico y cómo se procesaron?
 
 c) Escribí la ecuación estequiométrica de crecimiento para este microorganismo creciendo en estas condiciones incluyendo todos los valores de los coeficientes correspondientes y sus unidades. Enunciá las suposiciones que hacés.
