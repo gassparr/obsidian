@@ -1,6 +1,6 @@
 Coeficiente respiratorio (rco2 / ro2) debe mantenerse debajo de 1.1, ya que valores superiores indican formacion de etanol, disminuyendo el rendimiento celular
 
-**Consumo de O2**
+# **Consumo de O2**
 Para calcular:
 
 **Ecuacion 1**
@@ -162,3 +162,29 @@ OTR = kla . ( C* - Cl )
 
 **Ecuacion 14**
 ![](https://i.imgur.com/P9mZlxH.png)
+subindices 1 (entrada) y 2 (salida)
+
+
+# Modelo para kl
+
+Ley de fick 
+**Ecuacion 15**
+![](https://i.imgur.com/jEw2GDK.png)
+
+Do2 → Coeficiente de difusion del O2 (area transversal / tiempo)
+
+
+**Ecuacion 16**
+![](https://i.imgur.com/pfWqApo.png)
+
+**Ecuacion 17**
+Reemplanzando en (15) con (16)
+![](https://i.imgur.com/oKIfZMA.png)
+
+**Ecuacion 18**
+![](https://i.imgur.com/iGpDSdS.png)
+
+> Ecuacion (17) y (10) 
+> Ecuacion 10 → No2 = kl . (C*-Cl)
+
+Ecuacion 18 no permite calcular k
