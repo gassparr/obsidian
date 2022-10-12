@@ -92,14 +92,7 @@ Como yo uso (NH4)2SO4, divido por 2 ya que cada mol de sulfato me brinda 2 de NH
 
 # f) Explicá cómo realizarías el cálculo de las velocidades volumétricas de crecimiento, de consumo de sustrato y de producción de producto a las 10 hs de cultivo.
 
-## Velocidad volumetrica de crecimiento
-Definiciones:
-qi = ri/X
-ri = qi * X
-
-qi → Velocidad especifica (gi/gx * h)(moles i / moles x * h)
-X → concentracion de biomasa
-ri → velocidad volumetrica 
+## Obtener rx
 
 La definicion de velocidad volumetrica es:
 **dx/dt = rx = u * x**
@@ -117,20 +110,23 @@ Reemplazando el valor de X en la primera ecuacion de rx nos da
 **rx = umax * X0 * e^(umax * t)**
 Esto nos permite conocer la velocidad volumetrica rx en cualquier tiempo
 
+umax lo voy a conocer trazando una recta durante la fase exponencial y sera el valor de la pendiente
+## Obtener rs
 
-f) para obtener rx haría lo siguiente:
-rx=umax * X donde X=Xi * e^(umax * t)
-Con lnX(10hs del grafico)=lnXi(dato de paper) + mMax * 10hs obtengo mMax
-Y con este dato puedo obtener rx(10hs) remplazando datos.
-Para obtener rs hago lo siguiente:
-rs=qs * X    yx/s=rx/-rs
-qs=[-rx(lo obtengo de la ecuación anterior)/yx/s(la lo obtuve en inciso c)]/X (lo obtuve con ecuación anterior)
-Con qs puedo obtener rs(10hs) fácilmente remplazando datos.
-Y finalmente para obtener rp hago lo siguiente:
-rp=qp * X   yp/s= rp/-rs
-qp=[(yp/s(lo obtuve en inciso c) * -rs(lo obtuve con ecuación anterior)] / X (lo obtuve al inicio de este inciso)
-Con qp puedo obtener rp(10hs) solo remplazando datos.
-Otra forma de obtener estos datos seria trazando la recta tangente de cada respectiva curva a las 10hs.
+**rs=qs * X**
+**Yx/s=rx/-rs**
+**qs=(-rx * X) / yx/s**
+
+Con qs puedo obtener rs(10hs)
+
+## Obtener rp
+
+**rp=qp * X**
+**Yp/s= rp/-rs**
+**qp=(yp/s * -rs) / X**
+Con qp puedo obtener rp(10hs) 
+
+
 
  # g) Agregá sobre el gráfico la curva que muestra el comportamiento de qO2 y CL durante el cultivo hasta que se detiene el crecimiento. Justifica con ecuaciones.
 
@@ -149,6 +145,7 @@ C* = 0.0072 g/L
 ![](https://i.imgur.com/z1h8kFC.png)
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
+
 suposiciones:
 - Kla se mantiene
 - U = Umax y es constante
@@ -163,15 +160,14 @@ sabiendo que cuando la transferencia de oxigeno es maxima, la concentracion de o
 Para calcular rO2 al momento en el que tenemos Xf
 **rO2 = (umax * X * b )/ Yx/s**
 
-Yo tengo el valor de Xf, b e Yx/s previamente calculados, u max lo calculo utilizando con t siendo 18 
+Yo tengo el valor de Xf, b e Yx/s previamente calculados, u max lo calculo utilizando con t siendo 18
 **ln X = ln X0 + umax . t**
 donde
 X sera 3
 X0 sera 0.5
 t sera 18h
 **0.061 h-1 = umax**
-
-**rO2 = 
+**rO2 =
 (0.061 h-1 * 3gx/L * 0.674 gO2/gS) / 0.167 gx/gs = 0.74 gO2/L.h**
 
 Con este valor podemos comparar pero como esta en g paso a miligramos (multiplico por 1000)
@@ -183,9 +179,10 @@ rO2 = 740 mgO2/L.h
 Como el OTRmax es mayor que rO2 podemos decir que se puede llevar a cabo el cultivo, ya que no esta limitado por el oxigeno
 
 # i) Calculá la cantidad total de calor liberado. Enunciá las suposiciones que haces.
+
 Tomando como referencia a CO2, H2O y N2 y debido a que estoy en un cultivo aerobico puedo utilizar la correlacion de Roels para facilmente calcular el calor liberado
 
-dHr = -115 * 4 * b 
+dHr = -115 * 4 * b
 
 b = 0.632 molO2/cmols
 
@@ -214,7 +211,6 @@ por lo que aplico a la ecuacion
 
 **-115 kj/cmol(ys + a ynh3) → -115 kj/cmol (yx * Yx/s + yp * Yp/s) + dHr**
 dHr = - 290.61 kj/ cmol
-
 
 # j) Definí matemáticamente y explicá el significado de la función disipación. Calculá la energía libre total disipada al ambiente durante el cultivo
 
