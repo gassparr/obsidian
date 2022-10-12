@@ -31,7 +31,7 @@ Tambien como el volumen no  se modifica ( ya que no hay ingreso ni egreso de liq
 dV / dt = F1 - F2 = 0 
 
 Reemplazando para biomasa en **Ec. 1** me da 
-(dX/dt) = rx 
+(dX/dt) = rx  
 
 donde:
 rx → Velocidad volumetrica de formacion de biomasa (Cmol / L * H) o (g / L * H)
@@ -68,7 +68,7 @@ No, el sustrato limitante para este cultivo fue la fuente de nitrogeno
 
 # e) Calcula la cantidad de (NH4)2SO4 mínima necesaria para obtener la biomasa final alcanzada. Enunciá las suposiciones que hacés.
 
-f) Explicá cómo realizarías el cálculo de las velocidades volumétricas de crecimiento, de consumo de sustrato y de producción de producto a las 10 hs de cultivo.
+# f) Explicá cómo realizarías el cálculo de las velocidades volumétricas de crecimiento, de consumo de sustrato y de producción de producto a las 10 hs de cultivo.
 
 g) Agregá sobre el gráfico la curva que muestra el comportamiento de qO2 y CL durante el cultivo hasta que se detiene el crecimiento. Justifica con ecuaciones.
 
