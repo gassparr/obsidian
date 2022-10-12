@@ -132,7 +132,13 @@ despenjando
 dato:
 C* = 0.0072 g/L
 
+![](https://i.imgur.com/z1h8kFC.png)
+
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
+Kla = 1 / 800h
+C* = 0.0075 g/L
+sabiendo que cuando la transferencia de oxigeno es maxima, la concentracion de oxigeno disuelto en el seno del liquido (CL) es cero, podemos calcular OTR
+
 
 # i) Calculá la cantidad total de calor liberado. Enunciá las suposiciones que haces.
 
