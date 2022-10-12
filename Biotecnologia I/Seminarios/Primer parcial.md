@@ -31,7 +31,7 @@ Tambien como el volumen no  se modifica ( ya que no hay ingreso ni egreso de liq
 dV / dt = F1 - F2 = 0 
 
 Reemplazando para biomasa en **Ec. 1** me da 
-(dX/dt) = rx
+(dX/dt) = rx 
 
 donde:
 rx → Velocidad volumetrica de formacion de biomasa (Cmol / L * H) o (g / L * H)
