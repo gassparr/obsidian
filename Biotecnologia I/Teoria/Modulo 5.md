@@ -153,8 +153,12 @@ OTR = kl . a . ( C* - Cl )
 
 Como a es dificil de evaluar sol, se adjunta con kl, para dar una sola constante basada en el bioreactor. (kla)
 
+**Ecuacion 13**
 OTR = kla . ( C* - Cl )
 
 *Kla* → es un valor de la capacidad de un equipo en suministrar O2 (depende de la geometria y condiciones de operacion)
 
 (C* - Cl) → Fuerza impulsora de transferencia, generada por consumo de O22
+
+**Ecuacion 14**
+![](https://i.imgur.com/P9mZlxH.png)
