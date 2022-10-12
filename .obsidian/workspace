@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biotecnologia I/Teoria/Modulo 5.md",
+            "file": "Biotecnologia I/Seminarios/Primer parcial.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 5.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 5.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 5.md"
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md"
               }
             }
           }
@@ -114,14 +114,14 @@
   "active": "a30ed297172ed12d",
   "lastOpenFiles": [
     "Biotecnologia I/Teoria/Modulo 4.md",
-    "Biotecnologia I/Seminarios/Seminario 3 Grupal.md",
+    "Biotecnologia I/Teoria/Modulo 5.md",
+    "Biotecnologia I/Seminarios/Primer parcial.md",
+    "Biotecnologia I/Seminarios/Tarea individual 1.md",
     "Biotecnologia I/Seminarios/Seminario 6.md",
+    "Biotecnologia I/Seminarios/Seminario 3 individual.md",
     "Biotecnologia I/Seminarios/Seminario 4 Grupal.md",
+    "Biotecnologia I/Seminarios/Seminario 3 Grupal.md",
     "Ingenieria Genetica/Seminarios/Seminario 1B.md",
-    "Ingenieria Genetica/Seminarios/Seminario 2.md",
-    "Ingenieria Genetica/Seminarios/Seminario 1.md",
-    "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md",
-    "Biologia Celular Molecular/Uniones intercelulares.md",
-    "Biologia Celular Molecular/Citoesqueleto.md"
+    "Ingenieria Genetica/Seminarios/Seminario 2.md"
   ]
 }
