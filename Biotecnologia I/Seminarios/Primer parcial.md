@@ -151,8 +151,7 @@ suposiciones:
 **C* = 0.0075 g/L = 7.5 mg/L**
 sabiendo que cuando la transferencia de oxigeno es maxima, la concentracion de oxigeno disuelto en el seno del liquido (CL) es cero, podemos calcular OTR
 
-**OTR max = Kla * C* =
-800/1h * 7.5 mg/L = 6000 mg / h.L**
+**OTR max = Kla * C* = 800/1h * 7.5 mg/L = 6000 mg / h.L**
 
 Para calcular rO2 al momento en el que tenemos Xf
 **rO2 = (umax * X * b )/ Yx/s**
@@ -177,5 +176,11 @@ rO2 = 740 mgO2/L.h
 Como el OTRmax es mayor que rO2 podemos decir que se puede llevar a cabo el cultivo, ya que no esta limitado por el oxigeno
 
 # i) Calculá la cantidad total de calor liberado. Enunciá las suposiciones que haces.
+Tomando como referencia a CO2, H2O y N2 y debido a que estoy en un cultivo aerobico puedo utilizar la correlacion de Roels para facilmente calcular el calor liberado
 
+dHr = -115 * 4 * b 
+
+b = 0.632 molO2/cmols
+
+**dHr = -290 k=KJ/mol**
 # j) Definí matemáticamente y explicá el significado de la función disipación. Calculá la energía libre total disipada al ambiente durante el cultivo
