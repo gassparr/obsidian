@@ -61,6 +61,14 @@ CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s P + Yco2/s CO2 + w H2O
 
 - supongo biomasa estandar
 - utilizo modelo de la caja negra
+- supongo mezclado perfecto del reactor
+
+Yx/s = 0.19 cmolx/cmols
+Yp/s = 0.15 cmolp/cmols
+Yco2/s = 0.66 molco2/cmols
+a = 0.038 mol nh3/ cmols
+b = 1.264 mol O2/ cmols
+w = 0.774 molH2O/cmols
 
 # d) ¿La fuente de carbono y energía (glucosa) fue el sustrato limitante de crecimiento en este cultivo? Enunciá las suposiciones que hacés.
 
