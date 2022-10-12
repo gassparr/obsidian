@@ -62,7 +62,7 @@ CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s P + Yco2/s CO2 + w H2O
 
 - supongo biomasa estandar
 - utilizo modelo de la caja negra
-- supongo mezclado perfecto del reactor
+- supongo cultivo axenico
 
 Yx/s = 0.19 cmolx/cmols
 Yp/s = 0.15 cmolp/cmols
@@ -93,6 +93,13 @@ Como yo uso (NH4)2SO4, divido por 2 ya que cada mol de sulfato me brinda 2 de NH
 # f) Explicá cómo realizarías el cálculo de las velocidades volumétricas de crecimiento, de consumo de sustrato y de producción de producto a las 10 hs de cultivo.
 
 ## Velocidad volumetrica de crecimiento
+Definiciones:
+qi = ri/X
+ri = qi * X
+
+qi → Velocidad especifica (gi/gx * h)(moles i / moles x * h)
+X → concentracion de biomasa
+ri → velocidad volumetrica 
 
 La definicion de velocidad volumetrica es:
 **dx/dt = rx = u * x**
@@ -135,6 +142,11 @@ C* = 0.0072 g/L
 ![](https://i.imgur.com/z1h8kFC.png)
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
+suposiciones:
+- Kla se mantiene
+- U = Umax y es constante
+- El crecimiento es exponencial
+
 **Kla = 800 / 1h**
 **C* = 0.0075 g/L = 7.5 mg/L**
 sabiendo que cuando la transferencia de oxigeno es maxima, la concentracion de oxigeno disuelto en el seno del liquido (CL) es cero, podemos calcular OTR
@@ -153,7 +165,17 @@ X0 sera 0.5
 t sera 18h
 **0.061 h-1 = umax**
 
-rO2 = 0.061 h-1 * 3gx/L * 0.674 gO2/gS
+**rO2 = 
+(0.061 h-1 * 3gx/L * 0.674 gO2/gS) / 0.167 gx/gs = 0.74 gO2/L.h**
+
+Con este valor podemos comparar pero como esta en g paso a miligramos (multiplico por 1000)
+740 mgO2/L.h
+
+OTRmax = 6000mgO2/L.h
+rO2 = 740 mgO2/L.h
+
+Como el OTRmax es mayor que rO2 podemos decir que se puede llevar a cabo el cultivo, ya que no esta limitado por el oxigeno
+
 # i) Calculá la cantidad total de calor liberado. Enunciá las suposiciones que haces.
 
 # j) Definí matemáticamente y explicá el significado de la función disipación. Calculá la energía libre total disipada al ambiente durante el cultivo
