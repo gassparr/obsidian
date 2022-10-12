@@ -64,7 +64,7 @@ CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s P + Yco2/s CO2 + w H2O
 
 # d) ¿La fuente de carbono y energía (glucosa) fue el sustrato limitante de crecimiento en este cultivo? Enunciá las suposiciones que hacés.
 
-No, el sustrato limitante para este cultivo fue la fuente de nitrogeno
+Observando el grafico, se puede decir que la fuente de nitrogeno es el sustrato limitante, ya que la FCE nunca alcanza 0 en el proceso
 
 # e) Calcula la cantidad de (NH4)2SO4 mínima necesaria para obtener la biomasa final alcanzada. Enunciá las suposiciones que hacés.
 
