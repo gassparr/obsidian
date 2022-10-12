@@ -111,12 +111,26 @@ Reemplazando el valor de X en la primera ecuacion de rx nos da
 Esto nos permite conocer la velocidad volumetrica rx en cualquier tiempo
 
 ## Velocidad de consumo de sustrato
-sabemos que 
+
+sabemos que
 **Yx/s = rx/rs**
 y que **rx = u * x**
 Utilizamos la ecuacion de monod y reemplazamos
-**dx/dt = umax * (S / Ks + S) * X** 
+**dx/dt = umax * (S / Ks + S) * X**
+
  # g) Agregá sobre el gráfico la curva que muestra el comportamiento de qO2 y CL durante el cultivo hasta que se detiene el crecimiento. Justifica con ecuaciones.
+
+Para calcular qO2 (el cual se mantiene constante a traves del tiempo) usamos:
+**rO2 = qO2 * X**
+**qO2 = rO2 / X**
+
+Para calcular CL, como el microorganismo crece de manera exponencial, podemos decir que OTR = rO2.
+Tambien sabemos que
+**OTR = rO2 = Kla * (C* - Cl)**
+despenjando
+**Cl = C* - rO2/Kla**
+dato:
+C* = 0.0072 g/L
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
 
