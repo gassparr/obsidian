@@ -91,22 +91,31 @@ Como yo uso (NH4)2SO4, divido por 2 ya que cada mol de sulfato me brinda 2 de NH
 0.012 mol (NH4)2SO4 * 132 g/mol = 1.584g
 
 # f) Explicá cómo realizarías el cálculo de las velocidades volumétricas de crecimiento, de consumo de sustrato y de producción de producto a las 10 hs de cultivo.
+
+## Velocidad volumetrica de crecimiento
+
 La definicion de velocidad volumetrica es:
 **dx/dt = rx = u * x**
 
-Tomando valido el modelo de monod 
+Tomando valido el modelo de monod
 **dx/dt = umax * (S / Ks + S) * X**
 
-Segun el modelo de monod, si nos encontramos en la fase exponencial 
-**dx/dt = umax . X** 
-e integrando esta obtenemos 
+Segun el modelo de monod, si nos encontramos en la fase exponencial
+**dx/dt = umax . X**
+e integrando esta obtenemos
 **ln X = ln X0 + umax . t**.
-La forma exponencial sera 
+La forma exponencial sera
 **X = X0 . e^(umax . t)**
 Reemplazando el valor de X en la primera ecuacion de rx nos da
 **rx = umax * X0 * e^(umax * t)**
 Esto nos permite conocer la velocidad volumetrica rx en cualquier tiempo
- 
+
+## Velocidad de consumo de sustrato
+sabemos que 
+**Yx/s = rx/rs**
+y que **rx = u * x**
+Utilizamos la ecuacion de monod y reemplazamos
+**dx/dt = umax * (S / Ks + S) * X** 
  # g) Agregá sobre el gráfico la curva que muestra el comportamiento de qO2 y CL durante el cultivo hasta que se detiene el crecimiento. Justifica con ecuaciones.
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
