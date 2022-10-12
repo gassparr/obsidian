@@ -67,7 +67,7 @@ Yx/s = 0.19 cmolx/cmols
 Yp/s = 0.15 cmolp/cmols
 Yco2/s = 0.66 molco2/cmols
 a = 0.038 mol nh3/ cmols
-b = 1.264 mol O2/ cmols
+b = 0.632 mol O2/ cmols
 w = 0.774 molH2O/cmols
 
 # d) ¿La fuente de carbono y energía (glucosa) fue el sustrato limitante de crecimiento en este cultivo? Enunciá las suposiciones que hacés.
