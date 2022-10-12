@@ -4,7 +4,7 @@
 
 - Hasta la hora 3, sera la fase lag.
 - De la hora 3 hasta la 18 sera exponencial.
-- 18 hasta en adelante sera fase estacionaria 
+- 18 hasta en adelante sera fase estacionaria
 - Decaimiento no es visible en este grafico
 
 Planteamos la ecuacion general de balance de masa:
@@ -12,30 +12,32 @@ donde C sera nuestra biomasa
 
 (dC * V / dt) = (F1 * C1) - (F2 * C2) + Vrf - Vrc
 
-Donde: 
-- F → flujo 
+Donde:
+- F → flujo
 - C → concentracion
-- Vrf → Velocidad de formacion 
+- Vrf → Velocidad de formacion
 - Vrc → Velocidad de consumo
 Los subindices 1 (entrada) y 2 (salida)
 
-Como estamos en un cultivo batch, tenes que el Flujo de entrada y de salida al biorreactor seran 0 
-F1 = F2 = 0. Por lo que mi ecuacion se reduce a 
+Como estamos en un cultivo batch, tenes que el Flujo de entrada y de salida al biorreactor seran 0
+F1 = F2 = 0. Por lo que mi ecuacion se reduce a
 
 **Ec. 1**
 (dC * V / dt) = Vrf - Vrc
 
-Tambien como el volumen no  se modifica ( ya que no hay ingreso ni egreso de liquido). Volumen = constante
+Tambien como el volumen no se modifica ( ya que no hay ingreso ni egreso de liquido). Volumen = constante
 
 **Ec. 2**
-dV / dt = F1 - F2 = 0 
+dV / dt = F1 - F2 = 0
 
-Reemplazando para biomasa en **Ec. 1** me da 
-(dX/dt) = rx  
+Reemplazando para biomasa en **Ec. 1** me da
+(dX/dt) = rx
+(se removieron los volumenes)
 
 donde:
 rx → Velocidad volumetrica de formacion de biomasa (Cmol / L * H) o (g / L * H)
- 
+ rx = rf - rc
+
 # b) ¿Qué tipo de muestras se tomaron para obtener los puntos mostrados en el gráfico y cómo se procesaron?
 
 Para medir el peso seco:
@@ -47,13 +49,12 @@ Para los PHAs:
 1. El medio fue centrifugado a 8000 rpm durante 10 minutos.
 2. Los pellets se resuspenden en NaClO (cloro comercial) en el mismo volumen original de medio (250ml) y se mezcla.
 3. Se incuba la mezcla a 37C durante 1h.
-4. Mezcla se centrifuga  y se lava 2 veces con agua destilada para remover el cloro (el cual contiene a los componentes celulares).
+4. Mezcla se centrifuga y se lava 2 veces con agua destilada para remover el cloro (el cual contiene a los componentes celulares).
 5. Los pellets blancos se lavan con acetona y etanol para remover el producto lipidico.
 6. Los PHAs se extraen con cloroformo
 7. Se transfiere al cloroformo a un tubo y se evapora.
 8. Se agrega 10ml de H2SO4 y se calienta a 100C por 10 minutos y despues se lo enfria a Temperatura ambiente.
 9. Se determina el producto por espectrofotometro a 235 nm
-
 
 # c) Escribí la ecuación estequiométrica de crecimiento para este microorganismo creciendo en estas condiciones incluyendo todos los valores de los coeficientes correspondientes y sus unidades. Enunciá las suposiciones que hacés.
 
@@ -75,6 +76,7 @@ w = 0.774 molH2O/cmols
 Observando el grafico, se puede decir que la fuente de nitrogeno es el sustrato limitante, ya que la FCE nunca alcanza 0 en el proceso
 
 # e) Calcula la cantidad de (NH4)2SO4 mínima necesaria para obtener la biomasa final alcanzada. Enunciá las suposiciones que hacés.
+
 biomasa
 25.8 g → 1 cmol x
 3 g (x final) → 0.12 cmol x
@@ -86,16 +88,20 @@ NH3
 Como yo uso (NH4)2SO4, divido por 2 ya que cada mol de sulfato me brinda 2 de NH3
 
 0.024 mol NH3 / 2 = 0.012 mol (NH4)2SO4
-
 0.012 mol (NH4)2SO4 * 132 g/mol = 1.584g
 
 # f) Explicá cómo realizarías el cálculo de las velocidades volumétricas de crecimiento, de consumo de sustrato y de producción de producto a las 10 hs de cultivo.
 
+Yx/s = dx / ds = rx / rs
 
+sabiendo que 
+rs = qs . X
 
+Yx/s = rX / (qs . X)
 
+qs . X = rX / Yxs
 
-
+Por otro lado, segun el modelo de monod, si nos encontramos en la fase exponencial dx/dt = umax . X e integrando esta obtenemos ln X = ln X0 + umax . t
 # g) Agregá sobre el gráfico la curva que muestra el comportamiento de qO2 y CL durante el cultivo hasta que se detiene el crecimiento. Justifica con ecuaciones.
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
