@@ -62,7 +62,7 @@ CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s P + Yco2/s CO2 + w H2O
 - supongo biomasa estandar
 - utilizo modelo de la caja negra
 
-d) ¿La fuente de carbono y energía (glucosa) fue el sustrato limitante de crecimiento en este cultivo? Enunciá las suposiciones que hacés.
+# d) ¿La fuente de carbono y energía (glucosa) fue el sustrato limitante de crecimiento en este cultivo? Enunciá las suposiciones que hacés.
 
 e) Calcula la cantidad de (NH4)2SO4 mínima necesaria para obtener la biomasa final alcanzada. Enunciá las suposiciones que hacés.
 
