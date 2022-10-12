@@ -135,11 +135,25 @@ C* = 0.0072 g/L
 ![](https://i.imgur.com/z1h8kFC.png)
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
-Kla = 800 / 1h
-C* = 0.0075 g/L = 7.5 mg/L
+**Kla = 800 / 1h**
+**C* = 0.0075 g/L = 7.5 mg/L**
 sabiendo que cuando la transferencia de oxigeno es maxima, la concentracion de oxigeno disuelto en el seno del liquido (CL) es cero, podemos calcular OTR
 
-OTR max = Kla * C* = 800/1h * 7.5 mg/L = 6000 
+**OTR max = Kla * C* =
+800/1h * 7.5 mg/L = 6000 mg / h.L**
+
+Para calcular rO2 al momento en el que tenemos Xf
+**rO2 = (umax * X * b )/ Yx/s**
+
+Yo tengo el valor de Xf, b e Yx/s previamente calculados, u max lo calculo utilizando con t siendo 18 
+**ln X = ln X0 + umax . t**
+donde
+X sera 3
+X0 sera 0.5
+t sera 18h
+**0.061 h-1 = umax**
+
+rO2 = 0.061 h-1 * 3gx/L * 0.674 gO2/gS
 # i) Calculá la cantidad total de calor liberado. Enunciá las suposiciones que haces.
 
 # j) Definí matemáticamente y explicá el significado de la función disipación. Calculá la energía libre total disipada al ambiente durante el cultivo
