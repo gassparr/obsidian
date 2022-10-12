@@ -58,7 +58,7 @@ Para los PHAs:
 
 # c) Escribí la ecuación estequiométrica de crecimiento para este microorganismo creciendo en estas condiciones incluyendo todos los valores de los coeficientes correspondientes y sus unidades. Enunciá las suposiciones que hacés.
 
-CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s P + Yco2/s CO2 + w H2O
+CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s CH1.5O0.5 + Yco2/s CO2 + w H2O
 
 - supongo biomasa estandar
 - utilizo modelo de la caja negra
@@ -183,4 +183,24 @@ dHr = -115 * 4 * b
 b = 0.632 molO2/cmols
 
 **dHr = -290 k=KJ/mol**
+
+-----
+Para corroborar
+
+CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s CH1.5O0.5 + Yco2/s CO2 + w H2O
+
+ya que CO2, H2O y O2 son referencias 
+y ← Gamma
+dejo la ecuacion de arriba expresada en grado de reduccion
+**ys + a ynh3 → yx * Yx/s + yp * Yp/s**
+
+- ys = 4
+- ynh3 = 3
+- yx = 4.8
+- yp = 4.5
+- a = 0.038
+- Yx/s = 0.19
+- Yp/s = 0.15
+
+por la correlacion de Roels dHc = -115 * y 
 # j) Definí matemáticamente y explicá el significado de la función disipación. Calculá la energía libre total disipada al ambiente durante el cultivo
