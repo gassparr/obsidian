@@ -117,13 +117,20 @@ Reemplazando el valor de X en la primera ecuacion de rx nos da
 **rx = umax * X0 * e^(umax * t)**
 Esto nos permite conocer la velocidad volumetrica rx en cualquier tiempo
 
-## Velocidad de consumo de sustrato
 
-sabemos que
-**Yx/s = rx/rs**
-y que **rx = u * x**
-Utilizamos la ecuacion de monod y reemplazamos
-**dx/dt = umax * (S / Ks + S) * X**
+f) para obtener rx haría lo siguiente:
+rx=umax * X donde X=Xi * e^(umax * t)
+Con lnX(10hs del grafico)=lnXi(dato de paper) + mMax * 10hs obtengo mMax
+Y con este dato puedo obtener rx(10hs) remplazando datos.
+Para obtener rs hago lo siguiente:
+rs=qs * X    yx/s=rx/-rs
+qs=[-rx(lo obtengo de la ecuación anterior)/yx/s(la lo obtuve en inciso c)]/X (lo obtuve con ecuación anterior)
+Con qs puedo obtener rs(10hs) fácilmente remplazando datos.
+Y finalmente para obtener rp hago lo siguiente:
+rp=qp * X   yp/s= rp/-rs
+qp=[(yp/s(lo obtuve en inciso c) * -rs(lo obtuve con ecuación anterior)] / X (lo obtuve al inicio de este inciso)
+Con qp puedo obtener rp(10hs) solo remplazando datos.
+Otra forma de obtener estos datos seria trazando la recta tangente de cada respectiva curva a las 10hs.
 
  # g) Agregá sobre el gráfico la curva que muestra el comportamiento de qO2 y CL durante el cultivo hasta que se detiene el crecimiento. Justifica con ecuaciones.
 
@@ -228,7 +235,7 @@ reemplazo por la correlacion de Roels dGc = -(94,4 yN2 + 86,6) (K.J./C-mol) en c
 
 dGs + a * dGnh3 = Yx/s * dGx + Yp/s dGp + dGr
 
-dGr = -125.75 (KJ/cmol)
+dGr = -298.75 (KJ/cmol)
 
 
-Dx = -125.75 / 0.19 =  -661.8
+Dx = -298.75 / 0.19 =  -1572.4
