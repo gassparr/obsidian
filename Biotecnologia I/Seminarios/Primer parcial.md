@@ -39,15 +39,28 @@ rx → Velocidad volumetrica de formacion de biomasa (Cmol / L * H) o (g / L * H
 # b) ¿Qué tipo de muestras se tomaron para obtener los puntos mostrados en el gráfico y cómo se procesaron?
 
 Para medir el peso seco:
-se extrajo 1mL del cultivo y fue centrifuga a 8000 rpm durante 10 minutos.
-Despues de la centrifugacion los pellets fueron lavados dos veces con agua destilada y fueron secados a 90C hasta obtener un peso constante.
-Por ultimo se los enfrio en disecantes hasta tambien obtener un peso constante
+1. Se extrajo 1mL del cultivo y fue centrifuga a 8000 rpm durante 10 minutos.
+2. Despues de la centrifugacion los pellets fueron lavados dos veces con agua destilada y fueron secados a 90C hasta obtener un peso constante.
+3. Por ultimo se los enfrio en disecantes hasta tambien obtener un peso constante
 
 Para los PHAs:
-El medio fue centrifugado a 8000 rpm durante 10 minutos.
+1. El medio fue centrifugado a 8000 rpm durante 10 minutos.
+2. Los pellets se resuspenden en NaClO (cloro comercial) en el mismo volumen original de medio (250ml) y se mezcla.
+3. Se incuba la mezcla a 37C durante 1h.
+4. Mezcla se centrifuga  y se lava 2 veces con agua destilada para remover el cloro (el cual contiene a los componentes celulares).
+5. Los pellets blancos se lavan con acetona y etanol para remover el producto lipidico.
+6. Los PHAs se extraen con cloroformo
+7. Se transfiere al cloroformo a un tubo y se evapora.
+8. Se agrega 10ml de H2SO4 y se calienta a 100C por 10 minutos y despues se lo enfria a Temperatura ambiente.
+9. Se determina el producto por espectrofotometro a 235 nm
 
 
-c) Escribí la ecuación estequiométrica de crecimiento para este microorganismo creciendo en estas condiciones incluyendo todos los valores de los coeficientes correspondientes y sus unidades. Enunciá las suposiciones que hacés.
+# c) Escribí la ecuación estequiométrica de crecimiento para este microorganismo creciendo en estas condiciones incluyendo todos los valores de los coeficientes correspondientes y sus unidades. Enunciá las suposiciones que hacés.
+
+CH2O + a NH3 + b O2 → Yx/s CH1.8O0.5N0.2 + Yp/s P + Yco2/s CO2 + w H2O
+
+- supongo biomasa estandar
+- utilizo modelo de la caja negra
 
 d) ¿La fuente de carbono y energía (glucosa) fue el sustrato limitante de crecimiento en este cultivo? Enunciá las suposiciones que hacés.
 
