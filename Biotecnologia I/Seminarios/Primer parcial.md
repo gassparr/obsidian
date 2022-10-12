@@ -75,6 +75,19 @@ w = 0.774 molH2O/cmols
 Observando el grafico, se puede decir que la fuente de nitrogeno es el sustrato limitante, ya que la FCE nunca alcanza 0 en el proceso
 
 # e) Calcula la cantidad de (NH4)2SO4 mínima necesaria para obtener la biomasa final alcanzada. Enunciá las suposiciones que hacés.
+biomasa
+25.8 g → 1 cmol x
+3 g (x final) → 0.12 cmol x
+
+NH3
+0.038 mol NH3 → 0.19 cmolx (sacado de la ecuacion)
+0.024 mol NH3 → 0.12 cmol x
+
+Como yo uso (NH4)2SO4, divido por 2 ya que cada mol de sulfato me brinda 2 de NH3
+
+0.024 mol NH3 / 2 = 0.012 mol (NH4)2SO4
+
+0.012 mol (NH4)2SO4 * 132 g/mol = 1.584g
 
 # f) Explicá cómo realizarías el cálculo de las velocidades volumétricas de crecimiento, de consumo de sustrato y de producción de producto a las 10 hs de cultivo.
 
