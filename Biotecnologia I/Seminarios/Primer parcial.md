@@ -110,7 +110,14 @@ Reemplazando el valor de X en la primera ecuacion de rx nos da
 **rx = umax * X0 * e^(umax * t)**
 Esto nos permite conocer la velocidad volumetrica rx en cualquier tiempo
 
-umax lo voy a conocer trazando una recta durante la fase exponencial y sera el valor de la pendiente
+
+para calcular umax saco la pendiente de una recta en fase exponencial
+**3-0.5 / 18 - 3 = 0.166 h-1
+umax = 0.166**
+
+Calculo X a t=10h
+X
+por lo tanto 
 ## Obtener rs
 
 **rs=qs * X**
@@ -142,7 +149,8 @@ despenjando
 dato:
 C* = 0.0072 g/L
 
-![](https://i.imgur.com/z1h8kFC.png)
+![](https://i.imgur.com/bYmwH7T.png)
+
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
 
