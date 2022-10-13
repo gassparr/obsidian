@@ -121,14 +121,15 @@ por lo tanto  una vez obtenido X a t = 10 reemplazo en
 **rx = umax * x**
 
 
-rs= qs * X 
-rp = qp * X   
+## Obtener rs
 
-rs= (rx / Yx/s) + (rp / Yp/s) + (ms * X)
+**Yx/s = rx / rs**
 
-qs= umax / Yx/s qp/yp/s’ + ms 
+despejamos rx y la reemplazamos en la ecuacion de monod **dx/dt = umax * (S / Ks + S) * X**
 
+**Yx/s * rs = umax * (S / Ks + S) * X**
 
+sabiendo que rs es **rs = u * x** reempla
 
  # g) Agregá sobre el gráfico la curva que muestra el comportamiento de qO2 y CL durante el cultivo hasta que se detiene el crecimiento. Justifica con ecuaciones.
 
