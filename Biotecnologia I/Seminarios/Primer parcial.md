@@ -77,6 +77,7 @@ Observando el grafico, se puede decir que la fuente de nitrogeno es el sustrato 
 
 # e) Calcula la cantidad de (NH4)2SO4 mínima necesaria para obtener la biomasa final alcanzada. Enunciá las suposiciones que hacés.
 
+
 biomasa
 25.8 g → 1 cmol x
 3 g (x final) → 0.12 cmol x
@@ -111,27 +112,21 @@ Reemplazando el valor de X en la primera ecuacion de rx nos da
 Esto nos permite conocer la velocidad volumetrica rx en cualquier tiempo
 
 
-para calcular umax saco la pendiente de una recta en fase exponencial
-**3-0.5 / 18 - 3 = 0.166 h-1
-umax = 0.166**
+para calcular umax saco la pendiente de una recta en fase exponencial m = umax
 
 Calculo X a t=10h
-X
-por lo tanto 
-## Obtener rs
+**X = X0 . e^(umax . t)**
 
-**rs=qs * X**
-**Yx/s=rx/-rs**
-**qs=(-rx * X) / yx/s**
+por lo tanto  una vez obtenido X a t = 10 reemplazo en 
+**rx = umax * x**
 
-Con qs puedo obtener rs(10hs)
 
-## Obtener rp
+rs= qs * X 
+rp = qp * X   
 
-**rp=qp * X**
-**Yp/s= rp/-rs**
-**qp=(yp/s * -rs) / X**
-Con qp puedo obtener rp(10hs) 
+rs= (rx / Yx/s) + (rp / Yp/s) + (ms * X)
+
+qs= umax / Yx/s qp/yp/s’ + ms 
 
 
 
