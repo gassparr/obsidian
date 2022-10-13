@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "1da98d1018e4e0b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8fff72c0c8f1b1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30ed297172ed12d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61670dc6cfbdf1e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4111d1970f84605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64a0432d31a19d2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f234cb288c04cfaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253
+  },
+  "right": {
+    "id": "7008b93332e5b4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a1a737ded1d10e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa936ae1e4a79c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a044516c7595ad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "743576caa86e49e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a30ed297172ed12d",
+  "lastOpenFiles": [
+    "Biotecnologia I/Seminarios/Primer parcial.md",
+    "Biotecnologia I/Teoria/Modulo 4.md",
+    "Biotecnologia I/Teoria/Modulo 5.md",
+    "Biotecnologia I/Seminarios/Tarea individual 1.md",
+    "Biotecnologia I/Seminarios/Seminario 6.md",
+    "Biotecnologia I/Seminarios/Seminario 3 individual.md",
+    "Biotecnologia I/Seminarios/Seminario 4 Grupal.md",
+    "Biotecnologia I/Seminarios/Seminario 3 Grupal.md",
+    "Ingenieria Genetica/Seminarios/Seminario 1B.md",
+    "Ingenieria Genetica/Seminarios/Seminario 2.md"
+  ]
+}

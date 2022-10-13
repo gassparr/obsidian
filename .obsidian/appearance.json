@@ -1,10 +1,12 @@
 {
   "baseFontSize": 21,
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "",
   "translucency": false,
   "enabledCssSnippets": [
     "Auto dark images"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": "#393357",
+  "nativeMenus": false
 }
