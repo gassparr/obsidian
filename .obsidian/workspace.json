@@ -11,8 +11,13 @@
             "id": "a30ed297172ed12d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -84,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md"
+              }
             }
           }
         ],
