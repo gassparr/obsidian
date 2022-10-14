@@ -185,7 +185,7 @@ ATG…………..GTG CGA A*CC ATG G*
 
 ### Preparacion del vector 
 
-1. Miniprep
+1. [[miniprep]]
 2. Electroforesis en gel de agarosa 
 3. Digestion con NcoI y XhoI
 4. Electroforesis en gel de agarosa (para ver si digirio)

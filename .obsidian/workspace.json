@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Plasmidos.md",
+                "file": "miniprep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dna file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253,
-    "collapsed": true
+    "width": 253
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Plasmidos.md",
+                "file": "miniprep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Plasmidos.md",
+                "file": "miniprep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Plasmidos.md"
+                "file": "miniprep.md"
               }
             }
           }
@@ -191,15 +190,15 @@
   },
   "active": "18cb8fa0d02b81e5",
   "lastOpenFiles": [
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md",
+    "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md",
+    "Biologia Celular Molecular/Ciclo Celular.md",
+    "miniprep.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
+    "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
     "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md",
-    "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
-    "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
-    "Biotecnologia I/Seminarios/Primer parcial.md",
-    "Biotecnologia I/Teoria/Modulo 4.md",
-    "Biotecnologia I/Teoria/Modulo 5.md",
-    "Biotecnologia I/Seminarios/Tarea individual 1.md"
+    "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md"
   ]
 }
