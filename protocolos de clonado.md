@@ -35,8 +35,8 @@
 	5’ GTG CCC GAG CAA … AGG TTC GAG GTG CGC 3’
 	--------------------------------AAG CTG CAC GCG CCT AGG 5’
 	
-	5’ ATG GNN GAG CCC CAG 3’
-	5’ -----------CTC  GGG CTC GTT … TCC AAG CTG CAC GCG 5’
+	5’ ATG GNN GTG CCC CAG 3’
+	5’ -----------CAC  GGG CTC GTT … TCC AAG CTG CAC GCG 5’
 	
 	despues de muchos ciclos el inserto queda
 	
@@ -62,4 +62,27 @@ BsaI
 hay que insertar este sitio de corte en el inserto y el plasmido, para eso construimos primers
 
 **Vector**
-5’ CC
+5’ CCA TTA GGC TAC GGT ACC ATG GGA GGA TCC AGA TCT CAC CAC CAC 3’
+3’ GGT AAT CCG ATG CCA TGG TAC CCT CCT AGG TCT AGA GTG GTG GTG 5’
+
+**Inserto**
+5’ GTG CCC GAG CAA … AGG TTC GAG GTG CGC 3’
+3’ CAC  GGG CTC GTT … TCC AAG CTG CAC GCG 5’
+
+**Mi objetivo**
+En negritaa mi inserto
+5’ CCA TTA GGC TAC GGT ACC ATG **GTG CCC GAG CAA …** GTG CGC CAC CAC CAC 3’
+3’ GGT AAT CCG ATG CCA TGG TAC CAC GGG CTC GTT …   CAC GCG GTG GTG  GTG
+
+**Primers**
+Forward del vector 
+5’ NNN GGT CTC N GCG C CAC CAC CAC CAC 3’
+
+Reverse del vector
+5’ NNN GGT CTC N CCA T GGT AGC GTA GCC TAA TGG 3’
+
+Forward del inserto
+5’ NNN GGT CTC N ATG GTG CCC 3’
+
+Reverse del inserto
+5’ NNN GGT CTCNG CGC NCG TCG AAC CTG TCG
