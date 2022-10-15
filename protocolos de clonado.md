@@ -99,3 +99,6 @@ El primer directo del inserto comienza con la secuencia de la enzima, luego 4N q
 El primer reverso del inserto comienza con la secuencia de la enzima luego 4N complementarias y reversas a las 4 del inserto
 
 **Secuencia del vector despues de la  pcr**
+
+5’ NNNGGTCTCA | ATGGTGCCCGAG … GTGCGCTGAGACCTTT 3’
+3’ TTTCCAGAG T    TACCACGGGCTC … CACGCGACTCTGGAAA 5’
