@@ -23,4 +23,17 @@ Inserto → No tiene sitio de corte para NcoI y BamHI, tenemos que agregarlos us
 
 Las secuencias siempre se agregan en 5’ y como el vector ya tiene un STOP y un ATG no le tenemos que agregar los del inserto
 
-2. Primer directo
+**Primers**
+Forward
+   5’ AAA AC|C ATG GNN GGTG CCC GAG 3’
+   
+Reverse
+   5’ G|GA TCC GCG CAC GTC GAA 3’
+
+**Secuencias del inserto**
+
+5’ GTG CCC GAG CAA … AGG TTC GAG GTG CGC 3’
+--------------------------------AAG CTG CAC GCG CCT AGG 5’
+
+5’ ATG GNN GAG CC CAG 3’
+5’ -----------C
