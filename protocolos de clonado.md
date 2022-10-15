@@ -85,4 +85,7 @@ Forward del inserto
 5’ NNN GGT CTC N ATG GTG CCC 3’
 
 Reverse del inserto
-5’ NNN GGT CTCNG CGC NCG TCG AAC CTG TCG
+5’ NNN GGT CTC N GCG C NCG TCG AAC CTG TCG 3’
+
+El primer directo del inserto comienza con la secuencia de la enzima, luego 4N que van a ser los 3 del vector y el 1ero del inserto y sigo copiando la hebra de arriba
+El primer reverso del inserto comienza con la secuencia de la enzima luego 4N complementarias y reversas a las 4 del inserto
