@@ -157,4 +157,8 @@ Primer reverse:
 5’ ATG GTG CCC GAG 3’
 3’ ……..CAC GGG CTC … CAC GCG 5’
 
-****
+**Despues de PCR**
+
+5’  CCA TTA GGC TAC GCT ACC ATG GTG CCC GAG … GTG CGC CAC 3’
+
+Para el primer reverse del inserto copiar los inverso y complementario a los del vector (cercanos a donde termina el inserto) y los complementarios inversos del final del inserto
