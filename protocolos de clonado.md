@@ -34,16 +34,16 @@
 	
 	**Secuencias del inserto**
 	
-	5’ GTG CCC GAG CAA … AGG TTC GAG GTG CGC 3’
-	--------------------------------AAG CTG CAC GCG CCT AGG 5’
+	- 5’ GTG CCC GAG CAA … AGG TTC GAG GTG CGC 3’
+	- --------------------------------AAG CTG CAC GCG CCT AGG 5’
 	
-	5’ ATG GNN GTG CCC CAG 3’
-	5’ -----------CAC  GGG CTC GTT … TCC AAG CTG CAC GCG 5’
+	- 5’ ATG GNN GTG CCC CAG 3’
+	- 5’ -----------CAC  GGG CTC GTT … TCC AAG CTG CAC GCG 5’
 	
 	despues de muchos ciclos el inserto queda
 	
-	5’ AAA AC|*C ATG GNN GTG CCC GAG … AGG TTC GAC GTG CGC G*|GA TCC 3’
-	3’ TTT TGG TAC | *CNN CAC GGG CTC … TCC AAG CTG CAC GCG CCT AG*|G 5’
+	- 5’ AAA AC|*C ATG GNN GTG CCC GAG … AGG TTC GAC GTG CGC G*|GA TCC 3’
+	- 3’ TTT TGG TAC | *CNN CAC GGG CTC … TCC AAG CTG CAC GCG CCT AG*|G 5’
 
 
 3. Digerimos el vector y el plasmido con NcoI y BamHI
@@ -59,27 +59,27 @@ Utiliza enzimas que reconoces un sitio pero cortan por fuera del sitio
 
 BsaI
 
-5’ GGT CTC N|NNNN 3’
-3’ CCA GAG N NNNN| 5’
+- 5’ GGT CTC N|NNNN 3’
+- 3’ CCA GAG N NNNN| 5’
 
 hay que insertar este sitio de corte en el inserto y el plasmido, para eso construimos primers
 
 **Vector**
 
-5’ CCA TTA GGC TAC GGT ACC ATG GGA GGA TCC AGA TCT CAC CAC CAC 3’
-3’ GGT AAT CCG ATG CCA TGG TAC CCT CCT AGG TCT AGA GTG GTG GTG 5’
+- 5’ CCA TTA GGC TAC GGT ACC ATG GGA GGA TCC AGA TCT CAC CAC CAC 3’
+- 3’ GGT AAT CCG ATG CCA TGG TAC CCT CCT AGG TCT AGA GTG GTG GTG 5’
 
 **Inserto**
 
-5’ GTG CCC GAG CAA … AGG TTC GAG GTG CGC 3’
-3’ CAC  GGG CTC GTT … TCC AAG CTG CAC GCG 5’
+- 5’ GTG CCC GAG CAA … AGG TTC GAG GTG CGC 3’
+- 3’ CAC  GGG CTC GTT … TCC AAG CTG CAC GCG 5’
 
 **Mi objetivo**
 
 En negrita mi inserto
 
-5’ CCA TTA GGC TAC GGT ACC ATG **GTG CCC GAG CAA …** GTG CGC CAC CAC CAC 3’
-3’ GGT AAT CCG ATG CCA TGG TAC CAC GGG CTC GTT …   CAC GCG GTG GTG  GTG
+- 5’ CCA TTA GGC TAC GGT ACC ATG **GTG CCC GAG CAA …** GTG CGC CAC CAC CAC 3’
+- 3’ GGT AAT CCG ATG CCA TGG TAC CAC GGG CTC GTT …   CAC GCG GTG GTG  GTG
 
 **Primers**
 
@@ -100,16 +100,16 @@ El primer reverso del inserto comienza con la secuencia de la enzima luego 4N co
 
 **Secuencia del vector despues de la  pcr**
 
-5’ NNNGGTCTCA | ATGGTGCCCGAG … GT | GCGCTGAGACCTTT 3’
-3’ TTTCCAGAG T    TACC | ACGGGCTC … CACGCG | ACTCTGGAAA 5’
+- 5’ NNNGGTCTCA | ATGGTGCCCGAG … GT | GCGCTGAGACCTTT 3’
+- 3’ TTTCCAGAG T    TACC | ACGGGCTC … CACGCG | ACTCTGGAAA 5’
 
 **Cuando corto los dos por separado y luego los ligo**:
 
-5’ CCA TTA GGC TAC GCT ACC | ATG GTG CC GAG … GTG CGC CAC 3’
-3’ GGT AAT CCG ATG CGA TTG TAC CAC GGG CTC … CAC GCG | GTG 5’
+- 5’ CCA TTA GGC TAC GCT ACC | ATG GTG CC GAG … GTG CGC CAC 3’
+- 3’ GGT AAT CCG ATG CGA TTG TAC CAC GGG CTC … CAC GCG | GTG 5’
 
 1. Escribir como quiero que me quede la secuencia 
-2. De la hebra de arriba elijo los 3 ultimos del vector y el primero del inserto, los 4 ultimos del inserto (que habra querido decir ?)
+2. De la hebra de arriba elijo los 3 ultimos del vector y el primero del inserto y los 4 ultimos del inserto 
 3. El primer directo del vector empieza con la secuencia de la enzima y luego los 4N finales del inserto seguido de lo que siga en la secuencia de la hebra de arriba
 
 El primer reverse del vector empieza con la secuencia de la enzima y luego los 4N complementarios a los 4N que esta formado por los 4 del vector y el 1ero del inserto, ademas de complementarios e inversos
@@ -119,8 +119,8 @@ sin enzimas de restriccion, hacemos que el vector y el amplicon de pcr tengan ex
 
 **Secuencias que quiero**
 
-5’ CCA TTA GGC TAC GCT ACC ATG *GTG CCC GAG … GTG GGC* CAC CAC CAC 3’
-3’ GGT AAT CCG ATG CGA TGG TAC *CAC GGG CTC … CAC GCG* GGTG GTG GTG 5’
+- 5’ CCA TTA GGC TAC GCT ACC ATG *GTG CCC GAG … GTG GGC* CAC CAC CAC 3’
+- 3’ GGT AAT CCG ATG CGA TGG TAC *CAC GGG CTC … CAC GCG* GGTG GTG GTG 5’
 
 **Primers**
 **Vector**
