@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocolos de clonado.md",
+                "file": "Personal/CV esp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocolos de clonado.md",
+                "file": "Personal/CV esp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocolos de clonado.md",
+                "file": "Personal/CV esp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocolos de clonado.md"
+                "file": "Personal/CV esp.md"
               }
             }
           }
@@ -203,6 +203,7 @@
   },
   "active": "d0a31f48470cab8e",
   "lastOpenFiles": [
+    "protocolos de clonado.md",
     "miniprep.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md",
     "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md",
@@ -211,7 +212,6 @@
     "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
     "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md",
-    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
-    "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md"
+    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md"
   ]
 }

@@ -3,6 +3,8 @@
 Email: **<gaspar@kaswalder.net>**
 Phone: **+54 9 221 305-4186**
 
+-----------
+
 ## Experiencia Laboral
 
 ### Universidad Nacional de La Plata
@@ -24,6 +26,9 @@ Phone: **+54 9 221 305-4186**
 - Colaboración con los asociados de ventas para ampliar la red de servicios de KpK
 - Establecimiento de protocolos para los servicios técnicos
 - Asesoramiento sobre el uso correcto de los productos químicos y el procedimiento
+- Realizacion de Tintas penetrantes
+
+-------------
 
 ## Educacion
 
@@ -40,6 +45,8 @@ Especialización: Procesos Biotecnologicos
 **Técnico universitario en Química**
 "*2018-2021*"
 
+-----------
+
 ## Habilidades
 
 **Técnicas**
@@ -54,3 +61,4 @@ Especialización: Procesos Biotecnologicos
 
 Inglés: Bilingüe
 Español: Nativo
+
