@@ -614,6 +614,15 @@ var DEFAULT_SETTINGS = {
   clientId: null,
   showRemoteUploadConfirmation: true
 };
+function allFilesAreImages(files) {
+  if (files.length === 0)
+    return false;
+  for (let i = 0; i < files.length; i += 1) {
+    if (!files[i].type.startsWith("image"))
+      return false;
+  }
+  return true;
+}
 var ImgurPlugin = class extends import_obsidian6.Plugin {
   constructor() {
     super(...arguments);
@@ -625,9 +634,8 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
         return;
       }
       const { files } = e.clipboardData;
-      if (files.length === 0 || !files[0].type.startsWith("image")) {
+      if (!allFilesAreImages(files))
         return;
-      }
       e.preventDefault();
       if (this.settings.showRemoteUploadConfirmation) {
         const modal = new RemoteUploadConfirmationDialog(this.app);
@@ -668,6 +676,8 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
         return;
       }
       const { files } = e.dataTransfer;
+      if (!allFilesAreImages(files))
+        return;
       e.preventDefault();
       if (this.settings.showRemoteUploadConfirmation) {
         const modal = new RemoteUploadConfirmationDialog(this.app);
@@ -690,11 +700,6 @@ var ImgurPlugin = class extends import_obsidian6.Plugin {
           }
           default:
             return;
-        }
-      }
-      for (let i = 0; i < files.length; i += 1) {
-        if (!files[i].type.startsWith("image")) {
-          return;
         }
       }
       this.getEditor().replaceSelection("\n");

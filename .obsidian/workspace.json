@@ -39,33 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miniprep.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0a31f48470cab8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/CV esp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eda8168d2992c542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biotecnologia I/Seminarios/Integrador 4.md",
+                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Integrador 4.md",
+                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Integrador 4.md",
+                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Integrador 4.md"
+                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md"
               }
             }
           }
@@ -214,17 +188,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "eda8168d2992c542",
+  "active": "18cb8fa0d02b81e5",
   "lastOpenFiles": [
-    "Personal/CV esp.md",
-    "protocolos de clonado.md",
     "miniprep.md",
+    "Personal/CV esp.md",
+    "WhatsApp Image 2022-10-20 at 10.01.17.jpeg",
+    "WhatsApp Image 2022-10-20 at 09.58.09.jpeg",
+    "Biotecnologia I/Seminarios/Integrador 4.md",
+    "protocolos de clonado.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md",
     "Biologia/Microbiologia/Antimicrobianos/Actinomicetos.md",
     "Biologia Celular Molecular/Ciclo Celular.md",
-    "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
-    "Ingenieria Genetica/Teorias/Plasmidos.md",
-    "Ingenieria Genetica/Teorias/sistema de clonado.md",
-    "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md"
+    "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md"
   ]
 }
