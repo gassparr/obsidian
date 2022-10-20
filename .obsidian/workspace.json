@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "eda8168d2992c542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biotecnologia I/Seminarios/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c705b5a23e72948",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CV esp.md",
+                "file": "Biotecnologia I/Seminarios/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CV esp.md",
+                "file": "Biotecnologia I/Seminarios/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CV esp.md"
+                "file": "Biotecnologia I/Seminarios/Untitled.md"
               }
             }
           }
@@ -201,8 +214,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d0a31f48470cab8e",
+  "active": "eda8168d2992c542",
   "lastOpenFiles": [
+    "Personal/CV esp.md",
     "protocolos de clonado.md",
     "miniprep.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md",
@@ -211,7 +225,6 @@
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
-    "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md",
-    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md"
+    "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md"
   ]
 }
