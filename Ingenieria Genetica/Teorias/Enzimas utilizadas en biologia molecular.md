@@ -112,3 +112,15 @@ Usos:
 - Actúa en extremos 5 ‘ salientes, recesivos y en extremos romos 
 - Prevención de la autoligación del vector. 
 - Eliminación del grupo fosfato 5 'antes de la marcación del extremo
+
+# Polinucleotido Kinasa
+
+PNK del fago T4
+- Transfiere P de ATP hacia el extremo 5’ de DNA o RNA
+- Si no transfiere, es que hubo accionar de fosfatasa alcalina (desfosforilado)
+- Se utiliza para preparar sondas radioactivas 
+
+# Nucleasas
+- Degradan acidos nucleicos al romper enlaces fosfodiester
+- ER son endonucleasas
+- Nucleasas que degradan DNA en extremos se llaman exonucleasas
