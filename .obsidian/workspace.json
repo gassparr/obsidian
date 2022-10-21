@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md"
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md"
               }
             }
           }
@@ -190,9 +190,9 @@
   },
   "active": "18cb8fa0d02b81e5",
   "lastOpenFiles": [
+    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
-    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
     "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md",
     "Personal/CV esp.md",

@@ -31,6 +31,7 @@ utiliza topoisomerasa 1 virales, ya que reconocen las secuencias 5’ (C/T)CCTT 
 **Biobrick**
 
 **Golden gate**
+Permite ensamblar direccionadamente fragmentos de DNA de forma paralela utilizando *ER tipo 2S* y *T4 DNA ligasa*
 
 **Gibson cloning**
 
