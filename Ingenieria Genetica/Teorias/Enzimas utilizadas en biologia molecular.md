@@ -106,3 +106,9 @@ ATP
 
 **Fosfatasa alcalina**:
 Remueve fosfato 5’ de los acidos nucleicos, previene la recircularizacion de los vectores de DNA
+
+Usos: 
+- Eliminación de grupos 5'-fosfato de ADN y ARN 
+- Actúa en extremos 5 ‘ salientes, recesivos y en extremos romos 
+- Prevención de la autoligación del vector. 
+- Eliminación del grupo fosfato 5 'antes de la marcación del extremo
