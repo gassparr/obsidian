@@ -3,7 +3,9 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "translucency": false,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "Anupuccin"
+  ],
   "baseFontSizeAction": true,
   "accentColor": "#443672",
   "nativeMenus": false

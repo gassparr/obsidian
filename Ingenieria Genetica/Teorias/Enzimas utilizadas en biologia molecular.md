@@ -26,6 +26,13 @@ Herramienta ideal para secuenciar DNA, ya que permite la polimerizacion de miles
 
 No excibe actividad exonucleasa
 
+## Convertir 5’ saliente a romo
+- Klenow y T4 pueden utilizarse
+
+## Convertir 3’ saliente a romo
+- T4 pol  en exceso de dNTPs 
+
+
 ## DNA polimerasa termoestables:
 
 Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya que para separar estas se necesitan temperaturas altas
