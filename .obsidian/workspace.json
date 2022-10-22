@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Protocolos.md",
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Protocolos.md",
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Protocolos.md"
+                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md"
               }
             }
           }
@@ -202,8 +202,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "64a0432d31a19d2e",
+  "active": "18cb8fa0d02b81e5",
   "lastOpenFiles": [
+    "Ingenieria Genetica/Teorias/Protocolos.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
     "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
@@ -212,7 +213,6 @@
     "Personal/CV esp.md",
     "miniprep.md",
     "WhatsApp Image 2022-10-20 at 10.01.17.jpeg",
-    "WhatsApp Image 2022-10-20 at 09.58.09.jpeg",
-    "Biotecnologia I/Seminarios/Integrador 4.md"
+    "WhatsApp Image 2022-10-20 at 09.58.09.jpeg"
   ]
 }

@@ -34,6 +34,10 @@ utiliza topoisomerasa 1 virales, ya que reconocen las secuencias 5’ (C/T)CCTT 
 Permite ensamblar direccionadamente fragmentos de DNA de forma paralela utilizando *ER tipo 2S* y *T4 DNA ligasa*
 
 **Gibson cloning**
+Se basa en la digestion con 5’ exonucleasa que genera una region simple hebra en cada extremo de los producto de PCR iniciales.
+Esta region simple hebra hibridara con la region complementaria  dado que el diseno de primers para obtener los productos de PCR iniciales nosotros colocamos 20bp aguas arriba de los 20bp de nuestro gen (en el primer) obtenemos regiones complementarias que se ensamblaran consecutivamente en una sola mezcla de reaccion.
+La polimerasa realiza la construccion del vector por amplificacion la ligasa sella los nicks resultantes.
+Obtenemos de esta manera, el casette dual en un solo paso
 
 # Vectores de clonado 
 

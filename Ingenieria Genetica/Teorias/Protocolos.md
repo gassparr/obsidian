@@ -1,3 +1,4 @@
+0261
 1. Miniprep para obtener mi plasmido
 2. Electroforesis para verificar que miniprep haya funcionado
 3. Digestion con ER
@@ -10,4 +11,4 @@
 10. Inactivo ligasa con temperatura
 11. Transformacion en E. Coli competentes por electroporacion o shock termico. Utilizando cepa sensible a antibiotico correspondiente para poder seleccion
 12. Plaqueo en medio LB con antibiotico
-13. Seleccion
+13. Seleccion de colonias, compruebo presencia del plasmido con la delecion realizando digestion con ERs y electroforesis
