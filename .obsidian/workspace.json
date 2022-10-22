@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
+                "file": "Ingenieria Genetica/Teorias/Protocolos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
+                "file": "Ingenieria Genetica/Teorias/Protocolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md"
+                "file": "Ingenieria Genetica/Teorias/Protocolos.md"
               }
             }
           }
@@ -202,10 +202,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "18cb8fa0d02b81e5",
+  "active": "eb397553eaaf7b56",
   "lastOpenFiles": [
-    "Ingenieria Genetica/Teorias/Protocolos.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
+    "Ingenieria Genetica/Teorias/Protocolos.md",
     "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/Plasmidos.md",
