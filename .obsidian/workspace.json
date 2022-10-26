@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Protocolos.md",
+                "file": "Personal/CV esp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253,
-    "collapsed": true
+    "width": 253
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Protocolos.md",
+                "file": "Personal/CV esp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Protocolos.md",
+                "file": "Personal/CV esp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingenieria Genetica/Teorias/Protocolos.md"
+                "file": "Personal/CV esp.md"
               }
             }
           }
@@ -178,15 +177,15 @@
   },
   "active": "eb397553eaaf7b56",
   "lastOpenFiles": [
+    "Personal/CV eng.md",
+    "Ingenieria Genetica/Teorias/Protocolos.md",
     "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
-    "Ingenieria Genetica/Teorias/Protocolos.md",
     "Ingenieria Genetica/Teorias/Restriccion y anti restriccion.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Personal/CV esp.md",
     "miniprep.md",
-    "WhatsApp Image 2022-10-20 at 10.01.17.jpeg",
-    "WhatsApp Image 2022-10-20 at 09.58.09.jpeg"
+    "WhatsApp Image 2022-10-20 at 10.01.17.jpeg"
   ]
 }

@@ -59,6 +59,6 @@ Especialización: Procesos Biotecnologicos
 
 **Idiomas**
 
-Inglés: Bilingüe
+Inglés: Nativo
 Español: Nativo
 
