@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "ce50baea2f330167",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "a6e623e8eb321de6",
             "type": "leaf",
             "state": {
@@ -73,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,10 +182,7 @@
     "width": 198.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "eb397553eaaf7b56",
+  "active": "ce50baea2f330167",
   "lastOpenFiles": [
     "Personal/CV eng.md",
     "Ingenieria Genetica/Teorias/Protocolos.md",
