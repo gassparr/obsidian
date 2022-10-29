@@ -16,6 +16,6 @@ Para un componente C
 Ecuacion 1
 dCV / dt = (F1 * C1) - (F2 * C2) + (V * rf) - (V * rc)
 
-como el volumen de cultivo no varia en el tempo, los valores de F1 y F2 nos da
+como el volumen de cultivo varia en el tempo, los valores de F1 y F2 nos da
 Ecuacion 2 
-
+dV / dt = F1 - F2
