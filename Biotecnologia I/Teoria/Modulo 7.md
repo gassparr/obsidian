@@ -38,3 +38,19 @@ Se observan 2 zonas:
 2.  Concentracion del sustrato limitante en el medio de cultivo (S), esta en el orden de Ks, u depende de la concentracion externa de ese sustrato, por lo tanto *u ≠ um*  y el cultivo pasa a ser un *cultivo restricto*
 
 ## Operacion del biorreactor
+
+**Ecuacion 3**
+D = F / V
+
+D = Velocidad de dilucion 
+F = Caudal de alimentacion  (L * h-1)
+V = Volumen de cultivo (L) 
+
+Otro parametro de interes es el timepo de retencion (tr), el cual es la inversa de la velocidad de dilucion (D)
+
+**Ecuacion 4**
+1 / D = tr
+
+Otra variable operativo importante es la composicion del medio de alimentacion, que es formulada de acuerdo a X y P que se espera lograr dentro del reactor.
+El medio de alimentacion esta contenido en un recipiente denominado reservorio, la concentracion de sustrato limitante en el reservorio (Sr) sera quien determine los parametros experimental de acuerdo a la estequiometria para un dado D.
+Por ejemplo: Al disminuir Sr, disminuira X
