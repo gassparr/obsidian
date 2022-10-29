@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8fff72c0c8f1b1c",
+        "id": "7f482304e6883674",
         "type": "tabs",
         "children": [
           {
-            "id": "a30ed297172ed12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria Genetica/Teorias/Elementos geneticos moviles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62b567dca28d11c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb397553eaaf7b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/CV esp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3ae8c37e9ab3bf6",
+            "id": "303b948a5aa26c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a6e623e8eb321de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria Genetica/Teorias/sistema de clonado.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62a5a6490450f189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,17 +119,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "f3ae8c37e9ab3bf6",
+  "active": "303b948a5aa26c66",
   "lastOpenFiles": [
-    "miniprep.md",
+    "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
+    "Personal/CV esp.md",
+    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
+    "Bioquimica 3/transcripcion.md",
+    "Biotecnologia I/Teoria/Modulo 7.md",
+    "miniprep.md",
     "Ingenieria Genetica/Teorias/Protocolos.md",
     "protocolos de clonado.md",
-    "Personal/CV eng.md",
-    "Biotecnologia I/Teoria/Modulo 7.md",
-    "Biotecnologia I/Seminarios/Seminario 3 Grupal.md",
-    "Biotecnologia I/Seminarios/Primer parcial.md",
-    "Biotecnologia I/Seminarios/Seminario 3 individual.md",
-    "Biotecnologia I/Seminarios/Seminario 4 Grupal.md"
+    "Personal/CV eng.md"
   ]
 }
