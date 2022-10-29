@@ -13,9 +13,12 @@
   "livePreview": true,
   "spellcheckLanguages": [
     "en-US",
-    "es-AR"
+    "es-AR",
+    "en-GB",
+    "es",
+    "es-US"
   ],
-  "spellcheck": false,
+  "spellcheck": true,
   "communityPluginSortOrder": "release",
   "communityThemeSortOrder": "release",
   "useMarkdownLinks": false,

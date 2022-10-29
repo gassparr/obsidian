@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253,
-    "collapsed": true
+    "width": 253
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -111,6 +110,17 @@
                 "file": "Biotecnologia I/Teoria/Modulo 7.md"
               }
             }
+          },
+          {
+            "id": "d20238fe300d7281",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -119,7 +129,7 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "303b948a5aa26c66",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
