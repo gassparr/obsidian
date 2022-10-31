@@ -56,3 +56,12 @@ El medio de alimentacion esta contenido en un recipiente denominado reservorio, 
 Por ejemplo: Al disminuir Sr, disminuira X
 
 Los cultivos continuos se van a tratar con exceso de oxigeno de tal forma que el unico limitante sea el sustrato, las variables que estan bajo control son *Sustrato limitante (Sr)* y *Caudal de Alimentacion (F)* 
+
+## Balance de materia
+Para la biomasa no hay entrada ni consumo de microorganismos, *solo se forma V * rx y sale F * X* Reemplazando en la ecuacion 1:
+
+**Ecuacion 5**
+V * dX/dt = V * rx - F * X
+
+Esta ecuacion nos describe la diferencia entre lo que se forma y lo que sale del reactor.
+*El sustrato* ingresa en la alimentacion ( F * Sr ), se consume ( V * rs ) y sale del reactor en el efluente ( F * S )
