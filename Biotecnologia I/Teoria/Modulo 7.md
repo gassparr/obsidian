@@ -124,4 +124,20 @@ En esta ecuacion la variable D determina S~, por lo que a diferencia de cultivo 
 
 **Ecuacion 17**
 
-Dc = um 
+Dc = um * Sr / Ks + Sr
+
+Si en un cultivo se trabaja a D > umax. las celulas seran arrastradas y se lavara el cultivo
+
+## Estado estacionario
+Cuanto demora el sistema en alcanzar este estado ? en terminos general *4 * tr* (4 tiempos de retension)
+
+## Determinacion de otros parametros estequiometricos y cineticos
+Rendimiento en estado estacionario
+**Ecuacion 18**
+
+Yx/s = X~ / Sr - S~
+
+velocidad especifica de consumo de sustrato
+**Ecuacion 19**
+
+qs = rs / X = D * (Sr - S~) / X~
