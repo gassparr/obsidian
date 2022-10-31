@@ -141,3 +141,9 @@ velocidad especifica de consumo de sustrato
 **Ecuacion 19**
 
 qs = rs / X = D * (Sr - S~) / X~
+
+## Aplicacion del cultivo continuo
+
+Permite controlar el proceso a un valor de velocidad especifica de crecimiento prefija de manera simple. Esto es importante ya que los microorganismos se comportan de manera distinta a distinas u.
+Es posible estudiar el efecto sobre el proceso de cambios de pH, temperatura, concentracion de nutrientes, etc. Manteniedo constante u, por lo que permite separar y analizar los efectos de distintas condiciones.
+Tambien es posible utilizarlos para determinaciones de parametros fisiologicos como um, Ks, parametros de Pirt para consumo de FCE, los de Luedeking y piret para formacion de productos asociados a la obtencion de energios, estudios de inhibicion, etc.
