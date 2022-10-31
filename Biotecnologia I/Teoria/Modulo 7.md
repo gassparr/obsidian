@@ -106,4 +106,22 @@ Por la relacion entre las velocidad volumetricas y especificas, se define:
 **Ecuacion 14**
 u = D
 
-Esta ecuacion nos indica que el operador puede impornerle externamente el valor de u a los microorganismos para crecer, ya que D es una variable controlable
+Esta ecuacion nos indica que el operador puede impornerle externamente el valor de u a los microorganismos para crecer, ya que D es una variable controlable.
+Aun asi el microorganismo no es capaz de crecer a u > umax por lo que un cultivo continuo alcanzara el EE siempre que D = u < umax. El microorganismo no puede crecer mas rapido que la velocidad de dilucion, por lo que cuando D es muy alto se produce lavado de cultivo.
+El valor de D en que ocurre el lavado se denomina *Velocidad de dilucion critica (Dc)*, no hay consumo de sustrato limitante, por lo que su concentracion es igual a Sr y la concentracion de biomasa se hace 0
+
+**Ecuacion 15**
+
+D = u = umax * S~ / Ks + S~ 
+
+Y despejando S~
+
+**Ecuacion 16**
+
+S~ = D * Ks / um - D
+
+En esta ecuacion la variable D determina S~, por lo que a diferencia de cultivo batch, los microorganismos adaptan u dependiendo de S~ (la cual se controla a travez de D
+
+**Ecuacion 17**
+
+Dc = um 
