@@ -54,3 +54,5 @@ Otro parametro de interes es el timepo de retencion (tr), el cual es la inversa 
 Otra variable operativo importante es la composicion del medio de alimentacion, que es formulada de acuerdo a X y P que se espera lograr dentro del reactor.
 El medio de alimentacion esta contenido en un recipiente denominado reservorio, la concentracion de sustrato limitante en el reservorio (Sr) sera quien determine los parametros experimental de acuerdo a la estequiometria para un dado D.
 Por ejemplo: Al disminuir Sr, disminuira X
+
+Los cultivos continuos se van a tratar con exceso de oxigeno de tal forma que el unico limitante sea el sustrato, las variables que estan bajo control son *Sustrato limitante (Sr)* y *Caudal de Alimentacion (F)* 
