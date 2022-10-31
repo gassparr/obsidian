@@ -99,3 +99,11 @@ rs = D * (Sr - S~)
 Para el producto
 **Ecuacion 13**
 rp = D * P~
+
+La ecuacion 12 es calida para cualquier nutriente del medio de cultivo, sea limitante o no.
+Por la relacion entre las velocidad volumetricas y especificas, se define:
+
+**Ecuacion 14**
+u = D
+
+Esta ecuacion nos indica que el operador puede impornerle externamente el valor de u a los microorganismos para crecer, ya que D es una variable controlable
