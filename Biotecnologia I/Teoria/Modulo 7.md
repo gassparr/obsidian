@@ -65,3 +65,37 @@ V * dX/dt = V * rx - F * X
 
 Esta ecuacion nos describe la diferencia entre lo que se forma y lo que sale del reactor.
 *El sustrato* ingresa en la alimentacion ( F * Sr ), se consume ( V * rs ) y sale del reactor en el efluente ( F * S )
+
+**Ecuacion 6**
+V * dS/dt = V * Sr - F * S - rs * V
+
+Para producto:
+
+**Ecuacion 7**
+V * dP/dt = -F * P + rp * V
+
+Dividiendo las ecuaciones 5, 6 y 7 por V y reemplazando por D segun la ecuacion 3 obetenemos:
+
+**Ecuacion 8**
+Dx/dt = rx * -D * X
+
+**Ecuacion 9**
+DS/dt = D * Sr -D * S - rs
+
+**Ecuacion 10**
+DP/dt = rp * -D * P
+
+El cultivo continuo se encuentra en *estado estacionario (EE)*, donde no varia X, S y P, lo cual equivale a igualar ecuacion 8, 9 y 10 a 0.
+Las concentraciones en EE se escriben como X~ , S~ o P~. Despejando rx. 
+
+Para la biomasa:
+**Ecuacion 11**
+rx = D * X~
+
+Para el sustrato
+**Ecuacion 12**
+rs = D * (Sr - S~)
+
+Para el producto
+**Ecuacion 13**
+rp = D * P~
