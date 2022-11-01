@@ -65,3 +65,25 @@ la acumulacion de masa sera proporcional a la velocidad de produccion y del volu
 F es constante, entonces si se integra la ecuacion 2, entre t0 y tf donde t0 = 0 y tf = t
 
 8. V = V0 + F * t
+
+## Batch alimentado con F constante limitado en N
+
+Se controla el crecimiento de microorganismos, controlando el suministro del sustrato N. Utilizando la ecuacion 6:
+
+9. dNV / dt = F * Nr - (u * X / yx/n) * V = 0
+   despejando
+   F * Nr = (u * X / yx/n) * V
+
+la ecuacion indica que la produccion de X, se acomodo a la velocidad de suministro de sustrato y se puede controlar, modificando F y/o Nr.
+Por otro lado, se puede ver la variacion de X en relacion al tiempo. *En cultvo batch, al ser V = cte, X * V es proporcional a X*. En un BA V ≠ cte por lo cual X * V es variable. Combinando la ecuacion 6 con la ecuacion 9:
+
+10. dXV / dt = F * Nr * yx/n
+
+Esta ecuacion indica que la velocidad de acumulacion de masa depende de la velocidad de alimentacion de sustrato. integrando entre t0 = 0 y tf = t:
+
+11. XV = X0 * V0 + F * Nr * yx/n * t
+
+Describre la variacion de XV en funcion de tiempo. XV aumenta linealmente cuando F; Nr e yx/n sean constantes
+![](https://i.imgur.com/L75bOUw.png)
+
+La curva de CL vs t
