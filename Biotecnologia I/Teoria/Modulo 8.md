@@ -59,3 +59,7 @@ Para la biomasa no hay entrada ni consumo de X, se forma **V * rx** y no sale na
 la acumulacion de masa sera proporcional a la velocidad de produccion y del volumen V. Para otros productos:
 
 7. dPV / dt = rp * V
+
+## Batch alimentado con flujo constante
+
+F es constante, entonces si se integra
