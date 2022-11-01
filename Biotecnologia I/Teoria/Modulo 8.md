@@ -37,4 +37,22 @@ El **BA** se lo puede clasificar de acuerdo al modo de operacion.
 Al igual que cultivo continuo, se controla u. Considerando la ecuacion de monod, *Ks ~ S* (Concentracion de S muy bajas) u va a depender de la concentracion externa de sustrato dando que u ≠ umax y el cultivo sera *cineticamente restricto* dando un perfil:
 ![](https://i.imgur.com/z5gfpdu.png)
 
+## Balance de materia
 
+ya que en V cambia con el tiempo, no estudiamos X, sino que el producto XV y tambien SV, NV, PV.
+Para cualquier sustrato, ingresa al reactor con velocidad *F * Sr*  y se consume a velocidad *V * rs*, rs es velocidad volumetrica de consumo de sustrato (se puede expresar como u * X / yx/s). Reemplazando en ecuacion 1.
+
+4. dSV / dt = F * Sr - rs * V = F * Sr - (u * X / yx/s) * V
+
+para cualquier otro sustrato que no sea FCE
+
+5. dNV / dt = F * Nr - rn * V = F * Nr - (u * X / yx/s) * V
+
+A diferencia de *Batch* o *continuo* el cual el volumen es cte. En el sistema *BA* no podemos sacar el volumen del diferencial.
+Para la biomasa no hay entrada ni consumo de X, se forma *V * rx* y no sale nada del reactor, rx se puede expresar como u * X y reemplazando en ecuacion 1
+
+6. dXV / dt = rx * V = u * X * V
+
+la acumulacion de masa sera proporcional a la velocidad de produccion y del volumen V. Para otros productos:
+
+7. dPV / dt = rp * V
