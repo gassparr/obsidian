@@ -34,5 +34,7 @@ El **BA** se lo puede clasificar de acuerdo al modo de operacion.
 - So-No: concentración de FCE u otros sustratos al inicio de la alimentación (g/l)
 
 
+Al igual que cultivo continuo, se controla u. Considerando la ecuacion de monod, *Ks ~ S* (Concentracion de S muy bajas) u va a depender de la concentracion externa de sustrato dando que u ≠ umax y el cultivo sera *cineticamente restricto* dando un perfil:
+![](https://i.imgur.com/z5gfpdu.png)
 
 
