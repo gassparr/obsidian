@@ -1,4 +1,5 @@
 # Sistema de cultivo continuo
+
 ![](https://i.imgur.com/VfgdglV.png)
 
 F = Caudal (L * h-1)
@@ -32,21 +33,21 @@ En el modelo de Monod, hay dependencia de la velocidad especifica de crecimiento
 **Ecuacion 3**
 u = umax * (S / Ks + S)
 
-Graficando esta ecuacion 
+Graficando esta ecuacion
 ![](https://i.imgur.com/WIsOxKB.png)
 
 Se observan 2 zonas:
 1. Sustrato limitante se encuentra en exceso ( S » Ks), u es maximo y cte, por lo que u = umax en este momento el sustrato esta en *Concentracion saturante* y no es limitante del crecimiento. El cultivo se encuentra en la zona de *cultivo irrestricto* (cultivos saturantes de sustrato)
-2.  Concentracion del sustrato limitante en el medio de cultivo (S), esta en el orden de Ks, u depende de la concentracion externa de ese sustrato, por lo tanto *u ≠ um*  y el cultivo pasa a ser un *cultivo restricto*
+2. Concentracion del sustrato limitante en el medio de cultivo (S), esta en el orden de Ks, u depende de la concentracion externa de ese sustrato, por lo tanto *u ≠ um* y el cultivo pasa a ser un *cultivo restricto*
 
 ## Operacion del biorreactor
 
 **Ecuacion 3**
 D = F / V
 
-D = Velocidad de dilucion 
-F = Caudal de alimentacion  (L * h-1)
-V = Volumen de cultivo (L) 
+D = Velocidad de dilucion
+F = Caudal de alimentacion (L * h-1)
+V = Volumen de cultivo (L)
 
 Otro parametro de interes es el timepo de retencion (tr), el cual es la inversa de la velocidad de dilucion (D)
 
@@ -57,9 +58,10 @@ Otra variable operativo importante es la composicion del medio de alimentacion, 
 El medio de alimentacion esta contenido en un recipiente denominado reservorio, la concentracion de sustrato limitante en el reservorio (Sr) sera quien determine los parametros experimental de acuerdo a la estequiometria para un dado D.
 Por ejemplo: Al disminuir Sr, disminuira X
 
-Los cultivos continuos se van a tratar con exceso de oxigeno de tal forma que el unico limitante sea el sustrato, las variables que estan bajo control son *Sustrato limitante (Sr)* y *Caudal de Alimentacion (F)* 
+Los cultivos continuos se van a tratar con exceso de oxigeno de tal forma que el unico limitante sea el sustrato, las variables que estan bajo control son *Sustrato limitante (Sr)* y *Caudal de Alimentacion (F)*
 
 ## Balance de materia
+
 Para la biomasa no hay entrada ni consumo de microorganismos, *solo se forma V * rx y sale F * X* Reemplazando en la ecuacion 1:
 
 **Ecuacion 5**
@@ -88,7 +90,7 @@ DS/dt = D * Sr -D * S - rs
 DP/dt = rp * -D * P
 
 El cultivo continuo se encuentra en *estado estacionario (EE)*, donde no varia X, S y P, lo cual equivale a igualar ecuacion 8, 9 y 10 a 0.
-Las concentraciones en EE se escriben como X~ , S~ o P~. Despejando rx. 
+Las concentraciones en EE se escriben como X~ , S~ o P~. Despejando rx.
 
 Para la biomasa:
 **Ecuacion 11**
@@ -114,7 +116,7 @@ El valor de D en que ocurre el lavado se denomina *Velocidad de dilucion critica
 
 **Ecuacion 15**
 
-D = u = umax * S~ / Ks + S~ 
+D = u = umax * S~ / Ks + S~
 
 Y despejando S~
 
@@ -131,9 +133,11 @@ Dc = um * Sr / Ks + Sr
 Si en un cultivo se trabaja a D > umax. las celulas seran arrastradas y se lavara el cultivo
 
 ## Estado estacionario
+
 Cuanto demora el sistema en alcanzar este estado ? en terminos general *4 * tr* (4 tiempos de retension)
 
 ## Determinacion de otros parametros estequiometricos y cineticos
+
 Rendimiento en estado estacionario
 **Ecuacion 18**
 

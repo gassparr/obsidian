@@ -265,5 +265,7 @@
   "anuppuccin-theme-settings@@anp-editor-font-toggle": false,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-darker"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-darker",
+  "anuppuccin-theme-settings@@anp-embed-toggle": false,
+  "anuppuccin-theme-settings@@anp-embed-animated-toggle": false
 }
