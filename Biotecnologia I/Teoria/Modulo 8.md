@@ -2,11 +2,13 @@
 
 ![](https://i.imgur.com/tEkuscz.png)
 
-F = Caudal (L * h-1)
-X = Concentracion de biomasa ( g * L-1)
-S = Concentracion de sustrato ( g * L-1)
-P = Concentracion de producto ( g * L-1)
-p = Densidad ( g * L-1)
+- F = Caudal (L * h-1)
+- X = Concentracion de biomasa ( g * L-1)
+- S = Concentracion de sustrato ( g * L-1)
+- P = Concentracion de producto ( g * L-1)
+- p = Densidad ( g * L-1)
+
+subindices 1 y 2 de entrada y salida respectivamente
 
 1. dCV / dt = F1 * C1 - F2 * C2 + V * rf - V * rc
 
@@ -24,13 +26,14 @@ El **BA** se lo puede clasificar de acuerdo al modo de operacion.
 - **BA con alimentacion controlada** → estado de cultivo captado por sensores y controla la alimentacion
 
 ## Batch alimentado controlado por alimentacion
+
 ![](https://i.imgur.com/bG1xdtu.png)
 
-- F: caudal de alimentación que puede ser constante o variable (l/h) 
-- SR-NR: concentración de FCE u otros sustratos distintos a la FCE en la alimentación (g/l) 
-- Vf: volumen al final de la alimentación (l) 
-- Vo: volumen al inicio de la alimentación (l) 
-- Xo: concentración de biomasa al inicio de la alimentación (g/l) 
+- F: caudal de alimentación que puede ser constante o variable (l/h)
+- SR-NR: concentración de FCE u otros sustratos distintos a la FCE en la alimentación (g/l)
+- Vf: volumen al final de la alimentación (l)
+- Vo: volumen al inicio de la alimentación (l)
+- Xo: concentración de biomasa al inicio de la alimentación (g/l)
 - So-No: concentración de FCE u otros sustratos al inicio de la alimentación (g/l)
 
 
@@ -40,7 +43,7 @@ Al igual que cultivo continuo, se controla u. Considerando la ecuacion de monod,
 ## Balance de materia
 
 ya que en V cambia con el tiempo, no estudiamos X, sino que el producto XV y tambien SV, NV, PV.
-Para cualquier sustrato, ingresa al reactor con velocidad *F * Sr*  y se consume a velocidad *V * rs*, rs es velocidad volumetrica de consumo de sustrato (se puede expresar como u * X / yx/s). Reemplazando en ecuacion 1.
+Para cualquier sustrato, ingresa al reactor con velocidad **F * Sr** y se consume a velocidad **V * rs**, rs es velocidad volumetrica de consumo de sustrato (se puede expresar como **u * X / yx/s**). Reemplazando en ecuacion 1.
 
 4. dSV / dt = F * Sr - rs * V = F * Sr - (u * X / yx/s) * V
 
@@ -49,7 +52,7 @@ para cualquier otro sustrato que no sea FCE
 5. dNV / dt = F * Nr - rn * V = F * Nr - (u * X / yx/s) * V
 
 A diferencia de *Batch* o *continuo* el cual el volumen es cte. En el sistema *BA* no podemos sacar el volumen del diferencial.
-Para la biomasa no hay entrada ni consumo de X, se forma *V * rx* y no sale nada del reactor, rx se puede expresar como u * X y reemplazando en ecuacion 1
+Para la biomasa no hay entrada ni consumo de X, se forma **V * rx** y no sale nada del reactor, rx se puede expresar como **u * X** y reemplazando en ecuacion 1
 
 6. dXV / dt = rx * V = u * X * V
 
