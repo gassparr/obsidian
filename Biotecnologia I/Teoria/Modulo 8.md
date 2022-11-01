@@ -75,7 +75,7 @@ Se controla el crecimiento de microorganismos, controlando el suministro del sus
    F * Nr = (u * X / yx/n) * V
 
 la ecuacion indica que la produccion de X, se acomodo a la velocidad de suministro de sustrato y se puede controlar, modificando F y/o Nr.
-Por otro lado, se puede ver la variacion de X en relacion al tiempo. *En cultvo batch, al ser V = cte, X * V es proporcional a X*. En un BA V ≠ cte por lo cual X * V es variable. Combinando la ecuacion 6 con la ecuacion 9:
+Por otro lado, se puede ver la variacion de X en relacion al tiempo. *En cultvo batch, al ser V = cte, X * V es proporcional a X*. En un BA V ≠ cte por lo cual **X * V**es variable. Combinando la ecuacion 6 con la ecuacion 9:
 
 10. dXV / dt = F * Nr * yx/n
 
@@ -86,4 +86,15 @@ Esta ecuacion indica que la velocidad de acumulacion de masa depende de la veloc
 Describre la variacion de XV en funcion de tiempo. XV aumenta linealmente cuando F; Nr e yx/n sean constantes
 ![](https://i.imgur.com/L75bOUw.png)
 
-La curva de CL vs t
+La curva de CL vs t se puede ver que el batch previo al BA no se limito en O2, por lo que el BA con F cte no va a ser limitato tampoco.
+Despejando yx/n de la ecuacion 11 y considerando que **F * tr** es (**Vf - V0**):
+
+12. yx/n = (Xf * Vf - X0 * V0*) / Nr * (Vf - V0) 
+
+esta ecuacion es valida si N es limitante al crecimiento. Si en la ecuacion 9 despejamos u y reemplazamos XV de acuerdo a 11:
+
+13. u = (F * Nr * yx/n) / (V0 * X0 + F * Nr * yx/n * t)
+
+esta ecuacion nos muestra que u es funcion de (**A / A + t**) (A siendo valores constantes), mostrandonos que a medida que el cultivo crece, la velocidad de crecimiento ira disminuyendo
+
+![](https://i.imgur.com/VgEJ4c0.png)
