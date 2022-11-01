@@ -62,4 +62,6 @@ la acumulacion de masa sera proporcional a la velocidad de produccion y del volu
 
 ## Batch alimentado con flujo constante
 
-F es constante, entonces si se integra
+F es constante, entonces si se integra la ecuacion 2, entre t0 y tf donde t0 = 0 y tf = t
+
+8. V = V0 + F * t
