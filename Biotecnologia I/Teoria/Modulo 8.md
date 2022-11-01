@@ -23,13 +23,15 @@ El **BA** se lo puede clasificar de acuerdo al modo de operacion.
 - **BA controlado por alimentacion** → El cultivo sigue el curso que le dicta la alimentacion: **F(t) o Sr - Nr (t)**
 - **BA con alimentacion controlada** → estado de cultivo captado por sensores y controla la alimentacion
 
+## Batch alimentado controlado por alimentacion
+![](https://i.imgur.com/bG1xdtu.png)
 
-
-
-
-
-
-
+- F: caudal de alimentación que puede ser constante o variable (l/h) 
+- SR-NR: concentración de FCE u otros sustratos distintos a la FCE en la alimentación (g/l) 
+- Vf: volumen al final de la alimentación (l) 
+- Vo: volumen al inicio de la alimentación (l) 
+- Xo: concentración de biomasa al inicio de la alimentación (g/l) 
+- So-No: concentración de FCE u otros sustratos al inicio de la alimentación (g/l)
 
 
 
