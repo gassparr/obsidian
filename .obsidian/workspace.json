@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 8.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 8.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 8.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 8.md"
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "618bd5f8ab00710a",
   "lastOpenFiles": [
-    "Biotecnologia I/Teoria/Modulo 7.md",
     "Biotecnologia I/Teoria/Modulo 8.md",
+    "Biotecnologia I/Teoria/Modulo 7.md",
     "Biotecnologia I/Teoria/Modulo 5.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",

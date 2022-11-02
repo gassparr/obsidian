@@ -77,7 +77,6 @@ Observando el grafico, se puede decir que la fuente de nitrogeno es el sustrato 
 
 # e) Calcula la cantidad de (NH4)2SO4 mínima necesaria para obtener la biomasa final alcanzada. Enunciá las suposiciones que hacés.
 
-
 biomasa
 25.8 g → 1 cmol x
 3 g (x final) → 0.12 cmol x
@@ -117,9 +116,8 @@ para calcular umax saco la pendiente de una recta en fase exponencial m = umax
 Calculo X a t=10h
 **X = X0 . e^(umax . t)**
 
-por lo tanto  una vez obtenido X a t = 10 reemplazo en 
+por lo tanto una vez obtenido X a t = 10 reemplazo en
 **rx = umax * x**
-
 
 ## Obtener rs
 
@@ -146,7 +144,6 @@ dato:
 C* = 0.0072 g/L
 
 ![](https://i.imgur.com/bYmwH7T.png)
-
 
 # h) Evaluá si con un biorreactor con un Kla= 800 h-1 se hubiera podido llevar a cabo el cultivo tal como se muestra en la gráfica. Enunciá las suposiciones que haces.
 
@@ -238,4 +235,4 @@ dGs + a * dGnh3 = Yx/s * dGx + Yp/s dGp + dGr
 dGr = -298.75 (KJ/cmol)
 
 
-Dx = -298.75 / 0.19 =  -1572.4
+Dx = -298.75 / 0.19 = -1572.4
