@@ -13,4 +13,6 @@
 
 - Producir biomasa → Fraccion de FCE utilizada como FE para biomasa
 - Producir producto no asociado al metabolismo energetico → Fraccion de FCE utilizada como FE para producir producto
-- Funciones de mantenimiento celular → Yco2/Fraccion de FCE utilizada como FE para produccion de energia
+- Funciones de mantenimiento celular → Yco2/s; Yp/s sera fraccion de FCE utilizada como FE para produccion de energia
+
+Como hacemos para conocer las fracciones destinadas al productos no asociadas al crecimiento y al mantenimiento. Utilizando el modelo de 
