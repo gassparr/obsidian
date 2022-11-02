@@ -116,3 +116,8 @@ Despejamos u y reemplazmamos XV de acuerdo a ecuacion 15
 
 17. u = (F * Sr * yx/s) / (V0* X0 + F * S * ryx/s * t)
 
+# Diseño de un cultivo BA con F constante limitado en N
+
+Disenar el *BA* incluye:
+1. Disenar el batch previo, para determinar cuanta biomasa se obtiene, en que tiempo y concentracion de C y n
+2. Disenar batch alimentado de F = cte, se hac
