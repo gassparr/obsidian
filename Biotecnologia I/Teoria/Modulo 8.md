@@ -107,4 +107,12 @@ si se mantiene yx/s constante, podemos describir XV con el tiempo de cultivo de 
 
 15. XV = X0 * V0 + F * Sr * yx/s * t
 
-despejando yx/s y considerando que 
+despejando yx/s y considerando que *F * Tr = Vf - V0*
+
+16. yx/s = (Xf * Vf - X0 * V0 ) / Sr * (Vf - V0)
+
+Ecuacion solo valida si es el sustrato limitante.
+Despejamos u y reemplazmamos XV de acuerdo a ecuacion 15
+
+17. u = (F * Sr * yx/s) / (V0* X0 + F * S * ryx/s * t)
+
