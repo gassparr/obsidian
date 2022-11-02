@@ -26,3 +26,6 @@ Como hacemos para conocer las fracciones destinadas al productos no asociadas al
 
 1. rn = rx / yx/n
 
+## Consumo de FCE
+
+*Pirt* nos dice que no toda la energia de FCE se utiliza para la biomasa, una parte se usa en el **Mantenimiento celular**
