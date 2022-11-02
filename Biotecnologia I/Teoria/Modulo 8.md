@@ -98,3 +98,13 @@ esta ecuacion es valida si N es limitante al crecimiento. Si en la ecuacion 9 de
 esta ecuacion nos muestra que u es funcion de (**A / A + t**) (A siendo valores constantes), mostrandonos que a medida que el cultivo crece, la velocidad de crecimiento ira disminuyendo
 
 ![](https://i.imgur.com/VgEJ4c0.png)
+
+## Batch alimentado con F constante limitado en FCE
+
+14. F * S = u * X * V / yx/s
+
+si se mantiene yx/s constante, podemos describir XV con el tiempo de cultivo de la siguiente manera:
+
+15. XV = X0 * V0 + F * Sr * yx/s * t
+
+despejando yx/s y considerando que 
