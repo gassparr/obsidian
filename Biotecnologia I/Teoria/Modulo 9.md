@@ -46,3 +46,15 @@ perfiles de FCE durante el crecimiento exponencial. La ecuacion que representa e
 - S0 = concentracion de FCE al timepo en que microorganismo deja de crecer
 - X = concentracion de biomasa final obtenida, condicionada por el sustrato limitante del crecimiento
 - t = tiempo a partir del que el microorganismo dejo de crecer
+
+Si se divide ambos miembros de la ecuacion 2 por rx y sabiendo que **Yx/s = dX / dS**
+
+5. 1 / Yx/s = ( 1 / Y”x/s ) + ms / u
+
+los rendimientos experimentales seran siempre menores a los verdades y bajan a medida que u baja, porque la proporcion de FCE destinada para mantenimiento es mayor 
+
+**Yx/s < Y”x/s**
+
+A bajos valores de u, el segundo termino de la ecuacion se hace mas grande. *Yx/s se aleja de Y”x/s* ya que se destina una fraccion menor de FCE a la formacion de biomasa y una mayor al mantenimiento. Despejando Yx/s:
+
+6. ![](https://i.imgur.com/hzHldS4.png)
