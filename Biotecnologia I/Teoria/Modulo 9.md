@@ -35,3 +35,10 @@ Como hacemos para conocer las fracciones destinadas al productos no asociadas al
 - X = concentracion de biomasa
 - ms = coeficiente de mantenimiento celular (Cmol FCE / Cmol biomasa * h) o ( g substrato / g biomasa * h ). ms aumenta cuando se aleja de la temperatura optima, con el aumento de la presion osmotica y con la fuerza ionica. Se desea trabajar con ms bajo
 - y”x/s = rendimiento celular verdadero. Es el rendimiento que se obtiene si no hubiese consumo de FCE para mantenimiento
+
+3. rs = ms * X = cte = dS / dt
+
+![](https://i.imgur.com/WFsBDHP.png)
+perfiles de FCE durante el crecimiento exponencial. La ecuacion que representa el consumo de FCE sera:
+
+4. S = S0 - ms * X * t
