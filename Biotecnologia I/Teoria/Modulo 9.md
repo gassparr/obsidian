@@ -42,3 +42,7 @@ Como hacemos para conocer las fracciones destinadas al productos no asociadas al
 perfiles de FCE durante el crecimiento exponencial. La ecuacion que representa el consumo de FCE sera:
 
 4. S = S0 - ms * X * t
+
+- S0 = concentracion de FCE al timepo en que microorganismo deja de crecer
+- X = concentracion de biomasa final obtenida, condicionada por el sustrato limitante del crecimiento
+- t = tiempo a partir del que el microorganismo dejo de crecer
