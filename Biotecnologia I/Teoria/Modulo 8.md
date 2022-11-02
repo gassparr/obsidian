@@ -89,7 +89,7 @@ Describre la variacion de XV en funcion de tiempo. XV aumenta linealmente cuando
 La curva de CL vs t se puede ver que el batch previo al BA no se limito en O2, por lo que el BA con F cte no va a ser limitato tampoco.
 Despejando yx/n de la ecuacion 11 y considerando que **F * tr** es (**Vf - V0**):
 
-12. yx/n = (Xf * Vf - X0 * V0*) / Nr * (Vf - V0) 
+12. yx/n = (Xf * Vf - X0 * V0*) / Nr * (Vf - V0)
 
 esta ecuacion es valida si N es limitante al crecimiento. Si en la ecuacion 9 despejamos u y reemplazamos XV de acuerdo a 11:
 
@@ -120,4 +120,13 @@ Despejamos u y reemplazmamos XV de acuerdo a ecuacion 15
 
 Disenar el *BA* incluye:
 1. Disenar el batch previo, para determinar cuanta biomasa se obtiene, en que tiempo y concentracion de C y n
-2. Disenar batch alimentado de F = cte, se hac
+2. Disenar batch alimentado de F = cte, se hace encontrado el valor de F y las concentracion de C y N necesarias para satisfacer las ecuacionde diseno.
+   Para el caso del diseno de un BA F=cte limitado en N:
+
+   > Balance de materia para N:
+   > - ( F * Nr ) = ( u * X * V) / yx/s
+   > - F = (u0 * X0 * V0) / (yx/n * Nr)
+   >
+   > A partir del rendimiento:
+   > - yx/n = (Xf * Vf - X0 * V0) / Nr (Vf - V0)
+   > - Nr = (Xf * Vf - X0 * V0) / yx/n (Vf - V0)
