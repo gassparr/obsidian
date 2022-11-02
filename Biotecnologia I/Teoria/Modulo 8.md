@@ -143,3 +143,8 @@ Productividad = Xf * Vf / ( tb + tba)
 
 ## Para que utilizar un batch alimentado
 
+Para direccionar flujos metabolicos hacias la produccion de biomasa u otros productos a travez del control de u. Tambien permite trabajar con concentraciones de sustrato altas en el reservorio de alimentacion pero muy bajas en el cultivo (evitando excedentes de presion osmotica).
+
+- Obtencion de grandes cantidades de biomasa (limitando demando de O2)
+- Obtencion de elevadas concentracion de productos
+- Extender alguna etapa de crecimiento en el cual se produzca algun metabolito de interes
