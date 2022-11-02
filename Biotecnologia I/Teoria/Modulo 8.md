@@ -127,6 +127,19 @@ Disenar el *BA* incluye:
    > - ( F * Nr ) = ( u * X * V) / yx/s
    > - F = (u0 * X0 * V0) / (yx/n * Nr)
    >
+   >
    > A partir del rendimiento:
    > - yx/n = (Xf * Vf - X0 * V0) / Nr (Vf - V0)
    > - Nr = (Xf * Vf - X0 * V0) / yx/n (Vf - V0)
+
+## productividad en sistema batch alimentado
+
+Cantidad de producto producido por unidad de tiepo
+
+Productividad = Xf * Vf / ( tb + tba)
+
+- tb → Tiempo del batch
+- tba → Tiempo del BA (X/h)
+
+## Para que utilizar un batch alimentado
+
