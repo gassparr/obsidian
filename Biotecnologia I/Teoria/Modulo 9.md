@@ -16,10 +16,10 @@
 - Funciones de mantenimiento celular → Yco2/s; Yp/s sera fraccion de FCE utilizada como FE para produccion de energia
 
 Como hacemos para conocer las fracciones destinadas al productos no asociadas al crecimiento y al mantenimiento. Utilizando el modelo de *Pirt*, donde verifica el consumo de FCE cuando el crecimiento celular es 0 ( *rx = 0* ).
-**Metabolismo aerobico**
+- **Metabolismo aerobico**
 ![](https://i.imgur.com/u0kd80P.png)
 
-**Metabolismo anaerobico**
+- **Metabolismo anaerobico**
 ![](https://i.imgur.com/4bOAmU8.png)
 
 ## Consumo de sustratos en metabolismo aerobico sin formacion de producto
@@ -92,8 +92,6 @@ como el consumo de O2 es proporcional a la fraccion de FCE que se utiliza para p
 - Primer termino = Consumo de FCE para crecimiento
 - Segundo termino = Consumo de FCE para mantenimiento
 - ms = coeficiente de mantenimiento celular
-
-11. 
     - rs = / Y’ x/s + ms * X
     - ro2 = rx / Y’ x/o + mo * X
     - ratp = rx / Y’ x/atp + matp * X
@@ -105,7 +103,6 @@ Estas ecuaciones no son independientes, es posible obtener ms en funcion de mo
 
 ## Consumo de FCE en metabolismo aerobico con prodducion de producto no asociado al metabolismo energetico
 
-13. 
     - rs = rx / Y’ x/s + rp / Y’ p/s + ms * X
       o
     - 1 = Yx/s / Y’x/s + Yp/s / Y’p/s + ms / qs
@@ -117,6 +114,7 @@ en anaerobiosis, se produce un producto organico ligado al metabolismo energetic
 14. rs = (rx / Y’ x/s) + ms * S
 
 ## Efecto del mantenimiento celular en cultivo continuo
+
 aplicando el modelo de pirt (ecuacion 5) a un cultivo continuo en EE y recordando que u = D
 
 15. 1 / Yx/s = ( 1 / Y’ x/s) + ms / D
