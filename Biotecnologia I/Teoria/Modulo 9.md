@@ -71,3 +71,19 @@ A bajos valores de u, el segundo termino de la ecuacion se hace mas grande. *Yx/
 Para evaluar la velocidad especifica de consumo de FCE
 
 7. qs = ( u / Y’ x/s) + ms
+
+- Primer termino = Consumo de FCE para crecimiento
+- Segundo termino = Consumo de FCE para mantenimiento
+Para evaluar la fraccion de FCE destinada a mantenimiento se divide todo por qs
+
+8. 1 = ( u / qs * Y’ x/s) + ms / qs
+
+en la ecuacion 8 si los rendimientos se expresan como el cociente de las velocidades especificas
+
+9. 1 = (Yx/s / Y”x/s) + ms /qs
+
+## Consumo de oxigeno y otros sustratos ligados a la produccion de energia
+
+como el consumo de O2 es proporcional a la fraccion de FCE que se utiliza para producir energia, se puede plantear una ecuacion para el consumo de oxigeno
+
+10. qo2 = (u / Y’ x/o) + mo
