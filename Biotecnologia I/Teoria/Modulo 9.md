@@ -126,3 +126,7 @@ A menored valores de D, el segundo termino va adquieriendo mayor importancia rel
 ![](https://i.imgur.com/UHwWeDN.png)
 
 a valores bajos de D la proporcion de FCE que va al mantenimiento es mayor que en cultivos realizados a mayores D (aumenta rendimiento a mayores D)
+
+### Cuales son las consecuencias del descenso del rendimiento celular al disminuir D ?
+
+En cultivos continuos limitados en FCE operados a F y Sr constante, se disminuye la biomasa formada en EE a bajos valores de D 
