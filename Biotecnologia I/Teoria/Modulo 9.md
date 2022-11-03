@@ -138,3 +138,11 @@ esta ecuacion se puede utilizar para encontrar las constantes de la ecuacion de 
 Se necesita alcanzar distinto EE con distinto D para ciertas concentracion de FCE en Sr y determinar la concentracion de X y S, para calcular la qs
 
 17. qs = ( D / X ) * ( Sr - S )
+
+![](https://i.imgur.com/QdMXhEK.png)
+
+En esta figura se muestra qs evaluado a distintos D, con los puntos se obtiene vlos valores de las constantes de Pirt.
+- b (ordenada al origen) = ms
+- m (pendiente) = 1 / Y’ x/s
+
+## Efecto del mantenimiento celular en cultivo batch alimentado
