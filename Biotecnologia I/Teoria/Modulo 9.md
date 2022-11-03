@@ -38,7 +38,8 @@ Como hacemos para conocer las fracciones destinadas al productos no asociadas al
 
 3. rs = ms * X = cte = dS / dt
 
-![](https://i.imgur.com/WFsBDHP.png)
+> ![](https://i.imgur.com/WFsBDHP.png)
+
 perfiles de FCE durante el crecimiento exponencial. La ecuacion que representa el consumo de FCE sera:
 
 4. S = S0 - ms * X * t
@@ -121,7 +122,7 @@ aplicando el modelo de pirt (ecuacion 5) a un cultivo continuo en EE y recordand
 
 A menored valores de D, el segundo termino va adquieriendo mayor importancia relativa
 
-![](https://i.imgur.com/UHwWeDN.png)
+> ![](https://i.imgur.com/UHwWeDN.png)
 
 a valores bajos de D la proporcion de FCE que va al mantenimiento es mayor que en cultivos realizados a mayores D (aumenta rendimiento a mayores D)
 
@@ -137,7 +138,7 @@ Se necesita alcanzar distinto EE con distinto D para ciertas concentracion de FC
 
 17. qs = ( D / X ) * ( Sr - S )
 
-![](https://i.imgur.com/QdMXhEK.png)
+> ![](https://i.imgur.com/QdMXhEK.png)
 
 En esta figura se muestra qs evaluado a distintos D, con los puntos se obtiene vlos valores de las constantes de Pirt.
 - b (ordenada al origen) = ms
