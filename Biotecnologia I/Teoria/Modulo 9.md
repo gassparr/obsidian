@@ -17,10 +17,10 @@
 
 Como hacemos para conocer las fracciones destinadas al productos no asociadas al crecimiento y al mantenimiento. Utilizando el modelo de *Pirt*, donde verifica el consumo de FCE cuando el crecimiento celular es 0 ( *rx = 0* ).
 - **Metabolismo aerobico** 
-  ![](https://i.imgur.com/u0kd80P.png)
+  > ![](https://i.imgur.com/u0kd80P.png)
 
 - **Metabolismo anaerobico** 
-  ![](https://i.imgur.com/4bOAmU8.png)
+  > ![](https://i.imgur.com/4bOAmU8.png)
 
 ## Consumo de sustratos en metabolismo aerobico sin formacion de producto
 
