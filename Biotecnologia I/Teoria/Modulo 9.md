@@ -146,3 +146,5 @@ En esta figura se muestra qs evaluado a distintos D, con los puntos se obtiene v
 - m (pendiente) = 1 / Y’ x/s
 
 ## Efecto del mantenimiento celular en cultivo batch alimentado
+
+cultivos disenados con F y Sr cte affectan el valor de rendimiento celular a lo largo del cultivo. El gasto de FCE para mantenimiento aumenta durante el proceso ( u disminuye con el tiempo)
