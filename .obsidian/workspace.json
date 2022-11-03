@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 5.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dna file:",
+                "query": "C*",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 5.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 5.md",
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 5.md"
+                "file": "Biotecnologia I/Seminarios/Primer parcial.md"
               }
             }
           },
@@ -171,15 +172,15 @@
   },
   "active": "aa5ea96967601218",
   "lastOpenFiles": [
+    "Biotecnologia I/Teoria/Modulo 5.md",
+    "Biotecnologia I/Seminarios/Primer parcial.md",
+    "Biotecnologia I/Teoria/Modulo 4.md",
     "Biotecnologia I/Teoria/Modulo 9.md",
     "Biotecnologia I/Teoria/Modulo 8.md",
     "Personal/CV esp.md",
-    "Biotecnologia I/Seminarios/Primer parcial.md",
     "Biotecnologia I/Teoria/Modulo 7.md",
-    "Biotecnologia I/Teoria/Modulo 5.md",
     "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
     "Ingenieria Genetica/Teorias/sistema de clonado.md",
-    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md",
-    "Bioquimica 3/transcripcion.md"
+    "Ingenieria Genetica/Teorias/Enzimas utilizadas en biologia molecular.md"
   ]
 }
