@@ -117,4 +117,12 @@ en anaerobiosis, se produce un producto organico ligado al metabolismo energetic
 14. rs = (rx / Y’ x/s) + ms * S
 
 ## Efecto del mantenimiento celular en cultivo continuo
-aplicando el modelo de pirt (ecuacion 5) a un cultivo continuo en EE y 
+aplicando el modelo de pirt (ecuacion 5) a un cultivo continuo en EE y recordando que u = D
+
+15. 1 / Yx/s = ( 1 / Y’ x/s) + ms / D
+
+A menored valores de D, el segundo termino va adquieriendo mayor importancia relativa
+
+![](https://i.imgur.com/UHwWeDN.png)
+
+a valores bajos de D la proporcion de FCE que va al mantenimiento es mayor que en cultivos realizados a mayores D (aumenta rendimiento a mayores D)
