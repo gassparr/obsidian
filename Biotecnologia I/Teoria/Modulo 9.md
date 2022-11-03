@@ -102,3 +102,19 @@ como el consumo de O2 es proporcional a la fraccion de FCE que se utiliza para p
 Estas ecuaciones no son independientes, es posible obtener ms en funcion de mo
 
 12. mo = ms * ys / 4
+
+## Consumo de FCE en metabolismo aerobico con prodducion de producto no asociado al metabolismo energetico
+
+13. 
+    - rs = rx / Y’ x/s + rp / Y’ p/s + ms * X
+      o
+    - 1 = Yx/s / Y’x/s + Yp/s / Y’p/s + ms / qs
+
+- Y’ p/s = rendimiento verdadero de la formacion de producto
+
+en anaerobiosis, se produce un producto organico ligado al metabolismo energetico, que retiene energia de la FCE dandonos
+
+14. rs = (rx / Y’ x/s) + ms * S
+
+## Efecto del mantenimiento celular en cultivo continuo
+aplicando el modelo de pirt (ecuacion 5) a un cultivo continuo en EE y 
