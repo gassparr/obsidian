@@ -51,7 +51,7 @@ Si se divide ambos miembros de la ecuacion 2 por rx y sabiendo que **Yx/s = dX /
 
 5. 1 / Yx/s = ( 1 / Y”x/s ) + ms / u
 
-los rendimientos experimentales seran siempre menores a los verdades y bajan a medida que u baja, porque la proporcion de FCE destinada para mantenimiento es mayor 
+los rendimientos experimentales seran siempre menores a los verdades y bajan a medida que u baja, porque la proporcion de FCE destinada para mantenimiento es mayor
 
 **Yx/s < Y”x/s**
 
@@ -60,4 +60,14 @@ A bajos valores de u, el segundo termino de la ecuacion se hace mas grande. *Yx/
 6. ![](https://i.imgur.com/hzHldS4.png)
 
 *mientras u sea constante Yx/s sera constante*, cuanto mayor es u, Yx/s se acerca a Y”x/s, pero nunca Yx/s = Y”x/s.
-- En cultivo batch u=max y cte en el crecimiento exponencial
+- En cultivo batch u=max y cte en el crecimiento exponencial, entonces utilizando **1 / Yx/s = ( 1 / Y”x/s ) + ms / u** se puede ver que el rendimiento no cambia
+- En cualquier otro cultivo (cultivo continuo, BA) u no es constante, por lo que segun la ecuacion el rendimiento varia
+
+ *En resumen*:
+▪ Si u aumenta, Yx/s se acerca más al valor de Y´x/s
+▪ Si u disminuye, Yx/s se aleja más del valor de Y´x/s
+▪ Si deseo obtener un Yx/s elevado, trabajaré en lo posible a valores de u elevados
+
+Para evaluar la velocidad especifica de consumo de FCE
+
+7. qs = ( u / Y’ x/s) + ms
