@@ -151,7 +151,7 @@ No2 por (10)
 
 OTR = kl . a . ( C* - Cl )
 
-Como a es dificil de evaluar sol, se adjunta con kl, para dar una sola constante basada en el bioreactor. (kla)
+Como a es dificil de evaluar solo, se adjunta con kl, para dar una sola constante basada en el bioreactor. (kla)
 
 **Ecuacion 13**
 OTR = kla . ( C* - Cl )
