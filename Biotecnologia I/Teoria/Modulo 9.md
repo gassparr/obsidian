@@ -130,4 +130,11 @@ a valores bajos de D la proporcion de FCE que va al mantenimiento es mayor que e
 ### Cuales son las consecuencias del descenso del rendimiento celular al disminuir D ?
 
 En cultivos continuos limitados en FCE operados a F y Sr constante, se disminuye la biomasa formada en EE a bajos valores de D.
-Si esta limitado por 
+Si esta limitado por otro nutriente (no FCE) la concentracion de biomasa en EE no es afectada
+
+16. qs = (D / Y” x/s) + ms
+
+esta ecuacion se puede utilizar para encontrar las constantes de la ecuacion de Pirt.
+Se necesita alcanzar distinto EE con distinto D para ciertas concentracion de FCE en Sr y determinar la concentracion de X y S, para calcular la qs
+
+17. qs = ( D / X ) * ( Sr - S )
