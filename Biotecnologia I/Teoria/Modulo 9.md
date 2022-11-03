@@ -74,6 +74,7 @@ Para evaluar la velocidad especifica de consumo de FCE
 
 - Primer termino = Consumo de FCE para crecimiento
 - Segundo termino = Consumo de FCE para mantenimiento
+- ms = coeficiente de mantenimiento celular
 Para evaluar la fraccion de FCE destinada a mantenimiento se divide todo por qs
 
 8. 1 = ( u / qs * Y’ x/s) + ms / qs
@@ -87,3 +88,17 @@ en la ecuacion 8 si los rendimientos se expresan como el cociente de las velocid
 como el consumo de O2 es proporcional a la fraccion de FCE que se utiliza para producir energia, se puede plantear una ecuacion para el consumo de oxigeno
 
 10. qo2 = (u / Y’ x/o) + mo
+
+- Primer termino = Consumo de FCE para crecimiento
+- Segundo termino = Consumo de FCE para mantenimiento
+- ms = coeficiente de mantenimiento celular
+
+11. 
+    - rs = / Y’ x/s + ms * X
+    - ro2 = rx / Y’ x/o + mo * X
+    - ratp = rx / Y’ x/atp + matp * X
+    - rnadh = rx / Y’ x/nadh + mnadh * X
+
+Estas ecuaciones no son independientes, es posible obtener ms en funcion de mo
+
+12. mo = ms * ys / 4
