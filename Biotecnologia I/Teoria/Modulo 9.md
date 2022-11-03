@@ -59,4 +59,5 @@ A bajos valores de u, el segundo termino de la ecuacion se hace mas grande. *Yx/
 
 6. ![](https://i.imgur.com/hzHldS4.png)
 
-*mientras u sea constante Yx/s sera constante*, cuanto mayor es u, Yx/s se acerca a Y”x/s, pero nunca Yx/s = Y”x/s
+*mientras u sea constante Yx/s sera constante*, cuanto mayor es u, Yx/s se acerca a Y”x/s, pero nunca Yx/s = Y”x/s.
+- En cultivo batch u=max y cte en el crecimiento exponencial
