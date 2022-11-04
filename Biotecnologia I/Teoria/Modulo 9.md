@@ -152,7 +152,10 @@ cultivos disenados con F y Sr cte affectan el valor de rendimiento celular a lo 
     - d (S * V) / dt = F * Sr - (ux * V / Y’ x/s)  - ms * xV = 0
     - F * Sr - (1 / Y’ x/s) * (d(xV) / dt) - ms * xV = 0
       reordenando
-    - F * Sr - (1 / Y’ x/s) * (d(xV) / dt) - ms * xV = 0
+    - d(xV) / dt + (ms * Y’ x/s / s * xV) = Y’ x/s / (sF * Sr)
 
-reordenando 
+integrando X = X0 y V = V0 para t = 0
 
+19. xV = (F * Sr / ms) + ( x0 * V0 - (F * Sr / ms) ) * e ^ -(ms * Y’ x/st)
+
+![](https://i.imgur.com/CxrHjHm.png)
