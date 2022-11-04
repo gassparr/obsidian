@@ -148,4 +148,11 @@ En esta figura se muestra qs evaluado a distintos D, con los puntos se obtiene v
 
 cultivos disenados con F y Sr cte affectan el valor de rendimiento celular a lo largo del cultivo. El gasto de FCE para mantenimiento aumenta durante el proceso ( u disminuye con el tiempo)
 
-18. d (SV)
+18. 
+    - d (S * V) / dt = F * Sr - (ux * V / Y’ x/s)  - ms * xV = 0
+    - F * Sr - (1 / Y’ x/s) * (d(xV) / dt) - ms * xV = 0
+      reordenando
+    - F * Sr - (1 / Y’ x/s) * (d(xV) / dt) - ms * xV = 0
+
+reordenando 
+
