@@ -166,4 +166,4 @@ La linea punteada muestra el comportamiento X * V en el caso de rendimiento celu
 
 ## Otros destinos de la FCE
 
-Otro gasto de FCE no destinada al crecimiento es lo que se conoce como metabolismo de sobreflujo, donde el microorganismo *gasta mas recursos en vez de conservarlos para el futuro*
+Otro gasto de FCE no destinada al crecimiento es lo que se conoce como metabolismo de sobreflujo, donde el microorganismo *gasta mas recursos en vez de conservarlos para el futuro5*
