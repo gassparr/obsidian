@@ -159,3 +159,9 @@ integrando X = X0 y V = V0 para t = 0
 19. xV = (F * Sr / ms) + ( x0 * V0 - (F * Sr / ms) ) * e ^ -(ms * Y’ x/st)
 
 ![](https://i.imgur.com/CxrHjHm.png)
+
+La linea punteada muestra el comportamiento X * V en el caso de rendimiento celular constante ( consumo de FCE para mantenimiento)
+- A tiempos cortos, XV varia linealmente, al igual que cuando el cultivo esta limitado en N.
+- Para tiempos largos, el segundo termino de la ecuacion se hace cero y XVmax = cte e igual a FSr / ms. lo cual indica que el sustrato se utiliza para mantimiento
+
+## Otros destinos de la 
