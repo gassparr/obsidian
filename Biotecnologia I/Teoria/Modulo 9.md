@@ -164,4 +164,6 @@ La linea punteada muestra el comportamiento X * V en el caso de rendimiento celu
 - A tiempos cortos, XV varia linealmente, al igual que cuando el cultivo esta limitado en N.
 - Para tiempos largos, el segundo termino de la ecuacion se hace cero y XVmax = cte e igual a FSr / ms. lo cual indica que el sustrato se utiliza para mantimiento
 
-## Otros destinos de la 
+## Otros destinos de la FCE
+
+Otro gasto de FCE no destinada al crecimiento es lo que se conoce como metabolismo de sobreflujo, donde el microorganismo *gasta mas recursos en vez de conservarlos para el futuro*
