@@ -15,8 +15,10 @@ Inmunidad adquirida:
 - Reconocimiento PAMP → patron molecular asociado a patogeno
 |Pamp      |Origen      |
 |:-----|:-----|
-|ARN      |      |
+|ARN      |Virus      |
 |LPS      |Pared celular G(-)      |
 |nucleotidos no met      |DNA (bacterias)      |
 |glucanos ricos en manosa      |Glucoproteinas (microbios)      |
 |Fosforilcarina      |membrana (microbios)      |
+
+PRR: Receptores de reconocimiento de patogenos
