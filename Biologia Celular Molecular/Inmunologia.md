@@ -30,3 +30,5 @@ PRR: Receptores de reconocimiento de patogenos
 |Lectinas de tipo C      |Memb plasmatica de fagocitos      |receptores de manosa      |
 |Receptores fagociticos      |Memb plasmaticas de fagocitos      |Diacilgliceridos microbianos      |
 |NLR      |Citoplasma de fagocitos y otros      |Peptidoglucanos bacterianos      |
+
+Estrategias de reconocimiento del sistema inmune innato: **PAMP**
