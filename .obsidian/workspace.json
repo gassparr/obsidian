@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/CV esp.md",
+                "file": "Biotecnologia I/Teoria/Modulo 7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/CV esp.md",
+                "file": "Biotecnologia I/Teoria/Modulo 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/CV esp.md",
+                "file": "Biotecnologia I/Teoria/Modulo 7.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/CV esp.md"
+                "file": "Biotecnologia I/Teoria/Modulo 7.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "45ba3631adb1778a",
   "lastOpenFiles": [
-    "Personal/CV eng.md",
     "Personal/CV esp.md",
+    "Personal/CV eng.md",
     "Biologia Celular Molecular/Inmunologia.md",
     "Ingenieria Genetica/miniprep.md",
     "Biotecnologia I/Teoria/Modulo 9.md",
