@@ -20,7 +20,7 @@
 ## c) Formulá la composición del reservorio (concentración de glucosa y concentración de NH4Cl para cada EE si la X ~ que se pretende obtener es aproximadamente de 2 g.l -1 . Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 .
 
 - Limitado en FCE
-  Yx/s = X / (Sr - S~)
+  Yx/s = X~ / (Sr - S~)
 
   X~ = 2 g/L
   Yx/s = 0.4 g/g
@@ -30,4 +30,8 @@
   Yx/s * Sr = X
   Sr = X / Yx/s = (2 g/L) / (0.4 g/g) = 5 g/L
   
-  Yx/N = 5 cmol/cmol
+  Yx/N = 5 cmol/cmol → Pasar a g/g
+  N~ = 0.5 g/L
+  Yx/N = N~ / (Nr - N~) 
+  Nr - N~ = (Yx/N / Nr)
+  Nr = (Yx/N / Nr) + N~ = 10.5 g/L
