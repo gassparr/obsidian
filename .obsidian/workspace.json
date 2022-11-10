@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md",
+                "file": "Personal/CV esp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md",
+                "file": "Personal/CV esp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md",
+                "file": "Personal/CV esp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md"
+                "file": "Personal/CV esp.md"
               }
             }
           },
@@ -184,15 +184,15 @@
   },
   "active": "45ba3631adb1778a",
   "lastOpenFiles": [
+    "Personal/CV eng.md",
+    "Personal/CV esp.md",
+    "Biologia Celular Molecular/Inmunologia.md",
     "Ingenieria Genetica/miniprep.md",
     "Biotecnologia I/Teoria/Modulo 9.md",
     "Biotecnologia I/Teoria/Modulo 5.md",
     "Biotecnologia I/Seminarios/Primer parcial.md",
     "Biotecnologia I/Teoria/Modulo 4.md",
     "Biotecnologia I/Teoria/Modulo 8.md",
-    "Personal/CV esp.md",
-    "Biotecnologia I/Teoria/Modulo 7.md",
-    "Ingenieria Genetica/Teorias/sistema de expresion de proteinas.md",
-    "Ingenieria Genetica/Teorias/sistema de clonado.md"
+    "Biotecnologia I/Teoria/Modulo 7.md"
   ]
 }
