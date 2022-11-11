@@ -84,17 +84,17 @@ CH3O2+a NH3+b O2→Yx/s CH(1.8) O(0.5) N(0.2)  +Yco2/s CO2 +w H2O
 a = 0.2 * yx/s = 0.2 * 0.46 = 0.09
 Suponiendo que la FN es el único compuesto nitrogenado y que no se genera ningun producto nitrogenado.
 
-yx/n = (yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * ()) 
-yx/n = 6703 gX/gN
+yx/n = (yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * (1 mol N / 50 g N) 
+yx/n = 2.38 gX/gN
 
 Despejando:  
-y x/N = X en EE / (NR - N en EE)
-y x/N * (NR - X en EE) = N en EE
-(y x/N*NR) - (y x/N * N en EE) = N en EE 
-NR = {(y x/N * X en EE) + NN en EE} / yx/N
-NR = [N en EE (y x/N + 1)] / y x/N
-(3)()NR  = [(0.5 g FN/l * (6703gX/gN + 1)]  / 6703 gX/gN 
-NR = 0.5 g FN/litro
+y x/N = X ~ / (NR - N~)
+y x/N * (NR - X~) = N~
+(y x/N * NR) - (y x/N * N~) = N~
+NR = {(y x/N * X~) + N~} / yx/N
+NR = {N~(y x/N + 1)} / y x/N
+(3)()NR  = {(0.5 g FN/l * (2.38gX/gN + 1)}  / 2.38 gX/gN 
+NR = 0.92 g FN/litro
 
 → Limitado en FN
 datos:
