@@ -37,13 +37,13 @@
   Nr = (Yx/N / Nr) + N~ = 10.5 g/L
 
 → Limitado en FCE
-y x/s = X~ / (SR - S~)
+Y x/s = X~ / (Sr - S~)
 si:
 X ~= 2g/l
 Y x/s = 0.40 g/g
-S~ = 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que SR.
-yx/s * SR = X~
-SR = X ~ / y x/s → SR = 5g/l
+S~ = 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr.
+yx/s * Sr = X~
+Sr = X ~ / Y x/s → Sr = 5g/l
 
 yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ pongo lo que me dice que quieor que sobre = 0.5 g/l
@@ -55,7 +55,7 @@ yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ como está limitado es mucho menor que NR y por lo tanto lo desprecio
 y x/N = N ~ / NR
 
-y x/s = X~ / (SR - S~) → S ~ ahora será o,5 g/l
+Y x/s = X~ / (Sr - S~) → S ~ ahora será o,5 g/l
 Recordá que:
 -como cualquier rendimiento el parámetro yx/N puede expresarse como un cociente de velocidades volumétricas.
 - si considerás biomasa estándar y que el único destino de la FN es la biomasa, del balance de N surge que: a. yx/N = yx/s y su valor numérico es 5 C-mol X/mol FN si la FN tiene un solo mol de N (siendo a el coeficiente estequiomérico de la ecuación de crecimiento expresado en moles de N/C-mol de FCE)
@@ -63,15 +63,15 @@ Recordá que:
 → Limitado en FCE
 datos:
 	X ~= 2g/l
-	y x/s =0.40 gX/gS * (1Cmol X/25,8g X) * (30 gr S/Cmol S) = 0.46 Cmol x/ cmol s
+	Y x/s =0.40 gX/gS * (1Cmol X/25,8g X) * (30 gr S/Cmol S) = 0.46 Cmol x/ cmol s
 	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (lo que sobra)
 
-y x/s = X~ / (SR - S~) → despejo SR
+Y x/s = X~ / (Sr - S~) → despejo Sr
 si:
-S ~= 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que SR. Entonces:
-yx/s * SR = X~
+S ~= 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr. Entonces:
+yx/s * Sr = X~
 
-SR = X ~ / y x/s → SR = 5 g/l
+Sr = X ~ / Y x/s → Sr = 5 g/l
 g X / (gX / gS)
 
 yx/N= 5 Cmol/mol FN → PASAR A g/g
@@ -98,7 +98,7 @@ NR = 0.92 g FN/litro
 
 → Limitado en FN
 datos:
-	y x/s= 0,27 gX/gS * (24.8 gX/CmolX) * (CmolS /30gS) = 0.22 Cmol X/Cmol S
+	Y x/s= 0,27 gX/gS * (24.8 gX/CmolX) * (CmolS /30gS) = 0.22 Cmol X/Cmol S
 	yx/N= 5 Cmol x/Cmol N
 	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (ESTO ES DE LO QUE SOBRA)
 
@@ -116,7 +116,7 @@ NR = X~ / yx/N
 NR, = 0.5 gX/l / 10.68 gX/ g N
 NR = 0.047 gN/l
 
-y x/s = X~ / (SR - S~) → S~ ahora será 0,5 g/l
+Y x/s = X~ / (Sr - S~) → S~ ahora será 0,5 g/l
 
 ## d) ¿Cómo podés justificar los distintos valores de los rendimientos con el cambio de limitación? Compará este comportamiento con lo que ocurre en cultivo en sistema batch.
 
@@ -151,7 +151,7 @@ En cada condición se obtuvieron los siguientes datos experimentales al alcanzar
  ![](https://i.imgur.com/7LBO5si.png)
 
 
-SR= concentración de sustrato en el reservorio
+Sr= concentración de sustrato en el reservorio
 F= flujo → conviene pasarlo a litros
 CR= Coeficiente respiratorio
 P= producto
@@ -163,18 +163,18 @@ Asumiendo que la biomasa presenta composición estándar, para cada EE alcanzado
 La curva es X~ vs D, no vs t!!!!
 D = F1 / V 
 Las volumétricas y las específicas son constantes en EE. 
-rx= u * X → rx = D* (X~) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
-r lactosa = D*(SR- S~)
+rx= u * X → rx = D * (X~) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
+r lactosa = D * (Sr - S~)
 r N = D * (NR - N~)
-→ y x/s = rx / rs está ecuación es valida para cualquier cultivo 
-y x/s = (D*X~) / {D* (SR-S~)} está ec es válida solo para continuo
+→ Y x/s = rx / rs está ecuación es valida para cualquier cultivo 
+Y x/s = (D * X~) / {D * (Sr - S~)} está ec es válida solo para continuo
 que si s es el limitante, S~=0 o cercano a cero
 
 Pero como no tenemos NR usaremos otra estrategia:
  
 Hacer el BM de nitrógeno → OJO es urea tiene en vez de ser 5 Cmol/Cmol sera 10 Cmol/Cmol porque la urea tiene dos nitrógenos:
-2a = yx/s*o.2  → y x/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N
-A su vez, y x/n = rx/rn → r n = rx/ yx/s
+2a = yx/s * o.2  → Y x/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
+A su vez, Y x/N = rx/rn → r n = rx/ yx/s
 
 Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniendo en cuenta el balance de nitrógeno.
 
@@ -223,23 +223,23 @@ D1= 0.1 (1/h)
 rx(1) = D(1) * X~ = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l*h
 rN(1)= D(1)*(NR - NEE(1))
 
-rS(1)= D(1)*(SR - SEE(1)) → rS = 0.1h-1*(14.97 gS/l  - 0.16 gS/l) → rS = 1.48 gS/L.h
+rS(1)= D(1)*(Sr - SEE(1)) → rS = 0.1h-1*(14.97 gS/l  - 0.16 gS/l) → rS = 1.48 gS/L.h
 
 rx / rs = yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = yx/s
 
 
 
-yx/s = X~ / (SR -S~) = 7.60 / (14.97 - 0.16) → yx/s = 0.51 g X / g S
- y x/s = rx / rs → rs = rx*y x/s =0.76 g/l*h / 0.51 gX/gS →rs =1.49 
+yx/s = X~ / (Sr -S~) = 7.60 / (14.97 - 0.16) → yx/s = 0.51 g X / g S
+ Y x/s = rx / rs → rs = rx*Y x/s =0.76 g/l*h / 0.51 gX/gS →rs =1.49 
 
 
 
 
 yx/s = 0.5 g X/ g S (dato)
-BM de nitrógeno: 2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N = yx/n
+BM de nitrógeno: 2a = yx/s*0.2  → yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N = yx/n
 yx/s / a = 10 Cmol X/ Cmol N
-0.1 mol N/Cmol X = a / y x/s
-yx/s / a = y x/n  = rx / rn
+0.1 mol N/Cmol X = a / Y x/s
+yx/s / a = Y x/N  = rx / rn
 yx/s / a = rx / rn
 rn = (rx *a) / yx/s
 rn =  0.76 g/l*h *  [0.1 mol N/ Cmol X *( 60 g FN / mol FN) * (Cmol X/ 24.8 g X) ]
@@ -255,7 +255,7 @@ D2= 0.3 1/h
 rx(2) = D(2) * X~ = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l*h
 rN(2)= D(2)*(NR - NEE(2))
 BM de nitrógeno:
-2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N
+2a = yx/s*0.2  → yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
 A su vez →  yx/n = rx / rn → rn = rx / yx/s = 
 
 → EE3:
@@ -263,7 +263,7 @@ D3=0.66 1/h
 rx(3) = D(3) * X~ = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l*h
 rN(3)= D(3)*(NR - NEE(3))
 BM de nitrógeno:
-2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N
+2a = yx/s*0.2  → yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
 A su vez →  yx/n = rx / rn → rn = rx / yx/s = 
 
 b) Calculá la productividad volumétrica y total de biomasa. 
