@@ -183,6 +183,11 @@ Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniend
 
 → q= r * X~
 Para r O2 y r CO2:
+- vvm = caudal de aire / volumen de medio
+- CR (cociente respiratorio) = Formacion de CO2 / consumo de O2
+- En EE3 se calculan velocidades volumetricas de formacion y de consumo de O2 a partir de medidas experimentales
+- Luego se calculan las respectivas velocidades especificas
+- A partir de balances puedo estimar si es posible que se forme algun producto
 
 y co2/s = r co2 / rs → usando el Balance de carbono se saca Yco2/s: como no hay producto entonces
 Yx/s (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2.
@@ -280,11 +285,9 @@ La productividad tiene unidades de g/h. Como está en función de D, cuanto más
 P = 0.1 l/h * 7.60 g/l → P = 0.76 g/h
 PX = 0.1h-1 * 7.60 g/ → PX =0.76 g/l.h
 
-
-
 ## c) Estimá si hubo formación de producto en el experimento 3. En caso afirmativo calculá su grado de reducción.
-→ Para ver si hay producción de producto puedo fijarme en el BC y ver si cierra o no
 
+→ Para ver si hay producción de producto puedo fijarme en el BC y ver si cierra o no
 
 ## d) Al finalizar el ensayo en la condición 1 se cambia el caudal de alimentación a la condición 2. Estimá el tiempo que se debe esperar para alcanzar un nuevo EE. Repetí el cálculo para pasar desde la condición 2 a la 3. ¿Cómo podrías corroborar experimentalmente que el sistema se encuentra en EE?
 
@@ -296,3 +299,15 @@ Condición 2: F es 300 ml/h, entonces D = 0.3 hs-1 → tr= 1/0.3 hs-1 = 3.33 hs
 Condición 3: F es 600 ml/h, entonces D = 0.6 hs-1 → tr= 1/0.6 hs-1 = 1.66 hs
 
 En EE1 a EE2 tengo que esperar 4tr de la condición 2, tenemos que usar el tr de la condición a la que queremos llegar, entonces tenemos que esperar (4 * tr)10 hs x 4 = 40 hs. Para asegurarme que estoy en EE hago lo que expliqué antes, mido cada 1tr la DO, el oxígeno disuelto, la concentración de S limitante, etc para asegurarme que estoy en EE.
+
+# 5. Una bacteria crece en sistema continuo con glicerol (C3H8O3 ) como sustrato limitante y urea (CON2H4) como fuente de nitrógeno a una velocidad de dilución de 0,2 h -1. El cultivo se agita a 600 rpm y se airea con 0,25 VVM a 28 ºC siendo la concentración de glicerol en la alimentación 4,0 g/l y el volumen de cultivo 500 ml. Considerando biomasa estándar, calculá:
+
+## a) Caudal de alimentación (F)
+
+## b) Productividad volumétrica y total de biomasa
+
+## c) rO2, rCO2 y el cociente respiratorio
+
+## d) yx, rs, rurea, qO2, y qCO2
+
+## e) Estimá si hubo formación de producto aplicando balances de grado de reducción. Datos experimentales en el EE:
