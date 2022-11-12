@@ -106,14 +106,14 @@ a = 0.2 * yx/s
 a = 0.2 * 0.22 C mol X/C mol S = 0.044 
 yx/n = yx/s / a →  yx/n = 5 Cmol X/mol N → paso a g/g:
 
-yx/n = 5 Cmol X/molN * 24.8gX/Cmolx * 53 g N/mol N = 6360 g X/ g N
+yx/n = 5 Cmol X/molN * 24.8gX/Cmolx * 53 g N/mol N = 10.68 g X/ g N
 
 
-N en EE como está limitado es mucho menor que NR y por lo tanto lo desprecio:
+N~ como está limitado es mucho menor que NR y por lo tanto lo desprecio:
 
-y x/N = X en EE / (NR - N en EE)  → despejo NR
-NR = X en EE / yx/N
-NR, = 0.5 gX/l / 6360 gX/ g N 
-NR = 7.9 x 10-4 gN/l
+y x/N = X~ / (NR - N~)  → despejo NR
+NR = X~ / yx/N
+NR, = 0.5 gX/l / 10.68 gX/ g N 
+NR = 0.047 gN/l
 
-y x/s = x en EE / (SR - S en EE)   → S en EE ahora será 0,5 g/l
+y x/s = X~ / (SR - S~)   → S~ ahora será 0,5 g/l
