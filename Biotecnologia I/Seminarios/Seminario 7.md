@@ -161,14 +161,14 @@ Asumiendo que la biomasa presenta composición estándar, para cada EE alcanzado
 ## a) Calculá las velocidades volumétricas y específicas de formación de biomasa, de consumo de lactosa, de consumo de urea, de consumo de oxígeno y de producción de CO2 a partir de los datos experimentales. 
 
 La curva es X~ vs D, no vs t!!!!
-D= F1 / V 
+D = F1 / V 
 Las volumétricas y las específicas son constantes en EE. 
-rx= mu * X → rx = D* (X en EE) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
-r lactosa = D*(SR- S en EE)
-r N = D * (NR - N en EE)
+rx= u * X → rx = D* (X~) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
+r lactosa = D*(SR- S~)
+r N = D * (NR - N~)
 → y x/s = rx / rs está ecuación es valida para cualquier cultivo 
-y x/s = (D*X en EE) / {D* (SR-S en EE)} está ec es válida solo para continuo
-que si s es el limitante, S en EE=0 o cercano a cero
+y x/s = (D*X~) / {D* (SR-S~)} está ec es válida solo para continuo
+que si s es el limitante, S~=0 o cercano a cero
 
 Pero como no tenemos NR usaremos otra estrategia:
  
@@ -180,7 +180,7 @@ Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniend
 
 → Para sacar las q, X que uso es en EE, la única que me da como dato
 
-→ q= r * X en EE
+→ q= r * X~
 Para r O2 y r CO2:
  
 y co2/s = r co2 / rs → usando el BC se saca yco2/s: como no hay producto entonces 
@@ -210,7 +210,7 @@ V= 1L
 D= F3 / V 
 D= 0.66 (1/h)
 Hay %O2 y % CO2 entonces se puede aplicar la fórmula de balance gaseoso (larga de rO2 y rCO2) y transformar esos vvm para calcular el flujo de aireación en el EE3.
-Mirando que en este EE la biomasa baja, ¿Habrá producción de producto? podría ser ya que la FCE se estaría usando para otra cosa si S en EE me da cero pero, si me empieza a sobrar S en el sobrenadante,
+Mirando que en este EE la biomasa baja, ¿Habrá producción de producto? podría ser ya que la FCE se estaría usando para otra cosa si S~ me da cero pero, si me empieza a sobrar S en el sobrenadante,
 a medida que aumento D, como no se el mu máximo de este MO, pero para que un MO crezca a mu máximo, sus concentraciones deben estar en exceso peor en este caso pareciera que la concentración de S en el EE no es chica, entonces a este D3 seguramente debe estar cerca del valor de mu máximo, entonces el MO está obligado a crecer y entonces sobrara sustrato y para que esto ocurra, la biomasa tiene que bajar.
 
 
@@ -220,7 +220,7 @@ F1= 0.1 l/h
 V= 1L
 D= F1 / V 
 D1= 0.1 (1/h)
-rx(1) = D(1) * X en EE = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l*h
+rx(1) = D(1) * X~ = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l*h
 rN(1)= D(1)*(NR - NEE(1))
 
 rS(1)= D(1)*(SR - SEE(1)) → rS = 0.1h-1*(14.97 gS/l  - 0.16 gS/l) → rS = 1.48 gS/L.h
@@ -229,7 +229,7 @@ rx / rs = yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = yx/s
 
 
 
-yx/s = X en EE / (SR -S en EE) = 7.60 / (14.97 - 0.16) → yx/s = 0.51 g X / g S
+yx/s = X~ / (SR -S~) = 7.60 / (14.97 - 0.16) → yx/s = 0.51 g X / g S
  y x/s = rx / rs → rs = rx*y x/s =0.76 g/l*h / 0.51 gX/gS →rs =1.49 
 
 
@@ -252,7 +252,7 @@ rn = 0.24 g FN / l*h
 
 → EE2:
 D2= 0.3 1/h
-rx(2) = D(2) * X en EE = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l*h
+rx(2) = D(2) * X~ = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l*h
 rN(2)= D(2)*(NR - NEE(2))
 BM de nitrógeno:
 2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N
@@ -260,7 +260,7 @@ A su vez →  yx/n = rx / rn → rn = rx / yx/s =
 
 → EE3:
 D3=0.66 1/h
-rx(3) = D(3) * X en EE = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l*h
+rx(3) = D(3) * X~ = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l*h
 rN(3)= D(3)*(NR - NEE(3))
 BM de nitrógeno:
 2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N

@@ -9,5 +9,6 @@
   "markdown-shortcuts",
   "obsidian-linter",
   "obsidian-enhancing-export",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "obsidian-regex-replace"
 ]
