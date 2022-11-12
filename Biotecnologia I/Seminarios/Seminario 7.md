@@ -163,16 +163,17 @@ Asumiendo que la biomasa presenta composición estándar, para cada EE alcanzado
 La curva es X~ vs D, no vs t!!!!
 D = F1 / V 
 Las volumétricas y las específicas son constantes en EE. 
-rx= u * X → rx = D * (X~) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
-r lactosa = D * (Sr - S~)
-r N = D * (NR - N~)
-→ Y x/s = rx / rs está ecuación es valida para cualquier cultivo 
-Y x/s = (D * X~) / {D * (Sr - S~)} está ec es válida solo para continuo
+**rx= u * X → rx = D * (X~**) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
+**r lactosa = D * (Sr - S~)**
+**r N = D * (NR - N~)**
+**Y x/s = rx / rs** está ecuación es valida para cualquier cultivo 
+**Y x/s = (D * X~) / {D * (Sr - S~)}** está ec es válida solo para continuo
 que si s es el limitante, S~=0 o cercano a cero
 
-Pero como no tenemos NR usaremos otra estrategia:
- 
-Hacer el BM de nitrógeno → OJO es urea tiene en vez de ser 5 Cmol/Cmol sera 10 Cmol/Cmol porque la urea tiene dos nitrógenos:
+Pero como no tenemos Nr usaremos otra estrategia:
+![](https://i.imgur.com/K5FBw6T.png)
+
+Hacer el Balance de Masa de nitrógeno → OJO es urea tiene en vez de ser 5 Cmol/Cmol sera 10 Cmol/Cmol porque la urea tiene dos nitrógenos:
 2a = yx/s * o.2  → Y x/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
 A su vez, Y x/N = rx/rn → r n = rx/ yx/s
 
