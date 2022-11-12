@@ -174,7 +174,7 @@ Pero como no tenemos Nr usaremos otra estrategia:
 ![](https://i.imgur.com/K5FBw6T.png)
 
 Hacer el Balance de Masa de nitrógeno → OJO es urea tiene en vez de ser 5 Cmol/Cmol sera 10 Cmol/Cmol porque la urea tiene dos nitrógenos:
-2a = yx/s * o.2  → Y x/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
+2a = yx/s * 0.2  → Y x/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
 A su vez, Y x/N = rx/rn → r n = rx/ yx/s
 
 Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniendo en cuenta el balance de nitrógeno.
