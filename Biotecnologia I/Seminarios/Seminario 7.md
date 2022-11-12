@@ -158,8 +158,9 @@ P= producto
 
 Asumiendo que la biomasa presenta composición estándar, para cada EE alcanzado: 
 
-a) Calculá las velocidades volumétricas y específicas de formación de biomasa, de consumo de lactosa, de consumo de urea, de consumo de oxígeno y de producción de CO2 a partir de los datos experimentales. 
-La curva es X en EE vs D, no vs t!!!!
+## a) Calculá las velocidades volumétricas y específicas de formación de biomasa, de consumo de lactosa, de consumo de urea, de consumo de oxígeno y de producción de CO2 a partir de los datos experimentales. 
+
+La curva es X~ vs D, no vs t!!!!
 D= F1 / V 
 Las volumétricas y las específicas son constantes en EE. 
 rx= mu * X → rx = D* (X en EE) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
