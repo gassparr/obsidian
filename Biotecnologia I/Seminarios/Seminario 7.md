@@ -2,9 +2,9 @@
 
 **De bibliografía se conoce que:**
 
-**Cultivo continuo Limitado en FCE: yx/s = 0.40g.g -1**
+**Cultivo continuo Limitado en FCE: Yx/s = 0.40g.g -1**
 
-**Cultivo continuo Limitado en N: yx/s = 0.27 g.g -1**
+**Cultivo continuo Limitado en N: Yx/s = 0.27 g.g -1**
 
 **Considerando biomasa estándar, respondé las siguientes preguntas:**
 
@@ -42,7 +42,7 @@ si:
 X ~= 2g/l
 Y x/s = 0.40 g/g
 S~ = 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr.
-yx/s * Sr = X~
+Yx/s * Sr = X~
 Sr = X ~ / Y x/s → Sr = 5g/l
 
 yx/N= 5 Cmol/Cmol → PASAR A g/g
@@ -58,7 +58,7 @@ y x/N = N ~ / NR
 Y x/s = X~ / (Sr - S~) → S ~ ahora será o,5 g/l
 Recordá que:
 -como cualquier rendimiento el parámetro yx/N puede expresarse como un cociente de velocidades volumétricas.
-- si considerás biomasa estándar y que el único destino de la FN es la biomasa, del balance de N surge que: a. yx/N = yx/s y su valor numérico es 5 C-mol X/mol FN si la FN tiene un solo mol de N (siendo a el coeficiente estequiomérico de la ecuación de crecimiento expresado en moles de N/C-mol de FCE)
+- si considerás biomasa estándar y que el único destino de la FN es la biomasa, del balance de N surge que: a. yx/N = Yx/s y su valor numérico es 5 C-mol X/mol FN si la FN tiene un solo mol de N (siendo a el coeficiente estequiomérico de la ecuación de crecimiento expresado en moles de N/C-mol de FCE)
 
 → Limitado en FCE
 datos:
@@ -69,7 +69,7 @@ datos:
 Y x/s = X~ / (Sr - S~) → despejo Sr
 si:
 S ~= 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr. Entonces:
-yx/s * Sr = X~
+Yx/s * Sr = X~
 
 Sr = X ~ / Y x/s → Sr = 5 g/l
 g X / (gX / gS)
@@ -78,13 +78,13 @@ yx/N= 5 Cmol/mol FN → PASAR A g/g
 N~ pongo lo que me dice que quiero que sobre = 0.5 g/l
 y x/N = N~ / (NR - N~) → despejo NR
 
-yx/n = yx/s / a
+yx/n = Yx/s / a
 
 CH3O2+a NH3+b O2→Yx/s CH(1.8) O(0.5) N(0.2) +Yco2/s CO2 +w H2O
-a = 0.2 * yx/s = 0.2 * 0.46 = 0.09
+a = 0.2 * Yx/s = 0.2 * 0.46 = 0.09
 Suponiendo que la FN es el único compuesto nitrogenado y que no se genera ningun producto nitrogenado.
 
-yx/n = (yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * (1 mol N / 50 g N)
+yx/n = (Yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * (1 mol N / 50 g N)
 yx/n = 2.38 gX/gN
 
 Despejando:
@@ -102,9 +102,9 @@ datos:
 	yx/N= 5 Cmol x/Cmol N
 	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (ESTO ES DE LO QUE SOBRA)
 
-a = 0.2 * yx/s
+a = 0.2 * Yx/s
 a = 0.2 * 0.22 C mol X/C mol S = 0.044
-yx/n = yx/s / a → yx/n = 5 Cmol X/mol N → paso a g/g:
+yx/n = Yx/s / a → yx/n = 5 Cmol X/mol N → paso a g/g:
 
 yx/n = 5 Cmol X/molN * 24.8gX/Cmolx * 53 g N/mol N = 10.68 g X/ g N
 
@@ -120,10 +120,10 @@ Y x/s = X~ / (Sr - S~) → S~ ahora será 0,5 g/l
 
 ## d) ¿Cómo podés justificar los distintos valores de los rendimientos con el cambio de limitación? Compará este comportamiento con lo que ocurre en cultivo en sistema batch.
 
-En *Batch*, el **yx/s no depende de quién es el limitante**. Si cambio las cantidades, el rendimiento es constante. Ya que el microorganismo “ve” que siempre tiene todo porque la concentración de todo es mucho mayor que su ks hasta que llega al final, que es un tiempo muy corto. Por lo que el rendimiento en este cultivo está determinado por una condición en la que todo le sobra.
+En *Batch*, el **Yx/s no depende de quién es el limitante**. Si cambio las cantidades, el rendimiento es constante. Ya que el microorganismo “ve” que siempre tiene todo porque la concentración de todo es mucho mayor que su ks hasta que llega al final, que es un tiempo muy corto. Por lo que el rendimiento en este cultivo está determinado por una condición en la que todo le sobra.
 
 En *continuo*, **Yx/s cambia según quien es el sustrato limitante**. El microorganismo siempre se da cuenta que hay algo que le falta y puede tener la capacidad de adaptar su maquinaria enzimática para crecer mejor en esa condición, es decir, optimizar el consumo de las cosas para fabricar biomasa; y, si sobra algo, si puede, tendrá como consecuencia que si hay otros microorganismo, no lo podrán consumir, anulando la capacidad de que haya otros microorganismos creciendo.
-Si el microorganismo está limitado en la FCE, en general, va a tener su máximo yx/s, es decir, toda la FCE la usa lo mejor posible; si en cambio está limitado en FN y por lo tanto la biomasa que se forme no depende de cuanta energía tiene, la termina “malgastando”, consumiendo sustrato sin formar biomasa y con lo cual el rendimiento es menor.
+Si el microorganismo está limitado en la FCE, en general, va a tener su máximo Yx/s, es decir, toda la FCE la usa lo mejor posible; si en cambio está limitado en FN y por lo tanto la biomasa que se forme no depende de cuanta energía tiene, la termina “malgastando”, consumiendo sustrato sin formar biomasa y con lo cual el rendimiento es menor.
 
 **Metabolismo de sobreflujo**: Hay ciertas reacciones que ocurren pero exceden los mecanismos de obtención de energía para la formación de biomasa, y aparecen cuando la FCE sobra.
 
@@ -174,8 +174,8 @@ Pero como no tenemos Nr usaremos otra estrategia:
 ![](https://i.imgur.com/K5FBw6T.png)
 
 Hacer el Balance de Masa de nitrógeno → OJO es urea tiene en vez de ser 5 Cmol/Cmol sera 10 Cmol/Cmol porque la urea tiene dos nitrógenos:
-2a = yx/s * 0.2  → Y x/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
-A su vez, Y x/N = rx/rn → r n = rx/ yx/s
+2a = Yx/s * 0.2  → Y x/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
+A su vez, Y x/N = rx/rn → r n = rx/ Yx/s
 
 Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniendo en cuenta el balance de nitrógeno.
 
@@ -184,8 +184,8 @@ Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniend
 → q= r * X~
 Para r O2 y r CO2:
  
-y co2/s = r co2 / rs → usando el Balance de carbono  se saca yco2/s: como no hay producto entonces 
-yx/s (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2. 
+y co2/s = r co2 / rs → usando el Balance de carbono  se saca Yco2/s: como no hay producto entonces 
+Yx/s (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2. 
 Con b lo sacamos del balance de oxígeno: ro2/rs = b
 →  cr = ro2 / rco2 se puede usar para no usar el balance de energía
 
@@ -210,6 +210,7 @@ F3= 0.66l/h
 V= 1L
 D= F3 / V 
 D= 0.66 (1/h)
+
 Hay %O2 y % CO2 entonces se puede aplicar la fórmula de balance gaseoso (larga de rO2 y rCO2) y transformar esos vvm para calcular el flujo de aireación en el EE3.
 Mirando que en este EE la biomasa baja, ¿Habrá producción de producto? podría ser ya que la FCE se estaría usando para otra cosa si S~ me da cero pero, si me empieza a sobrar S en el sobrenadante,
 a medida que aumento D, como no se el mu máximo de este MO, pero para que un MO crezca a mu máximo, sus concentraciones deben estar en exceso peor en este caso pareciera que la concentración de S en el EE no es chica, entonces a este D3 seguramente debe estar cerca del valor de mu máximo, entonces el MO está obligado a crecer y entonces sobrara sustrato y para que esto ocurra, la biomasa tiene que bajar.
@@ -226,23 +227,23 @@ rN(1)= D(1)*(NR - NEE(1))
 
 rS(1)= D(1)*(Sr - SEE(1)) → rS = 0.1h-1*(14.97 gS/l  - 0.16 gS/l) → rS = 1.48 gS/L.h
 
-rx / rs = yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = yx/s
+rx / rs = Yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = Yx/s
 
 
 
-yx/s = X~ / (Sr -S~) = 7.60 / (14.97 - 0.16) → yx/s = 0.51 g X / g S
+Yx/s = X~ / (Sr -S~) = 7.60 / (14.97 - 0.16) → Yx/s = 0.51 g X / g S
  Y x/s = rx / rs → rs = rx*Y x/s =0.76 g/l*h / 0.51 gX/gS →rs =1.49 
 
 
 
 
-yx/s = 0.5 g X/ g S (dato)
-BM de nitrógeno: 2a = yx/s*0.2  → yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N = yx/n
-yx/s / a = 10 Cmol X/ Cmol N
+Yx/s = 0.5 g X/ g S (dato)
+BM de nitrógeno: 2a = Yx/s*0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N = yx/n
+Yx/s / a = 10 Cmol X/ Cmol N
 0.1 mol N/Cmol X = a / Y x/s
-yx/s / a = Y x/N  = rx / rn
-yx/s / a = rx / rn
-rn = (rx *a) / yx/s
+Yx/s / a = Y x/N  = rx / rn
+Yx/s / a = rx / rn
+rn = (rx *a) / Yx/s
 rn =  0.76 g/l*h *  [0.1 mol N/ Cmol X *( 60 g FN / mol FN) * (Cmol X/ 24.8 g X) ]
 rn = 0.24 g FN / l*h
 
@@ -256,16 +257,16 @@ D2= 0.3 1/h
 rx(2) = D(2) * X~ = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l*h
 rN(2)= D(2)*(NR - NEE(2))
 BM de nitrógeno:
-2a = yx/s*0.2  → yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
-A su vez →  yx/n = rx / rn → rn = rx / yx/s = 
+2a = Yx/s*0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
+A su vez →  yx/n = rx / rn → rn = rx / Yx/s = 
 
 → EE3:
 D3=0.66 1/h
 rx(3) = D(3) * X~ = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l*h
 rN(3)= D(3)*(NR - NEE(3))
 BM de nitrógeno:
-2a = yx/s*0.2  → yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
-A su vez →  yx/n = rx / rn → rn = rx / yx/s = 
+2a = Yx/s*0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
+A su vez →  yx/n = rx / rn → rn = rx / Yx/s = 
 
 b) Calculá la productividad volumétrica y total de biomasa. 
 Productividad: refiere a la capacidad de producción por unidad de tiempo. Si hablamos de productividad de biomasa en un cultivo continuo en EE:

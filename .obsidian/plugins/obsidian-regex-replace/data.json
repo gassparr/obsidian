@@ -1,6 +1,6 @@
 {
-  "findText": "SR",
-  "replaceText": "Sr",
+  "findText": "yx/s",
+  "replaceText": "Yx/s",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
