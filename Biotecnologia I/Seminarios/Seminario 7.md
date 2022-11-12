@@ -302,6 +302,12 @@ En EE1 a EE2 tengo que esperar 4tr de la condición 2, tenemos que usar el tr de
 
 # 5. Una bacteria crece en sistema continuo con glicerol (C3H8O3 ) como sustrato limitante y urea (CON2H4) como fuente de nitrógeno a una velocidad de dilución de 0,2 h -1. El cultivo se agita a 600 rpm y se airea con 0,25 VVM a 28 ºC siendo la concentración de glicerol en la alimentación 4,0 g/l y el volumen de cultivo 500 ml. Considerando biomasa estándar, calculá:
 
+- X~ = 1.9 g/L
+- S~ + 0.014 g/L
+- Gases:
+  - Entrada %O2 = 20.93 y %CO2 = 0
+  - Salida  %O2 = 18.65 y %CO2 = 1.78
+
 ## a) Caudal de alimentación (F)
 
 ## b) Productividad volumétrica y total de biomasa
