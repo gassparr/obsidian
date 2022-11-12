@@ -179,12 +179,12 @@ A su vez, Y x/N = rx/rn → r n = rx/ yx/s
 
 Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniendo en cuenta el balance de nitrógeno.
 
-→ Para sacar las q, X que uso es en EE, la única que me da como dato
+→ Para sacar las q, X que uso es en EE (X~), la única que me da como dato
 
 → q= r * X~
 Para r O2 y r CO2:
  
-y co2/s = r co2 / rs → usando el BC se saca yco2/s: como no hay producto entonces 
+y co2/s = r co2 / rs → usando el Balance de carbono  se saca yco2/s: como no hay producto entonces 
 yx/s (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2. 
 Con b lo sacamos del balance de oxígeno: ro2/rs = b
 →  cr = ro2 / rco2 se puede usar para no usar el balance de energía
