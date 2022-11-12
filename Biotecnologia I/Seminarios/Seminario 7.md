@@ -143,7 +143,7 @@ La concentración de biomasa no cambia en el tiempo.
 En donde está la flecha pincho una manguera y le meto un volumen de un componente que yo quiero ver que reacción tiene. Aca se observan 4 comportamientos:
 - Lo que le agregue no le genera ningun cambio y la concentración de biomasa se sigue manteniendo constante: pasaría esto si por ejemplo lo que agrego es un nutriente que ya estaba en exceso ( si sobraba y le agrego, no me modifica nada).
 - Si lo que agrego es lo que estaba en defecto, es decir, era el sustrato limitante y la conc dentro del reactor era casi cero, lo que veré es que la biomasa sube porque por un tiempo ve que le sobre otra vez ese sustrato. La diferencia entre 2 y 3; es que en el último agregué más cantidad de ese sustrato que era el limitante. Si dejo este cultivo a lo largo del tiempo, el pulso desaparecerá y volverá a la concentración de biomasa que había antes de que yo le haga el pulso.
-- La biomasa disminuye cuando le agrego ese pulso, es decir, el compuesto de alguna manera está interfiriendo en la duplicación de ese MO, entonces es un inhibidor. Si está inhibición es reversible, entonces si lo dejo lo suficientemente en el tiempo, otra vez volverá al EE. Si es tóxico, directamente me mato todo lo que había adentro y por más que lo deje en el tiempo nunca volverá al EE.
+- La biomasa disminuye cuando le agrego ese pulso, es decir, el compuesto de alguna manera está interfiriendo en la duplicación de ese microorganismo, entonces es un inhibidor. Si está inhibición es reversible, entonces si lo dejo lo suficientemente en el tiempo, otra vez volverá al EE. Si es tóxico, directamente me mato todo lo que había adentro y por más que lo deje en el tiempo nunca volverá al EE.
 
 # 4. Se realizaron experimentos en cultivo continuo de Kluyveromyces lactis a 28 ºC para estudiar aspectos estequiométricos y cinéticos del crecimiento de esta levadura. El medio de cultivo empleado se compone con lactosa como FCE y sustrato limitante, urea (CON2H4) como fuente de N y sales. El volumen de trabajo fue de 1 litro y la aireación fue de 1 VVM -volumen de aire/(volumen de medio de cultivo.minuto)-. El cultivo se realizó a tres flujos de alimentación (F) diferentes. 
 
@@ -163,7 +163,7 @@ Asumiendo que la biomasa presenta composición estándar, para cada EE alcanzado
 La curva es X~ vs D, no vs t!!!!
 D = F1 / V 
 Las volumétricas y las específicas son constantes en EE. 
-**rx= u * X → rx = D * (X~**) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
+**rx= u * X → rx = D * (X~**) SIEMPRE ES RESERVORIO - LO QUE TENEmicroorganismoS EN EE
 **r lactosa = D * (Sr - S~)**
 **r N = D * (NR - N~)**
 **Y x/s = rx / rs** está ecuación es valida para cualquier cultivo 
@@ -213,7 +213,7 @@ D= 0.66 (1/h)
 
 Hay %O2 y % CO2 entonces se puede aplicar la fórmula de balance gaseoso (larga de rO2 y rCO2) y transformar esos vvm para calcular el flujo de aireación en el EE3.
 Mirando que en este EE la biomasa baja, ¿Habrá producción de producto? podría ser ya que la FCE se estaría usando para otra cosa si S~ me da cero pero, si me empieza a sobrar S en el sobrenadante,
-a medida que aumento D, como no se el mu máximo de este MO, pero para que un MO crezca a mu máximo, sus concentraciones deben estar en exceso peor en este caso pareciera que la concentración de S en el EE no es chica, entonces a este D3 seguramente debe estar cerca del valor de mu máximo, entonces el MO está obligado a crecer y entonces sobrara sustrato y para que esto ocurra, la biomasa tiene que bajar.
+a medida que aumento D, como no se el umax de este microorganismo, pero para que un microorganismo crezca a mu máximo, sus concentraciones deben estar en exceso peor en este caso pareciera que la concentración de S en el EE no es chica, entonces a este D3 seguramente debe estar cerca del valor de mu máximo, entonces el microorganismo está obligado a crecer y entonces sobrara sustrato y para que esto ocurra, la biomasa tiene que bajar.
 
 
 
@@ -222,29 +222,28 @@ F1= 0.1 l/h
 V= 1L
 D= F1 / V 
 D1= 0.1 (1/h)
-rx(1) = D(1) * X~ = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l*h
-rN(1)= D(1)*(NR - NEE(1))
+rx(1) = D(1) * X~ = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l * h
+rN(1)= D(1) * (NR - N~(1))
 
-rS(1)= D(1)*(Sr - SEE(1)) → rS = 0.1h-1*(14.97 gS/l  - 0.16 gS/l) → rS = 1.48 gS/L.h
-
+**rS(1)= D(1) * (Sr - SEE(1)) → rS = 0.1h-1*(14.97 gS/l  - 0.16 gS/l) → rS = 1.48 gS/L.h**
 rx / rs = Yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = Yx/s
 
 
 
 Yx/s = X~ / (Sr -S~) = 7.60 / (14.97 - 0.16) → Yx/s = 0.51 g X / g S
- Y x/s = rx / rs → rs = rx*Y x/s =0.76 g/l*h / 0.51 gX/gS →rs =1.49 
+ Y x/s = rx / rs → rs = rx * Y x/s =0.76 g/l * h / 0.51 gX/gS →rs =1.49 
 
 
 
 
 Yx/s = 0.5 g X/ g S (dato)
-BM de nitrógeno: 2a = Yx/s*0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N = yx/n
+BM de nitrógeno: 2a = Yx/s * 0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N = yx/n
 Yx/s / a = 10 Cmol X/ Cmol N
 0.1 mol N/Cmol X = a / Y x/s
 Yx/s / a = Y x/N  = rx / rn
 Yx/s / a = rx / rn
-rn = (rx *a) / Yx/s
-rn =  0.76 g/l*h *  [0.1 mol N/ Cmol X *( 60 g FN / mol FN) * (Cmol X/ 24.8 g X) ]
+rn = (rx * a) / Yx/s
+rn =  0.76 g/l * h *  {0.1 mol N/ Cmol X * ( 60 g FN / mol FN) * (Cmol X/ 24.8 g X)}
 rn = 0.24 g FN / l*h
 
 
@@ -254,27 +253,26 @@ rn = 0.24 g FN / l*h
 
 → EE2:
 D2= 0.3 1/h
-rx(2) = D(2) * X~ = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l*h
-rN(2)= D(2)*(NR - NEE(2))
+rx(2) = D(2) * X~ = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l * h
+rN(2)= D(2) * (NR - NEE(2))
 BM de nitrógeno:
-2a = Yx/s*0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
+2a = Yx/s * 0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
 A su vez →  yx/n = rx / rn → rn = rx / Yx/s = 
 
 → EE3:
 D3=0.66 1/h
-rx(3) = D(3) * X~ = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l*h
-rN(3)= D(3)*(NR - NEE(3))
+rx(3) = D(3) * X~ = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l * h
+rN(3)= D(3) * (NR - NEE(3))
 BM de nitrógeno:
-2a = Yx/s*0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
+2a = Yx/s * 0.2  → Yx/s / a = Y x/N =  2/0.2 = 10 Cmol X/ mol N
 A su vez →  yx/n = rx / rn → rn = rx / Yx/s = 
 
 b) Calculá la productividad volumétrica y total de biomasa. 
 Productividad: refiere a la capacidad de producción por unidad de tiempo. Si hablamos de productividad de biomasa en un cultivo continuo en EE:
 
-				productividad → P = F . XEE
+> productividad → P = F . XEE
+> productividad volumétrica → PX = D . XEE
 
-			productividad volumétrica → PX = D . XEE
-	
 La productividad tiene unidades de g/h. Como está en función de D, cuanto más grande sea el reactor, mayor será la productividad.
 
 → EE1

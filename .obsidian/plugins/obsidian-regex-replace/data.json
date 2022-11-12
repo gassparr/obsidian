@@ -1,6 +1,6 @@
 {
-  "findText": "yx/s",
-  "replaceText": "Yx/s",
+  "findText": "MO",
+  "replaceText": "microorganismo",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
