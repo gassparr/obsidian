@@ -144,3 +144,153 @@ En donde está la flecha pincho una manguera y le meto un volumen de un componen
 - Lo que le agregue no le genera ningun cambio y la concentración de biomasa se sigue manteniendo constante: pasaría esto si por ejemplo lo que agrego es un nutriente que ya estaba en exceso ( si sobraba y le agrego, no me modifica nada).
 - Si lo que agrego es lo que estaba en defecto, es decir, era el sustrato limitante y la conc dentro del reactor era casi cero, lo que veré es que la biomasa sube porque por un tiempo ve que le sobre otra vez ese sustrato. La diferencia entre 2 y 3; es que en el último agregué más cantidad de ese sustrato que era el limitante. Si dejo este cultivo a lo largo del tiempo, el pulso desaparecerá y volverá a la concentración de biomasa que había antes de que yo le haga el pulso.
 - La biomasa disminuye cuando le agrego ese pulso, es decir, el compuesto de alguna manera está interfiriendo en la duplicación de ese MO, entonces es un inhibidor. Si está inhibición es reversible, entonces si lo dejo lo suficientemente en el tiempo, otra vez volverá al EE. Si es tóxico, directamente me mato todo lo que había adentro y por más que lo deje en el tiempo nunca volverá al EE.
+
+# 4. Se realizaron experimentos en cultivo continuo de Kluyveromyces lactis a 28 ºC para estudiar aspectos estequiométricos y cinéticos del crecimiento de esta levadura. El medio de cultivo empleado se compone con lactosa como FCE y sustrato limitante, urea (CON2H4) como fuente de N y sales. El volumen de trabajo fue de 1 litro y la aireación fue de 1 VVM -volumen de aire/(volumen de medio de cultivo.minuto)-. El cultivo se realizó a tres flujos de alimentación (F) diferentes. 
+
+En cada condición se obtuvieron los siguientes datos experimentales al alcanzar el EE: (nd= no hay datos)
+ ![](https://i.imgur.com/7LBO5si.png)
+
+
+SR= concentración de sustrato en el reservorio
+F= flujo → conviene pasarlo a litros
+CR= Coeficiente respiratorio
+P= producto
+
+Asumiendo que la biomasa presenta composición estándar, para cada EE alcanzado: 
+
+a) Calculá las velocidades volumétricas y específicas de formación de biomasa, de consumo de lactosa, de consumo de urea, de consumo de oxígeno y de producción de CO2 a partir de los datos experimentales. 
+La curva es X en EE vs D, no vs t!!!!
+D= F1 / V 
+Las volumétricas y las específicas son constantes en EE. 
+rx= mu * X → rx = D* (X en EE) SIEMPRE ES RESERVORIO - LO QUE TENEMOS EN EE
+r lactosa = D*(SR- S en EE)
+r N = D * (NR - N en EE)
+→ y x/s = rx / rs está ecuación es valida para cualquier cultivo 
+y x/s = (D*X en EE) / {D* (SR-S en EE)} está ec es válida solo para continuo
+que si s es el limitante, S en EE=0 o cercano a cero
+
+Pero como no tenemos NR usaremos otra estrategia:
+ 
+Hacer el BM de nitrógeno → OJO es urea tiene en vez de ser 5 Cmol/Cmol sera 10 Cmol/Cmol porque la urea tiene dos nitrógenos:
+2a = yx/s*o.2  → y x/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N
+A su vez, y x/n = rx/rn → r n = rx/ yx/s
+
+Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniendo en cuenta el balance de nitrógeno.
+
+→ Para sacar las q, X que uso es en EE, la única que me da como dato
+
+→ q= r * X en EE
+Para r O2 y r CO2:
+ 
+y co2/s = r co2 / rs → usando el BC se saca yco2/s: como no hay producto entonces 
+yx/s (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2. 
+Con b lo sacamos del balance de oxígeno: ro2/rs = b
+→  cr = ro2 / rco2 se puede usar para no usar el balance de energía
+
+→ 1 vvm: volumen volumen minuto es la relación entre el flujo de aire y el volumen del medio de cultivo. Quiere decir que las unidades del volumen de aire y del volumen del medio de cultivo son iguales.
+
+EE1:
+F1= 0.1 l/h
+V= 1L
+D= F1 / V 
+D= 0.1 (1/h)
+
+
+EE2:
+F2= 0.3 l/h
+V= 1L
+D= F2 / V 
+D= 0.3 (1/h)
+
+
+EE3:
+F3= 0.66l/h
+V= 1L
+D= F3 / V 
+D= 0.66 (1/h)
+Hay %O2 y % CO2 entonces se puede aplicar la fórmula de balance gaseoso (larga de rO2 y rCO2) y transformar esos vvm para calcular el flujo de aireación en el EE3.
+Mirando que en este EE la biomasa baja, ¿Habrá producción de producto? podría ser ya que la FCE se estaría usando para otra cosa si S en EE me da cero pero, si me empieza a sobrar S en el sobrenadante,
+a medida que aumento D, como no se el mu máximo de este MO, pero para que un MO crezca a mu máximo, sus concentraciones deben estar en exceso peor en este caso pareciera que la concentración de S en el EE no es chica, entonces a este D3 seguramente debe estar cerca del valor de mu máximo, entonces el MO está obligado a crecer y entonces sobrara sustrato y para que esto ocurra, la biomasa tiene que bajar.
+
+
+
+→ EE1:
+F1= 0.1 l/h
+V= 1L
+D= F1 / V 
+D1= 0.1 (1/h)
+rx(1) = D(1) * X en EE = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l*h
+rN(1)= D(1)*(NR - NEE(1))
+
+rS(1)= D(1)*(SR - SEE(1)) → rS = 0.1h-1*(14.97 gS/l  - 0.16 gS/l) → rS = 1.48 gS/L.h
+
+rx / rs = yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = yx/s
+
+
+
+yx/s = X en EE / (SR -S en EE) = 7.60 / (14.97 - 0.16) → yx/s = 0.51 g X / g S
+ y x/s = rx / rs → rs = rx*y x/s =0.76 g/l*h / 0.51 gX/gS →rs =1.49 
+
+
+
+
+yx/s = 0.5 g X/ g S (dato)
+BM de nitrógeno: 2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N = yx/n
+yx/s / a = 10 Cmol X/ Cmol N
+0.1 mol N/Cmol X = a / y x/s
+yx/s / a = y x/n  = rx / rn
+yx/s / a = rx / rn
+rn = (rx *a) / yx/s
+rn =  0.76 g/l*h *  [0.1 mol N/ Cmol X *( 60 g FN / mol FN) * (Cmol X/ 24.8 g X) ]
+rn = 0.24 g FN / l*h
+
+
+
+
+
+
+→ EE2:
+D2= 0.3 1/h
+rx(2) = D(2) * X en EE = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l*h
+rN(2)= D(2)*(NR - NEE(2))
+BM de nitrógeno:
+2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N
+A su vez →  yx/n = rx / rn → rn = rx / yx/s = 
+
+→ EE3:
+D3=0.66 1/h
+rx(3) = D(3) * X en EE = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l*h
+rN(3)= D(3)*(NR - NEE(3))
+BM de nitrógeno:
+2a = yx/s*0.2  → yx/s / a = y x/n =  2/0.2 = 10 Cmol X/ mol N
+A su vez →  yx/n = rx / rn → rn = rx / yx/s = 
+
+b) Calculá la productividad volumétrica y total de biomasa. 
+Productividad: refiere a la capacidad de producción por unidad de tiempo. Si hablamos de productividad de biomasa en un cultivo continuo en EE:
+
+				productividad → P = F . XEE
+
+			productividad volumétrica → PX = D . XEE
+	
+La productividad tiene unidades de g/h. Como está en función de D, cuanto más grande sea el reactor, mayor será la productividad.
+
+→ EE1
+P = 0.1 l/h * 7.60 g/l → P = 0.76 g/h 
+PX = 0.1h-1 * 7.60 g/ → PX =0.76 g/l.h
+
+
+
+c) Estimá si hubo formación de producto en el experimento 3. En caso afirmativo calculá su grado de reducción. 
+→ Para ver si hay producción de producto puedo fijarme en el BC y ver si cierra o no
+
+
+d) Al finalizar el ensayo en la condición 1 se cambia el caudal de alimentación a la condición 2. Estimá el tiempo que se debe esperar para alcanzar un nuevo EE. Repetí el cálculo para pasar desde la condición 2 a la 3. ¿Cómo podrías corroborar experimentalmente que el sistema se encuentra en EE?
+ 
+¿Qué D uso? ¿el del anterior o al que pasé? el D nuevo!!
+tr= 1 / D → 4tr    
+Para pasar de la condición 2 a 3 tendría que esperar 4tr. El volumen del reactor es de 1 L y el caudal es F. Tengo que calcular el tr. Hay 4tr entre cada EE. Entonces, en todos los casos V = 1L y:
+Condición 1: F es 100 ml/h, entonces D = 0.1 hs-1 y por lo tanto tr = 1/D = 1/0.1 hs-1 = 10 hs
+Condición 2: F es 300 ml/h, entonces D = 0.3 hs-1 → tr= 1/0.3  hs-1 = 3.33 hs
+Condición 3: F es 600 ml/h, entonces D = 0.6 hs-1 → tr= 1/0.6  hs-1  = 1.66 hs
+
+En EE1 a EE2 tengo que esperar 4tr de la condición 2, tenemos que usar el tr de la condición a la que queremos llegar, entonces tenemos que esperar (4*tr)10 hs x 4 = 40 hs. Para asegurarme que estoy en EE hago lo que expliqué antes, mido cada 1tr la DO, el oxígeno disuelto, la concentración de S limitante, etc para asegurarme que estoy en EE. 
