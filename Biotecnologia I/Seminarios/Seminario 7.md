@@ -306,9 +306,13 @@ En EE1 a EE2 tengo que esperar 4tr de la condición 2, tenemos que usar el tr de
 - S~ + 0.014 g/L
 - Gases:
   - Entrada %O2 = 20.93 y %CO2 = 0
-  - Salida  %O2 = 18.65 y %CO2 = 1.78
+  - Salida %O2 = 18.65 y %CO2 = 1.78
 
 ## a) Caudal de alimentación (F)
+
+D = F/ V
+
+F = V * D = 0.5 L * 0.2 /h = 0.1 L/h
 
 ## b) Productividad volumétrica y total de biomasa
 
