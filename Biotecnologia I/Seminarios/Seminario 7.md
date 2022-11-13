@@ -316,6 +316,9 @@ F = V * D = 0.5 L * 0.2 /h = 0.1 L/h
 
 ## b) Productividad volumétrica y total de biomasa
 
+P = F * X~ = 0.1 L/h * 1.9 g/L = 0.19 g/h
+Px = D * X~ = 0.2 / h * 1.9 g/L = 0.38 g / (L * h)
+
 ## c) rO2, rCO2 y el cociente respiratorio
 
 ## d) yx, rs, rurea, qO2, y qCO2
