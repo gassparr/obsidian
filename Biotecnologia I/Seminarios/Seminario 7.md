@@ -190,7 +190,7 @@ Para r O2 y r CO2:
 - A partir de balances puedo estimar si es posible que se forme algun producto
 
 y co2/s = r co2 / rs → usando el Balance de carbono se saca Yco2/s: como no hay producto entonces
-Yx/s (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2.
+Yx/s * (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2.
 Con b lo sacamos del balance de oxígeno: ro2/rs = b
 → cr = ro2 / rco2 se puede usar para no usar el balance de energía
 
@@ -230,7 +230,7 @@ D1= 0.1 (1/h)
 rx(1) = D(1) * X~ = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l * h
 rN(1)= D(1) * (NR - N~(1))
 
-**rS(1)= D(1) * (Sr - SEE(1)) → rS = 0.1h-1*(14.97 gS/l - 0.16 gS/l) → rS = 1.48 gS/L.h**
+**rS(1)= D(1) * (Sr - S~(1)) → rS = 0.1h-1*(14.97 gS/l - 0.16 gS/l) → rS = 1.48 gS/L.h**
 rx / rs = Yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = Yx/s
 
 
