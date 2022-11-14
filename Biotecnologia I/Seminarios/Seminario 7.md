@@ -36,6 +36,7 @@ Nr - N~ = (Yx/N / Nr)
 Nr = (Yx/N / Nr) + N~ = 10.5 g/L
 
 <Limitado en FCE>
+
 Y x/s = X~ / (Sr - S~)
 si:
 X ~= 2g/l
@@ -50,6 +51,7 @@ N ~ pongo lo que me dice que quieor que sobre = 0.5 g/l
 y x/N = N ~ / (NR - N ~) =
 
 <Limitado en FN>
+
 yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ como está limitado es mucho menor que NR y por lo tanto lo desprecio
 y x/N = N ~ / NR
@@ -61,6 +63,7 @@ Recordá que:
 - si considerás biomasa estándar y que el único destino de la FN es la biomasa, del balance de N surge que: a. yx/N = Yx/s y su valor numérico es 5 C-mol X/mol FN si la FN tiene un solo mol de N (siendo a el coeficiente estequiomérico de la ecuación de crecimiento expresado en moles de N/C-mol de FCE)
 
 <Limitado en FCE>
+
 datos:
 X ~= 2g/l
 Y x/s =0.40 gX/gS * (1Cmol X/25,8g X) * (30 gr S/Cmol S) = 0.46 Cmol x/ cmol s
@@ -98,6 +101,7 @@ NR = {N~(y x/N + 1)} / y x/N
 NR = 0.92 g FN/litro
 
 <Limitado en FN>
+
 datos:
 Y x/s= 0,27 gX/gS * (24.8 gX/CmolX) * (CmolS /30gS) = 0.22 Cmol X/Cmol S
 yx/N= 5 Cmol x/Cmol N
@@ -177,14 +181,17 @@ Pero como no tenemos Nr usaremos otra estrategia:
 ![](https://i.imgur.com/K5FBw6T.png)
 
 Hacer el Balance de Masa de nitrógeno → OJO es urea tiene en vez de ser 5 Cmol/Cmol sera 10 Cmol/Cmol porque la urea tiene dos nitrógenos:
+
 2a = Yx/s * 0.2 → Y x/s / a = Y x/N = 2/0.2 = 10 Cmol X/ mol N
+
 A su vez, Y x/N = rx/rn → r n = rx/ Yx/s
 
 Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniendo en cuenta el balance de nitrógeno.
 
-→ Para sacar las q, X que uso es en EE (X~), la única que me da como dato
+Para sacar las q, X que uso es en EE (X~), la única que me da como dato
 
 **q= r * X~**
+
 Para r O2 y r CO2:
 - vvm = caudal de aire / volumen de medio
 - CR (cociente respiratorio) = Formacion de CO2 / consumo de O2
@@ -199,25 +206,25 @@ cr = ro2 / rco2 se puede usar para no usar el balance de energía
 
 → 1 vvm: volumen volumen minuto es la relación entre el flujo de aire y el volumen del medio de cultivo. Quiere decir que las unidades del volumen de aire y del volumen del medio de cultivo son iguales.
 
->EE1:
-F1= 0.1 l/h
-V= 1L
-D= F1 / V
-D= 0.1 (1/h)
+- EE1:
+	- F1= 0.1 l/h
+	- V= 1L
+	- D= F1 / V
+	- D= 0.1 (1/h)
 
 
->EE2:
-F2= 0.3 l/h
-V= 1L
-D= F2 / V
-D= 0.3 (1/h)
+- EE2:
+	- F2= 0.3 l/h
+	- V= 1L
+	- D= F2 / V
+	- D= 0.3 (1/h)
 
 
->EE3:
-F3= 0.66l/h
-V= 1L
-D= F3 / V
-D= 0.66 (1/h)
+- EE3:
+	- F3= 0.66l/h
+	- V= 1L
+	- D= F3 / V
+	- D= 0.66 (1/h)
 
 Hay %O2 y % CO2 entonces se puede aplicar la fórmula de balance gaseoso (larga de rO2 y rCO2) y transformar esos vvm para calcular el flujo de aireación en el EE3.
 Mirando que en este EE la biomasa baja, ¿Habrá producción de producto? podría ser ya que la FCE se estaría usando para otra cosa si S~ me da cero pero, si me empieza a sobrar S en el sobrenadante,
