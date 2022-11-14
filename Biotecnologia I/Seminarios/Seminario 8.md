@@ -3,6 +3,7 @@
 ## a. Diseñá el proceso conociendo que durante un cultivo en batch en las mismas condiciones el rendimiento yx/s y μmáx fueron 0.35 g.g-1 y 0.25 h-1 respectivamente. Considerá C*: 7.5 ppm y Cc: 10 % C* y solubilidad máxima de la glucosa: 500 g.l-1 -Tené en cuenta que realizar el diseño de un cultivo Batch alimentado incluye:
 
 ### i-diseñar el batch previo, esto es determinar cuánta biomasa es posible obtener, en qué tiempo y cuáles son las concentraciones de fuente de C y de N necesarias para poder obtenerla según la limitación que se haya considerado; 
+
 ### ii-diseñar un batch alimentado con flujo constante es encontrar el valor de F y de las concentraciones de fuente de C y de N necesarias que satisfagan las ecuaciones de diseño también según la limitación que se haya considerado.
 
 ## b- Calculá la productividad.
