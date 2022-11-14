@@ -232,7 +232,8 @@ a medida que aumento D, como no se el umax de este microorganismo, pero para que
 
 
 
->→ EE1:
+- EE1:
+```
 F1= 0.1 l/h
 V= 1L
 D= F1 / V
@@ -240,7 +241,7 @@ D1= 0.1 (1/h)
 rx(1) = D(1) * X~ = 0.1 (1/h) * 7.60 g/l → rx= 0.76 g/l * h
 rN(1)= D(1) * (NR - N~(1))
 
-**rS(1)= D(1) * (Sr - S~(1)) → rS = 0.1h-1*(14.97 gS/l - 0.16 gS/l) → rS = 1.48 gS/L.h**
+rs1= D1 * (Sr - S~1) → rs = 0.1(h-1) * (14.97 gS/L - 0.16 gS/L) → rs = 1.48 gS/L.h
 rx / rs = Yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = Yx/s
 
 >Yx/s = X~ / (Sr -S~) = 7.60 / (14.97 - 0.16) → Yx/s = 0.51 g X / g S
@@ -255,33 +256,39 @@ Yx/s / a = rx / rn
 rn = (rx * a) / Yx/s
 rn = 0.76 g/l * h * {0.1 mol N/ Cmol X * ( 60 g FN / mol FN) * (Cmol X/ 24.8 g X)}
 rn = 0.24 g FN / l*h
+```
 
->→ EE2:
+- EE2:
+```
 D2= 0.3 1/h
 rx(2) = D(2) * X~ = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l * h
 rN(2)= D(2) * (NR - NEE(2))
 BM de nitrógeno:
 2a = Yx/s * 0.2 → Yx/s / a = Y x/N = 2/0.2 = 10 Cmol X/ mol N
 A su vez → yx/n = rx / rn → rn = rx / Yx/s =
+```
 
->→ EE3:
+- EE3:
+```
 D3=0.66 1/h
 rx(3) = D(3) * X~ = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l * h
 rN(3)= D(3) * (NR - NEE(3))
 BM de nitrógeno:
 2a = Yx/s * 0.2 → Yx/s / a = Y x/N = 2/0.2 = 10 Cmol X/ mol N
 A su vez → yx/n = rx / rn → rn = rx / Yx/s =
+```
 
 ## b) Calculá la productividad volumétrica y total de biomasa.
 
 Productividad: refiere a la capacidad de producción por unidad de tiempo. Si hablamos de productividad de biomasa en un cultivo continuo en EE:
 
-> productividad → P = F . X~
-> productividad volumétrica → PX = D . X~
+productividad → P = F . X~
+
+productividad volumétrica → PX = D . X~
 
 La productividad tiene unidades de g/h. Como está en función de D, cuanto más grande sea el reactor, mayor será la productividad.
 
-→ EE1
+- EE1
 
 P = 0.1 l/h * 7.60 g/l → P = 0.76 g/h
 
@@ -289,7 +296,7 @@ PX = 0.1h-1 * 7.60 g/ → PX =0.76 g/l.h
 
 ## c) Estimá si hubo formación de producto en el experimento 3. En caso afirmativo calculá su grado de reducción.
 
-→ Para ver si hay producción de producto puedo fijarme en el BC y ver si cierra o no
+Para ver si hay producción de producto puedo fijarme en el BC y ver si cierra o no
 
 ## d) Al finalizar el ensayo en la condición 1 se cambia el caudal de alimentación a la condición 2. Estimá el tiempo que se debe esperar para alcanzar un nuevo EE. Repetí el cálculo para pasar desde la condición 2 a la 3. ¿Cómo podrías corroborar experimentalmente que el sistema se encuentra en EE?
 
