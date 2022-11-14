@@ -1,12 +1,9 @@
 # 1. Para el estudio fisiológico de una levadura se desea realizar un cultivo continuo en un medio de cultivo con glucosa como FCE y NH4Cl como FN utilizando reservorios con distintas cantidades de ambos componentes para lograr dos estados estacionarios (EE) diferentes: un EE donde la levadura crece limitada en carbono y otro EE donde crece limitada en nitrógeno, al mismo valor de velocidad de dilución (D) igual a 0,25 h -1 .
 
 **De bibliografía se conoce que:**
-
-**Cultivo continuo Limitado en FCE: Yx/s = 0.40g.g -1**
-
-**Cultivo continuo Limitado en N: Yx/s = 0.27 g.g -1**
-
-**Considerando biomasa estándar, respondé las siguientes preguntas:**
+- **Cultivo continuo Limitado en FCE: Yx/s = 0.40g.g -1** 
+- **Cultivo continuo Limitado en N: Yx/s = 0.27 g.g -1**
+- **Considerando biomasa estándar, respondé las siguientes preguntas:**
 
 ## a) ¿Qué criterios conocés que permiten reconocer que un cultivo continuo se encuentra en estado estacionario?
 
@@ -22,21 +19,21 @@
 - Limitado en FCE
   Yx/s = X~ / (Sr - S~)
 
-  X~ = 2 g/L
+  >X~ = 2 g/L
   Yx/s = 0.4 g/g
   S~ = 0 → ya que en estamos limitados en FCE por lo que
   Sr - S~ = Sr
 
-  Yx/s * Sr = X
+  >Yx/s * Sr = X
   Sr = X / Yx/s = (2 g/L) / (0.4 g/g) = 5 g/L
 
-  Yx/N = 5 cmol/cmol → Pasar a g/g
+  >Yx/N = 5 cmol/cmol → Pasar a g/g
   N~ = 0.5 g/L
   Yx/N = N~ / (Nr - N~)
   Nr - N~ = (Yx/N / Nr)
   Nr = (Yx/N / Nr) + N~ = 10.5 g/L
 
-→ Limitado en FCE
+>→ Limitado en FCE
 Y x/s = X~ / (Sr - S~)
 si:
 X ~= 2g/l
@@ -45,19 +42,19 @@ S~ = 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor 
 Yx/s * Sr = X~
 Sr = X ~ / Y x/s → Sr = 5g/l
 
-yx/N= 5 Cmol/Cmol → PASAR A g/g
+>yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ pongo lo que me dice que quieor que sobre = 0.5 g/l
 y x/N = N ~ / (NR - N ~) =
 
 
-→ Limitado en FN
+>→ Limitado en FN
 yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ como está limitado es mucho menor que NR y por lo tanto lo desprecio
 y x/N = N ~ / NR
 
 Y x/s = X~ / (Sr - S~) → S ~ ahora será o,5 g/l
 Recordá que:
--como cualquier rendimiento el parámetro yx/N puede expresarse como un cociente de velocidades volumétricas.
+- como cualquier rendimiento el parámetro yx/N puede expresarse como un cociente de velocidades volumétricas.
 - si considerás biomasa estándar y que el único destino de la FN es la biomasa, del balance de N surge que: a. yx/N = Yx/s y su valor numérico es 5 C-mol X/mol FN si la FN tiene un solo mol de N (siendo a el coeficiente estequiomérico de la ecuación de crecimiento expresado en moles de N/C-mol de FCE)
 
 → Limitado en FCE
@@ -66,29 +63,29 @@ datos:
 	Y x/s =0.40 gX/gS * (1Cmol X/25,8g X) * (30 gr S/Cmol S) = 0.46 Cmol x/ cmol s
 	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (lo que sobra)
 
-Y x/s = X~ / (Sr - S~) → despejo Sr
+>Y x/s = X~ / (Sr - S~) → despejo Sr
 si:
 S ~= 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr. Entonces:
 Yx/s * Sr = X~
 
-Sr = X ~ / Y x/s → Sr = 5 g/l
+>Sr = X ~ / Y x/s → Sr = 5 g/l
 g X / (gX / gS)
 
-yx/N= 5 Cmol/mol FN → PASAR A g/g
+>yx/N= 5 Cmol/mol FN → PASAR A g/g
 N~ pongo lo que me dice que quiero que sobre = 0.5 g/l
 y x/N = N~ / (NR - N~) → despejo NR
 
 yx/n = Yx/s / a
 
-CH3O2+a NH3+b O2→Yx/s CH(1.8) O(0.5) N(0.2) +Yco2/s CO2 +w H2O
+>CH3O2 + a NH3 + b O2 → Yx/s CH(1.8) O(0.5) N(0.2) + Yco2/s CO2 + w H2O
 a = 0.2 * Yx/s = 0.2 * 0.46 = 0.09
 Suponiendo que la FN es el único compuesto nitrogenado y que no se genera ningun producto nitrogenado.
 
-yx/n = (Yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * (1 mol N / 50 g N)
+>yx/n = (Yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * (1 mol N / 50 g N)
 yx/n = 2.38 gX/gN
 
 Despejando:
-y x/N = X ~ / (NR - N~)
+>y x/N = X ~ / (NR - N~)
 y x/N * (NR - X~) = N~
 (y x/N * NR) - (y x/N * N~) = N~
 NR = {(y x/N * X~) + N~} / yx/N
@@ -96,22 +93,21 @@ NR = {N~(y x/N + 1)} / y x/N
 (3)()NR = {(0.5 g FN/l * (2.38gX/gN + 1)} / 2.38 gX/gN
 NR = 0.92 g FN/litro
 
-→ Limitado en FN
+ Limitado en FN
 datos:
 	Y x/s= 0,27 gX/gS * (24.8 gX/CmolX) * (CmolS /30gS) = 0.22 Cmol X/Cmol S
 	yx/N= 5 Cmol x/Cmol N
 	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (ESTO ES DE LO QUE SOBRA)
 
-a = 0.2 * Yx/s
+>a = 0.2 * Yx/s
 a = 0.2 * 0.22 C mol X/C mol S = 0.044
 yx/n = Yx/s / a → yx/n = 5 Cmol X/mol N → paso a g/g:
 
 yx/n = 5 Cmol X/molN * 24.8gX/Cmolx * 53 g N/mol N = 10.68 g X/ g N
 
-
 N~ como está limitado es mucho menor que NR y por lo tanto lo desprecio:
 
-y x/N = X~ / (NR - N~) → despejo NR
+>y x/N = X~ / (NR - N~) → despejo NR
 NR = X~ / yx/N
 NR, = 0.5 gX/l / 10.68 gX/ g N
 NR = 0.047 gN/l
@@ -151,23 +147,25 @@ En cada condición se obtuvieron los siguientes datos experimentales al alcanzar
  ![](https://i.imgur.com/7LBO5si.png)
 
 
-Sr= concentración de sustrato en el reservorio
-F= flujo → conviene pasarlo a litros
-CR= Coeficiente respiratorio
-P= producto
+- Sr= concentración de sustrato en el reservorio
+- F= flujo → conviene pasarlo a litros
+- CR= Coeficiente respiratorio
+- P= producto
 
 Asumiendo que la biomasa presenta composición estándar, para cada EE alcanzado:
 
 ## a) Calculá las velocidades volumétricas y específicas de formación de biomasa, de consumo de lactosa, de consumo de urea, de consumo de oxígeno y de producción de CO2 a partir de los datos experimentales.
 
 La curva es X~ vs D, no vs t!!!!
+
 D = F1 / V
+
 Las volumétricas y las específicas son constantes en EE.
-**rx= u * X → rx = D * (X~**) SIEMPRE ES RESERVORIO - LO QUE TENEmicroorganismoS EN EE
-**r lactosa = D * (Sr - S~)**
-**r N = D * (NR - N~)**
-**Y x/s = rx / rs** está ecuación es valida para cualquier cultivo
-**Y x/s = (D * X~) / {D * (Sr - S~)}** está ec es válida solo para continuo
+- **rx= u * X → rx = D * (X~**) SIEMPRE ES RESERVORIO - LO QUE TENEmicroorganismoS EN EE
+- **r lactosa = D * (Sr - S~)**
+- **r N = D * (NR - N~)**
+- **Y x/s = rx / rs** está ecuación es valida para cualquier cultivo
+- **Y x/s = (D * X~) / {D * (Sr - S~)}** está ec es válida solo para continuo
 que si s es el limitante, S~=0 o cercano a cero
 
 Pero como no tenemos Nr usaremos otra estrategia:
@@ -181,7 +179,7 @@ Yx/N es la relación de la biomasa producida y la fuente de N consumida, teniend
 
 → Para sacar las q, X que uso es en EE (X~), la única que me da como dato
 
-→ q= r * X~
+**q= r * X~**
 Para r O2 y r CO2:
 - vvm = caudal de aire / volumen de medio
 - CR (cociente respiratorio) = Formacion de CO2 / consumo de O2
@@ -190,27 +188,27 @@ Para r O2 y r CO2:
 - A partir de balances puedo estimar si es posible que se forme algun producto
 
 y co2/s = r co2 / rs → usando el Balance de carbono se saca Yco2/s: como no hay producto entonces
-Yx/s * (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2.
-Con b lo sacamos del balance de oxígeno: ro2/rs = b
-→ cr = ro2 / rco2 se puede usar para no usar el balance de energía
+Yx/s * (rx/rs) + yco2/s = 1 por lo que despejando puedo calcular yco2/s y así sacar rco2. Con b lo sacamos del balance de oxígeno: ro2/rs = b
+
+cr = ro2 / rco2 se puede usar para no usar el balance de energía
 
 → 1 vvm: volumen volumen minuto es la relación entre el flujo de aire y el volumen del medio de cultivo. Quiere decir que las unidades del volumen de aire y del volumen del medio de cultivo son iguales.
 
-EE1:
+>EE1:
 F1= 0.1 l/h
 V= 1L
 D= F1 / V
 D= 0.1 (1/h)
 
 
-EE2:
+>EE2:
 F2= 0.3 l/h
 V= 1L
 D= F2 / V
 D= 0.3 (1/h)
 
 
-EE3:
+>EE3:
 F3= 0.66l/h
 V= 1L
 D= F3 / V
@@ -222,7 +220,7 @@ a medida que aumento D, como no se el umax de este microorganismo, pero para que
 
 
 
-→ EE1:
+>→ EE1:
 F1= 0.1 l/h
 V= 1L
 D= F1 / V
@@ -233,15 +231,10 @@ rN(1)= D(1) * (NR - N~(1))
 **rS(1)= D(1) * (Sr - S~(1)) → rS = 0.1h-1*(14.97 gS/l - 0.16 gS/l) → rS = 1.48 gS/L.h**
 rx / rs = Yx/s = 0.76 gX/ 1.48 g S = 0.5 gX/gS = Yx/s
 
-
-
-Yx/s = X~ / (Sr -S~) = 7.60 / (14.97 - 0.16) → Yx/s = 0.51 g X / g S
+>Yx/s = X~ / (Sr -S~) = 7.60 / (14.97 - 0.16) → Yx/s = 0.51 g X / g S
  Y x/s = rx / rs → rs = rx * Y x/s =0.76 g/l * h / 0.51 gX/gS →rs =1.49
 
-
-
-
-Yx/s = 0.5 g X/ g S (dato)
+>Yx/s = 0.5 g X/ g S (dato)
 BM de nitrógeno: 2a = Yx/s * 0.2 → Yx/s / a = Y x/N = 2/0.2 = 10 Cmol X/ mol N = yx/n
 Yx/s / a = 10 Cmol X/ Cmol N
 0.1 mol N/Cmol X = a / Y x/s
@@ -251,12 +244,7 @@ rn = (rx * a) / Yx/s
 rn = 0.76 g/l * h * {0.1 mol N/ Cmol X * ( 60 g FN / mol FN) * (Cmol X/ 24.8 g X)}
 rn = 0.24 g FN / l*h
 
-
-
-
-
-
-→ EE2:
+>→ EE2:
 D2= 0.3 1/h
 rx(2) = D(2) * X~ = 0.3 (1/h) * 7.13 g/l → rx= 2.14 g/ l * h
 rN(2)= D(2) * (NR - NEE(2))
@@ -264,7 +252,7 @@ BM de nitrógeno:
 2a = Yx/s * 0.2 → Yx/s / a = Y x/N = 2/0.2 = 10 Cmol X/ mol N
 A su vez → yx/n = rx / rn → rn = rx / Yx/s =
 
-→ EE3:
+>→ EE3:
 D3=0.66 1/h
 rx(3) = D(3) * X~ = 0.66 (1/h) * 4.85 g/l → rx= 3.2 g/ l * h
 rN(3)= D(3) * (NR - NEE(3))
@@ -282,7 +270,9 @@ Productividad: refiere a la capacidad de producción por unidad de tiempo. Si ha
 La productividad tiene unidades de g/h. Como está en función de D, cuanto más grande sea el reactor, mayor será la productividad.
 
 → EE1
+
 P = 0.1 l/h * 7.60 g/l → P = 0.76 g/h
+
 PX = 0.1h-1 * 7.60 g/ → PX =0.76 g/l.h
 
 ## c) Estimá si hubo formación de producto en el experimento 3. En caso afirmativo calculá su grado de reducción.
@@ -292,11 +282,12 @@ PX = 0.1h-1 * 7.60 g/ → PX =0.76 g/l.h
 ## d) Al finalizar el ensayo en la condición 1 se cambia el caudal de alimentación a la condición 2. Estimá el tiempo que se debe esperar para alcanzar un nuevo EE. Repetí el cálculo para pasar desde la condición 2 a la 3. ¿Cómo podrías corroborar experimentalmente que el sistema se encuentra en EE?
 
 ¿Qué D uso? ¿el del anterior o al que pasé? el D nuevo!!
-tr= 1 / D → 4tr
+> tr= 1 / D → 4tr
+
 Para pasar de la condición 2 a 3 tendría que esperar 4tr. El volumen del reactor es de 1 L y el caudal es F. Tengo que calcular el tr. Hay 4tr entre cada EE. Entonces, en todos los casos V = 1L y:
-Condición 1: F es 100 ml/h, entonces D = 0.1 hs-1 y por lo tanto tr = 1/D = 1/0.1 hs-1 = 10 hs
-Condición 2: F es 300 ml/h, entonces D = 0.3 hs-1 → tr= 1/0.3 hs-1 = 3.33 hs
-Condición 3: F es 600 ml/h, entonces D = 0.6 hs-1 → tr= 1/0.6 hs-1 = 1.66 hs
+- Condición 1: F es 100 ml/h, entonces D = 0.1 hs-1 y por lo tanto tr = 1/D = 1/0.1 hs-1 = 10 hs
+- Condición 2: F es 300 ml/h, entonces D = 0.3 hs-1 → tr= 1/0.3 hs-1 = 3.33 hs
+- Condición 3: F es 600 ml/h, entonces D = 0.6 hs-1 → tr= 1/0.6 hs-1 = 1.66 hs
 
 En EE1 a EE2 tengo que esperar 4tr de la condición 2, tenemos que usar el tr de la condición a la que queremos llegar, entonces tenemos que esperar (4 * tr)10 hs x 4 = 40 hs. Para asegurarme que estoy en EE hago lo que expliqué antes, mido cada 1tr la DO, el oxígeno disuelto, la concentración de S limitante, etc para asegurarme que estoy en EE.
 
@@ -323,7 +314,9 @@ Px = D * X~ = 0.2 / h * 1.9 g/L = 0.38 g / (L * h)
 ## c) rO2, rCO2 y el cociente respiratorio
 
 rO2 = b * rs
+
 rCO2 = Yco2/s * rs
+
 CR = rO2 / rCO2
 
 ## d) yx, rs, rurea, qO2, y qCO2
