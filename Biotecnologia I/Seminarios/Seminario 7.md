@@ -16,7 +16,7 @@
 
 ## c) Formulá la composición del reservorio (concentración de glucosa y concentración de NH4Cl para cada EE si la X ~ que se pretende obtener es aproximadamente de 2 g.l -1 . Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 .
 
-```
+```java
 Limitado en FCE
 Yx/s = X~ / (Sr - S~)
 
@@ -48,27 +48,28 @@ yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ pongo lo que me dice que quieor que sobre = 0.5 g/l
 y x/N = N ~ / (NR - N ~) =
 
- Limitado en FN
+Limitado en FN
 yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ como está limitado es mucho menor que NR y por lo tanto lo desprecio
 y x/N = N ~ / NR
 
 Y x/s = X~ / (Sr - S~) → S ~ ahora será o,5 g/l
+
 Recordá que:
 - como cualquier rendimiento el parámetro yx/N puede expresarse como un cociente de velocidades volumétricas.
 - si considerás biomasa estándar y que el único destino de la FN es la biomasa, del balance de N surge que: a. yx/N = Yx/s y su valor numérico es 5 C-mol X/mol FN si la FN tiene un solo mol de N (siendo a el coeficiente estequiomérico de la ecuación de crecimiento expresado en moles de N/C-mol de FCE)
 
 Limitado en FCE
 datos:
-	X ~= 2g/l
-	Y x/s =0.40 gX/gS * (1Cmol X/25,8g X) * (30 gr S/Cmol S) = 0.46 Cmol x/ cmol s
-	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (lo que sobra)
+X ~= 2g/l
+Y x/s =0.40 gX/gS * (1Cmol X/25,8g X) * (30 gr S/Cmol S) = 0.46 Cmol x/ cmol s
+Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (lo que sobra)
 
 Y x/s = X~ / (Sr - S~) → despejo Sr
 si:
 S ~= 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr. Entonces:
-Yx/s * Sr = X~
 
+Yx/s * Sr = X~
 Sr = X ~ / Y x/s → Sr = 5 g/l
 g X / (gX / gS)
 
@@ -79,6 +80,7 @@ y x/N = N~ / (NR - N~) → despejo NR
 yx/n = Yx/s / a
 
 CH3O2 + a NH3 + b O2 → Yx/s CH(1.8) O(0.5) N(0.2) + Yco2/s CO2 + w H2O
+
 a = 0.2 * Yx/s = 0.2 * 0.46 = 0.09
 Suponiendo que la FN es el único compuesto nitrogenado y que no se genera ningun producto nitrogenado.
 
@@ -94,11 +96,11 @@ NR = {N~(y x/N + 1)} / y x/N
 (3)()NR = {(0.5 g FN/l * (2.38gX/gN + 1)} / 2.38 gX/gN
 NR = 0.92 g FN/litro
 
- Limitado en FN
+Limitado en FN
 datos:
-	Y x/s= 0,27 gX/gS * (24.8 gX/CmolX) * (CmolS /30gS) = 0.22 Cmol X/Cmol S
-	yx/N= 5 Cmol x/Cmol N
-	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (ESTO ES DE LO QUE SOBRA)
+Y x/s= 0,27 gX/gS * (24.8 gX/CmolX) * (CmolS /30gS) = 0.22 Cmol X/Cmol S
+yx/N= 5 Cmol x/Cmol N
+Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (ESTO ES DE LO QUE SOBRA)
 
 a = 0.2 * Yx/s
 a = 0.2 * 0.22 C mol X/C mol S = 0.044
