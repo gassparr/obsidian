@@ -321,6 +321,10 @@ Px = D * X~ = 0.2 / h * 1.9 g/L = 0.38 g / (L * h)
 
 ## c) rO2, rCO2 y el cociente respiratorio
 
+rO2 = b * rs
+rCO2 = Yco2/s * rs
+CR = rO2 / rCO2
+
 ## d) yx, rs, rurea, qO2, y qCO2
 
 ## e) Estimá si hubo formación de producto aplicando balances de grado de reducción. Datos experimentales en el EE:
