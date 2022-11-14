@@ -18,27 +18,29 @@
 
 ```
 Limitado en FCE
-  Yx/s = X~ / (Sr - S~)
+Yx/s = X~ / (Sr - S~)
 
-  X~ = 2 g/L
-  Yx/s = 0.4 g/g
-  S~ = 0 → ya que en estamos limitados en FCE por lo que
-  Sr - S~ = Sr
+X~ = 2 g/L
+Yx/s = 0.4 g/g
+S~ = 0 → ya que en estamos limitados en FCE por lo que
+Sr - S~ = Sr
 
-  Yx/s * Sr = X
-  Sr = X / Yx/s = (2 g/L) / (0.4 g/g) = 5 g/L
+Yx/s * Sr = X
+Sr = X / Yx/s = (2 g/L) / (0.4 g/g) = 5 g/L
 
-  Yx/N = 5 cmol/cmol → Pasar a g/g
-  N~ = 0.5 g/L
-  Yx/N = N~ / (Nr - N~)
-  Nr - N~ = (Yx/N / Nr)
-  Nr = (Yx/N / Nr) + N~ = 10.5 g/L
+Yx/N = 5 cmol/cmol → Pasar a g/g
+N~ = 0.5 g/L
+Yx/N = N~ / (Nr - N~)
+Nr - N~ = (Yx/N / Nr)
+Nr = (Yx/N / Nr) + N~ = 10.5 g/L
+
 Limitado en FCE
 Y x/s = X~ / (Sr - S~)
 si:
 X ~= 2g/l
 Y x/s = 0.40 g/g
 S~ = 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr.
+
 Yx/s * Sr = X~
 Sr = X ~ / Y x/s → Sr = 5g/l
 
@@ -108,7 +110,7 @@ N~ como está limitado es mucho menor que NR y por lo tanto lo desprecio:
 
 y x/N = X~ / (NR - N~) → despejo NR
 NR = X~ / yx/N
-NR, = 0.5 gX/l / 10.68 gX/ g N
+NR = 0.5 gX/l / 10.68 gX/ g N
 NR = 0.047 gN/l
 
 Y x/s = X~ / (Sr - S~) → S~ ahora será 0,5 g/l
