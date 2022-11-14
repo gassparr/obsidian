@@ -16,24 +16,24 @@
 
 ## c) Formulá la composición del reservorio (concentración de glucosa y concentración de NH4Cl para cada EE si la X ~ que se pretende obtener es aproximadamente de 2 g.l -1 . Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 .
 
-- Limitado en FCE
+Limitado en FCE
   Yx/s = X~ / (Sr - S~)
 
-  >X~ = 2 g/L
+  X~ = 2 g/L
   Yx/s = 0.4 g/g
   S~ = 0 → ya que en estamos limitados en FCE por lo que
   Sr - S~ = Sr
 
-  >Yx/s * Sr = X
+  Yx/s * Sr = X
   Sr = X / Yx/s = (2 g/L) / (0.4 g/g) = 5 g/L
 
-  >Yx/N = 5 cmol/cmol → Pasar a g/g
+  Yx/N = 5 cmol/cmol → Pasar a g/g
   N~ = 0.5 g/L
   Yx/N = N~ / (Nr - N~)
   Nr - N~ = (Yx/N / Nr)
   Nr = (Yx/N / Nr) + N~ = 10.5 g/L
 
->→ Limitado en FCE
+Limitado en FCE
 Y x/s = X~ / (Sr - S~)
 si:
 X ~= 2g/l
@@ -42,12 +42,12 @@ S~ = 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor 
 Yx/s * Sr = X~
 Sr = X ~ / Y x/s → Sr = 5g/l
 
->yx/N= 5 Cmol/Cmol → PASAR A g/g
+yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ pongo lo que me dice que quieor que sobre = 0.5 g/l
 y x/N = N ~ / (NR - N ~) =
 
 
->→ Limitado en FN
+- Limitado en FN
 yx/N= 5 Cmol/Cmol → PASAR A g/g
 N ~ como está limitado es mucho menor que NR y por lo tanto lo desprecio
 y x/N = N ~ / NR
@@ -57,35 +57,35 @@ Recordá que:
 - como cualquier rendimiento el parámetro yx/N puede expresarse como un cociente de velocidades volumétricas.
 - si considerás biomasa estándar y que el único destino de la FN es la biomasa, del balance de N surge que: a. yx/N = Yx/s y su valor numérico es 5 C-mol X/mol FN si la FN tiene un solo mol de N (siendo a el coeficiente estequiomérico de la ecuación de crecimiento expresado en moles de N/C-mol de FCE)
 
-→ Limitado en FCE
+- Limitado en FCE
 datos:
 	X ~= 2g/l
 	Y x/s =0.40 gX/gS * (1Cmol X/25,8g X) * (30 gr S/Cmol S) = 0.46 Cmol x/ cmol s
 	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (lo que sobra)
 
->Y x/s = X~ / (Sr - S~) → despejo Sr
+Y x/s = X~ / (Sr - S~) → despejo Sr
 si:
 S ~= 0 porque es el limitado en FCE entonces lo desprecio porque es mucho menor que Sr. Entonces:
 Yx/s * Sr = X~
 
->Sr = X ~ / Y x/s → Sr = 5 g/l
+Sr = X ~ / Y x/s → Sr = 5 g/l
 g X / (gX / gS)
 
->yx/N= 5 Cmol/mol FN → PASAR A g/g
+yx/N= 5 Cmol/mol FN → PASAR A g/g
 N~ pongo lo que me dice que quiero que sobre = 0.5 g/l
 y x/N = N~ / (NR - N~) → despejo NR
 
 yx/n = Yx/s / a
 
->CH3O2 + a NH3 + b O2 → Yx/s CH(1.8) O(0.5) N(0.2) + Yco2/s CO2 + w H2O
+CH3O2 + a NH3 + b O2 → Yx/s CH(1.8) O(0.5) N(0.2) + Yco2/s CO2 + w H2O
 a = 0.2 * Yx/s = 0.2 * 0.46 = 0.09
 Suponiendo que la FN es el único compuesto nitrogenado y que no se genera ningun producto nitrogenado.
 
->yx/n = (Yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * (1 mol N / 50 g N)
+yx/n = (Yx/s) / a → yx/n = 0.46/0.09 = 5.1 Cmol X/ mol FN * (24.8 g X/1 Cmol X) * (1 mol N / 50 g N)
 yx/n = 2.38 gX/gN
 
 Despejando:
->y x/N = X ~ / (NR - N~)
+y x/N = X ~ / (NR - N~)
 y x/N * (NR - X~) = N~
 (y x/N * NR) - (y x/N * N~) = N~
 NR = {(y x/N * X~) + N~} / yx/N
@@ -99,7 +99,7 @@ datos:
 	yx/N= 5 Cmol x/Cmol N
 	Considerá que la concentración del nutriente que no es limitante en el EE es aproximadamente 0.5 g.l -1 (ESTO ES DE LO QUE SOBRA)
 
->a = 0.2 * Yx/s
+a = 0.2 * Yx/s
 a = 0.2 * 0.22 C mol X/C mol S = 0.044
 yx/n = Yx/s / a → yx/n = 5 Cmol X/mol N → paso a g/g:
 
@@ -107,12 +107,12 @@ yx/n = 5 Cmol X/molN * 24.8gX/Cmolx * 53 g N/mol N = 10.68 g X/ g N
 
 N~ como está limitado es mucho menor que NR y por lo tanto lo desprecio:
 
->y x/N = X~ / (NR - N~) → despejo NR
+y x/N = X~ / (NR - N~) → despejo NR
 NR = X~ / yx/N
 NR, = 0.5 gX/l / 10.68 gX/ g N
 NR = 0.047 gN/l
 
-Y x/s = X~ / (Sr - S~) → S~ ahora será 0,5 g/l
+Y x/s = X~ / (Sr - S~) → S~ ahora será 0,5 g/l`
 
 ## d) ¿Cómo podés justificar los distintos valores de los rendimientos con el cambio de limitación? Compará este comportamiento con lo que ocurre en cultivo en sistema batch.
 
