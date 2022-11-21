@@ -22,7 +22,7 @@ Como hacemos para conocer las fracciones destinadas al productos no asociadas al
 - **Metabolismo anaerobico** 
   > ![](https://i.imgur.com/4bOAmU8.png)
 
-## Consumo de sustratos en[[CV esp]] metabolismo aerobico sin formacion de producto
+## Consumo de sustratos en metabolismo aerobico sin formacion de producto
 
 1. rn = rx / yx/n
 
