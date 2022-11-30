@@ -39,7 +39,13 @@ para graficar debo tomar entre 4 y 6 muestras cada tr, asi llegare a estar a los
 
 ## 6. Respecto al TP de producción de levadura de panificación en sistema batch alimentado: escribí las ecuaciones que se utilizaron para el diseño de la alimentación y nombrá las condiciones de diseño de alimentación necesarias para que se cumpla el objetivo de obtener una determinada cantidad de biomasa sin producción de etanol.
 
-En el TP no se limita la transferencia de O2. La etapa de alimentacion comienza cuando no se detecta glucosa en el sobrenadante del cultivo. Por otro lado, el u utilizado es u < umax para evitar el efecto de crabtree ya que se quiere obtener biomasa sin etanol
+Si estamos en la situación del tp donde se quiere evitar que se forme etanol, podría calcular el coeficiente respiratorio. Es facil de medir porque durante el cultivo se miden gases, pudiendo calcular ro2 y rco2; y el cociente es la relación rco2/ro2.
+
+- El cociente respiratorio podía tomar valores mayores a 1 → implica que podría haber formación de etanol.
+- En el batch alimentado espero que el cociente sea menor a 1 porque no quiero que forme etanol.
+
+cR>1 produce etanol → porque tiene el metabolismo fermentativo-oxidativo; en esa formación de etanol se libera un CO2 extra. A la relación 1:1 de cadena de electrones se le suma la formación de CO2 por descarboxilación del piruvato a etanol.
+
 - Yx/s = Xf . Vf - X0 . V0 / Sr . dV
   dV = F . t
 
@@ -67,6 +73,8 @@ En el TP no se limita la transferencia de O2. La etapa de alimentacion comienza 
 
 **Medidas experimentales de la fase gaseosa**
 
-1. conecta manguera a salida de gases del bioreactor y se determina O2 y CO2
+1. conecta manguera a salida de gases del bioreactor y se determina el consumo de O2 y la produccion CO2
 2. regula caudal de entrada para comparar a valor estandarizado
 3. registra O2 y CO2 cuando se estabilizan las medidas
+
+con esto puedo obtener el cR
