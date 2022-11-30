@@ -61,8 +61,10 @@ En el TP no se limita la transferencia de O2. La etapa de alimentacion comienza 
 	8. se seca durante 1 dia
 	9. se pesa y obtiene peso seco (X)
 
-**Sustrato**:
-	Se mide a partir de la DO
+- **Sustrato**:
+	Se mide a partir de la DO del sobrenadante que se guarda, se utilizo una cubeta de 1mL
+
+
 **Medidas experimentales de la fase gaseosa**
 
 1. conecta manguera a salida de gases del bioreactor y se determina O2 y CO2
