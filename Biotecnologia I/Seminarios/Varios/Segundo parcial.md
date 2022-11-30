@@ -20,7 +20,7 @@ Con la información aportada respondé las siguientes consignas:
 
 **Cultivo continuo**
 ![](https://i.imgur.com/rySWgR9.png)
-
+- En el cultivo continuo se puede controlar u, a travez del control de ingreso de sustrato limitante
 
 2. Escribí el balance de acumulación para el sustrato limitante y la biomasa, y obtené las ecuaciones que te permitan visualizar si los microorganismos crecen a velocidad específica controlada por el operador en los dos sistemas de cultivo que elegiste en el punto 1. Justifica tu respuesta.
 3. Explicá cómo procederías para obtener los valores que representan a cualquier punto de la gráfica X en Estado Estacionario (EE) de la figura.
