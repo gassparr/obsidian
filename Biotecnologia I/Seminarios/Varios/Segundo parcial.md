@@ -14,10 +14,12 @@ Con la información aportada respondé las siguientes consignas:
 
 **Batch alimentado**
    ![](https://i.imgur.com/kWWnFtF.png)
+
+- El batch alimentado permite controlar el crecimiento dentro del reactor a traves del control de la alimentacion.
+- Es un cultivo restricto cineticamente ya que en velocidad de crecimiento esta restringida por la velocidad a la que ingresa el sustrato limitante. Con el control de la velocidad de crecimiento se va a poder optimizar al sistema para obtener producto o biomasa
+
 **Cultivo continuo**
 ![](https://i.imgur.com/rySWgR9.png)
-- El batch alimentado permite controlar el crecimiento dentro del reactor a traves del control de la alimentacion.
-- Es un cultivo restricto cineticamente ya que en velocidad de crecimiento esta restringida por la velocidad a la que ingresa el sustrato limitante
 
 
 2. Escribí el balance de acumulación para el sustrato limitante y la biomasa, y obtené las ecuaciones que te permitan visualizar si los microorganismos crecen a velocidad específica controlada por el operador en los dos sistemas de cultivo que elegiste en el punto 1. Justifica tu respuesta.
