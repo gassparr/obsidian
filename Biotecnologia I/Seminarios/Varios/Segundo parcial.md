@@ -37,4 +37,17 @@ hecho
 - Sr = Xf * Vf - X0 * V0 / Yx/s * ( Vf - V0)
 
 - F * Sr = u0 * X0 * V0 / Yx/s
+
 ## 7. Nombrá 3 maneras diferentes de verificar que la etapa de alimentación del cultivo realizado en el TP se ajustó a las condiciones de diseño. Explicá de manera esquemática qué tipo de muestras tomaste, cómo las procesaste, que determinaste en ellas y cuáles fueron los cálculos que te permitieron realizar esa verificación.
+
+**Medidas experimentales de la fase liquida**:
+
+1. se toman 10ml de cultivo
+2. centrifuga
+3. sobrenadante se guarda
+4. pellet se disuelve en H2O y centrifuga
+5. Sobrenadante se decarta
+6. repite 4 y 5 una vez mas
+7. se pasa H2O con muestra por pesafiltro (tarado)
+8. se seca durante 1 dia
+9. se pesa y obtiene peso seco (X)
