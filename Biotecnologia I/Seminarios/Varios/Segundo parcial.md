@@ -36,7 +36,7 @@ para graficar debo tomar entre 4 y 6 muestras cada tr, asi llegare a estar a los
 
 ## 6. Respecto al TP de producción de levadura de panificación en sistema batch alimentado: escribí las ecuaciones que se utilizaron para el diseño de la alimentación y nombrá las condiciones de diseño de alimentación necesarias para que se cumpla el objetivo de obtener una determinada cantidad de biomasa sin producción de etanol.
 
-En el TP no se limita la transferencia de O2. La etapa de alimentacion comienza cuando no se detecta glucosa en el sobrenadante del cultivo
+En el TP no se limita la transferencia de O2. La etapa de alimentacion comienza cuando no se detecta glucosa en el sobrenadante del cultivo. Por otro lado, el u utilizado es u < umax para evitar el efecto de crabtree
 - Sr = Xf * Vf - X0 * V0 / Yx/s * ( Vf - V0)
 
 - F * Sr = u0 * X0 * V0 / Yx/s
