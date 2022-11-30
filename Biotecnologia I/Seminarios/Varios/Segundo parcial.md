@@ -46,6 +46,10 @@ Si estamos en la situación del tp donde se quiere evitar que se forme etanol, p
 
 cR>1 produce etanol → porque tiene el metabolismo fermentativo-oxidativo; en esa formación de etanol se libera un CO2 extra. A la relación 1:1 de cadena de electrones se le suma la formación de CO2 por descarboxilación del piruvato a etanol.
 
+Para evitar la formación de etanol, es necesario controlar 
+- la velocidad específica de crecimiento 
+- la velocidad de consumo de glucosa (qs) → a partir de la restriccion de la FCE. 
+
 - Yx/s = Xf . Vf - X0 . V0 / Sr . dV
   dV = F . t
 
@@ -74,3 +78,6 @@ En ambos casos, antes de realizar los ajustes, se debe dejar transcurrir 10 a 15
 	2. regula caudal de entrada para comparar a valor estandarizado
 	3. registra O2 y CO2 cuando se estabilizan las medidas
 
+CR = rCO2 / rO2
+
+DO = 
