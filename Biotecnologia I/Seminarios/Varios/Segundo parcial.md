@@ -11,6 +11,9 @@ La siguiente figura (extraída de DOI 10.1099/mic.0.27481‐0) representa la ==c
 Con la información aportada respondé las siguientes consignas:
 
 1. Representa de manera esquemática dos sistemas de cultivo que te permitan obtener biomasa microbiana sin producir acetato. Justificá las elecciones que realizaste.
+   ![](https://i.imgur.com/kWWnFtF.png)
+![](https://i.imgur.com/rySWgR9.png)
+El batch alimentado
 2. Escribí el balance de acumulación para el sustrato limitante y la biomasa, y obtené las ecuaciones que te permitan visualizar si los microorganismos crecen a velocidad específica controlada por el operador en los dos sistemas de cultivo que elegiste en el punto 1. Justifica tu respuesta.
 3. Explicá cómo procederías para obtener los valores que representan a cualquier punto de la gráfica X en Estado Estacionario (EE) de la figura.
 4. Explicá cómo sería el comportamiento de la biomasa en EE a bajos valores de D bajo las condiciones de cultivo de la figura y comparalo con lo que ocurriría si el cultivo fuera limitado en Nitrógeno. Justificá con ecuaciones.
