@@ -25,7 +25,8 @@ Con la información aportada respondé las siguientes consignas:
 
 ## 2. Escribí el balance de acumulación para el sustrato limitante y la biomasa, y obtené las ecuaciones que te permitan visualizar si los microorganismos crecen a velocidad específica controlada por el operador en los dos sistemas de cultivo que elegiste en el punto 1. Justifica tu respuesta.
 
-3. Explicá cómo procederías para obtener los valores que representan a cualquier punto de la gráfica X en Estado Estacionario (EE) de la figura.
+## 3. Explicá cómo procederías para obtener los valores que representan a cualquier punto de la gráfica X en Estado Estacionario (EE) de la figura.
+
 4. Explicá cómo sería el comportamiento de la biomasa en EE a bajos valores de D bajo las condiciones de cultivo de la figura y comparalo con lo que ocurriría si el cultivo fuera limitado en Nitrógeno. Justificá con ecuaciones.
 5. Considerando la información de la figura, elegí una condición del cultivo continuo que te permita obtener 100 gr de biomasa de *E. coli* TG1. Detallá el flujo de medio de cultivo y el tiempo durante el que deberías cosechar el cultivo.
 6. Respecto al TP de producción de levadura de panificación en sistema batch alimentado: escribí las ecuaciones que se utilizaron para el diseño de la alimentación y nombrá las condiciones de diseño de alimentación necesarias para que se cumpla el objetivo de obtener una determinada cantidad de biomasa sin producción de etanol.
