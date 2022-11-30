@@ -52,29 +52,25 @@ cR>1 produce etanol → porque tiene el metabolismo fermentativo-oxidativo; en e
 - Sr = Xf . Vf - X0 . V0 / Yx/s . ( Vf - V0)
 - F . Sr = u0 . X0 . V0 / Yx/s
 - Vf - V0 = F . t
+- CR = rCO2 / rO2
 
 ## 7. Nombrá 3 maneras diferentes de verificar que la etapa de alimentación del cultivo realizado en el TP se ajustó a las condiciones de diseño. Explicá de manera esquemática qué tipo de muestras tomaste, cómo las procesaste, que determinaste en ellas y cuáles fueron los cálculos que te permitieron realizar esa verificación.
 
 **Medidas experimentales de la fase liquida**:
-- **Biomasa**:
-	1. se toman 10ml de cultivo
-	2. centrifuga
-	3. sobrenadante se guarda
-	4. pellet se disuelve en H2O y centrifuga
-	5. Sobrenadante se decarta
-	6. repite 4 y 5 una vez mas
-	7. se pasa H2O con muestra por pesafiltro (tarado)
-	8. se seca durante 1 dia
-	9. se pesa y obtiene peso seco (X)
+- **CL**
+1. Calibrar el electrodo para medir O2 disuelto 
+2. pasa una corriente de N2(g) y ajusta la lectura a 0% de saturación (cero)
+3. despues se pasa aire a un caudal de 2 l/min, ajustando con la perilla de calibración a 100% de saturación. 
 
-- **Sustrato**:
+En ambos casos, antes de realizar los ajustes, se debe dejar transcurrir 10 a 15 minutos.
+
+- **Sustrato**
 	Se mide a partir de la DO del sobrenadante que se guarda, se utilizo una cubeta de 1mL
 
 
 **Medidas experimentales de la fase gaseosa**
+- **CR**
+	1. conecta manguera a salida de gases del bioreactor y se determina el consumo de O2 y la produccion CO2
+	2. regula caudal de entrada para comparar a valor estandarizado
+	3. registra O2 y CO2 cuando se estabilizan las medidas
 
-1. conecta manguera a salida de gases del bioreactor y se determina el consumo de O2 y la produccion CO2
-2. regula caudal de entrada para comparar a valor estandarizado
-3. registra O2 y CO2 cuando se estabilizan las medidas
-
-con esto puedo obtener el cR
