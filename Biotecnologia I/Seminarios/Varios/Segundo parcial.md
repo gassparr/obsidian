@@ -78,6 +78,3 @@ En ambos casos, antes de realizar los ajustes, se debe dejar transcurrir 10 a 15
 	2. regula caudal de entrada para comparar a valor estandarizado
 	3. registra O2 y CO2 cuando se estabilizan las medidas
 
-CR = rCO2 / rO2
-
-DO = 
