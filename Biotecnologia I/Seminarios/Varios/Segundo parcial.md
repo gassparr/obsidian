@@ -25,7 +25,8 @@ Con la información aportada respondé las siguientes consignas:
 
 ## 2. Escribí el balance de acumulación para el sustrato limitante y la biomasa, y obtené las ecuaciones que te permitan visualizar si los microorganismos crecen a velocidad específica controlada por el operador en los dos sistemas de cultivo que elegiste en el punto 1. Justifica tu respuesta.
 
-![](https://i.imgur.com/FJF01r1.png)
+![](https://i.imgur.com/yUUQgfn.png)
+
 
 ## 3. Explicá cómo procederías para obtener los valores que representan a cualquier punto de la gráfica X en Estado Estacionario (EE) de la figura.
 
