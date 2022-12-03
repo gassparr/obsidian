@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e763cbb81cf903a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Microbiologia/microscopia/microscopia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0ecef703120a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Microbiologia/microscopia/confocal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/Segundo parcial.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           },
@@ -158,15 +184,15 @@
   },
   "active": "69f024a49f6b43bc",
   "lastOpenFiles": [
+    "Biologia/Microbiologia/microscopia/microscopia.md",
     "Biologia Celular Molecular/Tecnicas.md",
+    "Biologia/Microbiologia/microscopia/confocal.md",
+    "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
     "Biotecnologia I/Teoria/Modulo 9.md",
     "Biotecnologia I/Teoria/Modulo 7.md",
     "Biotecnologia I/Teoria/Modulo 8.md",
     "Personal/CV esp.md",
     "Biotecnologia I/Teoria/Modulo 5.md",
-    "Biotecnologia I/Seminarios/Seminario 7.md",
-    "Biotecnologia I/Seminarios/Seminario 3 Grupal.md",
-    "Personal/CV eng.md",
-    "Biotecnologia I/Seminarios/Seminario 8.md"
+    "Biotecnologia I/Seminarios/Seminario 7.md"
   ]
 }
