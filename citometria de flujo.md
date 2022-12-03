@@ -17,4 +17,4 @@ Los datos generados se pueden presentar como:
 - grafico de puntos
 se pueden diferenciar distintos grupos celulares
 
-Hay 2 disperciones generadas por la luz. La primera nos da idea del tamano celular, la segunda nos permite ver la complejidad de una celular, ya que sera una dispercion generada por organelas
+Hay 2 disperciones generadas por la luz. La primera nos da idea del tamano celular, la segunda nos permite ver la complejidad de una celular, ya que sera una dispercion generada por organelas 
