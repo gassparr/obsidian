@@ -7,7 +7,7 @@ Utilizan lentes que amplifican la imagen, aun asi estan limitados por la resoluc
      - [[contraste de fases]]
      - [[contraste por interferencia diferencial]]
      - [[campo oscuro]]
-     - [[fluorescencia]]
+     - [[microscopia de fluorescencia]]
      - [[confocal]]
 - ## Electronicos:
      - de transmision
