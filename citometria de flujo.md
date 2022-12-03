@@ -17,4 +17,4 @@ Los datos generados se pueden presentar como:
 - grafico de puntos
 se pueden diferenciar distintos grupos celulares
 
-La magnitud de la dispersion del haz de luz es proporcional al tamano y la complejidad celular, por lo que en muestras nos permite saber la cantidad de celulas grandes ( de mayor complejidad ) debido a su mayor 
+Hay 2 disperciones generadas por la luz. La primera nos da idea del tamano celular, la segunda nos permite ver la complejidad de una celular, ya que sera una dispercion generada por organelas
