@@ -12,4 +12,9 @@ Los parametros son relacionas a:
 - caracteristicas fenotipicas de la celula → color; fluorescencia
 
 # Analisis de datos:
+Los datos generados se pueden presentar como:
+- histrogramas
+- grafico de puntos
+se pueden diferenciar distintos grupos celulares
 
+La magnitud de la dispersion del haz de luz es proporcional al tamano y la complejidad celular, por lo que en muestras nos permite saber la cantidad de celulas grandes ( de mayor complejidad ) debido a su mayor 
