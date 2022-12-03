@@ -12,4 +12,4 @@ Fuente de luz laser:
 - control sobre profundidad de campos
 - permite reconstruccion 3D de estructura → barrido de campos focales 
 
-Una ventaja comparativa a la [[microscopia de fluorescencia]] es que 
+Una ventaja comparativa a la [[microscopia de fluorescencia]] es que como el laser puede controlar su intensidad, puede ser regulado y asi evitar la perdida de fluorescencia debido a la quema de la muestra

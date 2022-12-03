@@ -1,6 +1,12 @@
 # [[microscopia]]
 - microscopia [[confocal]]
 - microscopia de [[contraste de fases]]
+- [[microscopia de fluorescencia]]
+- [[microscopia electronica]]
+
+# Preparacion de muestras
+
+- Microdiseccion laser
 
 # [[PCR]]
 **TAIL PCR:**

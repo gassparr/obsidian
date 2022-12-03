@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Microbiologia/microscopia/confocal.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/microscopia/confocal.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Microbiologia/microscopia/confocal.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/microscopia/confocal.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "69f024a49f6b43bc",
   "lastOpenFiles": [
+    "microscopia electronica.md",
+    "Biologia Celular Molecular/Tecnicas.md",
+    "Biologia/Microbiologia/microscopia/confocal.md",
     "Biologia/Microbiologia/microscopia/microscopia de fluorescencia.md",
     "Biologia/Microbiologia/microscopia/microscopia.md",
-    "Biologia/Microbiologia/microscopia/confocal.md",
-    "Biologia Celular Molecular/Tecnicas.md",
     "Biologia/Microbiologia/microscopia/contraste de fases.md",
     "PCR.md",
     "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
     "Biotecnologia I/Teoria/Modulo 9.md",
-    "Biotecnologia I/Teoria/Modulo 7.md",
-    "Biotecnologia I/Teoria/Modulo 8.md"
+    "Biotecnologia I/Teoria/Modulo 7.md"
   ]
 }
