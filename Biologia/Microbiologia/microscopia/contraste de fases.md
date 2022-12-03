@@ -1,1 +1,2 @@
-tipo de [[microscopia]] utilizado comunmente para [[bacterias]] debido a su bajo contraste en la [[microscopia]] de campo claro.
+Permite observar celulas sin colorear, los cual nos permite verlas in-vivo. 
+Utiliza las diferencias en los indices de refraccion de las partes, lo cual deja fuera de fase y en fase lo cual se refleja en partes mas claras y otras mas oscuras

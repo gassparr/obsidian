@@ -1,5 +1,6 @@
 # [[microscopia]]
 - microscopia [[confocal]]
+- microscopia de [[contraste de fases]]
 
 # [[PCR]]
 **TAIL PCR:**

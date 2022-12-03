@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "Biologia/Microbiologia/microscopia/confocal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCR.md",
+                "file": "Biologia/Microbiologia/microscopia/confocal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCR.md",
+                "file": "Biologia/Microbiologia/microscopia/confocal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCR.md"
+                "file": "Biologia/Microbiologia/microscopia/confocal.md"
               }
             }
           },
@@ -195,17 +195,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "7cd7d100ca982b88",
+  "active": "69f024a49f6b43bc",
   "lastOpenFiles": [
     "Biologia Celular Molecular/Tecnicas.md",
+    "Biologia/Microbiologia/microscopia/contraste de fases.md",
+    "PCR.md",
     "Biologia/Microbiologia/microscopia/microscopia.md",
     "Biologia/Microbiologia/microscopia/confocal.md",
     "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
     "Biotecnologia I/Teoria/Modulo 9.md",
     "Biotecnologia I/Teoria/Modulo 7.md",
     "Biotecnologia I/Teoria/Modulo 8.md",
-    "Personal/CV esp.md",
-    "Biotecnologia I/Teoria/Modulo 5.md",
-    "Biotecnologia I/Seminarios/Seminario 7.md"
+    "Personal/CV esp.md"
   ]
 }
