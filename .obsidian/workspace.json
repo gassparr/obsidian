@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "763c00b2c750f36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "citometria de flujo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7cd7d100ca982b88",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "citometria de flujo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "citometria de flujo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md"
+                "file": "citometria de flujo.md"
               }
             }
           },
@@ -195,10 +208,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "69f024a49f6b43bc",
+  "active": "763c00b2c750f36d",
   "lastOpenFiles": [
-    "microscopia electronica.md",
     "Biologia Celular Molecular/Tecnicas.md",
+    "microscopia electronica.md",
     "Biologia/Microbiologia/microscopia/confocal.md",
     "Biologia/Microbiologia/microscopia/microscopia de fluorescencia.md",
     "Biologia/Microbiologia/microscopia/microscopia.md",

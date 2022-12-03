@@ -1,0 +1,1 @@
+Utilizada para recuento de celulas y su clasificacion segun caracteristicas morfologicas

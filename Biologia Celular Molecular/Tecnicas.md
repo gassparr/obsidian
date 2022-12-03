@@ -1,4 +1,5 @@
 # [[microscopia]]
+
 - microscopia [[confocal]]
 - microscopia de [[contraste de fases]]
 - [[microscopia de fluorescencia]]
@@ -7,8 +8,17 @@
 # Preparacion de muestras
 
 - Microdiseccion laser
+  Permite la separacion de celulas unicas de manera selectiva, permitiendo estudiar:
+  - cantidad de [[DNA]]
+  - cantidad de [[RNA]]
+  - cantidad de proteinas
+
+# Clasificacion 
+
+- ## [[citometria de flujo]]
 
 # [[PCR]]
+
 **TAIL PCR:**
 
 Técnica que se usa para obtener secuencias desconocidas que están adyacentes a secuencias conocidas.
