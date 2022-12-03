@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "7cd7d100ca982b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCR.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e763cbb81cf903a",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "PCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "PCR.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md"
+                "file": "PCR.md"
               }
             }
           },
@@ -182,10 +195,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "69f024a49f6b43bc",
+  "active": "7cd7d100ca982b88",
   "lastOpenFiles": [
-    "Biologia/Microbiologia/microscopia/microscopia.md",
     "Biologia Celular Molecular/Tecnicas.md",
+    "Biologia/Microbiologia/microscopia/microscopia.md",
     "Biologia/Microbiologia/microscopia/confocal.md",
     "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
     "Biotecnologia I/Teoria/Modulo 9.md",
