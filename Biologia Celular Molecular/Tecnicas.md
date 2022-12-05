@@ -15,21 +15,12 @@
 
 # Clasificacion 
 
-- ## [[citometria de flujo]]
+- [[citometria de flujo]]
+- [[PCR]]
+- [[dot blot]]
 
-# [[PCR]]
 
-**TAIL PCR:**
 
-Técnica que se usa para obtener secuencias desconocidas que están adyacentes a secuencias conocidas.
-
-![](https://i.imgur.com/YRxkVRT.png)
-
-¿Cómo hago para direccionar un fluoróforo a un sitio específico y poder visualizar fluorescencia sólo allí? Se fusiona GFP a una proteína que sea direccionada específicamente a la organela que quiera visualizar. Ejemplo: si quiero observar fluorescencia en los microtúbulos debo fusionar GFP a una proteína específica del Golgi.
-
-**Citometría de flujo**: 
-
-es una técnica de análisis que permite identificar a diferentes poblaciones celulares simultáneamente, así como obtener gran información de ellas dependiendo de las proteínas que se expresen. Se cuantifican las células que van pasando de a una.
 
 **Método de marcado de las integrinas utilizado en paper 3 (no sé el nombre):**
 

@@ -1,4 +1,8 @@
-[[transcripcion]]
+Tecnica para detectar biomoleculas, es una simplificacion del [[northern blot]], [[southern blot]] y [[western blot]]. Las biomoleculas no son separadas por cromatografia, en cambio, una gota que contiene la molecula a estudiar se aplica directamente sobre una membrana, donde se aplican sondas de nucleotidos o anticuerpos.
+
+# Desventajas 
+- No informa sobre tamano de la biomolecula blanco
+- si dos moleculas de distinto tamano son detectadas, se vera 1 solo punto
 RNA → cDNA (sonda)
   ![300](https://i.imgur.com/F8EOV5M.png)
   Alternativas:
