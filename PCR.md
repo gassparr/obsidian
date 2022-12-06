@@ -1,7 +1,6 @@
 # TAIL PCR:
 
-Técnica que se usa para obtener secuencias desconocidas que están adyacentes a secuencias conocidas.
-
+Tecnica para secuenciar y analizar fargmentos de DNA desconocidos que son adyacentes a las secuencias conocidas. Esta tecnica es util para descubrir las secuencias reguladores de un gen
 ![](https://i.imgur.com/YRxkVRT.png)
 
 ¿Cómo hago para direccionar un fluoróforo a un sitio específico y poder visualizar fluorescencia sólo allí? Se fusiona GFP a una proteína que sea direccionada específicamente a la organela que quiera visualizar. Ejemplo: si quiero observar fluorescencia en los microtúbulos debo fusionar GFP a una proteína específica del Golgi.
