@@ -1,1 +1,5 @@
-Tecnica que permite reconocer moleculas y unirse a ellas. La combinacion de los anticuerpoes con enzimas o con sustancias fluorescentes permite detectar cantidades infimas de moleculas presentes en un tejido
+Tecnica que permite reconocer moleculas y unirse a ellas. La combinacion de los anticuerpoes con enzimas o con sustancias fluorescentes permite detectar cantidades infimas de moleculas presentes en un tejido.
+
+# protocolo
+1. anticuerpo conjugado a un marcador que se une especificamente a una sustancia blanco.
+2. se mira al microscopio y se observa la marca del anticuerpo
