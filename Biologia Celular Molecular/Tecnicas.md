@@ -33,7 +33,7 @@
 - [[transfer DNA]]
 - [[silenciamiento por mRNA]]
 - [[TRAP]]
-
+- [[mRNA tagging]] 
 
 **Método de marcado de las integrinas utilizado en paper 3 (no sé el nombre):**
 
