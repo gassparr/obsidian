@@ -20,7 +20,7 @@
 - [[dot blot]]
 - [[western blot]]
 - [[ELISA]]
-
+- [[separacion de particulas por gradientes]]
 
 
 

@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f8266efbc33661a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "separacion de particulas por gradientes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "543a158ad1131a76",
             "type": "leaf",
             "state": {
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELISA.md",
+                "file": "separacion de particulas por gradientes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELISA.md",
+                "file": "separacion de particulas por gradientes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELISA.md"
+                "file": "separacion de particulas por gradientes.md"
               }
             }
           },
@@ -156,9 +169,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "543a158ad1131a76",
+  "active": "f8266efbc33661a4",
   "lastOpenFiles": [
     "Biologia Celular Molecular/Tecnicas.md",
+    "ELISA.md",
     "western blot.md",
     "Bioquimica 3/Herramientas de estudio/dot blot.md",
     "citometria de flujo.md",
@@ -166,7 +180,6 @@
     "Bioquimica 2/Varios/adenilciclasa.md",
     "Biologia/Microbiologia/microscopia/microscopia.md",
     "Biologia/Microbiologia/microscopia/microscopia electronica.md",
-    "Biologia/Microbiologia/microscopia/confocal.md",
-    "Biologia/Microbiologia/microscopia/microscopia de fluorescencia.md"
+    "Biologia/Microbiologia/microscopia/confocal.md"
   ]
 }

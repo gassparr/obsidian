@@ -1,0 +1,1 @@
+Un gradiente de sacarosa se crea superponiendo bajas concentracion de sacarosa, sobre altas concentracion en un 
