@@ -29,7 +29,7 @@
 - [[fotoblanqueo]] → dinamicas moleculares
 - [[Y1H]]  → Interaccion entre proteinas
 - [[inmunoprecipitacion]] → Observar interacciones proteinas - proteinas o proteinas - DNA
-- 
+- [[ensayo de migracion e invasion]]
 
 # Ingenieria genetica
 - [[transfer DNA]]
