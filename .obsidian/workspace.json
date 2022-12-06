@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a845d1c10f1422a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRAP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "TRAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -90,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "TRAP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md"
+                "file": "TRAP.md"
               }
             }
           },
@@ -129,10 +143,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "69f024a49f6b43bc",
+  "active": "9a845d1c10f1422a",
   "lastOpenFiles": [
-    "silenciamiento por mRNA.md",
     "Biologia Celular Molecular/Tecnicas.md",
+    "silenciamiento por mRNA.md",
     "transfer DNA.md",
     "western blot.md",
     "PCR.md",
