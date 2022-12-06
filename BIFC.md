@@ -6,7 +6,6 @@ Se basa en la asociacion entre dos fragmentos no fluorescentes de una proteina f
 # Ventajas
 - no requiere tincion de las celulas con fluoroforos o colorantes exogenos
 - permite visualizacion directa de la interaccion de la proteina
-- 
 
 # Limitaciones
 - retraso entre momento en que proteinas de fusion interacturan entre si y momento en que el complejo se hace fluorescente
