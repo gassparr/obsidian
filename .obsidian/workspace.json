@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/dot blot.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
               "type": "search",
               "state": {
                 "query": "pcr",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/dot blot.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/dot blot.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/dot blot.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           },
@@ -145,6 +144,8 @@
   },
   "active": "69f024a49f6b43bc",
   "lastOpenFiles": [
+    "western blot.md",
+    "Bioquimica 3/Herramientas de estudio/dot blot.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "citometria de flujo.md",
     "PCR.md",
@@ -152,8 +153,6 @@
     "Biologia/Microbiologia/microscopia/microscopia.md",
     "Biologia/Microbiologia/microscopia/microscopia electronica.md",
     "Biologia/Microbiologia/microscopia/confocal.md",
-    "Biologia/Microbiologia/microscopia/microscopia de fluorescencia.md",
-    "Biologia/Microbiologia/microscopia/contraste de fases.md",
-    "Biotecnologia I/Seminarios/Varios/Segundo parcial.md"
+    "Biologia/Microbiologia/microscopia/microscopia de fluorescencia.md"
   ]
 }

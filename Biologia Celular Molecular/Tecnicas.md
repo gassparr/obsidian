@@ -18,6 +18,7 @@
 - [[citometria de flujo]]
 - [[PCR]]
 - [[dot blot]]
+- [[western blot]]
 
 
 
