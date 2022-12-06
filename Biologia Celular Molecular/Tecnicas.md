@@ -26,7 +26,8 @@
 - [[inmunolocalizacion]]
 - [[FRET]] → interacciones moleculares in vivo
 - [[BIFC]] → interaccion de proteinas in vivo
-- [[fotoblanqueo]]
+- [[fotoblanqueo]] → dinamicas moleculares
+- [[Y1H]]  → Interaccion entre proteinas
 
 
 **Método de marcado de las integrinas utilizado en paper 3 (no sé el nombre):**
