@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCR.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCR.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCR.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCR.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "69f024a49f6b43bc",
   "lastOpenFiles": [
+    "PCR.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "gradiente de CsCl.md",
     "gradiente de sacarosa.md",
@@ -190,7 +191,6 @@
     "western blot.md",
     "Bioquimica 3/Herramientas de estudio/dot blot.md",
     "citometria de flujo.md",
-    "PCR.md",
     "Bioquimica 2/Varios/adenilciclasa.md",
     "Biologia/Microbiologia/microscopia/microscopia.md"
   ]

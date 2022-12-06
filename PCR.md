@@ -8,4 +8,11 @@ Técnica que se usa para obtener secuencias desconocidas que están adyacentes a
 
 # qPCR
 
-**PCR en tiempo real** o **PCR cuantitativa**, cuantifica el producto de amplificacion de una determinada secuencia de [[DNA]] o cDNA obtenido por retrotranscripcion de [[RNA]]
+**PCR en tiempo real** o **PCR cuantitativa**, cuantifica el producto de amplificacion de una determinada secuencia de [[DNA]] o cDNA obtenido por retrotranscripcion de [[RNA]].
+
+## ingredientes
+- Primers
+- dNTPs
+- buffer (Mg+2)
+- DNA pol termoestable
+- Sustancia fluorescente 
