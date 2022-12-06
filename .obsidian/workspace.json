@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "e93051dc266252af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioquimica 3/Herramientas de estudio/microarrays.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc18c5f612751317",
             "type": "leaf",
             "state": {
@@ -72,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "Bioquimica 3/Herramientas de estudio/microarrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "Bioquimica 3/Herramientas de estudio/microarrays.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md"
+                "file": "Bioquimica 3/Herramientas de estudio/microarrays.md"
               }
             }
           },
@@ -181,10 +195,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "69f024a49f6b43bc",
+  "active": "e93051dc266252af",
   "lastOpenFiles": [
-    "PCR.md",
     "Biologia Celular Molecular/Tecnicas.md",
+    "PCR.md",
     "gradiente de CsCl.md",
     "gradiente de sacarosa.md",
     "ELISA.md",
