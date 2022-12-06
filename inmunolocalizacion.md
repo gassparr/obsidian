@@ -1,0 +1,1 @@
+Tecnica que permite reconocer moleculas y unirse a ellas. La combinacion de los anticuerpoes con enzimas o con sustancias fluorescentes permite detectar cantidades infimas de moleculas presentes en un tejido

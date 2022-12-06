@@ -1,4 +1,4 @@
-Superficie solida a la cual se une una coleccion de fragmentos de [[DNA]]. Se unen para analizar la expresion diferencial de genes y se monitear de forma simultanea
+Superficie solida a la cual se une una coleccion de fragmentos de [[DNA]]. Se unen para analizar la expresion diferencial de genes y se monitear de forma simultanea. Esta tecnica nos permite ver detectar genes que se activan o se reprimen en distintas condiciones.
 
 - Consiste en miles de secuenciados de DNA en paralelo
 - Permite analisis simultaneo de la expresion de miles de genes
