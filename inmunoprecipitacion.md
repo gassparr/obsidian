@@ -15,4 +15,8 @@ A diferencia del [[western blot]], es que esta tecnica no desnaturaliza las prot
 
 - INPUT → consiste en realizar un western-blot al lisado celular para revelar la proteina a inmunoprecipitar. Si da (+), pero el resultado de la inmunoprecipitacion no, no se puede atribuir un resultado (-)
 
-# Inmunoprecipitacion de cromatina
+# Inmunoprecipitacion de cromatina (ChIP)
+Metodo utilizado para determinar la ubicacion de los sitios de union del DNA a una proteina particular de interes o para detectar DNA que se une a histonas.
+
+#
+
