@@ -25,4 +25,7 @@ Las proteinas de union en las celulas pueden formar enlaces covalentes con el DN
 ## Protocolo
 1.  Se mezcla DNA con proteinas
 2. Lisis de DNA-proteina por sonicacion 
-3. 
+3. Se acopla, inmoviliza el anticuerpo a un soporte solido para precipitarlo
+4. Separa precipitado de sobrenadante
+5. Precipitado se resuspende
+6. Se caliente para revertir la formacion de complejos separando el DNA
