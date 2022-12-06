@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "543a158ad1131a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ELISA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "763c00b2c750f36d",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "ELISA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
+                "file": "ELISA.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md"
+                "file": "ELISA.md"
               }
             }
           },
@@ -142,11 +156,11 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "69f024a49f6b43bc",
+  "active": "543a158ad1131a76",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Tecnicas.md",
     "western blot.md",
     "Bioquimica 3/Herramientas de estudio/dot blot.md",
-    "Biologia Celular Molecular/Tecnicas.md",
     "citometria de flujo.md",
     "PCR.md",
     "Bioquimica 2/Varios/adenilciclasa.md",
