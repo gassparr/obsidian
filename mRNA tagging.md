@@ -1,4 +1,4 @@
-Tecnica del mRNA de marcado se usa para aislar mRNA de tejidos especificos. Es un poderoso metodo general para perfilar la expresion genica en tejidos espec
+Tecnica del mRNA de marcado se usa para aislar mRNA de tejidos especificos. Es un poderoso metodo general para perfilar la expresion genica en tejidos especificos y para identificar genes especificos en tejidos
 
 # Protocolo
 1. Proteina de union poli A etiquetada con FLAG se expfresa en un tejido especifico
