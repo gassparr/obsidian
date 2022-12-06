@@ -1,0 +1,1 @@
+Silenciamiento por micro[[RNA]]. Es un RNA interferente con una longitud de 20nt que es altamente especifico para la secuencia de nucleotidos de su mRNA target, interfiriendo en la expresion del gen respectivo
