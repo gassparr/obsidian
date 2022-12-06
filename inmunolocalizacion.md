@@ -2,4 +2,4 @@ Tecnica que permite reconocer moleculas y unirse a ellas. La combinacion de los 
 
 # protocolo
 1. anticuerpo conjugado a un marcador que se une especificamente a una sustancia blanco.
-2. se mira al microscopio y se observa la marca del anticuerpo
+2. se mira al microscopio y donde se observe la marca del anticuerpo es donde se encuentra la proteina.
