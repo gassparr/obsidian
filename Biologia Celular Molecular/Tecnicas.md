@@ -20,7 +20,8 @@
 - [[dot blot]]
 - [[western blot]]
 - [[ELISA]]
-- [[separacion de particulas por gradientes]]
+- [[gradiente de sacarosa]]
+- [[gradiente de CsCl]]
 
 
 
