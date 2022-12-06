@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "8c410a4c49501998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIFC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4899c356d2d08153",
             "type": "leaf",
             "state": {
@@ -92,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRET.md",
+                "file": "BIFC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRET.md",
+                "file": "BIFC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRET.md"
+                "file": "BIFC.md"
               }
             }
           },
@@ -143,17 +156,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "4899c356d2d08153",
+  "active": "8c410a4c49501998",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Tecnicas.md",
-    "inmunolocalizacion.md",
-    "Bioquimica 3/Herramientas de estudio/microarrays.md",
+    "citometria de flujo.md",
+    "BIFC.md",
     "PCR.md",
-    "gradiente de CsCl.md",
-    "gradiente de sacarosa.md",
-    "ELISA.md",
     "western blot.md",
-    "Bioquimica 3/Herramientas de estudio/dot blot.md",
-    "citometria de flujo.md"
+    "inmunolocalizacion.md",
+    "gradiente de sacarosa.md",
+    "gradiente de CsCl.md",
+    "FRET.md",
+    "ELISA.md",
+    "Biologia Celular Molecular/Tecnicas.md"
   ]
 }

@@ -24,7 +24,8 @@
 - [[gradiente de CsCl]]
 - [[microarrays]]
 - [[inmunolocalizacion]]
-- [[FRET]]
+- [[FRET]] → interacciones moleculares in vivo
+- [[BIFC]] → interaccion de proteinas in vivo
 
 
 
