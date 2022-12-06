@@ -29,6 +29,9 @@
 - [[fotoblanqueo]] → dinamicas moleculares
 - [[Y1H]]  → Interaccion entre proteinas
 
+# Ingenieria genetica
+- 
+
 
 **Método de marcado de las integrinas utilizado en paper 3 (no sé el nombre):**
 
