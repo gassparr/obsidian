@@ -28,6 +28,7 @@
 - [[BIFC]] → interaccion de proteinas in vivo
 - [[fotoblanqueo]] → dinamicas moleculares
 - [[Y1H]]  → Interaccion entre proteinas
+- [[inmunoprecipitacion]]
 
 # Ingenieria genetica
 - [[transfer DNA]]
