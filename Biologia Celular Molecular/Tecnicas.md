@@ -30,6 +30,7 @@
 - [[Y1H]]  → Interaccion entre proteinas
 - [[inmunoprecipitacion]] → Observar interacciones proteinas - proteinas o proteinas - DNA
 - [[ensayo de migracion e invasion]]
+- [[TUNEL]]
 
 # Ingenieria genetica
 - [[transfer DNA]]
