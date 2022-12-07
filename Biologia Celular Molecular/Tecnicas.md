@@ -41,3 +41,5 @@
 - [[silenciamiento por mRNA]]
 - [[TRAP]]
 - [[mRNA tagging]]
+
+## Traductoma

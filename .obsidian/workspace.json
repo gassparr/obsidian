@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia Celular Molecular/Ciclo Celular.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Ciclo Celular.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Ciclo Celular.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Ciclo Celular.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "69f024a49f6b43bc",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Ciclo Celular.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "inmunolocalizacion.md",
     "Bioquimica 3/Herramientas de estudio/microarrays.md",
@@ -165,7 +166,6 @@
     "citometria de flujo.md",
     "inmunofluorescencia.md",
     "western blot.md",
-    "microinyeccion.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md"
+    "microinyeccion.md"
   ]
 }
