@@ -31,6 +31,7 @@
 - [[inmunoprecipitacion]] → Observar interacciones proteinas - proteinas o proteinas - DNA
 - [[ensayo de migracion e invasion]]
 - [[TUNEL]]
+- [[FUCCI]]
 
 # Ingenieria genetica
 - [[transfer DNA]]
@@ -163,11 +164,7 @@ Se suele repetir el proceso para una proteína estructural, como la actina o la 
 
 La clasificación de células activadas por fluorescencia (FACS) es una técnica para purificar poblaciones de células específicas en función de los fenotipos detectados por citometría de flujo. Este método permite a los investigadores comprender mejor las características de una sola población celular sin la influencia de otras células. En comparación con otros métodos de enriquecimiento celular, como la clasificación celular activada magnéticamente (MCS), FACS es más flexible y preciso para la separación celular debido a la capacidad de detección de fenotipos mediante citometría de flujo. Además, FACS suele ser capaz de separar múltiples poblaciones de células simultáneamente, lo que mejora la eficiencia y la diversidad de los experimentos. Aunque FACS tiene algunas limitaciones, se ha utilizado ampliamente para purificar células para estudios funcionales tanto en entornos in vitro como in vivo.
 
-**FUCCI:**
 
-Sistema indicador de ciclo celular basado en la ubiquitinización fluorescente es un grupo codificado genéticamente de dos sensores fluorescentes para monitorización del ciclo celular en tiempo real. Con conocimiento de qué proteínas se acumulan en cada etapa del ciclo se marcan y cuando sale de ese ciclo de ubiquitin a las proteínas y pierden la fluorescencia (Ejemplo en G1 es Cdt1 que se tiñe roja) y de empieza a ver la fluorescencia de la proteína del ciclo siguiente (Pasa a S donde se acumula Geminina que se tiñe verde)
-
-Fucci marca el núcleo con mCherry (rojo) o mVenus (azul) siguiendo un patrón que depende del ciclo celular.  Fucci (CA) proporciona una expresión abundante de mCherry durante la fase G1 con una reducción acusada en la fluorescencia roja al final de la fase G1. Fucci (CA) puede usarse para detectar con fiabilidad una fase G1 corta y distinguir las fases S y G2, lo que anteriormente era difícil de conseguir.
 
 **Medida de la actividad relativa de la Luciferasa:**
 
