@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db2dfec051790478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRAP y FLIP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -131,15 +144,15 @@
   },
   "active": "69f024a49f6b43bc",
   "lastOpenFiles": [
-    "FUCCI.md",
+    "western blot.md",
     "Biologia Celular Molecular/Tecnicas.md",
-    "TUNEL.md",
-    "ensayo de migracion e invasion.md",
+    "microinyeccion.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/DNA.md",
     "inmunoprecipitacion.md",
-    "PCR.md",
-    "mRNA tagging.md",
-    "TRAP.md",
-    "silenciamiento por mRNA.md",
-    "transfer DNA.md"
+    "fotoblanqueo.md",
+    "FRAP y FLIP.md",
+    "FUCCI.md",
+    "TUNEL.md",
+    "ensayo de migracion e invasion.md"
   ]
 }
