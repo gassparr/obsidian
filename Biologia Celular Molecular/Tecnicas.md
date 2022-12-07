@@ -17,29 +17,48 @@
 # Clasificacion
 
 - [[citometria de flujo]] → recuento celular
-- [[PCR]]
-- [[dot blot]] → deteccion de biomoleculas
-- [[western blot]] → deteccion de proteinas
-- [[ELISA]] → deteccion de antigenos
 - [[gradiente de sacarosa]]
 - [[gradiente de CsCl]]
-- [[microarrays]] → analisis de expresion genica
-- [[inmunolocalizacion]] → deteccion de moleculas (a muy baja concentracion)
-- [[FRET]] → interacciones moleculares in vivo
-- [[BIFC]] → interaccion de proteinas in vivo
+- [[inmunolocalizacion]] → deteccion de moleculas (a muy baja
 - [[fotoblanqueo]] → dinamicas moleculares FRAP y FLIP
-- [[Y1H]] → Interaccion entre proteinas
 - [[inmunoprecipitacion]] → Observar interacciones proteinas - proteinas o proteinas - DNA
 - [[ensayo de migracion e invasion]]
 - [[TUNEL]]
 - [[FUCCI]]
 - [[inmunofluorescencia]]
 
+# Silenciamiento post-trasncripcional
+
+- RT-[[PCR]]
+- [[inmunoprecipitacion]] ChIP
+
+# Deteccion de DNA/RNA
+
+- [[dot blot]] → deteccion de biomoleculas
+- [[southern blot]]
+- [[northern blot]]
+- [[microarrays]] → analisis de expresion genica
+
+# Proteinas
+
+- [[ELISA]] → deteccion de antigenos
+- [[EMSA]]
+- salting ing y salting out
+- [[western blot]] → deteccion de proteinas
+
+## interacciones entre dos proteinas
+
+- [[Y1H]] → Interaccion entre proteinas
+concentracion)
+- [[FRET]] → interacciones moleculares in vivo
+- [[BIFC]] → interaccion de proteinas in vivo
+
 # Ingenieria genetica
 
 - [[transfer DNA]]
 - [[silenciamiento por mRNA]]
-- [[TRAP]]
-- [[mRNA tagging]]
 
 ## Traductoma
+
+- [[TRAP]]
+- [[mRNA tagging]]
