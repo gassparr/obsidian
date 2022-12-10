@@ -38,3 +38,7 @@ Es un proceso ordenado donde la celula indica su muerte y lo hace sin afectar a 
 	   - Cambio de composicion fosfolipidicoa de la [[membrana citoplasmatica]]. Disminuyendo la actividad de un aminofosfolipido translocasa dependiente de [[ATP]] y de escamblasas dependientes de calcio
 	   - Libera citoquinas proinflamatorias como la IL1 “alfa” y “beta” y la IL18
 7. Cuerpos apoptoticos son fagocitados y degradados en los lisosomas de los macrofagos
+
+# Necrosis
+
+Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lugar de condensarse y reducir su tamano, estas toman agua del exterior, hinchandose lo cual hace que la membrana plasmatica reviente y libere
