@@ -71,3 +71,5 @@ Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lug
 - Ced 9 suprime la apoptosis y actua corriente arriba respecto a Ced 3 
 - Proteina Bcl 2 y Ced 9 son homologas (suprimen apoptosis):
 	  ambas contienen un unico dominio transmembrana y se localizan en las membranas externas de la mitocondria, nucleo y reticulo endoplasmatico
+
+- Proteinas efectoras de via apoptoticas se denominas caspasas en los vertebrados. Contienen residuo de cisteina clave en el sitio catalitico y cortan selectivamente proteinas en los istios inmediatos en direccion C terminal a los residuos de aspartato
