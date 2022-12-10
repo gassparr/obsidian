@@ -64,3 +64,8 @@ Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lug
 - Perdida de integridad de membrana citoplasmatica
 - Proceso pasivo, sin requerimiento energetico
 - Exceso de calcio
+
+# Cascada de proteinas caspasas en via apoptotica
+
+- Proteinas Ced 3 y Ced 4 son necesarias para la muerte celular
+- Ced 9 suprime la apoptosis y actua corriente arriba respecto a Ced 3 
