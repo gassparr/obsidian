@@ -35,8 +35,8 @@
 # Deteccion de DNA/RNA
 
 - [[dot blot]] → deteccion de biomoleculas
-- [[southern blot]]
-- [[northern blot]]
+- [[southern blot]] → Deteccion de DNA
+- [[northern blot]] → Deteccion de RNA
 - [[microarrays]] → analisis de expresion genica
 
 # Proteinas
@@ -62,3 +62,6 @@ concentracion)
 
 - [[TRAP]]
 - [[mRNA tagging]]
+
+## Transcriptoma
+- RNAseq
