@@ -7,12 +7,14 @@ Estos dos eventos estan mediados por una via molecular comun.
 ## La muerte celular programada tiene lugar por apoptosis
 
 La muerte celular programada esta marcada por una secuencia de cambios morfologicos, denominados **apoptosis**.
-1. Disminuyen el tamano 
-2. se condensan 
+1. Disminuyen el tamano
+2. se condensan
 3. se fragmentan → liberan pequenos cuerpos apoptoticos que se absorben por otras celulas
 
-El nucleo se condensa y el [[DNA]] se fragmenta sin que los constituyentes celulares se liberen al medio extracelular ya que podrian tener efectos nocivos a las  celulas circundantes.
+El nucleo se condensa y el [[DNA]] se fragmenta sin que los constituyentes celulares se liberen al medio extracelular ya que podrian tener efectos nocivos a las celulas circundantes.
 Los genes involucrados en el control de la muerte celular codifican proteinas con tres funciones:
 - Proteinas asesinas, las cuales se necesitan para que una celula comience el proceso apoptotico
-- Proteinas destructivas o de  destruccion que digieren, por ejemplo, el DNA en una celula moribunda
+- Proteinas destructivas o de destruccion que digieren, por ejemplo, el DNA en una celula moribunda
 - Proteinas devoradoras son necesarias para que una celula moribunda sea fagocitada por otra celula
+
+Esta fagocitacion es parte de la decision final de muerte celular. Mutaciones en los genes asesinos siempre evitan que las celulas inicien la apoptosis
