@@ -83,6 +83,10 @@ Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lug
 - Bax se asocia con Bcl 2
 - Bax se relaciona con Ced 9 y Bcl 2
 - Sobreproduccion de Bax induce muerte celular en lugar de proteger de la apoptosis
+- Sobreproduccion de Bax favorece liberacion del citocromo al citosol y la apoptosis (Bcl 2 lo inhibe)
+- una vez que se libera el citocromo al citosol, se une a la proteina Apaf 1 (homologo de Ced 4) y estimula la muerte celular
+
+Bax puede causar la muerte ceular mediante una segunda via que desencadena la disfuncion mitocondrial independientemente de cualquier accion de las caspasas
 
 ## Apoptosis independiente de caspasas
 
