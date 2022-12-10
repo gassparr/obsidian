@@ -97,6 +97,6 @@ Otras proteinas matan las celulas al ser liberadas:
 - Ced 4 se une directamente a Ced 3 y favorece la activacion de su actividad de proteasa
 - Ced 4 se puede unir a Ced 3 y Ced 9 en paralelo
 
+![](https://i.imgur.com/E5LcSFw.png)
 
-![[Pasted image 20221210190410.png]]
-![[Pasted image 20221210190455.png]]
+![](https://i.imgur.com/PG2IpG1.png)
