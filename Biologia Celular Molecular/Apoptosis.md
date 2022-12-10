@@ -33,4 +33,5 @@ Es un proceso ordenado donde la celula indica su muerte y lo hace sin afectar a 
 2. Se condensa el nucleo y el citoplasma, ocasionando una reduccion de la celula.
 3. Mitocondrias liberan citocromo c, sufren perdida de potencial de membrana ademas de la sufrir la transicion de la permeabilidad, que esta causado por la apertura de poros.
 4. Membrana nuclear y nucleolo se disgregan y cromtina se condensa. La cromatina se corta intranucleosomalmente en fragmentos de tamano regular.
-5. Membrana plasmatica empieza a formar protusiones e invaginaciones en la superficie (**zeiosis**), aumentando su permeabi
+5. Membrana plasmatica empieza a formar protusiones e invaginaciones en la superficie (**zeiosis**), aumentando su permeabilidad. Estas irregularidades puede formar cuerpos apoptoticos
+	1. Celula senaliza apoptosis a celular aledanas con la finalidad de que los cuerpos apoptoticos sean reconocidos y fagocitados por los macro
