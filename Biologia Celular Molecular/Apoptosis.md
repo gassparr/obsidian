@@ -96,3 +96,7 @@ Otras proteinas matan las celulas al ser liberadas:
 - Ced 4 es bloqueada mediante Ced 9, Ced 9 se une directamente a Ced 4 y mueve desde el citosol a las membranas intracelulares.
 - Ced 4 se une directamente a Ced 3 y favorece la activacion de su actividad de proteasa
 - Ced 4 se puede unir a Ced 3 y Ced 9 en paralelo
+
+
+![[Pasted image 20221210190410.png]]
+![[Pasted image 20221210190455.png]]

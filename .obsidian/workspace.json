@@ -34,6 +34,32 @@
             }
           },
           {
+            "id": "c84823d958dc4210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia Celular Molecular/Cultivo celular.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c54244f94b0ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7a856a6a1b9a6c8",
             "type": "leaf",
             "state": {
@@ -73,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Apoptosis.md",
+                "file": "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Apoptosis.md",
+                "file": "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Apoptosis.md"
+                "file": "Biologia/Microbiologia/Laboratorio/medio de cultivo.md"
               }
             }
           },
@@ -182,8 +208,10 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "41dda1a562bd4931",
+  "active": "f1c54244f94b0ef4",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Cultivo celular.md",
+    "Biologia Celular Molecular/Apoptosis.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "Tecnicas/BIFC.md",
     "Bioquimica 3/Herramientas de estudio/EMSA.md",
@@ -191,8 +219,6 @@
     "Tecnicas/inmunolocalizacion.md",
     "Bioquimica 3/Herramientas de estudio/microarrays.md",
     "Tecnicas/ELISA.md",
-    "Bioquimica 3/Herramientas de estudio/dot blot.md",
-    "Tecnicas/citometria de flujo.md",
-    "Tecnicas/inmunofluorescencia.md"
+    "Bioquimica 3/Herramientas de estudio/dot blot.md"
   ]
 }
