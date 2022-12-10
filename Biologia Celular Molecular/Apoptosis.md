@@ -68,13 +68,19 @@ Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lug
 # Cascada de proteinas caspasas en via apoptotica
 
 - Proteinas Ced 3 y Ced 4 son necesarias para la muerte celular
-- Ced 9 suprime la apoptosis y actua corriente arriba respecto a Ced 3 
+- Ced 9 suprime la apoptosis y actua corriente arriba respecto a Ced 3
 - Proteina Bcl 2 y Ced 9 son homologas (suprimen apoptosis):
 	  ambas contienen un unico dominio transmembrana y se localizan en las membranas externas de la mitocondria, nucleo y reticulo endoplasmatico
 
 - Proteinas efectoras de via apoptoticas se denominas **caspasas** en los vertebrados. Contienen residuo de cisteina clave en el sitio catalitico y cortan selectivamente proteinas en los istios inmediatos en direccion C terminal a los residuos de aspartato
+
+|Proteinas proapoptoticas|Proteinas antiapoptoticas|
+|:---|:---|
+|Ced 3 / Ced 4 / Bax|Ced 9 / Bcl 2|
+
 ## Activacion de caspasas efectores
-- Bax se asocia con Bcl 2 
+
+- Bax se asocia con Bcl 2
 - Bax se relaciona con Ced 9 y Bcl 2
 - Sobreproduccion de Bax induce muerte celular en lugar de proteger de la apoptosis
 
@@ -83,7 +89,6 @@ Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lug
 Otras proteinas matan las celulas al ser liberadas:
 - El factor inductor de la apoptosis
 - La endonucleasa G
-
 - Ced 4 es bloqueada mediante Ced 9, Ced 9 se une directamente a Ced 4 y mueve desde el citosol a las membranas intracelulares.
 - Ced 4 se une directamente a Ced 3 y favorece la activacion de su actividad de proteasa
 - Ced 4 se puede unir a Ced 3 y Ced 9 en paralelo
