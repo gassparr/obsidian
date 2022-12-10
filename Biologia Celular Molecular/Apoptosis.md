@@ -73,6 +73,10 @@ Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lug
 	  ambas contienen un unico dominio transmembrana y se localizan en las membranas externas de la mitocondria, nucleo y reticulo endoplasmatico
 
 - Proteinas efectoras de via apoptoticas se denominas **caspasas** en los vertebrados. Contienen residuo de cisteina clave en el sitio catalitico y cortan selectivamente proteinas en los istios inmediatos en direccion C terminal a los residuos de aspartato
+## Activacion de caspasas efectores
+- Bax se asocia con Bcl 2 
+- Bax se relaciona con Ced 9 y Bcl 2
+- Sobreproduccion de Bax induce muerte celular en lugar de proteger de la apoptosis
 
 ## Apoptosis independiente de caspasas
 
