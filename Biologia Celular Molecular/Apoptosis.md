@@ -39,6 +39,28 @@ Es un proceso ordenado donde la celula indica su muerte y lo hace sin afectar a 
 	   - Libera citoquinas proinflamatorias como la IL1 “alfa” y “beta” y la IL18
 7. Cuerpos apoptoticos son fagocitados y degradados en los lisosomas de los macrofagos
 
+El hecho que la apoptosis sea un proceso controlado, hace que sea un proceso **dependiente de ATP**
+
+## Caracteristicas
+
+- Muerte controlada de celulas individuales
+- Inducido por estimulos fisiologicos
+- Sin inflamacion
+- Reduccion de citoplasma y condensacion de nucleo
+- Zeiosis de membrana citoplasmatica, no pierde integridad
+- Proceso activo, Dependiente de ATP, mitocondrias funcionales
+- Activacion de via de muerte celular
+
 # Necrosis
 
-Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lugar de condensarse y reducir su tamano, estas toman agua del exterior, hinchandose lo cual hace que la membrana plasmatica reviente y libere
+Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lugar de condensarse y reducir su tamano, estas toman agua del exterior, hinchandose lo cual hace que la membrana plasmatica reviente y libere todo el contenido citoplasmatico.
+
+## Caracteristicas
+
+- Afecta grupos celulares
+- Generado por eventos no fisiologicos (virus, toxinas, etc)
+- Inflamacion
+- Hinchamiento de citoplasma y mitocondria
+- Perdida de integridad de membrana citoplasmatica
+- Proceso pasivo, sin requerimiento energetico
+- Exceso de calcio
