@@ -29,5 +29,8 @@ Celulas que mueren en respuesta al dano tisular, exhiben cambios morfologicos mu
 
 Es un proceso ordenado donde la celula indica su muerte y lo hace sin afectar a las vecinas. La apoptosis se divide en varias fases:
 
-1. Celula entra en apoptosis, pierde contacto con celulas del entorno (se suelta del tejido)
-2. Se condensa el nucleo y el citoplasma, ocasionando una reduccion de la celula
+1. Celula entra en apoptosis, pierde contacto con celulas del entorno (se suelta del tejido).
+2. Se condensa el nucleo y el citoplasma, ocasionando una reduccion de la celula.
+3. Mitocondrias liberan citocromo c, sufren perdida de potencial de membrana ademas de la sufrir la transicion de la permeabilidad, que esta causado por la apertura de poros.
+4. Membrana nuclear y nucleolo se disgregan y cromtina se condensa. La cromatina se corta intranucleosomalmente en fragmentos de tamano regular.
+5. Membrana plasmatica empieza a formar protusiones e invaginaciones en la superficie (**zeiosis**), aumentando su permeabi
