@@ -27,3 +27,14 @@ medio que contiene compuestos inhibitorios para algunos [[microorganismo]]
 medio donde se añade colorante que mediante cambio de color, indica una reaccion metabolica especifica. Sirve para diferenciar a las [[bacterias]]
 
 ![](https://i.imgur.com/cUDxOyD.png)
+# Cultivo celular
+
+## Tipos de cultivo celular
+
+### Cultivo de organos
+Se coloca el organo sobre una rejilla situada en la interfase liquido gas de un medio del que obtiene los nutrientes y al que puede liberar los desechos. 
+- Permite mantener la arquitectura caracteristica del tejido “in vivo”, por lo que representa una buena replica del tejido origen.
+- No crecen mucho
+- no se puede propagar → necesita un explante nuevo para cada experimento
+
+### Explantes primarios

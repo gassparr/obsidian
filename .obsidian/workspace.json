@@ -58,45 +58,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c7a856a6a1b9a6c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/EMSA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a7d7a699a5cb990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioquimica 3/Herramientas de estudio/microarrays.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db2dfec051790478",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnicas/FRAP y FLIP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -211,14 +172,14 @@
   "active": "f1c54244f94b0ef4",
   "lastOpenFiles": [
     "Biologia Celular Molecular/Cultivo celular.md",
+    "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
+    "Tecnicas/FRAP y FLIP.md",
     "Biologia Celular Molecular/Apoptosis.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "Tecnicas/BIFC.md",
     "Bioquimica 3/Herramientas de estudio/EMSA.md",
     "Biologia Celular Molecular/Ciclo Celular.md",
     "Tecnicas/inmunolocalizacion.md",
-    "Bioquimica 3/Herramientas de estudio/microarrays.md",
-    "Tecnicas/ELISA.md",
-    "Bioquimica 3/Herramientas de estudio/dot blot.md"
+    "Bioquimica 3/Herramientas de estudio/microarrays.md"
   ]
 }
