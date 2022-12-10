@@ -11,4 +11,4 @@ La muerte celular programada esta marcada por una secuencia de cambios morfologi
 2. se condensan 
 3. se fragmentan → liberan pequenos cuerpos apoptoticos que se absorben por otras celulas
 
-El nucl
+El nucleo se condensa y el [[DNA]] se fragmenta sin que los constituyentes celulares se liberen al medio extracelular ya que podrian tener efectos nocivos a las  celulas circundantes
