@@ -69,3 +69,4 @@ Modo de morir opuesto a la apoptosis, se trata de un proceso desordenado. En lug
 
 - Proteinas Ced 3 y Ced 4 son necesarias para la muerte celular
 - Ced 9 suprime la apoptosis y actua corriente arriba respecto a Ced 3 
+- Proteina Bcl 2 y Ced 9 son homologas (suprimen apoptosis)
