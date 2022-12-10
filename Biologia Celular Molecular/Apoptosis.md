@@ -17,4 +17,5 @@ Los genes involucrados en el control de la muerte celular codifican proteinas co
 - Proteinas destructivas o de destruccion que digieren, por ejemplo, el DNA en una celula moribunda
 - Proteinas devoradoras son necesarias para que una celula moribunda sea fagocitada por otra celula
 
-Esta fagocitacion es parte de la decision final de muerte celular. Mutaciones en los genes asesinos siempre evitan que las celulas inicien la apoptosis
+Esta fagocitacion es parte de la decision final de muerte celular. Mutaciones en los genes asesinos siempre evitan que las celulas inicien la apoptosis, mientras que mutaciones que bloquan la fagocitacion a veces permiten que sobrevivan celulas que normalmente mueren.
+Celulas que mueren en respuesta al dano tisular, exhiben cambios morfologicos muy diferentes, denominados **necrosis**, donde
