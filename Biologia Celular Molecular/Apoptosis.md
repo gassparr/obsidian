@@ -34,4 +34,7 @@ Es un proceso ordenado donde la celula indica su muerte y lo hace sin afectar a 
 3. Mitocondrias liberan citocromo c, sufren perdida de potencial de membrana ademas de la sufrir la transicion de la permeabilidad, que esta causado por la apertura de poros.
 4. Membrana nuclear y nucleolo se disgregan y cromtina se condensa. La cromatina se corta intranucleosomalmente en fragmentos de tamano regular.
 5. Membrana plasmatica empieza a formar protusiones e invaginaciones en la superficie (**zeiosis**), aumentando su permeabilidad. Estas irregularidades puede formar cuerpos apoptoticos
-	1. Celula senaliza apoptosis a celular aledanas con la finalidad de que los cuerpos apoptoticos sean reconocidos y fagocitados por los macro
+6. Celula senaliza apoptosis a celular aledanas con la finalidad de que los cuerpos apoptoticos sean reconocidos y fagocitados por los macrofagos. La senalizacion se realiza de dos formas:
+	   - Cambio de composicion fosfolipidicoa de la [[membrana citoplasmatica]]. Disminuyendo la actividad de un aminofosfolipido translocasa dependiente de [[ATP]] y de escamblasas dependientes de calcio
+	   - Libera citoquinas proinflamatorias como la IL1 “alfa” y “beta” y la IL18
+7. Cuerpos apoptoticos son fagocitados y degradados en los lisosomas de los macrofagos
