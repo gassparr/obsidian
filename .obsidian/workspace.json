@@ -97,8 +97,13 @@
             "id": "372242ac5f93dc7f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -160,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md"
+              }
             }
           },
           {
@@ -209,15 +218,15 @@
   },
   "active": "372242ac5f93dc7f",
   "lastOpenFiles": [
-    "Tecnicas/fotoblanqueo.md",
-    "Tecnicas/ensayo de migracion e invasion.md",
-    "Tecnicas/ELISA.md",
-    "Tecnicas/citometria de flujo.md",
-    "Tecnicas/BIFC.md",
-    "Tecnicas/western blot.md",
-    "Tecnicas/TUNEL.md",
-    "Tecnicas/TRAP.md",
-    "Tecnicas/transfer DNA.md",
-    "Tecnicas/silenciamiento por mRNA.md"
+    "Tecnicas/Herramientas de estudio gentica/Union a filtros de nitrocelulosa.md",
+    "Tecnicas/Herramientas de estudio gentica/Primer Extension.md",
+    "Tecnicas/Herramientas de estudio gentica/northern blot.md",
+    "Tecnicas/Herramientas de estudio gentica/microarrays.md",
+    "Tecnicas/Herramientas de estudio gentica/Genes reporteros.md",
+    "Tecnicas/Herramientas de estudio gentica/Footprinting.md",
+    "Tecnicas/Herramientas de estudio gentica/EMSA.md",
+    "Tecnicas/Herramientas de estudio gentica/dot blot.md",
+    "Ingenieria Genetica/protocolos de clonado.md",
+    "Ingenieria Genetica/miniprep.md"
   ]
 }
