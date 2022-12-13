@@ -10,7 +10,7 @@ Los subíndices 1 y 2 refieren a entrada y salida respectivamente.
 **Acumulación de materia** = entrada de materia – salida de materia + materia que se forma - materia que se consume
 **Velocidad de acumulación** = Velocidad de entrada-velocidad de salida + velocidad de formación –velocidad de consumo
 
-# Ecuación general de balance de masa
+# Ecuación General de Balance de Masa
 
 **Ecuacion 1**
 
@@ -29,7 +29,7 @@ Los subíndices 1 y 2 refieren a entrada y salida respectivamente.
 - F1 ≠ 0 y F2 ≠ 0 → Sistema continuo
 - F1 ≠ 0 y F2 = 0 → Sistema Batch alimentado
 
-## Cultivo batch
+## Cultivo Batch
 
 sistema cerrado para la fase liquida
 F1 = F2 = 0
@@ -68,7 +68,7 @@ qs → velocidad especifica de consumo de sustrato
 rs → velocidad volumetrica de consumo de sustrato
 X → concentracion de biomasa
 
-# Curva de crecimiento
+# Curva de Crecimiento
 
 Se separan en cuatro fases:
 1. Lag
@@ -96,7 +96,7 @@ Si suponemos valido el modelo de monod
 
 dx/dt = u(max) . (S / (Ks + S)) . x
 
-## Fase exponencial
+## Fase Exponencial
 
 **Ecuacion 12**
 Al principio del cultivo batch (Durante fase exponencial) S » Ks, por lo que se desprecia Ks frente a S
@@ -165,5 +165,4 @@ Si S es limitante, para x = xf; Sf = 0 dando.
 **Ecuacion 22**
 
 xf = x0 + Yx/s . S0
-
 

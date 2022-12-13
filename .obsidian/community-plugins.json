@@ -10,5 +10,7 @@
   "obsidian-linter",
   "obsidian-enhancing-export",
   "obsidian-table-generator",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "table-editor-obsidian",
+  "better-word-count"
 ]

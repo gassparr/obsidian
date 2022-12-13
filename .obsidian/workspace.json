@@ -11,8 +11,13 @@
             "id": "9a98c6390e8e08e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biotecnologia I/Teoria/Modulo 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biotecnologia I/Teoria/Modulo 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -84,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biotecnologia I/Teoria/Modulo 4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biotecnologia I/Teoria/Modulo 4.md"
+              }
             }
           },
           {
@@ -112,18 +121,27 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "684f94fa1c6fb32d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 198.5,
+    "width": 200,
     "collapsed": true
   },
-  "active": "9a98c6390e8e08e2",
+  "active": "d20238fe300d7281",
   "lastOpenFiles": [
-    "Tecnicas/Herramientas de estudio gentica/Y1H.md",
     "Templates/Tecnicas.md",
+    "Tecnicas/Herramientas de estudio gentica/Y1H.md",
     "Biologia Celular Molecular/Inmunologia.md",
     "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
     "Biologia Celular Molecular/Cultivo celular.md",
