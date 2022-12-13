@@ -1,2 +1,12 @@
+# Mecanismo
+
 Un gradiente de sacarosa se crea superponiendo bajas concentracion de sacarosa, sobre altas concentracion en un tubo de centrifugacion.
 La muestra que contiene las particulas de interes se coloca y se centriduga, haciendo que se coloque en el gradiente segun su coeficiente de sedimentacion.
+
+# Caracteristicas
+
+## Ventajas
+
+## Desventajas
+
+# Protocolo

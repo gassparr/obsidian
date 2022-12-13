@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnicas/fotoblanqueo.md",
+                "file": "Tecnicas/inmunoprecipitacion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnicas/fotoblanqueo.md",
+                "file": "Tecnicas/inmunoprecipitacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnicas/fotoblanqueo.md",
+                "file": "Tecnicas/inmunoprecipitacion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnicas/fotoblanqueo.md"
+                "file": "Tecnicas/inmunoprecipitacion.md"
               }
             }
           },
@@ -218,15 +218,15 @@
   },
   "active": "372242ac5f93dc7f",
   "lastOpenFiles": [
-    "Tecnicas/ensayo de migracion e invasion.md",
-    "Tecnicas/ELISA.md",
-    "Tecnicas/citometria de flujo.md",
-    "Tecnicas/BIFC.md",
+    "Tecnicas/inmunolocalizacion.md",
+    "Tecnicas/inmunoprecipitacion.md",
+    "Tecnicas/inmunofluorescencia.md",
     "Templates/Tecnicas.md",
-    "Tecnicas/fotoblanqueo.md",
-    "Tecnicas/fasd.md",
-    "Tecnicas/western blot.md",
-    "Templates/otros.md",
-    "Tecnicas/FRAP y FLIP.md"
+    "Tecnicas/gradiente de sacarosa.md",
+    "Tecnicas/gradiente de CsCl.md",
+    "Tecnicas/FUCCI.md",
+    "Tecnicas/FRET.md",
+    "Tecnicas/FRAP y FLIP.md",
+    "Tecnicas/fotoblanqueo.md"
   ]
 }

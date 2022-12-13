@@ -1,5 +1,15 @@
+# Mecanismo
+
 Tecnica FUCCI permite seguir el ciclo celular dentro de una poblacion celular.
 
 Sistema indicador de ciclo celular basado en la ubiquitinización fluorescente es un grupo codificado genéticamente de dos sensores fluorescentes para monitorización del ciclo celular en tiempo real. Con conocimiento de qué proteínas se acumulan en cada etapa del ciclo se marcan y cuando sale de ese ciclo de ubiquitin a las proteínas y pierden la fluorescencia (Ejemplo en G1 es Cdt1 que se tiñe roja) y de empieza a ver la fluorescencia de la proteína del ciclo siguiente (Pasa a S donde se acumula Geminina que se tiñe verde)
 
 Fucci marca el núcleo con mCherry (rojo) o mVenus (azul) siguiendo un patrón que depende del ciclo celular.  Fucci (CA) proporciona una expresión abundante de mCherry durante la fase G1 con una reducción acusada en la fluorescencia roja al final de la fase G1. Fucci (CA) puede usarse para detectar con fiabilidad una fase G1 corta y distinguir las fases S y G2, lo que anteriormente era difícil de conseguir.
+
+# Caracteristicas
+
+## Ventajas
+
+## Desventajas
+
+# Protocolo
