@@ -1,4 +1,4 @@
-# Sistema de cultivo continuo
+# Sistema de Cultivo Continuo
 
 ![](https://i.imgur.com/VfgdglV.png)
 
@@ -7,7 +7,6 @@
 - S = Concentracion de sustrato ( g * L-1)
 - P = Concentracion de producto ( g * L-1)
 - p = Densidad ( g * L-1)
-
 
 Subindices 1 y 2 son de entrada y salida
 
@@ -41,7 +40,7 @@ Se observan 2 zonas:
 1. Sustrato limitante se encuentra en exceso ( S » Ks), u es maximo y cte, por lo que u = umax en este momento el sustrato esta en *Concentracion saturante* y no es limitante del crecimiento. El cultivo se encuentra en la zona de *cultivo irrestricto* (cultivos saturantes de sustrato)
 2. Concentracion del sustrato limitante en el medio de cultivo (S), esta en el orden de Ks, u depende de la concentracion externa de ese sustrato, por lo tanto *u ≠ um* y el cultivo pasa a ser un *cultivo restricto*
 
-## Operacion del biorreactor
+## Operacion Del Biorreactor
 
 **Ecuacion 3**
 D = F / V
@@ -61,7 +60,7 @@ Por ejemplo: Al disminuir Sr, disminuira X
 
 Los cultivos continuos se van a tratar con exceso de oxigeno de tal forma que el unico limitante sea el sustrato, las variables que estan bajo control son *Sustrato limitante (Sr)* y *Caudal de Alimentacion (F)*
 
-## Balance de materia
+## Balance de Materia
 
 Para la biomasa no hay entrada ni consumo de microorganismos, *solo se forma V * rx y sale F * X* Reemplazando en la ecuacion 1:
 
@@ -133,11 +132,11 @@ Dc = um * Sr / Ks + Sr
 
 Si en un cultivo se trabaja a D > umax. las celulas seran arrastradas y se lavara el cultivo
 
-## Estado estacionario
+## Estado Estacionario
 
 Cuanto demora el sistema en alcanzar este estado ? en terminos general *4 * tr* (4 tiempos de retension)
 
-## Determinacion de otros parametros estequiometricos y cineticos
+## Determinacion de Otros Parametros Estequiometricos y Cineticos
 
 Rendimiento en estado estacionario
 **Ecuacion 18**
@@ -149,7 +148,7 @@ velocidad especifica de consumo de sustrato
 
 qs = rs / X = D * (Sr - S~) / X~
 
-## Aplicacion del cultivo continuo
+## Aplicacion Del Cultivo Continuo
 
 Permite controlar el proceso a un valor de velocidad especifica de crecimiento prefija de manera simple. Esto es importante ya que los microorganismos se comportan de manera distinta a distinas u.
 Es posible estudiar el efecto sobre el proceso de cambios de pH, temperatura, concentracion de nutrientes, etc. Manteniedo constante u, por lo que permite separar y analizar los efectos de distintas condiciones.
