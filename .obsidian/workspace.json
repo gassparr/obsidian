@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93549846dac1753b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md",
+                "file": "Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md",
+                "file": "Templates/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md"
+                "file": "Templates/Untitled.md"
               }
             }
           },
@@ -182,8 +195,9 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "64a0432d31a19d2e",
+  "active": "93549846dac1753b",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Inmunologia.md",
     "Biologia Celular Molecular/Untitled.md",
     "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
     "Biologia Celular Molecular/Cultivo celular.md",
@@ -192,7 +206,6 @@
     "Tecnicas/FRAP y FLIP.md",
     "Biologia Celular Molecular/Tecnicas.md",
     "Tecnicas/BIFC.md",
-    "Bioquimica 3/Herramientas de estudio/EMSA.md",
-    "Biologia Celular Molecular/Ciclo Celular.md"
+    "Bioquimica 3/Herramientas de estudio/EMSA.md"
   ]
 }
