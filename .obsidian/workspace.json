@@ -4,110 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f482304e6883674",
+        "id": "7b6f8fa53e547112",
         "type": "tabs",
         "children": [
           {
-            "id": "69f024a49f6b43bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia Celular Molecular/Tecnicas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41dda1a562bd4931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia Celular Molecular/Apoptosis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c84823d958dc4210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia Celular Molecular/Cultivo celular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c54244f94b0ef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24df335850697455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia Celular Molecular/Inmunologia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93549846dac1753b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tecnicas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6fd9fbb867e0cdd",
+            "id": "9a98c6390e8e08e2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "372242ac5f93dc7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +73,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tecnicas/Herramientas de estudio gentica/Y1H.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,17 +120,17 @@
     "width": 198.5,
     "collapsed": true
   },
-  "active": "372242ac5f93dc7f",
+  "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
+    "Tecnicas/Herramientas de estudio gentica/Y1H.md",
+    "Templates/Tecnicas.md",
+    "Biologia Celular Molecular/Inmunologia.md",
+    "Biologia/Microbiologia/Laboratorio/medio de cultivo.md",
+    "Biologia Celular Molecular/Cultivo celular.md",
+    "Biologia Celular Molecular/Apoptosis.md",
     "Tecnicas/Herramientas de estudio gentica/Union a filtros de nitrocelulosa.md",
     "Tecnicas/Herramientas de estudio gentica/Primer Extension.md",
     "Tecnicas/Herramientas de estudio gentica/northern blot.md",
-    "Tecnicas/Herramientas de estudio gentica/microarrays.md",
-    "Tecnicas/Herramientas de estudio gentica/Genes reporteros.md",
-    "Tecnicas/Herramientas de estudio gentica/Footprinting.md",
-    "Tecnicas/Herramientas de estudio gentica/EMSA.md",
-    "Tecnicas/Herramientas de estudio gentica/dot blot.md",
-    "Ingenieria Genetica/protocolos de clonado.md",
-    "Ingenieria Genetica/miniprep.md"
+    "Tecnicas/Herramientas de estudio gentica/microarrays.md"
   ]
 }
