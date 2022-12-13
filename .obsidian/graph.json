@@ -8,52 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Bioquimica 3\"",
+      "query": "path:Tecnicas",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 7232881
       }
     },
     {
-      "query": "path:\"Bioquimica 2\"",
+      "query": "path:Biologia",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Biotecnologia I\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Ingenieria Genetica\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Fisiologia Animal\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Biologia Vegetal\"",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
+        "rgb": 7554640
       }
     },
     {
       "query": "path:\"Biologia Celular Molecular\"",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 7556171
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -65,8 +44,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.45,
+  "linkStrength": 0.766666666666667,
   "linkDistance": 500,
-  "scale": 0.053006860805868895,
+  "scale": 0.02418025691949938,
   "close": false
 }

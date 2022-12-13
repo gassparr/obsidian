@@ -1,6 +1,14 @@
+# Mecanismo
+
 Tecnica para identificar proteinas especificas en una mezcla obtenida de extractos celulares o de tejidos.
 
-# protocolo
+# Caracteristicas
+
+## Ventajas
+
+## Desventajas
+
+# Protocolo
 
 1. Electroforesis en gel de poliacrilamida
 2. Transferir
@@ -10,4 +18,4 @@ Tecnica para identificar proteinas especificas en una mezcla obtenida de extract
 6. Lavado de sonda no unida.
 7. Detección y visualización
 
-
+## Controles

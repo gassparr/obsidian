@@ -97,13 +97,8 @@
             "id": "372242ac5f93dc7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnicas/inmunoprecipitacion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -165,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnicas/inmunoprecipitacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnicas/inmunoprecipitacion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tecnicas/inmunoprecipitacion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,15 +209,15 @@
   },
   "active": "372242ac5f93dc7f",
   "lastOpenFiles": [
-    "Tecnicas/inmunolocalizacion.md",
-    "Tecnicas/inmunoprecipitacion.md",
-    "Tecnicas/inmunofluorescencia.md",
-    "Templates/Tecnicas.md",
-    "Tecnicas/gradiente de sacarosa.md",
-    "Tecnicas/gradiente de CsCl.md",
-    "Tecnicas/FUCCI.md",
-    "Tecnicas/FRET.md",
-    "Tecnicas/FRAP y FLIP.md",
-    "Tecnicas/fotoblanqueo.md"
+    "Tecnicas/fotoblanqueo.md",
+    "Tecnicas/ensayo de migracion e invasion.md",
+    "Tecnicas/ELISA.md",
+    "Tecnicas/citometria de flujo.md",
+    "Tecnicas/BIFC.md",
+    "Tecnicas/western blot.md",
+    "Tecnicas/TUNEL.md",
+    "Tecnicas/TRAP.md",
+    "Tecnicas/transfer DNA.md",
+    "Tecnicas/silenciamiento por mRNA.md"
   ]
 }
