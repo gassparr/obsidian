@@ -29,7 +29,7 @@
 
 # Silenciamiento post-trasncripcional
 
-- RT-[[PCR]]
+- [[PCR#qPCR]]
 - [[inmunoprecipitacion]] ChIP
 
 # Deteccion de DNA/RNA

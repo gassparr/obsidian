@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 4.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 4.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 4.md",
+                "file": "Biologia Celular Molecular/Tecnicas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 4.md"
+                "file": "Biologia Celular Molecular/Tecnicas.md"
               }
             }
           },
@@ -138,8 +138,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "d20238fe300d7281",
+  "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
+    "Biotecnologia I/Teoria/Modulo 4.md",
     "Templates/Tecnicas.md",
     "Tecnicas/Herramientas de estudio gentica/Y1H.md",
     "Biologia Celular Molecular/Inmunologia.md",
@@ -148,7 +149,6 @@
     "Biologia Celular Molecular/Apoptosis.md",
     "Tecnicas/Herramientas de estudio gentica/Union a filtros de nitrocelulosa.md",
     "Tecnicas/Herramientas de estudio gentica/Primer Extension.md",
-    "Tecnicas/Herramientas de estudio gentica/northern blot.md",
-    "Tecnicas/Herramientas de estudio gentica/microarrays.md"
+    "Tecnicas/Herramientas de estudio gentica/northern blot.md"
   ]
 }

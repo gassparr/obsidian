@@ -29,6 +29,8 @@ Utilizado para secuenciar y analizar secuencias de DNA adyacentes a fragmentos d
 
 # qPCR
 
+^14f030
+
 ## Mecanismo
 
 **PCR en tiempo real** o **PCR cuantitativa**, cuantifica el producto de amplificacion de una determinada secuencia de [[DNA]] o cDNA obtenido por retrotranscripcion de [[RNA]].
