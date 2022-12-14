@@ -34,7 +34,13 @@ V . (dA/dt) = (F1 . A1) - (F2 . A2) +- V . ra
 > En estado estacionario → dA/dt = 0
 
 # 3. ¿Cómo Explicas El Comportamiento Mostrado en la Figura Para las Curvas de Velocidad Específica de Consumo de O2 y de Producción de CO2? ¿Cómo Varía El Valor Del Cociente Respiratorio a Diferentes Valores de D? Justificá.
+
 rO2 = qO2 . X → qO2 = rO2 / X
+
 rCO2 = qCO2 . X → qCO2 = rO2 / X
 
+Hasta el valor de D = 0.4 el consumo de O2 y produccion de CO2 van en una relacion cercana, cuando llega a D = 0.4, la concentracion de S aumenta y la concentracion de X disminuye casi instantaneamente de 8 g/L a 4 g/L. Por otro lado, la produccion de P (etanol) aumenta en ese instante, lo cual nos es indicativo que nuestro microorganismo esta cambiando su metabolismo de uno oxidativo a uno fermentativo
+
 El valor del coeficiente respiratorio (CR) aumenta a medida que aumenta D, ya que CR = rCO2 / rO2
+
+# 4. Explicá la Metodología que Se Utilizó en El Trabajo Práctico Para Realizar las Determinaciones Experimentales y Cálculos Necesarios Para Conocer El Consumo Global de O2 y la Producción Global de CO2
