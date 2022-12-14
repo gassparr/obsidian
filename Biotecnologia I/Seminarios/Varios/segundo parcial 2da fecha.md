@@ -34,5 +34,7 @@ V . (dA/dt) = (F1 . A1) - (F2 . A2) +- V . ra
 > En estado estacionario → dA/dt = 0
 
 # 3. ¿Cómo Explicas El Comportamiento Mostrado en la Figura Para las Curvas de Velocidad Específica de Consumo de O2 y de Producción de CO2? ¿Cómo Varía El Valor Del Cociente Respiratorio a Diferentes Valores de D? Justificá.
+rO2 = qO2 . X → qO2 = rO2 / X
+rCO2 = qCO2 . X → qCO2 = rO2 / X
 
 El valor del coeficiente respiratorio (CR) aumenta a medida que aumenta D, ya que CR = rCO2 / rO2
