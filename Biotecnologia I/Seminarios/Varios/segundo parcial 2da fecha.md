@@ -63,5 +63,9 @@ rO2 y rCO2 se calculan a partir de:
 V (i) seran los volumentes extraidos
 
 # 5. Considerando la información de la imagen y la disponibilidad de un biorreactor de volúmenes de trabajo entre 5-10 litros, diseñá un cultivo que te permita obtener 500g de levadura de panificación evitando la formación de etanol. Realizá un dibujo esquemático del sistema de cultivo a emplear y señalá el equipamiento que necesitas.
+![](https://i.imgur.com/xUgjyn6.jpg)
 
+Utilizo un Cultivo continuo
 ![](https://i.imgur.com/rySWgR9.png)
+
+# 6. Respecto a un cultivo en sistema batch alimentado a caudal de alimentación y concentración de sustrato limitante (fuente de nitrógeno) constantes, mostrá en un gráfico como varía XV en función del tiempo. ¿Qué comportamiento tiene la velocidad específica de crecimiento en el tiempo? ¿Se observan cambios en esos comportamientos si el limitante es la fuente de carbono? Justifica con ecuaciones.
