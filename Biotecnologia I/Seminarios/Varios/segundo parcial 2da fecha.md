@@ -58,7 +58,6 @@ ahora, el consumo global de O2 y produccion global de CO2 esta definido como:
 - Produccion global de CO2 = Integral { V(i) . rCO2 . dt }
 
 rO2 y rCO2 se calculan a partir de:
+![](https://i.imgur.com/nd7US1w.jpg)
 
-V (i) se calcula a partir de:
-
-V(i) = V(final del BA) + ( Vi - F)
+V (i) seran los volumentes extraidos
