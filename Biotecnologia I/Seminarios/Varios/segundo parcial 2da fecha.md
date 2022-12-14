@@ -63,9 +63,10 @@ rO2 y rCO2 se calculan a partir de:
 V (i) seran los volumentes extraidos
 
 # 5. Considerando la información de la imagen y la disponibilidad de un biorreactor de volúmenes de trabajo entre 5-10 litros, diseñá un cultivo que te permita obtener 500g de levadura de panificación evitando la formación de etanol. Realizá un dibujo esquemático del sistema de cultivo a emplear y señalá el equipamiento que necesitas.
-![](https://i.imgur.com/xUgjyn6.jpg)
+![](https://i.imgur.com/H3fMTNt.jpg)
 
-Utilizo un Cultivo continuo
+
+Utilizo un BA
 ![](https://i.imgur.com/rySWgR9.png)
 
 # 6. Respecto a un cultivo en sistema batch alimentado a caudal de alimentación y concentración de sustrato limitante (fuente de nitrógeno) constantes, mostrá en un gráfico como varía XV en función del tiempo. ¿Qué comportamiento tiene la velocidad específica de crecimiento en el tiempo? ¿Se observan cambios en esos comportamientos si el limitante es la fuente de carbono? Justifica con ecuaciones.
@@ -101,3 +102,16 @@ XV = (F . Sr / ms) + { (X0 . V0) - (F . Sr / ms) } . e ^ (- ms . y x/s . t)
 - A tiempos largos XV = cte y es igual (F . Sr / ms) → biomasa final a obtener sera menor que la que se obtendria si el rendimiento hubiese sido constante
 
 # 7. Realizá el esquema de un experimento que te permita conocer las constantes de Pirt respecto al efecto del mantenimiento sobre el crecimiento
+
+- Construye un cultivo continuo limitado en FCE
+- En cada Estado estacionario (EE) determino X y S
+- Lo grafico y obtengo recta
+- *Ordenada de origen = ms* y *pendiente = 1/y’x/s*
+
+Esto proviene de la ecuacion:
+
+qs = (D / y’x/s) + ms
+
+En la grafica se utiliza
+
+qs = (D / X) . ( Sr - S )
