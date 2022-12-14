@@ -89,5 +89,8 @@ F . Sr = u . X . V / y(x/s)
 
 X . V = X0 . V0 + F . Sr . y(x/s) . t
 
+y(x/n) = (Xf . Vf - X0 . V0) / Nr . (Vf - V0)
+
+Segun estas ecuacion podemos ver que el comportamiento no cambiara sea cual sea el limitante
 
 # 7. Realizá el esquema de un experimento que te permita conocer las constantes de Pirt respecto al efecto del mantenimiento sobre el crecimiento
