@@ -19,4 +19,12 @@ Ambos son cultivos restrictos que le permiten al operador controlar u, controlan
 
 # 2. Escribí El Balance de Acumulación Para la Biomasa y El Sustrato Limitante en Sistema de Cultivo Continuo. Enumerá los Datos Experimentales que Necesitas y Cómo los Utilizas Para Calcular las Velocidades Volumétricas de Crecimiento y de Consumo de Sustrato en Este Sistema de Cultivo.
 
+F1 = F2 = F
+
+V1 = cte
+
+(dVA / dt) = (F1 . A1) - (F2 . A2) +- V . ra
+
+V . (dA/dt) = 
+
 # 3. ¿Cómo Explicas El Comportamiento Mostrado en la Figura Para las Curvas de Velocidad Específica de Consumo de O2 y de Producción de CO2? ¿Cómo Varía El Valor Del Cociente Respiratorio a Diferentes Valores de D? Justificá.
