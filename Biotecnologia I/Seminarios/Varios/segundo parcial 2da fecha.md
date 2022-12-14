@@ -71,7 +71,8 @@ Utilizo un BA
 
 # 6. Respecto a un cultivo en sistema batch alimentado a caudal de alimentación y concentración de sustrato limitante (fuente de nitrógeno) constantes, mostrá en un gráfico como varía XV en función del tiempo. ¿Qué comportamiento tiene la velocidad específica de crecimiento en el tiempo? ¿Se observan cambios en esos comportamientos si el limitante es la fuente de carbono? Justifica con ecuaciones.
 
-![](https://i.imgur.com/q71Gnox.jpg)
+![](https://i.imgur.com/FbIrBxV.jpg)
+
 
 ●	X.V aumenta a medida que pasa el tiempo
 ●	mu irá disminuyendo→ es controlado por el operador. CONTROL CINÉTICO, controlamos la velocidad a la que el MO crece.
@@ -93,7 +94,7 @@ X . V = X0 . V0 + F . Sr . y(x/s) . t
 
 y(x/n) = (Xf . Vf - X0 . V0) / Nr . (Vf - V0)
 
-Si u disminuye, la fraccion de FCE destinada a manteniemiento va a aumentar, a mayor tiempo de cultivo, mayor gasto de FCE para mantenimiento y menor rendimiento (*y x/s*).
+Si u disminuye, la fraccion de FCE destinada a manteniemiento va a aumentar, a mayor tiempo de cultivo, mayor gasto de FCE para mantenimiento y menor rendimiento (**y x/s**).
 Los efectos del mantenimiento se describen por:
 
 XV = (F . Sr / ms) + { (X0 . V0) - (F . Sr / ms) } . e ^ (- ms . y x/s . t)
@@ -106,7 +107,7 @@ XV = (F . Sr / ms) + { (X0 . V0) - (F . Sr / ms) } . e ^ (- ms . y x/s . t)
 - Construye un cultivo continuo limitado en FCE
 - En cada Estado estacionario (EE) determino X y S
 - Lo grafico y obtengo recta
-- *Ordenada de origen = ms* y *pendiente = 1/y’x/s*
+- **Ordenada de origen = ms** y **pendiente = 1/y’x/s**
 
 Esto proviene de la ecuacion:
 
