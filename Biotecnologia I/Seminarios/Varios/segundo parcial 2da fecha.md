@@ -46,3 +46,13 @@ Mientras que la formacion de producto tambien nos genera CO2, lo cual se refleja
 El valor del coeficiente respiratorio (CR) aumenta a medida que aumenta D, ya que CR = rCO2 / rO2
 
 # 4. Explicá la Metodología que Se Utilizó en El Trabajo Práctico Para Realizar las Determinaciones Experimentales y Cálculos Necesarios Para Conocer El Consumo Global de O2 y la Producción Global de CO2
+
+1. registra los datos de la temperatura ambienta.
+2. Conecta la salida de gases del reactor a un caudalimetro de burbuja y registra el tiempo que tarda la burbuja en pasar los aforos.
+3. Conecta salida de gases del reactor al equipo de determinacion de O2 y CO2 y regular el caudal de entrada al equipo, utilizando valores estandarizados.
+4. Esperar estabilizacion de medidas y registrar los porcentajes de O2 y CO2 a la salida del reactor.
+5. Medir porcentaje de O2 en el aire de entrada al reactor
+
+ahora, el consumo global de O2 y produccion global de CO2 esta definido como:
+- Consumo global de O2 = Integral ( V(i) . rO2 . dt)
+rO2 y rCO2 se
