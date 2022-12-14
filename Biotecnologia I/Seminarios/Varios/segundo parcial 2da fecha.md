@@ -63,3 +63,5 @@ rO2 y rCO2 se calculan a partir de:
 V (i) seran los volumentes extraidos
 
 # 5. Considerando la información de la imagen y la disponibilidad de un biorreactor de volúmenes de trabajo entre 5-10 litros, diseñá un cultivo que te permita obtener 500g de levadura de panificación evitando la formación de etanol. Realizá un dibujo esquemático del sistema de cultivo a emplear y señalá el equipamiento que necesitas.
+
+![](https://i.imgur.com/rySWgR9.png)
