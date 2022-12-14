@@ -67,7 +67,7 @@ V (i) seran los volumentes extraidos
 
 
 Utilizo un BA
-![](https://i.imgur.com/rySWgR9.png)
+   ![](https://i.imgur.com/kWWnFtF.png)
 
 # 6. Respecto a un cultivo en sistema batch alimentado a caudal de alimentación y concentración de sustrato limitante (fuente de nitrógeno) constantes, mostrá en un gráfico como varía XV en función del tiempo. ¿Qué comportamiento tiene la velocidad específica de crecimiento en el tiempo? ¿Se observan cambios en esos comportamientos si el limitante es la fuente de carbono? Justifica con ecuaciones.
 
