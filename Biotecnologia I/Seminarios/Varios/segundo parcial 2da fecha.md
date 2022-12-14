@@ -71,4 +71,15 @@ Utilizo un Cultivo continuo
 # 6. Respecto a un cultivo en sistema batch alimentado a caudal de alimentación y concentración de sustrato limitante (fuente de nitrógeno) constantes, mostrá en un gráfico como varía XV en función del tiempo. ¿Qué comportamiento tiene la velocidad específica de crecimiento en el tiempo? ¿Se observan cambios en esos comportamientos si el limitante es la fuente de carbono? Justifica con ecuaciones.
 
 ![](https://i.imgur.com/Gk5kiM1.jpg)
+●	X.V aumenta a medida que pasa el tiempo
+●	mu irá disminuyendo→ es controlado por el operador. CONTROL CINÉTICO, controlamos la velocidad a la que el MO crece.
+●	El flujo es constante
 
+En un BA 
+
+F . Nr = u . X . V / y(x/n)
+
+X . V = X0
+rN = rx / y (x/n)
+
+# 7. Realizá el esquema de un experimento que te permita conocer las constantes de Pirt respecto al efecto del mantenimiento sobre el crecimiento
