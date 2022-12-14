@@ -39,7 +39,9 @@ rO2 = qO2 . X → qO2 = rO2 / X
 
 rCO2 = qCO2 . X → qCO2 = rO2 / X
 
-Hasta el valor de D = 0.4 el consumo de O2 y produccion de CO2 van en una relacion cercana, cuando llega a D = 0.4, la concentracion de S aumenta y la concentracion de X disminuye casi instantaneamente de 8 g/L a 4 g/L. Por otro lado, la produccion de P (etanol) aumenta en ese instante, lo cual nos es indicativo que nuestro microorganismo esta cambiando su metabolismo de uno oxidativo a uno fermentativo
+Hasta el valor de D = 0.4 el consumo de O2 y produccion de CO2 van en una relacion cercana a 1, cuando llega a D = 0.4, la concentracion de S aumenta y la concentracion de X disminuye casi instantaneamente de 8 g/L a 4 g/L. Por otro lado, la produccion de P (etanol) aumenta en ese instante, lo cual nos es indicativo que nuestro microorganismo esta cambiando su metabolismo de uno oxidativo a uno fermentativo.
+Como el microorganismo esta utilizando ineficientemente al O2, la velocidad de consumo de O2 se detiene en 10mmol / g. L.
+Mientras que la formacion de producto tambien nos genera CO2, lo cual se refleja en ese aumento de la velocidad de produccion.
 
 El valor del coeficiente respiratorio (CR) aumenta a medida que aumenta D, ya que CR = rCO2 / rO2
 
