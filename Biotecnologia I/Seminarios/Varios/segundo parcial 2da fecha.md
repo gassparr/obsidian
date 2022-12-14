@@ -79,7 +79,15 @@ En un BA
 
 F . Nr = u . X . V / y(x/n)
 
-X . V = X0
-rN = rx / y (x/n)
+X . V = X0 . V0 + F . Nr . y(x/n) . t
+
+y(x/n) = (Xf . Vf - X0 . V0) / Nr . (Vf - V0)
+
+**Si el limitante se cambia por a ser el FCE**
+
+F . Sr = u . X . V / y(x/s)
+
+X . V = X0 . V0 + F . Sr . y(x/s) . t
+
 
 # 7. Realizá el esquema de un experimento que te permita conocer las constantes de Pirt respecto al efecto del mantenimiento sobre el crecimiento
