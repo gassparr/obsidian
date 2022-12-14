@@ -25,6 +25,12 @@ V1 = cte
 
 (dVA / dt) = (F1 . A1) - (F2 . A2) +- V . ra
 
-V . (dA/dt) = 
+V . (dA/dt) = (F1 . A1) - (F2 . A2) +- V . ra
+
+(dA/dt) = (F . A1 / V) - (F . A2 / V) +- V . ra
+
+(F / V) = D
+
+> En estado estacionario → dA/dt = 0
 
 # 3. ¿Cómo Explicas El Comportamiento Mostrado en la Figura Para las Curvas de Velocidad Específica de Consumo de O2 y de Producción de CO2? ¿Cómo Varía El Valor Del Cociente Respiratorio a Diferentes Valores de D? Justificá.
