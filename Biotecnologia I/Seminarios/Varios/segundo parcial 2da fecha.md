@@ -70,4 +70,5 @@ Utilizo un Cultivo continuo
 
 # 6. Respecto a un cultivo en sistema batch alimentado a caudal de alimentación y concentración de sustrato limitante (fuente de nitrógeno) constantes, mostrá en un gráfico como varía XV en función del tiempo. ¿Qué comportamiento tiene la velocidad específica de crecimiento en el tiempo? ¿Se observan cambios en esos comportamientos si el limitante es la fuente de carbono? Justifica con ecuaciones.
 
-![](https://i.imgur.com/Q6iTVQ5.jpg)
+![](https://i.imgur.com/Gk5kiM1.jpg)
+
