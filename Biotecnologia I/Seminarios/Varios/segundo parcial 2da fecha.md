@@ -54,5 +54,11 @@ El valor del coeficiente respiratorio (CR) aumenta a medida que aumenta D, ya qu
 5. Medir porcentaje de O2 en el aire de entrada al reactor
 
 ahora, el consumo global de O2 y produccion global de CO2 esta definido como:
-- Consumo global de O2 = Integral ( V(i) . rO2 . dt)
-rO2 y rCO2 se
+- Consumo global de O2 = Integral { V(i) . rO2 . dt }
+- Produccion global de CO2 = Integral { V(i) . rCO2 . dt }
+
+rO2 y rCO2 se calculan a partir de:
+
+V (i) se calcula a partir de:
+
+V(i) = V(final del BA) + ( Vi - F)
