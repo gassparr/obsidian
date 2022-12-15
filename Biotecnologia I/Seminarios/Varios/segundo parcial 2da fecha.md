@@ -29,13 +29,18 @@ V . (dA/dt) = (F1 . A1) - (F2 . A2) +- V . ra
 
 (dA/dt) = (F . A1 / V) - (F . A2 / V) +- V . ra
 
-(F / V) = D
-
 > En estado estacionario → dA/dt = 0
 
-Para calcular las velocidades volumetricas de crecimiento y de consumo de sustrato utilizo X en EE, S en EE y P en EE. Utilizando:
-- Yx/s =  XenEE / (Sr - SenEE)
-- Yp/s = PenEE / (Sr - SenEE)
+**Acumulacion para biomasa**
+
+dX / dt = -( F / V ) . X2 + rx
+
+**Acumulacion de sustrato**
+
+
+Para calcular las velocidades volumetricas de crecimiento y de consumo de sustrato utilizo X en EE, S en EE. Suponiendo mezclado perfecto y Estado estacionario. 
+- dX/dt = D . XenEE + rx = 0
+- dS/dt = D . (Sr - SenEE) - rs = 0
 # 3. ¿Cómo Explicas El Comportamiento Mostrado en la Figura Para las Curvas de Velocidad Específica de Consumo de O2 y de Producción de CO2? ¿Cómo Varía El Valor Del Cociente Respiratorio a Diferentes Valores de D? Justificá.
 
 rO2 = qO2 . X → qO2 = rO2 / X
