@@ -33,14 +33,19 @@ V . (dA/dt) = (F1 . A1) - (F2 . A2) +- V . ra
 
 **Acumulacion para biomasa**
 
-dX / dt = -( F / V ) . X2 + rx
+dX / dt = - ( F / V ) . X2 + rx
 
 **Acumulacion de sustrato**
 
+dS / dt = ( F / V ) . Sr - (F / V) . S2 - rs
 
-Para calcular las velocidades volumetricas de crecimiento y de consumo de sustrato utilizo X en EE, S en EE. Suponiendo mezclado perfecto y Estado estacionario. 
+Para calcular las velocidades volumetricas de crecimiento y de consumo de sustrato utilizo X en EE, S en EE. Suponiendo mezclado perfecto y Estado estacionario.
+
+**Velocidad volumetrica de crecimiento**
 - dX/dt = D . XenEE + rx = 0
+**Velocidad volumetrica de consumo de sustrato**
 - dS/dt = D . (Sr - SenEE) - rs = 0
+
 # 3. ¿Cómo Explicas El Comportamiento Mostrado en la Figura Para las Curvas de Velocidad Específica de Consumo de O2 y de Producción de CO2? ¿Cómo Varía El Valor Del Cociente Respiratorio a Diferentes Valores de D? Justificá.
 
 rO2 = qO2 . X → qO2 = rO2 / X
@@ -70,14 +75,15 @@ rO2 y rCO2 se calculan a partir de:
 
 V (i) seran los volumentes extraidos
 
-# 5. Considerando la información de la imagen y la disponibilidad de un biorreactor de volúmenes de trabajo entre 5-10 litros, diseñá un cultivo que te permita obtener 500g de levadura de panificación evitando la formación de etanol. Realizá un dibujo esquemático del sistema de cultivo a emplear y señalá el equipamiento que necesitas.
+# 5. Considerando la Información de la Imagen y la Disponibilidad de Un Biorreactor de Volúmenes de Trabajo Entre 5-10 Litros, Diseñá Un Cultivo que Te Permita Obtener 500g de Levadura de Panificación Evitando la Formación de Etanol. Realizá Un Dibujo Esquemático Del Sistema de Cultivo a Emplear y Señalá El Equipamiento que Necesitas.
+
 ![](https://i.imgur.com/H3fMTNt.jpg)
 
 
 Utilizo un BA
    ![](https://i.imgur.com/kWWnFtF.png)
 
-# 6. Respecto a un cultivo en sistema batch alimentado a caudal de alimentación y concentración de sustrato limitante (fuente de nitrógeno) constantes, mostrá en un gráfico como varía XV en función del tiempo. ¿Qué comportamiento tiene la velocidad específica de crecimiento en el tiempo? ¿Se observan cambios en esos comportamientos si el limitante es la fuente de carbono? Justifica con ecuaciones.
+# 6. Respecto a Un Cultivo en Sistema Batch Alimentado a Caudal de Alimentación y Concentración de Sustrato Limitante (fuente de nitrógeno) Constantes, Mostrá en Un Gráfico Como Varía XV en Función Del Tiempo. ¿Qué Comportamiento Tiene la Velocidad Específica de Crecimiento en El Tiempo? ¿Se Observan Cambios en Esos Comportamientos Si El Limitante Es la Fuente de Carbono? Justifica Con Ecuaciones.
 
 ![](https://i.imgur.com/FbIrBxV.jpg)
 
@@ -86,7 +92,7 @@ Utilizo un BA
 ●	mu irá disminuyendo→ es controlado por el operador. CONTROL CINÉTICO, controlamos la velocidad a la que el MO crece.
 ●	El flujo es constante
 
-En un BA 
+En un BA
 
 F . Nr = u . X . V / y(x/n)
 
@@ -110,7 +116,7 @@ XV = (F . Sr / ms) + { (X0 . V0) - (F . Sr / ms) } . e ^ (- ms . y x/s . t)
 - a tiempos cortos, XV caria linealmente con el tiempo igual que para el cultivo con FN limitante
 - A tiempos largos XV = cte y es igual (F . Sr / ms) → biomasa final a obtener sera menor que la que se obtendria si el rendimiento hubiese sido constante
 
-# 7. Realizá el esquema de un experimento que te permita conocer las constantes de Pirt respecto al efecto del mantenimiento sobre el crecimiento
+# 7. Realizá El Esquema de Un Experimento que Te Permita Conocer las Constantes de Pirt Respecto Al Efecto Del Mantenimiento Sobre El Crecimiento
 
 - Construye un cultivo continuo limitado en FCE
 - En cada Estado estacionario (EE) determino X y S
