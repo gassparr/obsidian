@@ -11,40 +11,19 @@
             "id": "9a98c6390e8e08e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Biotecnologia I/Teoria/Modulo 9 Destino de FCE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a0dd854ab4945c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/segundo parcial 2da fecha.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ebbcd1d46dd247b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 222.03750000000005,
+                  "y": 179.02500000000012,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/segundo parcial 2da fecha.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/segundo parcial 2da fecha.md",
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biotecnologia I/Seminarios/Varios/segundo parcial 2da fecha.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -176,13 +155,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ebbcd1d46dd247b",
+  "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
+    "Biotecnologia I/Teoria/Modulo 9 Destino de FCE.md",
     "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
     "Biotecnologia I/Seminarios/Varios/segundo parcial 2da fecha.md",
     "Biotecnologia I/Seminarios/Varios/Tarea individual 1.md",
     "Biotecnologia I/Seminarios/Varios/Primer parcial.md",
-    "Biotecnologia I/Teoria/Modulo 9 Destino de FCE.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Biotecnologia I/Teoria/Modulo 7 cultivo continuo.md",
     "Biotecnologia I/Teoria/Modulo 5.md",
