@@ -15,8 +15,8 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 222.03750000000005,
-                  "y": 179.02500000000012,
+                  "x": 458.0375,
+                  "y": 70.02500000000012,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
+    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
+    "Untitled.canvas",
     "Biotecnologia I/Teoria/Modulo 9 Destino de FCE.md",
     "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
     "Biotecnologia I/Seminarios/Varios/segundo parcial 2da fecha.md",
@@ -164,8 +166,6 @@
     "Biotecnologia I/Seminarios/Varios/Primer parcial.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Biotecnologia I/Teoria/Modulo 7 cultivo continuo.md",
-    "Biotecnologia I/Teoria/Modulo 5.md",
-    "Biotecnologia I/Teoria/Modulo 8 Batch alimentado.md",
-    "Biotecnologia I/Teoria/Modulo 4.md"
+    "Biotecnologia I/Teoria/Modulo 5.md"
   ]
 }

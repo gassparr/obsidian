@@ -1,4 +1,9 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"7cb7d8696f2cfa07","x":-149,"y":-159,"width":462,"height":446,"type":"file","file":"Biologia/Ideas Centrales.md"},
+		{"id":"5429881f3bf7c3a4","x":552,"y":-275,"width":450,"height":143,"type":"file","file":"Biologia/Ideas Centrales/Dogma central de la Biología molecular.md"}
+	],
+	"edges":[
+		{"id":"e0eb76761ddd619b","fromNode":"7cb7d8696f2cfa07","fromSide":"right","toNode":"5429881f3bf7c3a4","toSide":"left"}
+	]
 }
