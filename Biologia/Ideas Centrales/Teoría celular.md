@@ -15,8 +15,8 @@ debido a que
 ## organizacion de las celulas es semejante
 
 La organizacion y el tamano de las celulas permite mantener la [[homeostasis]]. Debido a que las celulas experimentan cambios constantes en su entorno (Temp; pH; Tonicidad).
- Para esto, se dividen los entornos a travez de la [[membrana citoplasmatica]].
- Por otro lado, tienen [[organulos]] que son estructuras especializadas en diferentes actividades metabolicas
+Para esto, se dividen los entornos a travez de la [[membrana citoplasmatica]].
+Por otro lado, tienen [[organulos]] que son estructuras especializadas en diferentes actividades metabolicas
 
 
  ## Tamanos de los microorganismos
