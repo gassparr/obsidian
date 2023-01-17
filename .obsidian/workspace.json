@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
+                "file": "pili.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,15 +37,25 @@
             "id": "62aeb579768887cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 1035.0407666603992,
-                  "y": -424.40649522337554,
-                  "zoom": -1.3607318055042539,
-                  "snapToGrid": false
-                }
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "479a4292cd98af1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -79,8 +89,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "eucar",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -108,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md"
               }
             }
           },
@@ -184,15 +194,15 @@
   },
   "active": "62aeb579768887cf",
   "lastOpenFiles": [
-    "fision binaria.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
+    "Biologia Celular Molecular/Citoesqueleto.md",
+    "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "pili.md",
     "Biologia/Microbiologia/Microorganismos/procariota.md",
-    "Biologia/Ideas Centrales/Transmisión de la información genética.md",
-    "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
-    "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md",
-    "Biologia/Ideas Centrales/Teoría celular.md",
-    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
-    "Personal/Gym/Compound only routine.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
+    "Personal/Work/CV eng.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Movimiento celular.md",
+    "Untitled.canvas",
+    "fision binaria.md",
+    "Biologia/Ideas Centrales/Transmisión de la información genética.md"
   ]
 }
