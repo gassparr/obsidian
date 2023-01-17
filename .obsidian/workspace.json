@@ -26,15 +26,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Ideas Centrales/Transmisión de la información genética.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "62aeb579768887cf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 426.5,
+                  "y": 1100.6756613473644,
+                  "zoom": -1.3607318055042539,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inmunologia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales/Transmisión de la información genética.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -104,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Ideas Centrales/Transmisión de la información genética.md",
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Ideas Centrales/Transmisión de la información genética.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -166,17 +182,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5bc0974c0a129014",
+  "active": "62aeb579768887cf",
   "lastOpenFiles": [
+    "fision binaria.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
+    "pili.md",
+    "Biologia/Microbiologia/Microorganismos/procariota.md",
+    "Biologia/Ideas Centrales/Transmisión de la información genética.md",
     "Biologia/Ideas Centrales/Niveles de organización y propiedades emergentes.md",
     "Biologia/Ideas Centrales/Relación estructura-función y modelos biológicos.md",
     "Biologia/Ideas Centrales/Teoría celular.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
-    "Personal/Gym/Compound only routine.md",
-    "Personal/Work/CV eng.md",
-    "Untitled.canvas",
-    "Biotecnologia I/Teoria/Modulo 9 Destino de FCE.md",
-    "Biotecnologia I/Seminarios/Varios/Segundo parcial.md",
-    "Biotecnologia I/Seminarios/Varios/segundo parcial 2da fecha.md"
+    "Personal/Gym/Compound only routine.md"
   ]
 }

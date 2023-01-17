@@ -1,0 +1,1 @@
+Provee punto de anclaje (por adhesion) a una superficie ya sea el medio u otras celulas

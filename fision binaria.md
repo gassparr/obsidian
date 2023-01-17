@@ -1,0 +1,1 @@
+Metodo de reproduccion asexual de las [[procariota]]s, Se forma una pared transversal en la celula madre y finalmente se separan las celulas hijas. La reproduccion esta ligada a los mesosomas. Antes de separarse las celulas, deben haber distribuido las dos copias de [[DNA]] en cada celula hija

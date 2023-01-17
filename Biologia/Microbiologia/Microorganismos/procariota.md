@@ -10,7 +10,7 @@ tipo de [[microorganismo]] su forma y su pequeño tamaño son los 2 factores mas
     
 -   Los únicos organelos membranosos son los mesosomas (invaginación de la membrana plasmática) sirve pre j, para la fotosíntesis
     
--   Los flagelos se encuentran anclados a la mp y permiten el movimiento de la célula; mediante movimientos giratorios conduce a la célula hacia adelante. Los Pili se proyectan desde las superficies de algunas bacterias, son más cortos q los flagelos y ayudan a las bacterias a adherirse con otras cuando intercambian material genético.
+-   Los flagelos se encuentran anclados a la mp y permiten el movimiento de la célula; mediante movimientos giratorios conduce a la célula hacia adelante. Los [[pili]] se proyectan desde las superficies de algunas bacterias, son más cortos q los flagelos y ayudan a las bacterias a adherirse con otras cuando intercambian material genético.
     
 
 El cito esqueleto se encuentra formado x proteínas y cumplen la función del mantenimiento celular.
