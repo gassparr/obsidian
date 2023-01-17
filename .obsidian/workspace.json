@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9a98c6390e8e08e2",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
     "pili.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
