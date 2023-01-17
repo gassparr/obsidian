@@ -75,4 +75,4 @@ membranas apiladas, funcionando en coordinacion con el RE.
 
 contiene enzimas digestivas que hidrolizan proteinas, grasas y polisacaridos. Se funden con vacuolas que introducen nutrientes y con el uso de enzimas son degradados
 
-## [[citoes]]
+## [[Citoesqueleto]]

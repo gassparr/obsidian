@@ -13,32 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work/CV eng.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bc0974c0a129014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pili.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62aeb579768887cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
                 "mode": "source",
                 "backlinks": false,
@@ -59,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,17 +166,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62aeb579768887cf",
+  "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Citoesqueleto.md",
-    "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "pili.md",
+    "Biologia Celular Molecular/Citoesqueleto.md",
+    "fision binaria.md",
+    "Personal/Work/CV eng.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md",
+    "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "Biologia/Microbiologia/Microorganismos/procariota.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
-    "Personal/Work/CV eng.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Movimiento celular.md",
-    "Untitled.canvas",
-    "fision binaria.md",
-    "Biologia/Ideas Centrales/Transmisión de la información genética.md"
+    "Untitled.canvas"
   ]
 }
