@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "file": "Personal/Work/CV eng.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "file": "Personal/Work/CV eng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "file": "Personal/Work/CV eng.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md"
+                "file": "Personal/Work/CV eng.md"
               }
             }
           },
@@ -165,17 +165,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
+    "Personal/Work/CV esp.md",
+    "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "pili.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "fision binaria.md",
     "Personal/Work/CV eng.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md",
-    "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "Biologia/Microbiologia/Microorganismos/procariota.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Movimiento celular.md",
-    "Untitled.canvas"
+    "Biologia/Microbiologia/Estructuras y Organelas/Movimiento celular.md"
   ]
 }
