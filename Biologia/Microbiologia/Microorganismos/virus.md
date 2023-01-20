@@ -16,5 +16,9 @@ Complejo supramacromoleculares que se pueden autorreplicarse en las celulas hues
 
 # Accionar
 1. Acoplamiento y fusion de la membrana
-2. Transcripcion inversa (RNA → DNA)
-3. Integracion (DNA exogeno)
+2. Transcripcion inversa (RNA viral → DNA viral)
+3. Integracion (DNA viral → DNA celular)
+4. Transcripcion
+5. Traduccion
+6. Ensamblaje
+7. Salida de viriones
