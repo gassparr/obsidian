@@ -1,3 +1,5 @@
+Complejo supramacromoleculares que se pueden autorreplicarse en las celulas huesped. Consisten en [[DNA]] o [[RNA]] rodeada por una capside formada de proteinas
+
 -   Son acelulares; sus genomas son pequeños; se reproducen rápidamente; suelen ser haploides; compuestos por un ac nucleico y una cubierta proteica; están entre lo vivo y lo inerte ya que solo viven cuando infectan una célula
     
 -   Vía lítica: el genoma viral tienen secuencias promotoras que atraen ARN polimerasa del hospedador

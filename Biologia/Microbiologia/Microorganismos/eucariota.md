@@ -42,9 +42,14 @@ Organelas:
 	- [[mitocondria]]
 	- [[hidrogenosomas]]
 	- [[cloroplastos]] (fototrofos)
-- [[nucleo]]
+- [[nucleo]] 
 - Membranas
 	- [[reticulo endoplasmico]]
 	- [[aparato de golgi]]
 	- [[lisosomas]]
 - [[Citoesqueleto]]
+- peroxisomas
+- Celula vegetal
+	- vacuolas 
+	- [[Pared Celular]] 
+	- [[cloroplastos]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "file": "Biologia/Microbiologia/Microorganismos/virus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eucar",
+                "query": "virus",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "file": "Biologia/Microbiologia/Microorganismos/virus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "file": "Biologia/Microbiologia/Microorganismos/virus.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md"
+                "file": "Biologia/Microbiologia/Microorganismos/virus.md"
               }
             }
           },
@@ -181,15 +181,15 @@
   },
   "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
+    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
+    "fision binaria.md",
+    "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "origen y función.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
-    "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "Personal/Work/CV eng.md",
     "Personal/Work/CV esp.md",
     "pili.md",
-    "Biologia Celular Molecular/Citoesqueleto.md",
-    "fision binaria.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md"
+    "Biologia Celular Molecular/Citoesqueleto.md"
   ]
 }
