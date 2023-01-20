@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enzima",
+                "query": "membrana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
     "tilacoide.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
