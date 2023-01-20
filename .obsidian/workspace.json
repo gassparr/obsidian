@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prote",
+                "query": "enzima",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Procesos Biologicos/Bioenergética.md"
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
               }
             }
           },
@@ -192,17 +193,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d860a0be31afd028",
+  "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
+    "tilacoide.md",
+    "Bioquimica 2/1 Vias/fotosintesis.md",
+    "Biologia/Procesos Biologicos/Bioenergética.md",
     "lipidos.md",
     "Microbiologia/Microorganismos/virus.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "fision binaria.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
-    "origen y función.md",
-    "Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
-    "Personal/Work/CV eng.md",
-    "Personal/Work/CV esp.md"
+    "origen y función.md"
   ]
 }
