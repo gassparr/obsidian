@@ -37,43 +37,14 @@ Existen dos estados geneticos:
 
 # Estructura
 
-## Metabolismo Energetico
-
 Organelas:
 - Metabolismo Energetico
 	- [[mitocondria]]
 	- [[hidrogenosomas]]
 	- [[cloroplastos]] (fototrofos)
 - [[nucleo]]
-## Nucleo
-
-Caracteristica distintiva de las eucariotas.
-Contiene los cromosomas de la misma, esta rodeado por un par de membranas separadas entre si por un espacio.
-
-> Membrana interna: simple saco
-> Membrana externa: continua en multiples sitios del [[reticulo endoplasmico]]
-
-tiene poros los cuales permiten el *transporte nuclear*
-
-### Nucleolo
-
-Se encuentra en el interior del nucleo, se sintetiza ARN ribosomico
-
-## Membranas
-
-### Reticulo Endoplasmatico
-
-red de membranas continuas con la membrana nuclear. Existen dos tipos de (RE):
-- Rugoso: contiene ribosomas unidos. Productor de glicoproteinas y tambien sintetiza nueva membrana para ampliar antes de la division celular
-- Liso: sin ribosomas. Participa en la sintesis de lipidos y en pocos aspectos del metabolismo de carbohidratos
-
-### Aparato de Golgi
-
-membranas apiladas, funcionando en coordinacion con el RE.
- En este se modifican quimicamente los productos del RE y se clasifican entre secretados y utilizados
-
-### Lisosomas
-
-contiene enzimas digestivas que hidrolizan proteinas, grasas y polisacaridos. Se funden con vacuolas que introducen nutrientes y con el uso de enzimas son degradados
-
-## [[Citoesqueleto]]
+- Membranas
+	- [[reticulo endoplasmico]]
+	- [[aparato de golgi]]
+	- [[lisosomas]]
+- [[Citoesqueleto]]

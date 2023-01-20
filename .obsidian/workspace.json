@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md"
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md"
               }
             }
           },
@@ -180,10 +179,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ab0134a53930de6",
+  "active": "9a98c6390e8e08e2",
   "lastOpenFiles": [
-    "origen y función.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+    "origen y función.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
     "Biologia/Microbiologia/Microorganismos/eucariota.md",
     "Personal/Work/CV eng.md",
