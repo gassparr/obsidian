@@ -1,0 +1,1 @@
+Biomoleculas organicas, insolubles en H2O y solubles en compuestos no polares
