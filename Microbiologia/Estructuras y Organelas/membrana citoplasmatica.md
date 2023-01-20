@@ -1,16 +1,17 @@
 Elemento comun en todo [[microorganismo]].
 La membrana citoplasmatica rodea el [[citosol]] y lo separa de su entorno, la membrana es estructuralmente debil y confiere poca proteccion ante la lisis osmotica. Aun asi, es especial para la permeabilidad selectiva.
 
-
 # Estructura
-## Modelo de mosaico fluido
+
+## Modelo de Mosaico Fluido
+
 Membrana como dos capas de lipidos bastante fluidas, con proteinas localizadas dentro y sobre las capas lipidicas y orientadas de forma especifica respecto a las dos superficies de la membrana.
 
 # Composicion:
 
 sera una bicapa fosfolipidica, la cual tendra componentes hidrofobicos e hidrofilos. La misma contiene hopanoides, los cuales son moleculas parecidas a los esteroles, los cuales le confieren rigides.
 
-## Proteinas intermembrana.
+## Proteinas Intermembrana.
 
 la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estaran en distintas disposiciones:
 
@@ -31,7 +32,6 @@ la bicapa contiene muchas proteinas las cuales tendran diversas funcione y estar
 - Comunicacion intercelular
 - Endocitosis y Exocitosis
 - Estructural
-
 
 ## Lipidos
 
@@ -61,7 +61,6 @@ Estos dos ultimos grupos de lipidos contienen estos, los cuales son esenciales y
 
 El principal esterol en [[eucariota]]s es el *colesterol*. Para las plantas tambien se encuentran los *fitoesteroles*, por otro lado, para los [[procariota]]s se encuentran los *hopanoides* las cuales son moleculas parecidas a los esteroles
 
-
 # Funciones
 
 - barrera de permeabilidad:
@@ -70,7 +69,14 @@ El principal esterol en [[eucariota]]s es el *colesterol*. Para las plantas tamb
     >
     > > para transportar se utilizan proteinas [[transportador]], los cuales tienen 2 caracteristicas
     > >
-    > > 1.  Tienen efecto de saturacion
-    > > 2.  Alta espeficidad
+    > > 1. Tienen efecto de saturacion
+    > > 2. Alta espeficidad
 
-  
+
+# Transporte
+- Activo → requiere energia, va en contra del gradiente de concentracion.
+	- Utiliza ATP
+	- Disipacion de graciente
+- Pasivo → No requiere energia, va a favor del gradiente de concentracion
+	- No utiliza proteina transportadora
+	- utiliza proteina transportadora

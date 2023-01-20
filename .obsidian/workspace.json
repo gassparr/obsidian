@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "membrana",
+                "query": "transporte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
+                "file": "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md"
               }
             }
           },
@@ -195,15 +195,15 @@
   },
   "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
-    "tilacoide.md",
+    "Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
+    "tilacoide.md",
     "Biologia/Procesos Biologicos/Bioenergética.md",
     "lipidos.md",
     "Microbiologia/Microorganismos/virus.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "fision binaria.md",
     "Microbiologia/Microorganismos/eucariota.md",
-    "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
-    "origen y función.md"
+    "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md"
   ]
 }
