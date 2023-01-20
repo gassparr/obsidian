@@ -72,11 +72,25 @@ El principal esterol en [[eucariota]]s es el *colesterol*. Para las plantas tamb
     > > 1. Tienen efecto de saturacion
     > > 2. Alta espeficidad
 
-
 # Transporte
+
 - Activo → requiere energia, va en contra del gradiente de concentracion.
 	- Utiliza ATP
+		- Bomba de protones
+		- Bomba sodio potasio
 	- Disipacion de graciente
 - Pasivo → No requiere energia, va a favor del gradiente de concentracion
 	- No utiliza proteina transportadora
+		- Difusion simple
 	- utiliza proteina transportadora
+	- Difusion facilitada
+		- Mediada por canal
+		- Mediada pro transportador
+
+## Clasificacion
+- Uniporte 
+  Mueve un solo sustrato
+- Simporte 
+  Mueve 2 sustratos a la vez, uno de ellos aprovecha la energia de transporte para el proceso
+- Antiporte
+  Utiliza la energia de transporte de un sustrato para migrar otro en direccion opuesta
