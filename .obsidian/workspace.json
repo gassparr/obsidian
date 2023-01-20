@@ -98,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f234cb288c04cfaf",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
     "tilacoide.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
