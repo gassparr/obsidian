@@ -12,7 +12,7 @@ Se situa en posiciones perifericas, justo debajo de la [[epidermis]] o separa po
 - [[Pared Celular]] gruesas, aportan resistencia mecanica
 - actividad meristematica
 - Presentan vacuolas
-- [[Cloroplastos]] abundantes en no especializadas y ausenten en las de sosten
+- [[cloroplastos]] abundantes en no especializadas y ausenten en las de sosten
 
 **Estructura**:
 Celulosa con hemicelulosa y pectinas le confieren al tejido resistencia y flexibilidad.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/virus.md",
+                "file": "Microbiologia/Microorganismos/virus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/virus.md",
+                "file": "Microbiologia/Microorganismos/virus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/virus.md",
+                "file": "Microbiologia/Microorganismos/virus.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Microorganismos/virus.md"
+                "file": "Microbiologia/Microorganismos/virus.md"
               }
             }
           },
@@ -182,10 +182,10 @@
   "lastOpenFiles": [
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "fision binaria.md",
-    "Biologia/Microbiologia/Microorganismos/eucariota.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+    "Microbiologia/Microorganismos/eucariota.md",
+    "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "origen y función.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
+    "Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
     "Personal/Work/CV eng.md",
     "Personal/Work/CV esp.md",
     "pili.md",
