@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virus",
+                "query": "prote",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d860a0be31afd028",
+  "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
     "Microbiologia/Microorganismos/virus.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
