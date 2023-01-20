@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lipidos.md",
+                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
               "type": "search",
               "state": {
                 "query": "prote",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lipidos.md",
+                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lipidos.md",
+                "file": "Biologia/Procesos Biologicos/Bioenergética.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lipidos.md"
+                "file": "Biologia/Procesos Biologicos/Bioenergética.md"
               }
             }
           },
@@ -193,8 +192,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f234cb288c04cfaf",
+  "active": "d860a0be31afd028",
   "lastOpenFiles": [
+    "lipidos.md",
     "Microbiologia/Microorganismos/virus.md",
     "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md",
     "fision binaria.md",
@@ -203,7 +203,6 @@
     "origen y función.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
     "Personal/Work/CV eng.md",
-    "Personal/Work/CV esp.md",
-    "pili.md"
+    "Personal/Work/CV esp.md"
   ]
 }
