@@ -40,10 +40,11 @@ Existen dos estados geneticos:
 ## Metabolismo Energetico
 
 Organelas:
-- [[mitocondria]]
-- [[hidrogenosomas]]
-- [[cloroplastos]] (fototrofos)
-
+- Metabolismo Energetico
+	- [[mitocondria]]
+	- [[hidrogenosomas]]
+	- [[cloroplastos]] (fototrofos)
+- [[nucleo]]
 ## Nucleo
 
 Caracteristica distintiva de las eucariotas.

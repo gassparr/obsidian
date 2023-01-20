@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work/CV eng.md",
+                "file": "Biologia/Microbiologia/Microorganismos/eucariota.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ab0134a53930de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV eng.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV eng.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV eng.md"
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md"
               }
             }
           },
@@ -165,17 +180,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9a98c6390e8e08e2",
+  "active": "5ab0134a53930de6",
   "lastOpenFiles": [
-    "Personal/Work/CV esp.md",
+    "origen y función.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Nucleo/Organización general.md",
     "Biologia/Microbiologia/Microorganismos/eucariota.md",
+    "Personal/Work/CV eng.md",
+    "Personal/Work/CV esp.md",
     "pili.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "fision binaria.md",
-    "Personal/Work/CV eng.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md",
-    "Biologia/Microbiologia/Microorganismos/procariota.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Movimiento celular.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Citoesqueleto.md"
   ]
 }
