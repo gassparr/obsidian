@@ -13,3 +13,8 @@ Complejo supramacromoleculares que se pueden autorreplicarse en las celulas hues
 -   Vía lisogenica: las bacterias que refugian a los virus que no son líticos 🡪bacterias lisogenicas. Tienen una entidad no infecciosa ‘’profago’’, una molécula de ADN del fago ha sido integrada al ADN bacteriano
     
 -   El virus HIV contiene transcriptasa inversa que transforma el ARN viral en ADN que se integra al huésped
+
+# Accionar
+1. Acoplamiento y fusion de la membrana
+2. Transcripcion inversa (RNA → DNA)
+3. Integracion (DNA exogeno)
