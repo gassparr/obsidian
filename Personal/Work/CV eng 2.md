@@ -1,23 +1,22 @@
-Name:
+Name: Gaspar Kaswalder
 
 Contact Information:
 
-- Phone number
-- Email address
-- LinkedIn profile (if applicable)
+- Phone number: +54 9 221 305 4186
+- Email address: gaspar@kaswalder.net
 
 Education:
 
-- Degree in Chemistry Universidad Nacional de La Plata in 2023
-- Relevant coursework:
-	- Chemistry (Organic, inorganic and analytical)
-	- Statistical math
-	- Microbiology
-	- Biotechnology
+**- Degree in Chemistry Universidad Nacional de La Plata, 2023**
+	- Relevant coursework:
+		- Chemistry (Organic, inorganic and analytical)
+		- Statistical math
+		- Microbiology
+		- Biotechnology
 
 Experience:
 
-- Chemical Technician, KPK Works, 2020 → 2022
+- **Chemical Technician, KPK Works, 2020 → 2022**
 
     - Responsibilities:
 	1. Conducting safety checks to ensure that equipment is in compliance with local and national regulations.
@@ -25,7 +24,7 @@ Experience:
 	3. Participating in the development and implementation of safety procedures, protocols and guidelines.
 	4. Supporting the maintenance of inventory and ordering spare parts as required.
 
-- Laboratory Assistant, Universidad Nacional de La Plata, 2022 → 2023
+- **Laboratory Assistant, Universidad Nacional de La Plata, 2022 → 2023**
 
     - Responsibilities:
 	    1. Assisting in the preparation of laboratory samples and reagents, including sterilization of equipment and media.
@@ -35,13 +34,10 @@ Experience:
 	    5. Performing basic laboratory cleaning and organization tasks such as washing glassware and keeping the lab clean and tidy.
 
 
-Skills:
+**Skills:**
 
 - Laboratory techniques: chromatography, spectroscopy, microscopy, centrifugation, distillation, Etc.
 - Software: Excel, GraphPad, and Matlab.
 - Safety: Knowledge of safety protocols and procedures, including handling hazardous materials, chemical disposal, and emergency response.
 - Technical writing: Experience in writing laboratory reports and technical documents, including Standard Operating Procedures (SOPs) and experimental protocols.
 
-Certifications:
-
-- [list relevant certifications, e.g. OSHA HAZWOPER, chemical safety training]

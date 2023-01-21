@@ -71,9 +71,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "205990ef936a8157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Work/CV eng 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0c9c2a4576fd906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Work/CV esp 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -131,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV eng 2.md",
+                "file": "Personal/Work/CV esp 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV eng 2.md",
+                "file": "Personal/Work/CV esp 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV eng 2.md"
+                "file": "Personal/Work/CV esp 2.md"
               }
             }
           },
@@ -205,17 +231,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d89502691d98fe65",
+  "active": "e0c9c2a4576fd906",
   "lastOpenFiles": [
+    "Personal/Work/CV template.md",
+    "Personal/Work/CV esp 2.md",
+    "Personal/Work/CV eng 2.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "Microbiologia/Microorganismos/virus.md",
     "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
     "Microbiologia/Antimicrobianos/Antimicrobianos.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
-    "tilacoide.md",
-    "Biologia/Procesos Biologicos/Bioenergética.md",
-    "lipidos.md",
-    "Biologia/Ideas Centrales/Dogma central de la Biología molecular.md"
+    "tilacoide.md"
   ]
 }
