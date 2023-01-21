@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia Celular Molecular/Citoesqueleto.md",
+                "file": "microtúbulos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Citoesqueleto.md",
+                "file": "microtúbulos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Citoesqueleto.md",
+                "file": "microtúbulos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Citoesqueleto.md"
+                "file": "microtúbulos.md"
               }
             }
           },
@@ -194,15 +194,15 @@
   },
   "active": "479a4292cd98af1c",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Citoesqueleto.md",
+    "microtúbulos.md",
+    "filamentos Intermedios.md",
+    "microfilamentos.md",
     "Personal/Work/CV template.md",
     "Personal/Work/CV esp 2.md",
     "Personal/Work/CV eng 2.md",
-    "Biologia Celular Molecular/Citoesqueleto.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "Microbiologia/Microorganismos/virus.md",
-    "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
-    "Microbiologia/Antimicrobianos/Antimicrobianos.md",
-    "Bioquimica 2/1 Vias/fotosintesis.md",
-    "tilacoide.md"
+    "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md"
   ]
 }
