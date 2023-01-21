@@ -10,7 +10,7 @@
 
 se asocian con la membrana nuclear y la membrana citoplasmatica, brindando sosten estructural a la celula para protegerlas contra presiones y tensiones
 
-- Rol importante constituyendo tonofilamentos de los desmosomas y uniones intermedias
+- Rol importante constituyendo tonofilamentos de los *desmosomas* y *uniones intermedias*
 - En celulas nerviosas forman neurofilamentos para el transporte axonal
 - Relacionadas con el esfuerzo mecanico
 
