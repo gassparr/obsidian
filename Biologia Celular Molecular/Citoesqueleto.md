@@ -2,7 +2,7 @@ Además de sus numerosos orgánulos delimitados por membrana, el citoplasma euca
 
 - *[[microtúbulos]]* 
 - *[[filamentos Intermedios]]*
-- *[[microfilamentos]]*
+- *[[microfilamentos]]* (Filamentos de actina)
 
 
 El citoesqueleto se encuentra asociado a la membrana plasmatica paradarle forma y movimiento a las celulas

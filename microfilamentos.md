@@ -1,3 +1,11 @@
+Filamentos compuestos por actina, los cuales tienen un rol inicial en el:
+- mantenimiento de la forma de la celula
+- Cambios en la forma celular
+- contraccion muscular
+- corriente citoplasmatica
+- motilidad celular
+- division celular
+- 
 # Microfilamentos
 
 Fuertemente asociada al movimiento celular

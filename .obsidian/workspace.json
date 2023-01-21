@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "filamentos Intermedios.md",
+                "file": "microfilamentos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "filamentos Intermedios.md",
+                "file": "microfilamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "filamentos Intermedios.md",
+                "file": "microfilamentos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "filamentos Intermedios.md"
+                "file": "microfilamentos.md"
               }
             }
           },
