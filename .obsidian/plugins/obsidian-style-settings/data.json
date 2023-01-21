@@ -267,5 +267,7 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-darker",
   "anuppuccin-theme-settings@@anp-embed-toggle": false,
-  "anuppuccin-theme-settings@@anp-embed-animated-toggle": false
+  "anuppuccin-theme-settings@@anp-embed-animated-toggle": false,
+  "encore-settings@@theme-dark": "encore-theme-dark-atom",
+  "encore-settings@@encore-coloured-tooltip": true
 }

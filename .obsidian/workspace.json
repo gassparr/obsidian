@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV template.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV template.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV template.md"
+                "file": "Biologia Celular Molecular/Citoesqueleto.md"
               }
             }
           },
@@ -231,10 +231,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e0c9c2a4576fd906",
+  "active": "479a4292cd98af1c",
   "lastOpenFiles": [
-    "Personal/Work/CV esp 2.md",
     "Personal/Work/CV template.md",
+    "Personal/Work/CV esp 2.md",
     "Personal/Work/CV eng 2.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
