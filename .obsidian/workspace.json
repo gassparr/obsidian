@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5ab0134a53930de6",
+            "id": "479a4292cd98af1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+                "file": "microfilamentos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "479a4292cd98af1c",
+            "id": "0d6c2bbfbf10c942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uni",
+                "query": "citoes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "Biologia Celular Molecular/Citoesqueleto.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microtúbulos.md"
+                "file": "Biologia Celular Molecular/Citoesqueleto.md"
               }
             }
           },
@@ -192,11 +193,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "479a4292cd98af1c",
+  "active": "0d6c2bbfbf10c942",
   "lastOpenFiles": [
+    "filamentos Intermedios.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
     "microtúbulos.md",
-    "filamentos Intermedios.md",
     "microfilamentos.md",
     "Personal/Work/CV template.md",
     "Personal/Work/CV esp 2.md",
