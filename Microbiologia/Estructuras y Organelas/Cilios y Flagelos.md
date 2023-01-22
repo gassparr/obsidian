@@ -7,3 +7,6 @@ Gracias al citoesqueleto muchas células [[eucariota]] cuentan con ciertas estru
 
 Seccionados transversalmente ambos poseen una membrana plasmática junto a una disposición específica de microtúbulos. En el [[citosol]] en la base de cada flagelo o cilio se encuentra un orgánulo denominado cuerpo basal.
 
+# Flagelo 
+
+![](https://i.imgur.com/UoDefFC.png)
