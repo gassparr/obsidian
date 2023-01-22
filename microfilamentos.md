@@ -4,8 +4,8 @@ Filamentos compuestos por actina, los cuales tienen un rol inicial en el:
 - contraccion muscular
 - corriente citoplasmatica
 - motilidad celular
-- division celular
-- 
+- division celular (formacion de anillo contractil)
+
 # Microfilamentos
 
 Fuertemente asociada al movimiento celular
