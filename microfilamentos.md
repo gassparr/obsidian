@@ -15,6 +15,7 @@ Fuertemente asociada al movimiento celular
 Datos:
 - Polipeptido unido por ATP
 - Constituye el 10% de la proteina total de la celula
+- Forma Gel citoplasmatico
 - Estructura polar con dos extremos distinos:
   - *Extremo (+) o Cola de Flecha
   - *Extremo (-) o Punta de Flecha*

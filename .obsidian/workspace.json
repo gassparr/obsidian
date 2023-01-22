@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microfilamentos.md",
+                "file": "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "citoes",
+                "query": "cilio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microfilamentos.md",
+                "file": "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microfilamentos.md",
+                "file": "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microfilamentos.md"
+                "file": "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md"
               }
             }
           },
@@ -195,10 +195,10 @@
   },
   "active": "0d6c2bbfbf10c942",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Citoesqueleto.md",
-    "filamentos Intermedios.md",
     "microtúbulos.md",
     "microfilamentos.md",
+    "Biologia Celular Molecular/Citoesqueleto.md",
+    "filamentos Intermedios.md",
     "Personal/Work/CV template.md",
     "Personal/Work/CV esp 2.md",
     "Personal/Work/CV eng 2.md",
