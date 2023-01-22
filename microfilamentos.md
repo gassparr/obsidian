@@ -63,7 +63,7 @@ Familia de proteinas motoras mecanoquimicas (utilizan ATP para cambiar conformac
 Miosinas ligadas a membrana estan asociadas a movimiento de algunas vesiculas
 
 **Contraccion muscular**
-Hidrolisis de ATP genera cambios conformacionales de miosina
+Hidrolisis de ATP genera cambios conformacionales de *miosina*
 
 **Miosina II**
 Confiere rigidez a la membrana y desempena rol esencial en citocinesis (ya que genera el anillo contractil)
