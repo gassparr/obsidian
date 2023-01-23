@@ -1,0 +1,1 @@
+Compuesto por oligosacaridos de glicolipidos y glicoproteinas

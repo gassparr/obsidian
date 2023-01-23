@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a02f55dab28f9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "glicocalix.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,8 +102,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cilio",
-                "matchingCase": false,
+                "query": "glicoca",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
+                "file": "glicocalix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
+                "file": "glicocalix.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md"
+                "file": "glicocalix.md"
               }
             }
           },
@@ -193,8 +205,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0d6c2bbfbf10c942",
+  "active": "5a02f55dab28f9e7",
   "lastOpenFiles": [
+    "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
     "microtúbulos.md",
     "microfilamentos.md",
     "Biologia Celular Molecular/Citoesqueleto.md",
@@ -203,7 +216,6 @@
     "Personal/Work/CV esp 2.md",
     "Personal/Work/CV eng 2.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
-    "Microbiologia/Microorganismos/virus.md",
-    "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md"
+    "Microbiologia/Microorganismos/virus.md"
   ]
 }
