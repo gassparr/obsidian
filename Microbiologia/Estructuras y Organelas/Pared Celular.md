@@ -1,11 +1,11 @@
 | Organismos | Componentes     |
 |:---------- |:--------------- |
 | Bacterias  | Peptidoglucanos |
-| Protistas  | Glucoproteinas y polisacaridos                | 
+| Protistas  | Glucoproteinas y polisacaridos                |
 | Hongos     | Quitina, glucanos y proteinas                |
 | Plantas    | Celulosa                 |
 
-
+# [[procariota#Pared Celular:]]
 
 # Plantas
 
@@ -17,11 +17,9 @@ la pared celular se clasifica segundo se grado de diferenciacion celular, compos
 	- Da forma a la celula
 	- Protege la celula
 - Tipos:
-
 	- Primaria
 		- Hemicelulosas
 		- Celulosas
-
 	- Secundaria
 		- Lignina
 
@@ -41,7 +39,6 @@ Poseen celulosa, hemicelulosas y pectinas
 	  - Regulan adhesion celular
 	  - Regulan porosidad celular
 	  - Regulan el pH de la pared
-
 
 ### Pared Secundaria
 
