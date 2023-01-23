@@ -197,12 +197,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +217,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "1fd5cb559feb59e1",
   "lastOpenFiles": [
     "Biologia Vegetal/Bloque 1.md",
     "glicocalix.md",
