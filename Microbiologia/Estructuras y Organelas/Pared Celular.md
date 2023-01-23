@@ -1,7 +1,13 @@
 Sintetizada por la propia celula [[Plantas]], siendo una parte imprescindible de ella.
 
+# plantas
+la pared celular se clasifica segundo se grado de diferenciacion celular, composicion quimica y funcion:
+
 - Funciones:
 	- Aporta rigidez
+	- Une celulas entre si
+	- Da forma a la celula
+	- Protege la celula
 
 - Tipos:
 	
@@ -13,8 +19,6 @@ Sintetizada por la propia celula [[Plantas]], siendo una parte imprescindible de
 		- Lignina
 
 
-# plantas
-la pared celular se clasifica segundo se grado de diferenciacion celular, composicion quimica y funcion:
 
 ## Pared
 Secundaria por dentro de la primaria. Membrana plasmatica por dentro e la pared secundaria y lamina media por fuera de la pared primaria

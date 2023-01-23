@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glicocalix.md",
+                "file": "Biologia Vegetal/Bloque 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd5cb559feb59e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,8 +115,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glicoca",
-                "matchingCase": true,
+                "query": "path: pared",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glicocalix.md",
+                "file": "Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glicocalix.md",
+                "file": "Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glicocalix.md"
+                "file": "Microbiologia/Estructuras y Organelas/Pared Celular.md"
               }
             }
           },
@@ -205,8 +218,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a02f55dab28f9e7",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
+    "Biologia Vegetal/Bloque 1.md",
+    "glicocalix.md",
     "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
     "microtúbulos.md",
     "microfilamentos.md",
@@ -214,8 +229,6 @@
     "filamentos Intermedios.md",
     "Personal/Work/CV template.md",
     "Personal/Work/CV esp 2.md",
-    "Personal/Work/CV eng 2.md",
-    "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
-    "Microbiologia/Microorganismos/virus.md"
+    "Personal/Work/CV eng 2.md"
   ]
 }
