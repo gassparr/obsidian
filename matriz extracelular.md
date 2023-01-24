@@ -2,12 +2,16 @@
 
 - Proteinas
 	- Estructurales
-		- Colageno
+		- [[colageno]]
 		- Elastina
 	- Adhesivas
 		- Fibronectina
 		- Laminina
 - Polisacaridos
+	- Glucosaminoglucanos
+	- Proteoglucanos
+
+
 
 # Funciones
 
