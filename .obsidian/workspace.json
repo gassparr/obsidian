@@ -63,22 +63,33 @@
             "id": "ec8023624e16b735",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "matriz extracelular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "194d71125ea7353f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "562833deb401a343",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bc9fd46b3db0757",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "colageno.md",
+                "file": "Biologia Celular Molecular/Uniones intercelulares.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "uniones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "colageno.md",
+                "file": "Biologia Celular Molecular/Uniones intercelulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "colageno.md",
+                "file": "Biologia Celular Molecular/Uniones intercelulares.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "colageno.md"
+                "file": "Biologia Celular Molecular/Uniones intercelulares.md"
               }
             }
           },
@@ -218,17 +229,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "194d71125ea7353f",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Matriz extracelular.md",
+    "Biologia Celular Molecular/Uniones intercelulares.md",
     "matriz extracelular.md",
+    "lamina basal.md",
+    "elastina.md",
+    "colageno.md",
     "Microbiologia/Estructuras y Organelas/Pared Celular.md",
     "Microbiologia/Microorganismos/procariota.md",
     "Microbiologia/Microorganismos/bacterias.md",
-    "bacteria.md",
-    "Biologia Vegetal/Bloque 1.md",
-    "glicocalix.md",
-    "Microbiologia/Estructuras y Organelas/Cilios y Flagelos.md",
-    "microtúbulos.md",
-    "microfilamentos.md"
+    "bacteria.md"
   ]
 }
