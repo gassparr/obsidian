@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia Celular Molecular/Uniones intercelulares.md",
+                "file": "comunicacion celular.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Uniones intercelulares.md",
+                "file": "comunicacion celular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Uniones intercelulares.md",
+                "file": "comunicacion celular.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Uniones intercelulares.md"
+                "file": "comunicacion celular.md"
               }
             }
           },
@@ -229,17 +229,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "7bc9fd46b3db0757",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Matriz extracelular.md",
+    "Personal/Gym/Compound only routine.md",
     "Biologia Celular Molecular/Uniones intercelulares.md",
+    "Biologia Celular Molecular/Matriz extracelular.md",
     "matriz extracelular.md",
     "lamina basal.md",
     "elastina.md",
     "colageno.md",
     "Microbiologia/Estructuras y Organelas/Pared Celular.md",
     "Microbiologia/Microorganismos/procariota.md",
-    "Microbiologia/Microorganismos/bacterias.md",
-    "bacteria.md"
+    "Microbiologia/Microorganismos/bacterias.md"
   ]
 }
