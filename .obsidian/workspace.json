@@ -8,96 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a98c6390e8e08e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microbiologia/Microorganismos/virus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d860a0be31afd028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "479a4292cd98af1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "microfilamentos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fd5cb559feb59e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Pared Celular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec8023624e16b735",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "194d71125ea7353f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "562833deb401a343",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7bc9fd46b3db0757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microbiologia/Microorganismos/eucariota.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cda9ed4a42b65c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bc9fd46b3db0757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reticulo endoplasmico.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organelas",
+                "query": "reticulo endo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organelas.md",
+                "file": "reticulo endoplasmico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organelas.md",
+                "file": "reticulo endoplasmico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organelas.md"
+                "file": "reticulo endoplasmico.md"
               }
             }
           },
@@ -243,17 +166,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4cda9ed4a42b65c9",
+  "active": "7bc9fd46b3db0757",
   "lastOpenFiles": [
+    "organelas.md",
+    "reticulo endoplasmico.md",
+    "microfilamentos.md",
+    "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
     "Microbiologia/Microorganismos/eucariota.md",
-    "Tecnicas/citometria de flujo.md",
-    "comunicacion celular.md",
-    "Personal/Gym/Compound only routine.md",
-    "Biologia Celular Molecular/Uniones intercelulares.md",
-    "Biologia Celular Molecular/Matriz extracelular.md",
-    "matriz extracelular.md",
-    "lamina basal.md",
-    "elastina.md",
-    "colageno.md"
+    "Biologia Celular Molecular/Apoptosis.md",
+    "Microbiologia/Microorganismos/procariota.md",
+    "microtúbulos.md",
+    "filamentos Intermedios.md",
+    "Biologia Celular Molecular/Citoesqueleto.md"
   ]
 }
