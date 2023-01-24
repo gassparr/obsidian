@@ -2,12 +2,16 @@
 
 Uniones de las celulas vegetales, formadas por las paredes y recubiertos por membrana plasmatica, la cual es continua entre las 2 celulas
 
-# Uniones de la Hendidura
+# Uniones de Comuniacion
 
-Canales entre celulas vecinas que permiten transporte de iones, agua y otras sustancias.
+## Hendidura
 
-**Composicion**
+Canales entre celulas vecinas que permiten transporte de iones, agua y otras sustancias. las proteinas que lo forman son:
 - Conexinas → Forman estructura alargada llamada Conexon para formar un canal con otro conexon
+
+## Plasmodesmos
+
+Uniones de comunicacion para las celulas vegetales
 
 # Uniones Estrechas
 
