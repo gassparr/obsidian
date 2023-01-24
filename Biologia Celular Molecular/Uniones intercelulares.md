@@ -23,9 +23,8 @@ Claudinas → Filamentos que forman red ramificada
 
 ### Desmosomas y Hemidesmosomas
 
-**Composicion**
+Cadherinas → Proteinas de adhesion, las cuales generan interacciones *celula - celula*. Dentro de la celula se unen a la placa citoplasmica, la cual esta conectada con los filamentos intermedios
 
-Cadherinas → Proteinas de adhesion, las cuales generan interacciones *celula - celula*
-Dentro de la celula se unen a la placa citoplasmica, la cual esta conectada con los filamentos intermedios
+## Celula - [[Matriz extracelular]]
 
-## Celula - [[matriz extracelular]] [[Biologia Celular Molecular/Matriz extracelular]]
+Se generan los *contactos focales* a partir de los filamentos de actina e integrinos
