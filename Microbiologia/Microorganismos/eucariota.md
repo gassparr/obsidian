@@ -2,7 +2,7 @@ Tipo de [[microorganismo]] el cual es mas grande que los [[procariota]] y contie
 
 - Dimensiones hasta 10 veces mayores que las procariontes
 
-# Organelas
+# [[organelas]]
 
 - El [[nucleo]] es el orgánulo más grande de la célula; sitio de replicación de ADN; sitio de control genético de las act celulares; en el nucléolo comienza el ensamblaje de ribosomas a partir de ARN y proteínas específicas. El núcleo está rodeado x 2 membranas que forman la envoltura nuclear y tienen poros nucleares, que conectan el interior con el citoplasma (están compuestos x más de 100 proteínas diferentes que interactúan de manera hidrófoba). En ciertos sitios la membrana ext. de la envoltura nuclear se pliega hacia afuera y se continúa formando el RE.
 - Los ribosomas se hallan en el citoplasma (libres) y en el RE (adheridos) o dentro de las mitocondrias y cloroplastos. Son los sitios de síntesis de las proteínas bajo la dirección de los ac nucleicos.

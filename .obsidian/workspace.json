@@ -89,7 +89,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comunicacion celular.md",
+                "file": "Microbiologia/Microorganismos/eucariota.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cda9ed4a42b65c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organelas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -126,16 +139,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comunicacion ",
+                "query": "organelas",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comunicacion celular.md",
+                "file": "organelas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comunicacion celular.md",
+                "file": "organelas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comunicacion celular.md"
+                "file": "organelas.md"
               }
             }
           },
@@ -229,17 +243,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7bc9fd46b3db0757",
+  "active": "4cda9ed4a42b65c9",
   "lastOpenFiles": [
+    "Microbiologia/Microorganismos/eucariota.md",
+    "Tecnicas/citometria de flujo.md",
+    "comunicacion celular.md",
     "Personal/Gym/Compound only routine.md",
     "Biologia Celular Molecular/Uniones intercelulares.md",
     "Biologia Celular Molecular/Matriz extracelular.md",
     "matriz extracelular.md",
     "lamina basal.md",
     "elastina.md",
-    "colageno.md",
-    "Microbiologia/Estructuras y Organelas/Pared Celular.md",
-    "Microbiologia/Microorganismos/procariota.md",
-    "Microbiologia/Microorganismos/bacterias.md"
+    "colageno.md"
   ]
 }
