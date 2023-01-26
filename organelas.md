@@ -6,8 +6,9 @@
 - vesiculas de secrecion
 - [[lisosomas]]
 - [[vacuolas]]
-- [[peroxisoma]]
 
+# Peroxisomas 
+- [[peroxisoma]]
 ## Endocitosis y Exocitosis
 
 mecanismo para el trafico entre compartimentos del sistema de endomembranas

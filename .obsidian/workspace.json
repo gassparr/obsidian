@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lisosomas.md",
+                "file": "organelas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lisosomas.md",
+                "file": "organelas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lisosomas.md",
+                "file": "organelas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lisosomas.md"
+                "file": "organelas.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "562833deb401a343",
   "lastOpenFiles": [
+    "peroxisoma.md",
     "organelas.md",
-    "vacuolas.md",
     "lisosomas.md",
+    "vacuolas.md",
     "reticulo endoplasmico.md",
     "aparato de golgi.md",
     "microfilamentos.md",
     "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md",
     "Microbiologia/Microorganismos/eucariota.md",
-    "Biologia Celular Molecular/Apoptosis.md",
-    "Microbiologia/Microorganismos/procariota.md"
+    "Biologia Celular Molecular/Apoptosis.md"
   ]
 }

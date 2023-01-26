@@ -1,4 +1,5 @@
 El **lisosoma** es un organelo que contiene enzimas digestivas y funciona como la instalación de reciclaje de los organelos de una célula animal. Rompe las estructuras viejas e innecesarias para que sus moléculas se puedan reutilizar. Los lisosomas son parte del sistema endomembranoso, y algunas vesículas que abandonan el Golgi están destinadas al lisosoma.
 
 Los lisosomas también pueden digerir partículas extrañas que ingresan a la célula desde el exterior. Como ejemplo, consideremos un tipo de glóbulo blanco llamado macrófago, que es parte del sistema inmunológico humano. En un proceso conocido como **fagocitosis**, una sección de la membrana plasmática del macrófago se invagina, se pliega hacia adentro, para engullir un patógeno.
- La sección invaginada, con el patógeno adentro, se desprende de la membrana plasmática para formar una estructura llamada fagosoma. El fagosoma luego se fusiona con un lisosoma, y forma un compartimento combinado en el que las enzimas digestivas destruyen al patógeno.
+
+La sección invaginada, con el patógeno adentro, se desprende de la membrana plasmática para formar una estructura llamada fagosoma. El fagosoma luego se fusiona con un lisosoma, y forma un compartimento combinado en el que las enzimas digestivas destruyen al patógeno.
