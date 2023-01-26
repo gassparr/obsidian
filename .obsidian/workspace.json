@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,10 +89,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nucleo",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md"
               }
             }
           },
@@ -193,10 +193,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f234cb288c04cfaf",
+  "active": "38855d964e9a96c6",
   "lastOpenFiles": [
-    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
+    "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Microbiologia/Estructuras y Organelas/cloroplastos.md",
     "fermentacion.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
