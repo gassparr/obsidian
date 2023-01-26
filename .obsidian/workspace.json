@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organelas.md",
+                "file": "Microbiologia/Estructuras y Organelas/mitocondria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reticulo endo",
+                "query": "mitocon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organelas.md",
+                "file": "Microbiologia/Estructuras y Organelas/mitocondria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organelas.md",
+                "file": "Microbiologia/Estructuras y Organelas/mitocondria.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organelas.md"
+                "file": "Microbiologia/Estructuras y Organelas/mitocondria.md"
               }
             }
           },
@@ -167,8 +168,8 @@
   },
   "active": "562833deb401a343",
   "lastOpenFiles": [
-    "peroxisoma.md",
     "organelas.md",
+    "peroxisoma.md",
     "lisosomas.md",
     "vacuolas.md",
     "reticulo endoplasmico.md",
