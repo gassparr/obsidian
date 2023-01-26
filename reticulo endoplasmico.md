@@ -32,4 +32,11 @@
 2. Ribosomas sintetizan proteinas en el citosol
 3. Proteinas van a las organelas ( Plastidos, Mitocondrias, Peroxisomas, RER)
 4. En el RER se generan la conformaciones de las proteinas
+   - Procesamiento inicial del oligosacarido central
+   - Eliminacion de proteinas mal plegadas
 5. Del RER pasan al complejo de golgi utilizando vesiculas
+   1. Union de N-AcGalactosamina a Serina o treonina
+   2. Eliminacion de manosa
+   3. Eliminacion de manosa y union de N-Acglucosamina
+   4. adicion de galactora y adicion de Acido sialico
+   5. Adicion de acido sialico y sulfatacion de tirosina
