@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fermentacion.md",
+                "file": "Microbiologia/Estructuras y Organelas/cloroplastos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38855d964e9a96c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fermentacion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fermentacion.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fermentacion.md",
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fermentacion.md"
+                "file": "Bioquimica 2/1 Vias/fotosintesis.md"
               }
             }
           },
@@ -180,8 +193,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1b677c3faf47344f",
+  "active": "38855d964e9a96c6",
   "lastOpenFiles": [
+    "Microbiologia/Estructuras y Organelas/cloroplastos.md",
+    "fermentacion.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
     "Microbiologia/Estructuras y Organelas/mitocondria.md",
     "organelas.md",
@@ -189,8 +204,6 @@
     "lisosomas.md",
     "vacuolas.md",
     "reticulo endoplasmico.md",
-    "aparato de golgi.md",
-    "microfilamentos.md",
-    "Microbiologia/Estructuras y Organelas/membrana citoplasmatica.md"
+    "aparato de golgi.md"
   ]
 }

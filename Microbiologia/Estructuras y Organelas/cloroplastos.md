@@ -1,4 +1,7 @@
-Organela de las [[Plantas]]
+[[organelas]] de las [[Plantas]], la cual contiene moleculas de [[DNA]] propias junto a [[ribosoma]] 
+
+# Funciones
+- llevar a cabo la [[fotosintesis]]
 
 # Estructura
 
