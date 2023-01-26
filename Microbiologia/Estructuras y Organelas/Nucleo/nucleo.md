@@ -64,3 +64,21 @@ Trafico bidireccional continuo entre [[citosol]] y nucleo compuesto por:
 	- Proteinas reguladoras de genes
 - Proteinas sintetizadas en el nucleo (salen):
 	- RNA y complejos ribonucleoproteicos
+
+## Importacion nuclear
+
+1. proteina con senal de localizacion nuclear (carga)
+2. Proteina se une a receptor de importacion nuclear
+3. Proteina + receptor atraviesan poro nuclear
+4. Ran-GTP se une a receptor, generando desacople de proteina
+5. Ran-GTP + receptor salen por el poro nuclear
+6. Ran-GTP y receptor se desacoplan
+
+## Exportacion nuclear
+
+1. Receptor de exportacion nuclear se une a proteina y a Ran-GTP
+2. Complejo Receptor+proteina+Ran-GTP pasa por el poro nuclear
+3. Ran-GTP se desacopla junto a proteina
+
+> Ran-GTP + receptor exclusivo para salir del nucleo
+> Receptor solo exclusivo para entrar al nucleo
