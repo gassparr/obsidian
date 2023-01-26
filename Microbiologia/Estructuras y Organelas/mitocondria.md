@@ -2,7 +2,9 @@
 Organela de las celulas [[eucariota]], donde la cantidad depende del tipo y tamaño de celula por lo comun miden entre (0.5-1.0)um.
 
 # Funciones
-- Formacion de ATP a partir de piruvato
+
+- Formacion de ATP a partir de la ATP sintetasa, la cual utiliza como energia a el gradiente electroquimica de H+ entre la membrana
+
 # Estructura
 
 Sistema de doble membrana:
@@ -21,6 +23,11 @@ El interior de la mitocondria tiene una **matriz semifluida**, en donde se encue
 | Membrana interna | - Transporte de electrones - Fosforilación oxidativa - Transporte metabólico |
 | Matriz | - Oxidación del piruvato - Ciclo del TCA - B-oxidación de lópidos - Replicación del DNA - Síntesis de RNA (transcripción) - Síntesis de proteínas (traducción) |
 
-## Complejos F
+## ATP Sintetasa
 
-sobresalen desde la membrana interna hacia la matriz
+Proteina enzimatica transmembrana, la cual esta conformada por dos complejos F los cuales son responsables para la sintesis de ATP
+
+### Complejos F
+
+- Complejo F1 → unidad catalica (ATP sintetasa), se encuentra *sobresaliendo* la membrana
+- Complejo F0 → Unidad bombeadora de H+, se encuentra *integrado* a la membrana

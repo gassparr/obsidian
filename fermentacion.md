@@ -1,0 +1,3 @@
+- En ausencia de O2
+- En [[procariota]] y [[eucariota]]
+- Permite regeneracion de NAD+ para que no se detenga la glucolisis

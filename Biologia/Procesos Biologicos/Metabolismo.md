@@ -35,7 +35,7 @@ Clasificacion:
 
 - Anaerobios estrictos:
 	No pueden utilizar O2 como aceptor final de e(-).
-	Para oxidar la glucosa utilizan la fermentacion
+	Para oxidar la glucosa utilizan la [[fermentacion]]
 
 - Facultativos
 	pueden desarrollarse tanto en presencia como ausencia de O2,
