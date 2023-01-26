@@ -92,7 +92,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -193,7 +193,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38855d964e9a96c6",
+  "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
