@@ -29,10 +29,10 @@ En el fotosistema se encuentra:
     Complejo de antena, donde se encuentra variedad de pigmentos, lo cual le permite mayor absorcion dentro del espectro visible.
 
 - Centro de Reaccion:
-    Toda la energia captada, llega a una Clorofila A denominada _pigmento diana_. Donde cuando los pigmentos de la antena captan fotones, y por resonancia transfieren energia hacia el _pigmento diana_
+    Toda la energia captada, llega a una Clorofila A denominada *pigmento diana*. Donde cuando los pigmentos de la antena captan fotones, y por resonancia transfieren energia hacia el *pigmento diana*
 
-Una vez que se ioniza el _pigmento diana_ se transfieren 2 e(-) y los mismos iran a una cadena transportadora
-la cual puede ser **ciclica** o **aciclica**. Para recuperar los e(-) perdidos por el _pigmento diana_ se oxida al donado de e(-)
+Una vez que se ioniza el *pigmento diana* se transfieren 2 e(-) y los mismos iran a una cadena transportadora
+la cual puede ser **ciclica** o **aciclica**. Para recuperar los e(-) perdidos por el *pigmento diana* se oxida al donado de e(-)
 
 ### Tipos
 
@@ -65,7 +65,7 @@ Ocurren 3 procesos:
 
     Los protones que ahoran estan dentro del [[tilacoide]] seran bombeados por la fuerza proton motriz a travez de la [[ATP]] Sintetasa formando asi [[ATP]]
 
-3. El Citocromo B6F cede los e(-) hacia una la _plastocianina_, la cual cede esos e(-) hacia la Clorofila A1 en el fotosistema 1. La Clorofila A1 pierde 2 e(-) cediendolos hacia una Clorofila A0 y la misma cedera hacia una Citoquinona (K1), esta los cede hacia la Feredoxina(Fd) para asi proveerlos hacia el [[NADP+]] reductasa
+3. El Citocromo B6F cede los e(-) hacia una la *plastocianina*, la cual cede esos e(-) hacia la Clorofila A1 en el fotosistema 1. La Clorofila A1 pierde 2 e(-) cediendolos hacia una Clorofila A0 y la misma cedera hacia una Citoquinona (K1), esta los cede hacia la Feredoxina(Fd) para asi proveerlos hacia el [[NADP+]] reductasa
 
     > Cit B6F → PQ → A1 → A0 → K1 → Fd → [[NADP+]]
 
@@ -73,10 +73,12 @@ Ocurren 3 procesos:
 
 ## Oscura
 
+
 [[Ciclo de Calvin]]
 
 - Biosintesis de Moleculas organicas
-
+- Ocurre en el estoma
+- No requiere luz 
 # Ocurrencia
 
 - [[bacterias]]
@@ -95,11 +97,11 @@ H2A = H2S o succinato en [[bacterias]] fotosinteticas purpuras o verdes
 > 2 H2O + 2 A + Luz --> 2 AH2 + O2
 
 A = reactivos de hill
-_en cloroplastos_ el aceptor de e- sera [[NADP+]]
+*en cloroplastos* el aceptor de e- sera [[NADP+]]
 
 ## Experimento de Hill
 
-# Complejo de almacenamiento de luz (LHC)
+# Complejo de Almacenamiento de Luz (LHC)
 
 Clorofila asociada con proteinas de union especifica, formando LHC (light harvesting complex).
 LHC es un trimero, con los monomeros:
@@ -108,7 +110,7 @@ LHC es un trimero, con los monomeros:
 - siete moleculas de clorofila (A) y cinco de clorofila (B)
 - dos moleculas de pigmentos accesorios luteina
 
-## Destinos de energia absorbida en pigmentos
+## Destinos de Energia Absorbida en Pigmentos
 
 > luz --> Pigmento --> pigmento\*
 >
@@ -121,9 +123,9 @@ LHC es un trimero, con los monomeros:
 
 ## Mecanismo
 
-Al aumentar la concentracion de O2, aumenta la actividad oxidasa de la _rubisco_.
+Al aumentar la concentracion de O2, aumenta la actividad oxidasa de la *rubisco*.
 
-> R1.5BP –(_Rubisco_)→ glicerato 3P + P glicolato
+> R1.5BP –(*Rubisco*)→ glicerato 3P + P glicolato
 
 Dentro de cloroplasto
 
@@ -139,7 +141,7 @@ Glioxolato se Amida
 
 Glicina entra a [[mitocondria]] y se une a otra glicina utilizando descarboxilasa
 
-> 2 Glioxolato + H2O –(_Descarboxilasa_)→ Serina + NH4 + CO2 + [[NADH]]
+> 2 Glioxolato + H2O –(*Descarboxilasa*)→ Serina + NH4 + CO2 + [[NADH]]
 
 Serina entra de nuevo a peroxisoma y se transforma a glicerato
 
@@ -147,9 +149,9 @@ Serina entra de nuevo a peroxisoma y se transforma a glicerato
 
 Glicerato entra al cloroplasto y con el uso de una kinasa se añade un grupo P para formar glicerato 3P
 
-> Glicerato + ATP –(_kinasa_)→ Glicerato 3P + ADP
+> Glicerato + ATP –(*kinasa*)→ Glicerato 3P + ADP
 
-## Pros y contras
+## Pros y Contras
 
 Pros:
 
@@ -163,15 +165,13 @@ Pros:
 
 ## Fotorespiracion y La Temperatura
 
-A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad _oxigenasa_ de la _Rubisco_ aumenta más que su actividad _carboxilasa_ porque:
+A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que la fotorespiración se hace más importante. La actividad *oxigenasa* de la *Rubisco* aumenta más que su actividad *carboxilasa* porque:
 
 - la solubilidad del CO2 disminuye con la temperatura en mayor proporción que la solubilidad del O2,
-
 - el Km de la actividad oxigenasa disminuye más que el Km de la actividad carboxilasa.
-
 - Las [[Plantas]] CAM representan dos soluciones evolutivas para el problema de mantener los estomas parcial o completamente cerrados en días secos y/o cálidos.
 
-# Factores sobre rendimiento
+# Factores Sobre Rendimiento
 
 - Temperatura:
     Condiciona la actividad enzimatica.
@@ -186,7 +186,6 @@ A **temperaturas altas** la eficiencia de la **fotosíntesis disminuye** ya que 
     la fotosintesis aumentara hasta un maximo, hasta un momento donde se produce caida brusca de actividad, ya que empieza la fotooxidacion; donde los pigmentos se oxidaran y se desactivaran.
 
 - Color de luz:
-
 - Concentracion de Oxigeno:
     Condicion la Fotorrespiracion
 
