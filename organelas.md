@@ -7,8 +7,10 @@
 - [[lisosomas]]
 - [[vacuolas]]
 
-# Peroxisomas 
+# Peroxisomas
+
 - [[peroxisoma]]
+
 ## Endocitosis y Exocitosis
 
 mecanismo para el trafico entre compartimentos del sistema de endomembranas
