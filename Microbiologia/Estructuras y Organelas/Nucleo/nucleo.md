@@ -1,7 +1,8 @@
 
 Lugar de la celula donde se localizan y replican los cromosomas y donde se transcribe el ADN. Es un rasgo carateristico de las [[eucariota]] ya que las [[procariota]] no cuentan con uno
 
-**Funciones**
+# Funciones
+
 - Almacen de informacion genetica de la celula
 - Centro de control para expresion de la informacion
 
@@ -9,14 +10,13 @@ Lugar de la celula donde se localizan y replican los cromosomas y donde se trans
 
 Rodeada de membrana que compartimentaliza las actividades del genoma con poros que perforan esta envoltura.
 
-## Envoltura Nuclear
+- **Envoltura Nuclear**
+	- **Membrana externa**
+		La membrana externa, continua con el reticulo endoplasmatico, proporcionando continuidad entre el espacio perinuclear y el RE.
+		Al igual que la membrana del RE, esta recubierta de rbosomas implicados en la sintesis de proteinas
 
-- **Membrana externa**
-	La membrana externa, continua con el reticulo endoplasmatico, proporcionando continuidad entre el espacio perinuclear y el RE.
-	Al igual que la membrana del RE, esta recubierta de rbosomas implicados en la sintesis de proteinas
-
-- **Membrana interna**
-	La membrana interna se apoya sobre fibras de soporto, denominada lamina nuclear
+	- **Membrana interna**
+		La membrana interna se apoya sobre fibras de soporto, denominada lamina nuclear
 
 - **Matriz nuclear**
 	Matriz de cromatina con funcion estructural, tambien se denomina nucleoesqueleto.
@@ -52,3 +52,15 @@ Es la fabrica de ribosomas de la celulas. Su tamano es dependiente de la activid
 
 - Granulos:
 	Moleculas de rRNA empaquetados con proteinas del citoplasma. para formar subunidades ribosomales
+
+# Transporte 
+
+Trafico bidireccional continuo entre [[citosol]] y nucleo compuesto por:
+- Proteinas sintetizadas en el citosol (entran):
+	- Histonas
+	- Enzimas de replicacion y transcripcion
+	- Proteinas nucleolares y ribosomicas
+	- Proteinas de procesamiento de [[RNA]]
+	- Proteinas reguladoras de genes
+- Proteinas sintetizadas en el nucleo (salen):
+	- RNA y complejos ribonucleoproteicos
