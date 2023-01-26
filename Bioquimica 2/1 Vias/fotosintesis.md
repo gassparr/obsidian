@@ -73,12 +73,14 @@ Ocurren 3 procesos:
 
 ## Oscura
 
-
 [[Ciclo de Calvin]]
 
-- Biosintesis de Moleculas organicas
+- Biosintesis de Moleculas organicas a partir del CO2
+- Consume ATP y NADPH
+- Obtiene G6P por cada 6 ciclos
 - Ocurre en el estoma
-- No requiere luz 
+- No requiere luz
+
 # Ocurrencia
 
 - [[bacterias]]
