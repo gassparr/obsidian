@@ -1,12 +1,14 @@
-# Sistema de endomembranas
+# Sistema de Endomembranas
+
 - [[reticulo endoplasmico]]
 - [[aparato de golgi]]
 - endosomas
 - vesiculas de secrecion
-- lisosomas
-- vacuolas
+- [[lisosomas]]
+- [[vacuolas]]
+- [[peroxisoma]]
 
-## Endocitosis y exocitosis
+## Endocitosis y Exocitosis
 
 mecanismo para el trafico entre compartimentos del sistema de endomembranas
 
