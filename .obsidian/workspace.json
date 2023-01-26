@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "01111a6135d1cf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aparato de golgi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7bc9fd46b3db0757",
             "type": "leaf",
             "state": {
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,6 +181,7 @@
   },
   "active": "7bc9fd46b3db0757",
   "lastOpenFiles": [
+    "aparato de golgi.md",
     "organelas.md",
     "reticulo endoplasmico.md",
     "microfilamentos.md",
@@ -176,7 +190,6 @@
     "Biologia Celular Molecular/Apoptosis.md",
     "Microbiologia/Microorganismos/procariota.md",
     "microtúbulos.md",
-    "filamentos Intermedios.md",
-    "Biologia Celular Molecular/Citoesqueleto.md"
+    "filamentos Intermedios.md"
   ]
 }

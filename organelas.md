@@ -1,6 +1,6 @@
 # Sistema de endomembranas
 - [[reticulo endoplasmico]]
-- aparato de golgi
+- [[aparato de golgi]]
 - endosomas
 - vesiculas de secrecion
 - lisosomas
