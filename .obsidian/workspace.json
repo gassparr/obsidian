@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poro nuc",
+                "query": "lamina nu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -193,7 +193,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38855d964e9a96c6",
+  "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
     "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
