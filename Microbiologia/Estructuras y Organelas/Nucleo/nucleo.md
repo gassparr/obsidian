@@ -23,7 +23,8 @@ Rodeada de membrana que compartimentaliza las actividades del genoma con poros q
 
 - **Lamina nuclear**
 	Red de fibras densa y fina que limita la superficie interna de la membrana nuclear interna y ayuda a sostener la envuelta nuclear.
-	Esta compuesta por filamentos intermedios con proteinas denominadas *laminas*
+	Esta compuesta por filamentos intermedios con proteinas denominadas *laminas*.
+	1. Profase
 
 - **Poros nucleares**
 	Canal cilindrico pequeno que se extiende a traves de ambas membranas de la envuelta, conectando el [[citosol]] con el *nucleoplasma*.
