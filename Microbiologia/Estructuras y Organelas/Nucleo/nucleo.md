@@ -46,7 +46,16 @@ Rodeada de membrana que compartimentaliza las actividades del genoma con poros q
 
 Es la fabrica de ribosomas de la celulas. Su tamano es dependiente de la actividad del mismo
 
-**Estructura**
+### Funciones
+
+- Ensamblado de la particula de reconocimiento de senal
+- Maduracion de pre-tRNA
+- Edicion de los RNA
+- Ensamblado de telomerasa
+- Mantenimiento de la estabilidad genomica
+- Regulacion en el envejecimiento
+
+### Estructura
 
 - Fibrillas:
 	Contienen el [[DNA]] que esta siendo transcrito en rRNA (ribosomico)
@@ -54,7 +63,17 @@ Es la fabrica de ribosomas de la celulas. Su tamano es dependiente de la activid
 - Granulos:
 	Moleculas de rRNA empaquetados con proteinas del citoplasma. para formar subunidades ribosomales
 
-# Transporte 
+### Ciclo Del Nucleolo
+
+- interfase: Nucleosolo sintetizando RNA ribosomal
+- Profase: El cromosoma comienza a condensarse, en la NOR esta aun el nucleolo y no puede condensarse esa region por lo que queda una constriccion
+- Final de profase: DNA esta tan condensado que ya no se transcribe, por lo que el nucleolo desaparece
+- Metafase: no hay nucleolo
+- Anafase: no hay nucleolo
+- Telofase: El cromosoma se relaja, la NOR comienza a transcribir y reaparece el nucleolo
+
+
+# Transporte
 
 Trafico bidireccional continuo entre [[citosol]] y nucleo compuesto por:
 - Proteinas sintetizadas en el citosol (entran):
@@ -66,7 +85,7 @@ Trafico bidireccional continuo entre [[citosol]] y nucleo compuesto por:
 - Proteinas sintetizadas en el nucleo (salen):
 	- RNA y complejos ribonucleoproteicos
 
-## Importacion nuclear
+## Importacion Nuclear
 
 1. proteina con senal de localizacion nuclear (carga)
 2. Proteina se une a receptor de importacion nuclear
@@ -75,7 +94,7 @@ Trafico bidireccional continuo entre [[citosol]] y nucleo compuesto por:
 5. Ran-GTP + receptor salen por el poro nuclear
 6. Ran-GTP y receptor se desacoplan
 
-## Exportacion nuclear
+## Exportacion Nuclear
 
 1. Receptor de exportacion nuclear se une a proteina y a Ran-GTP
 2. Complejo Receptor+proteina+Ran-GTP pasa por el poro nuclear

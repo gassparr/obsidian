@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,8 +89,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lamina nu",
-                "matchingCase": false,
+                "query": "cromosoma",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md"
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
-    "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+    "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Microbiologia/Estructuras y Organelas/cloroplastos.md",
