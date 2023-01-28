@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
+                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cromosoma",
+                "query": "nucleosoma",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
+                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
+                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
+                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md"
               }
             }
           },
@@ -193,17 +193,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f234cb288c04cfaf",
+  "active": "38855d964e9a96c6",
   "lastOpenFiles": [
-    "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+    "Bioquimica 3/transcripcion.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
+    "Biologia Celular Molecular/Apoptosis.md",
+    "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Microbiologia/Estructuras y Organelas/cloroplastos.md",
     "fermentacion.md",
     "Biologia/Procesos Biologicos/Metabolismo.md",
-    "Microbiologia/Estructuras y Organelas/mitocondria.md",
-    "organelas.md",
-    "peroxisoma.md"
+    "Microbiologia/Estructuras y Organelas/mitocondria.md"
   ]
 }
