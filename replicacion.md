@@ -1,6 +1,6 @@
 Proceso en el cual el [[DNA]] duplica sus dos cadenas de forma semiconservativa, la nueva cadena se sintetiza del extremo 5’ → 3’
 
-# Requerimientos
+# Componentes
 
 - 2 cadenas molde
 - dNTP
@@ -20,7 +20,7 @@ Para evitar el apareamiento de las bases de la misma hebra, se unen las proteina
 
 ## DNA polimerasa
 
-Sintetiza DNA a partir de un molde en direccion
+Sintetiza DNA a partir de un molde en direccion 5’ → 3’ (lee 3’ → 5’), tambien tiene actividad exonucleasa, el cual al detectar una nucleotido mal apareado, lo remueve y lo corrige
 
 # Mecanismo
 
@@ -42,3 +42,11 @@ Esta cadena se debe a que la sintesis ocurre de forma 5' → 3’ y la direccion
 2. DNA pol 1 incorpora nuevos nucleotidos hasta encontrar el fragmento anterior
 3. DNA pol 3 corta cebadores y sustituye los espacion con DNA
 4. DNA ligasa sella al extremo 5’ de la secuencia vieja (3’ de la recientemente sintetizada)
+
+## [[bacterias]]
+
+En bacterias, el DNA plasmidico (circular) contiene un origen de replicacion con una secuencia concenso la cual indicara el marco de lectura
+
+## [[eucariota]]
+
+En eucariotas, existen varios origenes de replicacion en los cromosomas eucarioticos
