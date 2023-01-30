@@ -1,4 +1,11 @@
+# Componentes
 
+- Cadena molde
+- NTP
+- [[RNA]] polimerasa
+- promotor
+- secuencia de terminacion
+- factores
 
 ADN cromosomal –(Transcripcion)→ m[[RNA]] –([[Traduccion]])→ [[Sintesis de proteinas]]
 
