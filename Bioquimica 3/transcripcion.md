@@ -1,12 +1,3 @@
-# Componentes
-
-- Cadena molde
-- NTP
-- [[RNA]] polimerasa
-- promotor
-- secuencia de terminacion
-- factores
-
 ADN cromosomal –(Transcripcion)→ m[[RNA]] –([[Traduccion]])→ [[Sintesis de proteinas]]
 
 El inicio de la sintesis de [[RNA]] se incio con un NTP, este se introduce en el extremo 3’ de la cadena molde (**sintesis 5’ → 3’**). La [[RNA]] polimerasa se mueve **3’ → 5’**
@@ -15,6 +6,15 @@ El inicio de la sintesis de [[RNA]] se incio con un NTP, este se introduce en el
 ![500](https://i.imgur.com/n3kQpSl.png)
 **Unidad transcripcional**
 ![279](https://i.imgur.com/Y6bFlto.png)
+
+# Componentes
+
+- Cadena molde
+- NTP
+- [[RNA]] polimerasa
+- promotor
+- secuencia de terminacion
+- factores de transcripcion
 
 # Mecanismo y Enzimología
 
@@ -55,9 +55,9 @@ Durante todo el proceso se requiere el *melting* del [[DNA]], esto es que separa
 *Rho dependiente*
 Rho es una proteina la cual forma se aparea con [[RNA]] formando hairpin, asi disminuye la interaccion entre [[RNA]] y [[DNA]] molde
 
-# Técnicas de estudio
+# Técnicas de Estudio
 
-## Niveles estacionarios de [[RNA]]
+## Niveles Estacionarios de [[RNA]]
 
 - Base pare reconocer el nivel de un mRNA particulas entre muchos [[RNA]]
 	  - Hibridacion:
@@ -72,7 +72,7 @@ Rho es una proteina la cual forma se aparea con [[RNA]] formando hairpin, asi di
 - Hibridacion in situ → Preguntar
 - RT PCR →Permite medir la velocidad de trancipcion in vivo
 
-## Identifiacion del inicio de la transcipcion
+## Identifiacion Del Inicio de la Transcipcion
 
 - [[Primer Extension]]
 - [[Genes reporteros]]
@@ -104,7 +104,7 @@ En el [[nucleo]], poseen 3 tipos de [[RNA]] Polimerasas:
 - [[RNA]] pol II → mRNA
 - [[RNA]] pol III → tRNA, rRNA, small [[RNA]]
 
-## [[RNA]] pol II
+## [[RNA]] Pol II
 
 Formado por 12 subunidades, donde la más grande se denomina CTD ( C terminal domain) tiene un importante rol regulatorio.
 
@@ -120,7 +120,7 @@ Zona más pequeña suficiente para que ocurra transcripción por RNApol II *in v
 Generalmente upstream del core.
 Generalmente unen factores de transcripción gen específico.
 
-## Inicio de la transcripcion
+## Inicio de la Transcripcion
 
 [[RNA]] pol no se unen directamente al promotor, requieren de ***factores generales de transcripcion (GTF*)**.
 [[RNA]] pol se unen a zonas del promotor a traves de interacciones proteina-proteina con GTF
@@ -143,13 +143,13 @@ Una vez formado, este complejo es activado por la fosforilacion de la [[RNA]] po
 
 2. ***[[Splicing]]***
 
-## Terminacion y poliadenilacion
+## Terminacion y Poliadenilacion
 
 - Cambio conformacional en [[RNA]] pol II
 - Exo-ribonucleasa que interacciona con [[RNA]] pol II
 - Alteracion de sitio activo de [[RNA]] pol II (complejo [[RNA]]-[[DNA]]) por helicasa
 
-## Degradacion de mensajeros
+## Degradacion de Mensajeros
 
 3 mecanismos no excluyentes
 ![400](https://i.imgur.com/0qkdI2H.png)
@@ -158,9 +158,9 @@ Una vez formado, este complejo es activado por la fosforilacion de la [[RNA]] po
 - Ruta de deadenilacion
 - Ruta endonucleolitica
 
-## [[RNA]] pol I
+## [[RNA]] Pol I
 
-## [[RNA]] pol III
+## [[RNA]] Pol III
 
 ## Regulacion
 
@@ -194,7 +194,7 @@ El beneficio de ser modulares, es la posibilidad de combinacion por interaccion 
 
 Por ejemplo: 3 Factores de transcripcion dimericos si estuviesen solos tendrian 3 actividades regulatorias, ahora, cuando los mismos interactuan potencialmente tendrias 6 actividades unicas ya que 2(numero de subunidades)x3(numero de factores) = 6
 
-## Elemento regulador en cis
+## Elemento Regulador en Cis
 
 Regiones no codificantes del [[DNA]] que regulan la transcripcion de genes cercanos
 
