@@ -5,8 +5,10 @@ Proceso en el cual el [[DNA]] duplica sus dos cadenas de forma semiconservativa,
 - dNTP
 - DNA polimerasa
 - primers o cebadores de [[RNA]]
-- primasa
+- primasa → sintetiza a los cebadores de RNA
 - origen de replicacion
 - helicasa
 - ligasa, topoisomerasas
 - proteinas de union a monohebra
+
+# Mecanismo
