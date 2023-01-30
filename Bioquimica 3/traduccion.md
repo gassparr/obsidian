@@ -1,4 +1,4 @@
-# traduccion
+# Traduccion
 
 es el proceso en el cual se realiza la [[Sintesis de proteinas]]
 
@@ -6,12 +6,15 @@ es el proceso en el cual se realiza la [[Sintesis de proteinas]]
 
 mRNA → Polipeptido
 
-Cinco componentes:
+# Componentes:
+
 - [[ribosoma]]
 - t[[RNA]]
 - Aminoacil-tRNA sintetasas
 - mRNA
 - Factores proteicos
+
+# Mecanismo
 
 Es un proceso secuencial y ordenado que comienza con la sintesis de una cadena polipeptidica por la cadena amino terminal terminando en carboxilo terminal.
 El mRNA es leido en direccion 5’ → 3’.
@@ -44,7 +47,7 @@ Especifica un proteina, estos comienzan y terminan dentro un de mRNA
 	  - Eucariotas: 5’ UAG | UAA | UGA 3’
 	  - Procariotas: 5’ UAG | UAA | UGA 3’
 
-## Aminoacil tRNA sintetasas
+## Aminoacil tRNA Sintetasas
 
 cargan tRNA en dos pasos.
 1. Adenililacion
