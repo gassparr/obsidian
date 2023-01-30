@@ -9,7 +9,7 @@ El inicio de la sintesis de [[RNA]] se incio con un NTP, este se introduce en el
 
 # Componentes
 
-- Cadena molde
+- Cadena molde (direccion 3’ → 5’)
 - NTP
 - [[RNA]] polimerasa
 - promotor
