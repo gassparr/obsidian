@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+                "file": "Microbiologia/Microorganismos/eucariota.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aea623bce7d8d801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "replicacion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nucleosoma",
+                "query": "replicaci",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+                "file": "replicacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md",
+                "file": "replicacion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia Celular Molecular/Regulacion de la expresion genica.md"
+                "file": "replicacion.md"
               }
             }
           },
@@ -193,8 +206,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38855d964e9a96c6",
+  "active": "aea623bce7d8d801",
   "lastOpenFiles": [
+    "Microbiologia/Microorganismos/eucariota.md",
+    "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Bioquimica 3/transcripcion.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "Biologia Celular Molecular/Apoptosis.md",
@@ -202,8 +217,6 @@
     "Bioquimica 2/1 Vias/fotosintesis.md",
     "Bioquimica 2/1 Vias/Ciclo de Calvin.md",
     "Microbiologia/Estructuras y Organelas/cloroplastos.md",
-    "fermentacion.md",
-    "Biologia/Procesos Biologicos/Metabolismo.md",
-    "Microbiologia/Estructuras y Organelas/mitocondria.md"
+    "fermentacion.md"
   ]
 }
