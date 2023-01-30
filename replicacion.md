@@ -1,4 +1,4 @@
-Proceso en el cual el [[DNA]] duplica sus dos cadenas de forma semiconservativa, la nueva cadena se sintetiza del extrem
+Proceso en el cual el [[DNA]] duplica sus dos cadenas de forma semiconservativa, la nueva cadena se sintetiza del extremo 5’ → 3’
 
 # Requerimientos
 - 2 cadenas molde
