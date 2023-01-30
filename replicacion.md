@@ -30,3 +30,7 @@ Esta cadena se debe a que la sintesis ocurre de forma 5' → 3’ y la direccion
 2. DNA pol 1 incorpora nuevos nucleotidos hasta encontrar el fragmento anterior
 3. DNA pol 3 corta cebadores y sustituye los espacion con DNA
 4. DNA ligasa sella al extremo 5’ de la secuencia vieja (3’ de la recientemente sintetizada)
+
+### Proteinas de union a la monohebra
+
+Para evitar el apareamiento de las bases
