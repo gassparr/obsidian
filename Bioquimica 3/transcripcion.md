@@ -112,6 +112,8 @@ Formado por 12 subunidades, donde la más grande se denomina CTD ( C terminal do
 Zona más pequeña suficiente para que ocurra transcripción por RNApol II *in vitro*. Está conformada por:
 
 - TATA box → Localizado aprox. 30 bp upstream del sitio de inicio de transcripción
+	  > TATAA
+	  > ATATT
 - Initiator element (Inr) → Localizado en el sitio de inicio de la transcripcion, es una secuencia de 17bp
 - Islas CpG → Zona rica en CG (20-50 n) dentro de las 100 bp upstream del inicio de la transcripcion
 
