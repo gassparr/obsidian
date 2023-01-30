@@ -18,7 +18,9 @@ Para evitar el apareamiento de las bases de la misma hebra, se unen las proteina
 
 ## Topoisomerasas
 
+## DNA polimerasa
 
+Sintetiza DNA a partir de un molde en direccion
 
 # Mecanismo
 
