@@ -1,7 +1,4 @@
-[[Intrones]]
-[[epigenetica]]
 
-# Mecanismos y Métodos de Estudio
 
 ADN cromosomal –(Transcripcion)→ m[[RNA]] –([[Traduccion]])→ [[Sintesis de proteinas]]
 

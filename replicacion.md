@@ -50,3 +50,19 @@ En bacterias, el DNA plasmidico (circular) contiene un origen de replicacion con
 ## [[eucariota]]
 
 En eucariotas, existen varios origenes de replicacion en los cromosomas eucarioticos
+
+# Reparaciones
+
+## Reparacion por escision de base
+
+1. Desaminacion convierte citosina en uracilo
+2. Se detecta y se elimina el uracilo, dejan un nucleotido sin base
+3. Nucleotido sin base se elimina, dejando un nick
+4. DNA polimerasa llena el agujero con la base correcta y ligasa cierra la brecha
+
+## Reparacion por escision de nucleotidos
+
+1. Radiacion uv produce un dimero de timina
+2. Se detecta el dimero y DNA adyacente se abre, formando una burbuja
+3. Enzimas cortan la region danada de la burbuja
+4. DNA pol reemplaza el DNA escindido y ligasa lo sella
