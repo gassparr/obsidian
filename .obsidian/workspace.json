@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glicocalix.md",
+                "file": "Bioquimica 3/traduccion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glicocalix.md",
+                "file": "Bioquimica 3/traduccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glicocalix.md",
+                "file": "Bioquimica 3/traduccion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glicocalix.md"
+                "file": "Bioquimica 3/traduccion.md"
               }
             }
           },
@@ -220,15 +220,15 @@
   },
   "active": "5d79c7b23acda0b3",
   "lastOpenFiles": [
+    "Biologia/Temario.md",
+    "Bioquimica 3/transcripcion.md",
+    "replicacion.md",
+    "glicocalix.md",
     "Personal/Work/CV esp 2.md",
     "Personal/Work/CV eng 2.md",
     "Bioquimica 3/traduccion.md",
-    "Biologia/Temario.md",
-    "replicacion.md",
     "Biologia/Ideas Centrales.md",
-    "Bioquimica 3/transcripcion.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
-    "Microbiologia/Microorganismos/eucariota.md",
-    "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
+    "Microbiologia/Microorganismos/eucariota.md"
   ]
 }
