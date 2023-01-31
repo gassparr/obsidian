@@ -7,7 +7,7 @@ Información de contacto:
 
 Educación:
 
-**- Título en Química de la Universidad Nacional de La Plata en 2023**
+- **Título en Química de la Universidad Nacional de La Plata en 2023**
 	- Materias relevantes:
 	    - Química (orgánica, inorgánica y analítica)
 	    - Matemática estadística
@@ -40,3 +40,8 @@ Experiencia:
 - Software: Excel, GraphPad y Matlab.
 - Seguridad: Conocimientos de protocolos y procedimientos de seguridad, incluyendo el manejo de materiales peligrosos, eliminación de productos químicos y respuesta a emergencias.
 - Escritura técnica: Experiencia en la escritura de informes de laboratorio y documentos técnicos, incluyendo procedimientos operativos estándar (SOPs) y protocolos experimentales.
+
+**Idioms**
+
+- Español (nativo)
+- Ingles (nativo)
