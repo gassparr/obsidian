@@ -85,6 +85,11 @@ Reguladores centrales del ciclo celular, existen cuatro tipos:
 
 Cada ciclina promueve los eventos de la fase que indica, por lo que su concentracion varia dependiendo de la fase
 
+### Clases de ciclinas
+- Ciclinas G1/S: se unen a Cdk2 al final de G1 e impulsan entrada en S
+- Ciclina S: Para iniciar la replicacion en S
+- Ciclinas mitoticas: se unen a Cdk1 en G2 e impulsan entrada en mitosis
+- Ciclinas G1: Impulsan paso a traves del punto de restriccion en G1
 ## CDKs
 
 Cyclin dependant kinase.
