@@ -6,6 +6,7 @@
 - [[Ciclo Celular]]
 - [[Apoptosis]]
 - [[fision binaria]]
+- [[mitosis]]
 
 # Organelas
-[[nucleo]]
+- [[nucleo]]

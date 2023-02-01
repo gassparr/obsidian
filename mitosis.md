@@ -1,0 +1,3 @@
+- Ocurre en celulas somaticas de organismo diplontes y haplontes
+- Division ecuacional (se mantiene constante el numero de cromomas)
+- Celulas hijas son geneteicamente identicas a la progenitora

@@ -109,6 +109,7 @@ induce los procesos basicos de la mitosis por fosforilacion de proteinas especif
 - Condensacion de los cromosomas, por fosforilacion de las histonas H1 y de las condensinas
 - Rotura de envoltura nuclear por desorganizacion de la lamina nuclear (por fosforilacion)
 - Reorganizacion de [[microtúbulos]] para formar el huso mitotico por fosforilaciones de proteinas asociadas a los MAP (microtubule associeted proteins)
+- Impulsa la destruccion proteolitica de la criclina por el APC en la transicion metafasse - anafase
 
 ## APC/C
 
