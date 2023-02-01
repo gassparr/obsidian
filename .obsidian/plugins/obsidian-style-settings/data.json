@@ -258,5 +258,6 @@
   "anuppuccin-theme-settings@@anp-embed-toggle": false,
   "anuppuccin-theme-settings@@anp-embed-animated-toggle": false,
   "encore-settings@@theme-dark": "encore-theme-dark-atom",
-  "encore-settings@@encore-coloured-tooltip": true
+  "encore-settings@@encore-coloured-tooltip": true,
+  "minimal-advanced@@window-title-on": false
 }
