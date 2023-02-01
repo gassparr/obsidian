@@ -45,3 +45,8 @@ Tipos de activacion o desactivacion:
 - Reversibles: Acetilaciones/desacetilaciones; Fosforilaciones/desfosforilaciones (T,S); Mono Ubiquitinaciones de K. 
 - Irreversibles: Metilaciones S
 
+## Heterocromatina constitutiva
+- Region centromerica de todos los cromosomas
+- Region distal de Yq
+
+## Heterocromatina facultativa

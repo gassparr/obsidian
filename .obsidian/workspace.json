@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cromosoma.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cromosoma.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cromosoma.md",
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cromosoma.md"
+                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
               }
             }
           },
@@ -257,8 +257,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "31e28e83fce629bf",
   "lastOpenFiles": [
+    "cromosoma.md",
+    "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "Biologia Celular Molecular/Ciclo Celular.md",
     "fision binaria.md",
     "Biologia/Temario.md",
@@ -266,8 +268,6 @@
     "Bioquimica 3/traduccion.md",
     "Bioquimica 3/transcripcion.md",
     "glicocalix.md",
-    "Personal/Work/CV esp 2.md",
-    "Personal/Work/CV eng 2.md",
-    "Biologia/Ideas Centrales.md"
+    "Personal/Work/CV esp 2.md"
   ]
 }
