@@ -84,48 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "31e28e83fce629bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a468b61af983549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "replicacion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6bfa849a9749fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vacuolas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -183,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
+                "file": "Biologia Celular Molecular/Ciclo Celular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
+                "file": "Biologia Celular Molecular/Ciclo Celular.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md"
+                "file": "Biologia Celular Molecular/Ciclo Celular.md"
               }
             }
           },
@@ -257,17 +218,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "31e28e83fce629bf",
+  "active": "a7825aaa37494286",
   "lastOpenFiles": [
-    "cromosoma.md",
-    "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
-    "Biologia Celular Molecular/Ciclo Celular.md",
-    "fision binaria.md",
     "Biologia/Temario.md",
+    "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
+    "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "replicacion.md",
+    "Biologia Celular Molecular/Ciclo Celular.md",
+    "cromosoma.md",
+    "fision binaria.md",
     "Bioquimica 3/traduccion.md",
     "Bioquimica 3/transcripcion.md",
-    "glicocalix.md",
-    "Personal/Work/CV esp 2.md"
+    "glicocalix.md"
   ]
 }
