@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Biologia/Temario.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a468b61af983549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "replicacion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Biologia/Temario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioquimica 3/traduccion.md",
+                "file": "Biologia/Temario.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioquimica 3/traduccion.md"
+                "file": "Biologia/Temario.md"
               }
             }
           },
@@ -220,13 +233,13 @@
   },
   "active": "5d79c7b23acda0b3",
   "lastOpenFiles": [
-    "Biologia/Temario.md",
-    "Bioquimica 3/transcripcion.md",
     "replicacion.md",
+    "Biologia/Temario.md",
+    "Bioquimica 3/traduccion.md",
+    "Bioquimica 3/transcripcion.md",
     "glicocalix.md",
     "Personal/Work/CV esp 2.md",
     "Personal/Work/CV eng 2.md",
-    "Bioquimica 3/traduccion.md",
     "Biologia/Ideas Centrales.md",
     "Biologia Celular Molecular/Regulacion de la expresion genica.md",
     "Microbiologia/Microorganismos/eucariota.md"
