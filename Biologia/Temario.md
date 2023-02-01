@@ -7,6 +7,6 @@
 - [[Apoptosis]]
 - [[fision binaria]]
 - [[mitosis]]
-
+- [[centromero]]
 # Organelas
 - [[nucleo]]

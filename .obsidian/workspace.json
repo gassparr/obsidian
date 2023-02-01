@@ -78,7 +78,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "Biologia/Temario.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3b54082fd877ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "centromero.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f32914f458357e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cinetocoros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -128,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "centrosoma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,8 +163,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "mitosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "mitosis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microtúbulos.md"
+                "file": "mitosis.md"
               }
             }
           },
@@ -232,17 +257,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a7825aaa37494286",
+  "active": "671aa867e4251a8c",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Ciclo Celular.md",
-    "microtúbulos.md",
     "Biologia/Temario.md",
+    "centromero.md",
+    "cinetocoros.md",
+    "microtúbulos.md",
+    "Microbiologia/Microorganismos/eucariota.md",
+    "Biologia Celular Molecular/Ciclo Celular.md",
     "mitosis.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
-    "replicacion.md",
-    "cromosoma.md",
-    "fision binaria.md",
-    "Bioquimica 3/traduccion.md"
+    "replicacion.md"
   ]
 }
