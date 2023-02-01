@@ -41,7 +41,7 @@ Separa su ADN en dos grupos y divide el citoplasma para formar dos celulas. Esta
 
 ### Mitosis
 
-DNA nuclear se concensa en cromosomas visibles y es separado por el huso mitotico (una estructura formada por microtubulos). La mitosis ocurre en 4 etapas
+DNA nuclear se concensa en [[cromosoma]] visibles y es separado por el huso mitotico (una estructura formada por microtubulos). La mitosis ocurre en 4 etapas
 - Profase
 - Metafase
 - Anafase

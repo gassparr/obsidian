@@ -5,3 +5,4 @@
 # Ciclo celular
 - [[Ciclo Celular]]
 - [[Apoptosis]]
+- [[fision binaria]]
