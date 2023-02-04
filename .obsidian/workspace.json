@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genetica clasica y herencia.md",
+                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mendel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "genetica clasica y herencia.md",
+                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genetica clasica y herencia.md",
+                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "genetica clasica y herencia.md"
+                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
               }
             }
           },
@@ -182,8 +183,8 @@
   },
   "active": "58093a9d682f1b01",
   "lastOpenFiles": [
-    "embriogenesis.md",
     "genetica clasica y herencia.md",
+    "embriogenesis.md",
     "fecundacion.md",
     "espermatozoide.md",
     "().md",

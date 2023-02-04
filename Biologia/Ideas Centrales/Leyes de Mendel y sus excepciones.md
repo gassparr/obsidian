@@ -90,3 +90,7 @@ El organismo con fenotipo dominante se cruza con un organismo que homocigoto rec
 si el organismo dominante es homocigoto, entonces los descendientes obtendran un alelo dominante y seran heterocigotos y mostraran el fenotipo dominante.
 **Heterocigoto**
 Si el organismo dominante es heterocigoto, los descendientes seran la mitad heterocigotos dominantes y la mitad homocigotos recesivos
+
+# Experimento 
+
+Utilizo flores del guisante, ya que se reproducen sexualmente mediante autopolinizacion, lo cual evita que el polen de otras floren afecten los resultados experim
