@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fecundacion.md",
+                "file": "espermatozoide.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fecundacion.md",
+                "file": "espermatozoide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fecundacion.md",
+                "file": "espermatozoide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fecundacion.md"
+                "file": "espermatozoide.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "6eb504e5e8e27747",
   "lastOpenFiles": [
+    "fecundacion.md",
     "espermatozoide.md",
     "().md",
     "cinetocoros.md",
@@ -163,7 +164,6 @@
     "Bioquimica 3/transcripcion.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Microbiologia/Estructuras y Organelas/cloroplastos.md",
-    "Biologia/Procesos Biologicos/Metabolismo.md",
-    "fecundacion.md"
+    "Biologia/Procesos Biologicos/Metabolismo.md"
   ]
 }
