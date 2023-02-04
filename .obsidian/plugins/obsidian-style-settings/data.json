@@ -29,13 +29,6 @@
   "sanctum@@heading-1": 50,
   "sanctum@@heading-2": 40,
   "sanctum@@font-editor": "-apple-",
-  "shimmering-focus@@show-titlebar": true,
-  "shimmering-focus@@show-ribbons": true,
-  "shimmering-focus@@show-header-bar": true,
-  "shimmering-focus@@show-statusbar": true,
-  "shimmering-focus@@show-close-button": true,
-  "shimmering-focus@@show-collapse-buttons": true,
-  "shimmering-focus@@block-cursor": false,
   "shimmering-focus@@annotation-tags-off": true,
   "checkbox@@check-color": true,
   "sanctum@@relationship-lines-alternating": true,
@@ -259,5 +252,8 @@
   "anuppuccin-theme-settings@@anp-embed-animated-toggle": false,
   "encore-settings@@theme-dark": "encore-theme-dark-atom",
   "encore-settings@@encore-coloured-tooltip": true,
-  "minimal-advanced@@window-title-on": false
+  "minimal-advanced@@window-title-on": false,
+  "shimmering-focus@@mac-os-native": true,
+  "shimmering-focus@@dark-brightness": 10,
+  "shimmering-focus@@highlight-hue-1": 85
 }
