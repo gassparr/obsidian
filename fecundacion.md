@@ -13,4 +13,4 @@ Proceso por el cual el [[espermatozoide]] ingresa al oocito
 
 ## Bloqueo de la polispermia
 
-Se modifican los carboni
+Se modifican los carbohidratos de la zona pelucida, impidiendo la degradacion enzimatica generada por otro espermatozoide
