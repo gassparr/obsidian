@@ -93,4 +93,25 @@ Si el organismo dominante es heterocigoto, los descendientes seran la mitad hete
 
 # Experimento 
 
-Utilizo flores del guisante, ya que se reproducen sexualmente mediante autopolinizacion, lo cual evita que el polen de otras floren afecten los resultados experim
+Utilizo flores del guisante, ya que se reproducen sexualmente mediante autopolinizacion, lo cual evita que el polen de otras floren afecten los resultados experimentales
+
+- Empezo sus experimentos desarrollando un numero de tipos, o lineas, de plantas que eran puras para cada uno de los siete pares de caracteristicas
+- Al permitir que los guisantes se autopolinizaran durante varias generaciones, Mendel produjo siete pares de lineas puras
+- Una linea pura es un grupo de seres vivientes que produce progenie que muestra una sola forma de una caracteristica en cada generacion
+
+| caracteristica     | Variante | variante   |
+|:------------------ |:-------- |:---------- |
+| longitud de tronco | largo    | corte      |
+| forma de pistillo  | inflado  | constricto |
+| color de pistillo  | verde    | amarillo   | 
+| Color de flor      | violeta  | blanca     |
+| posicion de flor   | axial    | terminal   |
+| color de semilla   | amarilla | verde      |
+| forma de semilla   | redonda  | arrugada   |
+
+Mendel hizo cruzamientos dirigidos:
+- La generacion progenitora es el grupo de organismos que se usa para hacer el primer cruce en una serie de cruces experimentales
+- Al desarrollarse las nuevas plantas, Mendel examino su apariencia
+- Despues de establecer lineas puras, Mendel hizo cientos de cruces, transfiriendo el polen desde los estambres de plantas que tenias una caracteristica hasta los pistillos de las plantas que tienen la caracteristica contraria
+
+1. Remueve 
