@@ -114,4 +114,8 @@ Mendel hizo cruzamientos dirigidos:
 - Al desarrollarse las nuevas plantas, Mendel examino su apariencia
 - Despues de establecer lineas puras, Mendel hizo cientos de cruces, transfiriendo el polen desde los estambres de plantas que tenias una caracteristica hasta los pistillos de las plantas que tienen la caracteristica contraria
 
-1. Remueve 
+1. Remueve sacos de planta blanca
+2. recoge polen de una planta distinta (violeta)
+3. transfiere polen a los pistillos de blanca 
+
+![](https://i.imgur.com/ywbsOvM.png)
