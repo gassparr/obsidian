@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mitosis.md",
+                "file": "Biologia/Temario.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mitosis.md",
+                "file": "Biologia/Temario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mitosis.md",
+                "file": "Biologia/Temario.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mitosis.md"
+                "file": "Biologia/Temario.md"
               }
             }
           },
@@ -259,13 +259,13 @@
   },
   "active": "671aa867e4251a8c",
   "lastOpenFiles": [
+    "mitosis.md",
     "Biologia/Temario.md",
     "centromero.md",
     "cinetocoros.md",
     "microtúbulos.md",
     "Microbiologia/Microorganismos/eucariota.md",
     "Biologia Celular Molecular/Ciclo Celular.md",
-    "mitosis.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/nucleo.md",
     "Microbiologia/Estructuras y Organelas/Nucleo/cromatina.md",
     "replicacion.md"

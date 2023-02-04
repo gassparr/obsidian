@@ -2,11 +2,14 @@
 - [[transcripcion]]
 - [[replicacion]]
 
-# Ciclo celular
+# Ciclo Celular
+
 - [[Ciclo Celular]]
 - [[Apoptosis]]
 - [[fision binaria]]
 - [[mitosis]]
 - [[centromero]]
+
 # Organelas
+
 - [[nucleo]]
