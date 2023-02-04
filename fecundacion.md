@@ -1,0 +1,1 @@
+Proceso por el cual el [[espermatozoide]] ingresa al oocito 
