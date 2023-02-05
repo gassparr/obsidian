@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "081f0e75a42f54be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "genetica clasica.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -59,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+                "file": "genetica clasica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
+                "file": "genetica clasica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
+                "file": "genetica clasica.md"
               }
             }
           },
@@ -154,11 +167,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b7285b4926eb4c0",
+  "active": "081f0e75a42f54be",
   "lastOpenFiles": [
+    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "fecundacion.md",
     "embriogenesis.md",
-    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "genetica clasica y herencia.md",
     "espermatozoide.md",
     "().md",
