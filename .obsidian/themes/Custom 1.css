@@ -1,0 +1,44 @@
+# Obsidian Theme - Simple and Elegant
+
+## Main colors
+# Obsidian Theme - Simple and Elegant
+
+:root {
+  --primary-color: #2F3136;
+  --secondary-color: #F7FBFF;
+  --accent-color: #7289DA;
+  --main-font: "Open Sans", sans-serif;
+  --secondary-font: "Source Code Pro", monospace;
+  --page-background-color: #F7FBFF;
+  --header-background-color: #2F3136;
+  --header-text-color: #F7FBFF;
+  --link-color: #7289DA;
+  --blockquote-background-color: #EAEAEA;
+  --blockquote-text-color: #333;
+}
+
+body {
+  background-color: var(--page-background-color);
+  font-family: var(--main-font);
+  color: var(--primary-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  background-color: var(--header-background-color);
+  color: var(--header-text-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+blockquote {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 10px;
+  background-color: var(--blockquote-background-color);
+  font-style: italic;
+}
+
+code {
+  font-family: var(--secondary-font);
+}
