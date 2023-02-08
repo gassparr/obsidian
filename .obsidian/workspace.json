@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bc730c79414dd3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Proteina.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "genetica clasica.md",
+                "file": "Templates/Proteina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genetica clasica.md",
+                "file": "Templates/Proteina.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "genetica clasica.md"
+                "file": "Templates/Proteina.md"
               }
             }
           },
@@ -153,7 +167,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "081f0e75a42f54be",
+  "active": "5bc730c79414dd3d",
   "lastOpenFiles": [
     "genetica clasica.md",
     "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
