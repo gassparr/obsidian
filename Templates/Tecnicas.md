@@ -1,11 +1,17 @@
-# Mecanismo
+# Técnica
 
-# Caracteristicas
+## Definición
+
+## Propósito
+
+## Principio
+
+## Pasos
 
 ## Ventajas
 
-## Desventajas
+## Limitaciones
 
-# Protocolo
+## Aplicaciones
 
-## Controles
+## Conclusión
