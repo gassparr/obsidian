@@ -24,4 +24,12 @@
 - [[nucleo]]
 - [[reticulo endoplasmico]]
 - [[cloroplastos]]
-- 
+- [[lisosomas]]
+- [[glicocalix]]
+
+# Otros
+
+- [[Leyes de Mendel y sus excepciones]]
+- [[Niveles de organización y propiedades emergentes]]
+- [[genetica clasica y herencia]]
+- [[genetica clasica]]
