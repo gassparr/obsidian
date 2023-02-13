@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f75dffcdccf94f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5bc730c79414dd3d",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Temario.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Temario.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Temario.md"
+                "file": "test.md"
               }
             }
           },
@@ -193,14 +206,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e86ef7e01682ef7",
+  "active": "f75dffcdccf94f5a",
   "lastOpenFiles": [
-    "comunicacion celular.md",
+    "genetica clasica.md",
     "Biologia/Temario.md",
+    "comunicacion celular.md",
     "Personal/Quimica papa y gaspar.md",
     "Templates/Tecnicas.md",
     "Templates/Proteina.md",
-    "genetica clasica.md",
     "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "fecundacion.md",
     "embriogenesis.md",
