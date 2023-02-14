@@ -1,0 +1,1 @@
+Proceso de reduccional de cromosomas 

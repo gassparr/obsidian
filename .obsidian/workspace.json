@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reproduccion.md",
+                "file": "meiosis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reproduccion.md",
+                "file": "meiosis.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reproducc",
+                "query": "meiosis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reproduccion.md",
+                "file": "meiosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reproduccion.md",
+                "file": "meiosis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reproduccion.md"
+                "file": "meiosis.md"
               }
             }
           },
@@ -176,15 +176,15 @@
   },
   "active": "88ed38aa19557625",
   "lastOpenFiles": [
-    "Biologia Celular Molecular/Apoptosis.md",
+    "mitosis.md",
+    "meiosis.md",
     "reproduccion.md",
+    "Biologia Celular Molecular/Apoptosis.md",
     "replicacion.md",
     "microtúbulos.md",
     "organelas.md",
     "peroxisoma.md",
     "origen y función.md",
-    "Microbiologia/Microorganismos/microorganismo.md",
-    "Microbiologia/Microorganismos/eucariota.md",
-    "Biologia Celular Molecular/Citoesqueleto.md"
+    "Microbiologia/Microorganismos/microorganismo.md"
   ]
 }
