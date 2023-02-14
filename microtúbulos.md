@@ -5,7 +5,7 @@ Son cilindros largos, huecos y no ramificados de alrededor de 25 nm de diámetro
 - El acortamiento de microtúbulos moviliza a los cromosomas.
 - Las interacciones entre microtúbulos conducen al movimiento de las células.
 
-# microtubulos
+# Microtubulos
 
 - **Tubulina** → Eucariota
 - FtsZ → Bacteria
@@ -54,7 +54,8 @@ Estructura:
 
 Las kinesinas mueven vesiculas ‘‘caminando’’ sobre los microtubulos
 
-**Mitosis**
+# Mitosis
+
 Durante la mitosis, los centromeros elongan micotubulos los cuales se extenderan y romperan la celular
 
 **Centromeros**

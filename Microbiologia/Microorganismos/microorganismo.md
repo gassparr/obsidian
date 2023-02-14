@@ -1,19 +1,22 @@
-# Elementos comunes
+# Elementos Comunes
+
  - Barreras de permeabilidad [[membrana citoplasmatica]]
  - interior [[citosol]]
  - [[Pared Celular]]
 
 # Tipos
+
 - ## [[procariota]]
 - ## [[eucariota]]
-## Segun fuente de carbono
+
+## Segun Fuente de Carbono
 
 - *Heterotrofos*: obtiene carbono a partir de algun compiuesto organico
 - *Autotrofo*: obtiene carbono a partir del CO2
 
-## Segun fuente de energia
+## Segun Fuente de Energia
 
-### Quimioorganotrofos y quimiolitrofos
+### Quimioorganotrofos y Quimiolitrofos
 
 - *quimiotrofos*: obtienen energia a partir de compuestos quimicos.
 - *quimioorganotrofos* : obtienen energia a partir de compuestos organicos.
@@ -32,18 +35,19 @@
 Existen dos formas de fototrofia:
 
 - *Fotosintesis oxigenica*: se produce O2
-- *Fotosintesis anoxigenica*:  no genera O2, se da en bacterias rojas y verdes
-
+- *Fotosintesis anoxigenica*: no genera O2, se da en bacterias rojas y verdes
 
 # Observacion:
+
 Para observar la estructura celular se utiliza la [[microscopia]]
+
 # Metabolismo
 
 los microorganismos necesitan de carbono, el cual se obtiene de:
-- aminoacidos 
-- acidos grasos 
-- acidos organicos 
-- azucares 
+- aminoacidos
+- acidos grasos
+- acidos organicos
+- azucares
 - bases nitrogenadas
 - compuestos aromaticos
 entre otros.
