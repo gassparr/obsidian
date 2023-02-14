@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "espermatozoide.md",
+                "file": "fecundacion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "espermatozoide.md",
+                "file": "fecundacion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "espermato",
+                "query": "fecund",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "espermatozoide.md",
+                "file": "fecundacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "espermatozoide.md",
+                "file": "fecundacion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "espermatozoide.md"
+                "file": "fecundacion.md"
               }
             }
           },
@@ -174,8 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "88ed38aa19557625",
   "lastOpenFiles": [
+    "Biologia Vegetal/Bloque 1.md",
+    "espermatozoide.md",
     "meiosis.md",
     "mitosis.md",
     "reproduccion.md",
@@ -183,8 +186,6 @@
     "replicacion.md",
     "microtúbulos.md",
     "organelas.md",
-    "peroxisoma.md",
-    "origen y función.md",
-    "Microbiologia/Microorganismos/microorganismo.md"
+    "peroxisoma.md"
   ]
 }
