@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "852ed14ceb51ea0a",
+        "id": "e93438fe60cbac92",
         "type": "tabs",
         "children": [
           {
-            "id": "081f0e75a42f54be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "genetica clasica.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f75dffcdccf94f5a",
+            "id": "88ed38aa19557625",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "5bc730c79414dd3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tecnicas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e86ef7e01682ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Temario.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "791f305f49713dba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comunicacion celular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -197,9 +144,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "88ed38aa19557625",
   "lastOpenFiles": [
     "genetica clasica.md",
+    "test.md",
     "Biologia/Temario.md",
     "comunicacion celular.md",
     "Personal/Quimica papa y gaspar.md",
@@ -207,7 +155,6 @@
     "Templates/Proteina.md",
     "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
     "fecundacion.md",
-    "embriogenesis.md",
-    "genetica clasica y herencia.md"
+    "embriogenesis.md"
   ]
 }
