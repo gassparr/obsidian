@@ -1,11 +1,14 @@
 ![](https://i.imgur.com/NGsQuTP.png)
+
 # Espermatogenesis
 
-Durante la espermatogenesis, el espermatozoide ira: 
-- perdiendo el aparato de golgi (RE). 
+Durante la espermatogenesis, el espermatozoide ira:
+- perdiendo el aparato de golgi (RE).
 - formara la vesicula acrosomica
 - formara flagelo que sale del centriolo
-- mitocondrias se acomodaran en la pieza media ()
+- mitocondrias se acomodaran en la pieza media (cerca del flagelo)
+- Nucleo se condensara y acrosoma formaran la cabeza
+
 # Capacitacion
 
 Proceso de modificacion en la superficie del espermatozoide
