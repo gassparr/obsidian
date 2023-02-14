@@ -8,3 +8,7 @@
   
 - Esporulacion
   Nucleo se divide muchas veces, formando una celula polinucleada, que origina a las celulas hijas. Se da en protozoos
+
+# Sexual
+
+Implica una alternancia de celulas haploides (un par de cromosomas) con celulas diploides (dos pares de cromosomas) 
