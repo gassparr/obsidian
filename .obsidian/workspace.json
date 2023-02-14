@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meiosis.md",
+                "file": "espermatozoide.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meiosis.md",
+                "file": "espermatozoide.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meiosis",
+                "query": "espermato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meiosis.md",
+                "file": "espermatozoide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meiosis.md",
+                "file": "espermatozoide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meiosis.md"
+                "file": "espermatozoide.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "88ed38aa19557625",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
-    "mitosis.md",
     "meiosis.md",
+    "mitosis.md",
     "reproduccion.md",
     "Biologia Celular Molecular/Apoptosis.md",
     "replicacion.md",
