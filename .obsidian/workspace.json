@@ -11,8 +11,13 @@
             "id": "88ed38aa19557625",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Microbiologia/Microorganismos/eucariota.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Microbiologia/Microorganismos/eucariota.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -85,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microbiologia/Microorganismos/eucariota.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Microbiologia/Microorganismos/eucariota.md"
+              }
             }
           },
           {
@@ -122,13 +131,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +151,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "88ed38aa19557625",
+  "active": "2aa936ae1e4a79c8",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Citoesqueleto.md",
+    "microfilamentos.md",
     "genetica clasica.md",
     "test.md",
     "Biologia/Temario.md",
@@ -153,8 +162,6 @@
     "Personal/Quimica papa y gaspar.md",
     "Templates/Tecnicas.md",
     "Templates/Proteina.md",
-    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md",
-    "fecundacion.md",
-    "embriogenesis.md"
+    "Biologia/Ideas Centrales/Leyes de Mendel y sus excepciones.md"
   ]
 }
