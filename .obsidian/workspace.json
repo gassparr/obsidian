@@ -6,7 +6,7 @@
       {
         "id": "e93438fe60cbac92",
         "type": "tabs",
-        "dimension": 41.56346749226007,
+        "dimension": 47.23756906077348,
         "children": [
           {
             "id": "88ed38aa19557625",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "reproduccion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,7 +27,7 @@
       {
         "id": "d929fc62acdc4106",
         "type": "tabs",
-        "dimension": 58.43653250773993,
+        "dimension": 52.762430939226526,
         "children": [
           {
             "id": "17996dd929a992d7",
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "reproduccion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mendel",
+                "query": "reproducc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "reproduccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microtúbulos.md",
+                "file": "reproduccion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microtúbulos.md"
+                "file": "reproduccion.md"
               }
             }
           },
@@ -174,17 +174,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17996dd929a992d7",
+  "active": "88ed38aa19557625",
   "lastOpenFiles": [
+    "Biologia Celular Molecular/Apoptosis.md",
+    "reproduccion.md",
+    "replicacion.md",
+    "microtúbulos.md",
     "organelas.md",
     "peroxisoma.md",
     "origen y función.md",
     "Microbiologia/Microorganismos/microorganismo.md",
     "Microbiologia/Microorganismos/eucariota.md",
-    "Biologia Celular Molecular/Citoesqueleto.md",
-    "microfilamentos.md",
-    "genetica clasica.md",
-    "test.md",
-    "Biologia/Temario.md"
+    "Biologia Celular Molecular/Citoesqueleto.md"
   ]
 }
