@@ -81,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "88ed38aa19557625",
+  "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
     "Biologia Vegetal/Bloque 1.md",
     "espermatozoide.md",
