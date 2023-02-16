@@ -46,7 +46,7 @@ Se coloca un fragmento de tejido u organo en la interfasse solido liquido de un 
 #### Cultivo celular primario
 
 Es el tipo de cultivo celular mas utilizado. Se puede obtener a partir de explantes primarios o de suspensiones de celulas disgregadas. Disgregacion se realiza por metodos enzimaticos o mecanicos.
-En estos cultivos se pierde la interaccion celula-celula y las interacciones con la [[Biologia Celular Molecular/Matriz extracelular]]. Aun asi, son capaces de proliferar y la poblacion crece mucho, hasta que llegan a la confluencia (se detiene el crecimiento) y hay que realizar un subcultivo. Existen dos tipos de cultivo celular primario:
+En estos cultivos se pierde la interaccion celula-celula y las interacciones con la [[Matriz extracelular]]. Aun asi, son capaces de proliferar y la poblacion crece mucho, hasta que llegan a la confluencia (se detiene el crecimiento) y hay que realizar un subcultivo. Existen dos tipos de cultivo celular primario:
 
 - Cultivo en monocapa → celulas crecen adheridas sobre un soporte solido. El anclaje al sustrato es prerequisito para la proliferacion. Utilizado para la mayoria de celulas, excepto las hematopoyeticas
 - Cultivo en suspencion → Celulas se encuentran dispersas en el medio de cultivo. Su crecimiento no depende del anclaje, alcanza confluencia cuando no hay mas nutrientes. Se utiliza para celulas hematopoyeticas, celulas madre, celulas transformadas y celulas tumorales

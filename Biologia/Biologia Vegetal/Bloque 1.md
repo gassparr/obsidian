@@ -66,7 +66,7 @@ Divisiones en los ejes XYZ
 
 - auxina
   Fototropismo y Gravitropismo → Fotoreceptores y estatolitos
-  Se sintetiza en hojas jovenes ,meristema caulinas y capullos de flores. Se transporta a larga distancia por floema, a corta distancia se mueve a traves del apoplasto y de la membrana plasmatica. Esta cargada como anion a pH7 en citoplasma y en la [[pared celular]] a pH5.5 esta sin carga (se protona).
+  Se sintetiza en hojas jovenes ,meristema caulinas y capullos de flores. Se transporta a larga distancia por floema, a corta distancia se mueve a traves del apoplasto y de la membrana plasmatica. Esta cargada como anion a pH7 en citoplasma y en la [[Pared Celular]] a pH5.5 esta sin carga (se protona).
   ***Utiliza transportadores especificos***: Hay 3 familias de estos
   ATPasa mantienen el pH (disminuyen el pH ) esto activa a las expansinas
   

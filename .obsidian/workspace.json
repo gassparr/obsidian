@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aparato de golgi.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aparato de golgi.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vacuolas.md",
+                "file": "Biologia/centromero.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30d88bf5007eda57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/centromero.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d929fc62acdc4106",
@@ -62,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aparato de golgi.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -99,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fecund",
+                "query": "estructura celular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vacuolas.md",
+                "file": "Biologia/centromero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vacuolas.md",
+                "file": "Biologia/centromero.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vacuolas.md"
+                "file": "Biologia/centromero.md"
               }
             }
           },
@@ -203,15 +216,15 @@
   },
   "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
-    "comunicacion celular.md",
-    "aparato de golgi.md",
-    "mitosis.md",
-    "centromero.md",
-    "fecundacion.md",
-    "Biologia Vegetal/Bloque 1.md",
-    "espermatozoide.md",
-    "meiosis.md",
-    "reproduccion.md",
-    "Biologia Celular Molecular/Apoptosis.md"
+    "Biologia/reproduccion.md",
+    "Biologia/centromero.md",
+    "Biologia/replicacion.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/microfilamentos.md",
+    "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
+    "Fenomenos de Transporte/Clase 1 Introduccion.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/tilacoide.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/vacuolas.md",
+    "Biologia/comunicacion celular.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md"
   ]
 }
