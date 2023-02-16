@@ -54,7 +54,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/centromero.md",
+                "file": "Biologia/Procesos Biologicos/meiosis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a4cb74ec5b4cc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/fermentacion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "d929fc62acdc4106",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/centromero.md",
+                "file": "Biologia/fermentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/centromero.md",
+                "file": "Biologia/fermentacion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/centromero.md"
+                "file": "Biologia/fermentacion.md"
               }
             }
           },
@@ -214,17 +227,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "4a4cb74ec5b4cc9a",
   "lastOpenFiles": [
+    "Biologia/cromosoma.md",
+    "Biologia/Procesos Biologicos/fecundacion.md",
+    "Biologia/Procesos Biologicos/espermatozoide.md",
+    "Biologia/Procesos Biologicos/embriogenesis.md",
     "Biologia/reproduccion.md",
+    "Bioquimica/Bioquimica 3/replicacion.md",
+    "Biologia/Procesos Biologicos/meiosis.md",
+    "Biologia/Procesos Biologicos/mitosis.md",
     "Biologia/centromero.md",
-    "Biologia/replicacion.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/microfilamentos.md",
-    "Fenomenos de Transporte/Clase 2 Conveccion forzada.md",
-    "Fenomenos de Transporte/Clase 1 Introduccion.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/tilacoide.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/vacuolas.md",
-    "Biologia/comunicacion celular.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/microfilamentos.md"
   ]
 }
