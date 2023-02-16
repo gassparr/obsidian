@@ -14,15 +14,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fecundacion.md",
+                "file": "aparato de golgi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
             "group": "2fb6578d08b9d574"
+          },
+          {
+            "id": "28db6bc216e4885f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aparato de golgi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b78dc81328552d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vacuolas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d929fc62acdc4106",
@@ -35,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fecundacion.md",
+                "file": "aparato de golgi.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -101,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fecundacion.md",
+                "file": "vacuolas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fecundacion.md",
+                "file": "vacuolas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fecundacion.md"
+                "file": "vacuolas.md"
               }
             }
           },
@@ -176,15 +203,15 @@
   },
   "active": "64a0432d31a19d2e",
   "lastOpenFiles": [
+    "comunicacion celular.md",
+    "aparato de golgi.md",
+    "mitosis.md",
+    "centromero.md",
+    "fecundacion.md",
     "Biologia Vegetal/Bloque 1.md",
     "espermatozoide.md",
     "meiosis.md",
-    "mitosis.md",
     "reproduccion.md",
-    "Biologia Celular Molecular/Apoptosis.md",
-    "replicacion.md",
-    "microtúbulos.md",
-    "organelas.md",
-    "peroxisoma.md"
+    "Biologia Celular Molecular/Apoptosis.md"
   ]
 }
