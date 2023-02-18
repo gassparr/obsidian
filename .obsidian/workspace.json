@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Procesos Biologicos/meiosis.md",
+                "file": "Biologia/genetica clasica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,18 +60,15 @@
             }
           },
           {
-            "id": "4a4cb74ec5b4cc9a",
+            "id": "cb799e064f305c00",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 576.5,
-                  "y": -424.2009604650064,
-                  "zoom": -1.2910430967185405,
-                  "snapToGrid": false
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -114,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Untitled.md"
               }
             }
           },
@@ -207,17 +205,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4a4cb74ec5b4cc9a",
+  "active": "f234cb288c04cfaf",
   "lastOpenFiles": [
+    "Biologia/genetica clasica.md",
+    "Untitled.canvas",
+    "Biologia/Procesos Biologicos/meiosis.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/reticulo endoplasmico.md",
     "Biologia/fermentacion.md",
     "Biologia/cromosoma.md",
     "Biologia/Procesos Biologicos/fecundacion.md",
     "Biologia/Procesos Biologicos/espermatozoide.md",
     "Biologia/Procesos Biologicos/embriogenesis.md",
-    "Biologia/reproduccion.md",
-    "Bioquimica/Bioquimica 3/replicacion.md",
-    "Biologia/Procesos Biologicos/meiosis.md",
-    "Biologia/Procesos Biologicos/mitosis.md",
-    "Biologia/centromero.md"
+    "Biologia/reproduccion.md"
   ]
 }

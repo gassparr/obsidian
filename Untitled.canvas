@@ -1,10 +1,15 @@
 {
 	"nodes":[
-		{"id":"f64210f11c188490","x":-102,"y":-1057,"width":1357,"height":782,"type":"group","label":"Untitled group"},
-		{"id":"7cb7d8696f2cfa07","x":-54,"y":-860,"width":462,"height":446,"type":"file","file":"Biologia/Ideas Centrales.md"},
-		{"id":"5429881f3bf7c3a4","x":647,"y":-976,"width":450,"height":143,"type":"file","file":"Biologia/Ideas Centrales/Dogma central de la Biología molecular.md"}
+		{"id":"f64210f11c188490","x":-581,"y":-1057,"width":1836,"height":960,"type":"group","label":"Untitled group"},
+		{"id":"7cb7d8696f2cfa07","x":-514,"y":-976,"width":462,"height":446,"type":"file","file":"Biologia/Ideas Centrales.md"},
+		{"id":"5429881f3bf7c3a4","x":383,"y":-976,"width":450,"height":143,"type":"file","file":"Biologia/Ideas Centrales/Dogma central de la Biología molecular.md"},
+		{"id":"8eb1874882c20b87","x":-514,"y":36,"width":400,"height":473,"type":"file","file":"Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/organelas.md"},
+		{"id":"849e4755f454b5f2","x":227,"y":36,"width":400,"height":400,"type":"file","file":"Biologia/Microbiologia/Estructuras y Organelas/citosol.md"},
+		{"id":"69918f5c7c065c79","x":227,"y":509,"width":400,"height":400,"type":"file","file":"Biologia/Microbiologia/Estructuras y Organelas/Neuronas.md"}
 	],
 	"edges":[
-		{"id":"e0eb76761ddd619b","fromNode":"7cb7d8696f2cfa07","fromSide":"right","toNode":"5429881f3bf7c3a4","toSide":"left"}
+		{"id":"e0eb76761ddd619b","fromNode":"7cb7d8696f2cfa07","fromSide":"right","toNode":"5429881f3bf7c3a4","toSide":"left"},
+		{"id":"6dc40bfb537f9ef6","fromNode":"8eb1874882c20b87","fromSide":"right","toNode":"69918f5c7c065c79","toSide":"left"},
+		{"id":"33230efc6cc2f7b5","fromNode":"8eb1874882c20b87","fromSide":"right","toNode":"849e4755f454b5f2","toSide":"left"}
 	]
 }
