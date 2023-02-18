@@ -6,7 +6,6 @@
       {
         "id": "e93438fe60cbac92",
         "type": "tabs",
-        "dimension": 47.23756906077348,
         "children": [
           {
             "id": "88ed38aa19557625",
@@ -19,8 +18,7 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "2fb6578d08b9d574"
+            }
           },
           {
             "id": "28db6bc216e4885f",
@@ -65,38 +63,20 @@
             "id": "4a4cb74ec5b4cc9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Biologia/fermentacion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 576.5,
+                  "y": -424.2009604650064,
+                  "zoom": -1.2910430967185405,
+                  "snapToGrid": false
+                }
               }
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "d929fc62acdc4106",
-        "type": "tabs",
-        "dimension": 52.76243093922652,
-        "children": [
-          {
-            "id": "17996dd929a992d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "2fb6578d08b9d574"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/fermentacion.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/fermentacion.md",
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/fermentacion.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -229,6 +209,7 @@
   },
   "active": "4a4cb74ec5b4cc9a",
   "lastOpenFiles": [
+    "Biologia/fermentacion.md",
     "Biologia/cromosoma.md",
     "Biologia/Procesos Biologicos/fecundacion.md",
     "Biologia/Procesos Biologicos/espermatozoide.md",
@@ -237,7 +218,6 @@
     "Bioquimica/Bioquimica 3/replicacion.md",
     "Biologia/Procesos Biologicos/meiosis.md",
     "Biologia/Procesos Biologicos/mitosis.md",
-    "Biologia/centromero.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/microfilamentos.md"
+    "Biologia/centromero.md"
   ]
 }
