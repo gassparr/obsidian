@@ -8,7 +8,7 @@ La mayoria de los plasmidos son circulares, aun asi existen lineales.
 Los plasmidos lineares necesitan de mecanismos especializados para la replicacion.
 Los plasmidos circulares pueden tener mas de una topologia, la cual esta dada por DNA girasas y topoisomerasas
 
-# Caracteristicas codificadas
+# Caracteristicas Codificadas
 
 Se pueden generar caracteristicas favorables para el host.
 
@@ -56,7 +56,7 @@ Cassette de un operon autoregulado que contiene genes los cuales codifican para 
 Recombinasas sitio especifica, en ambas copias monomericas de los plasmidos (complejo dimerico), estas recombinazas cortan el DNA dentro del complejo plasmidico lo cual promueve el intercambio de monomeros en los 2 sitios
 
 **Diseminacion de plasmidos en poblaciones bacterianas**
-Transferencia de DNA por medio conjugativo, donde el DNA es transferido de una bacteria de forma mediada por el contacto celular y en esa interfase, el donor le transfiere el DNA mediante el [pilus ](https://en.wikipedia.org/wiki/Pilus)
+Transferencia de DNA por medio conjugativo, donde el DNA es transferido de una bacteria de forma mediada por el contacto celular y en esa interfase, el donor le transfiere el DNA mediante el [pilus](https://en.wikipedia.org/wiki/Pilus)
 
 **Sistema de resolucion de multimeros (MRS)**
 Resuelve los multiples origenes de replicacion de los multimeros que se forman en la replicacion.
@@ -64,5 +64,3 @@ Resuelve los multiples origenes de replicacion de los multimeros que se forman e
 **Sistemas toxina-antitoxina**
 
 Sistema por el cual hay una toxina y una antitoxina codificada en el plasmido, el cual si el plasmido esta correctamente codificado, la toxina se neutraliza
-
-

@@ -50,12 +50,15 @@
             "id": "30d88bf5007eda57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Biologia/genetica clasica.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 337,
+                  "y": 639.1471849031616,
+                  "zoom": -1.9464308656262927,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -65,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ingenieria Genetica/Teorias/Plasmidos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +105,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estructura celular",
-                "matchingCase": false,
+                "query": "plasmidos",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -111,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -205,17 +207,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f234cb288c04cfaf",
+  "active": "30d88bf5007eda57",
   "lastOpenFiles": [
+    "Untitled.md",
     "Biologia/genetica clasica.md",
+    "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Untitled.canvas",
     "Biologia/Procesos Biologicos/meiosis.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/reticulo endoplasmico.md",
     "Biologia/fermentacion.md",
     "Biologia/cromosoma.md",
     "Biologia/Procesos Biologicos/fecundacion.md",
-    "Biologia/Procesos Biologicos/espermatozoide.md",
-    "Biologia/Procesos Biologicos/embriogenesis.md",
-    "Biologia/reproduccion.md"
+    "Biologia/Procesos Biologicos/espermatozoide.md"
   ]
 }
