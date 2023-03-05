@@ -56,8 +56,7 @@
                 "viewState": {
                   "x": 337,
                   "y": 639.1471849031616,
-                  "zoom": -1.9464308656262927,
-                  "snapToGrid": false
+                  "zoom": -1.9464308656262927
                 }
               }
             }
@@ -76,6 +75,16 @@
             }
           },
           {
+            "id": "27932a0fb7afe1cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "cb799e064f305c00",
             "type": "leaf",
             "state": {
@@ -89,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -220,7 +229,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "94b5894c676d4877",
+  "active": "27932a0fb7afe1cd",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled.md",
