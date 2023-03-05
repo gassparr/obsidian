@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/celula vegetal.md"
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md"
               }
             }
           },
@@ -247,8 +247,12 @@
   },
   "active": "9cd7717a06dac022",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Bloque 1.md",
+    "Biologia/Microbiologia/Microorganismos/procariota.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
     "Biologia/Biologia Vegetal/celula vegetal.md",
+    "Templates/Tecnicas.md",
+    "Templates/Proteina.md",
+    "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia/Biologia Vegetal/Plantas Vasculares.md",
     "Biologia/Biologia Vegetal/tipo de planta.md",

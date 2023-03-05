@@ -5,7 +5,7 @@
 | Hongos     | Quitina, glucanos y proteinas                |
 | Plantas    | Celulosa                 |
 
-# [[procariota#Pared Celular:]]
+# [[proca]]
 
 # Plantas
 
