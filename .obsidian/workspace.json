@@ -67,20 +67,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Horarios.md",
+                "file": "Biologia/centromero.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "27932a0fb7afe1cd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
               }
             }
           },
@@ -98,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Horarios.md",
+                "file": "Biologia/centromero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Horarios.md",
+                "file": "Biologia/centromero.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Horarios.md"
+                "file": "Biologia/centromero.md"
               }
             }
           },
@@ -229,10 +219,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "27932a0fb7afe1cd",
+  "active": "94b5894c676d4877",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled.md",
+    "Personal/Horarios.md",
     "Biologia/genetica clasica.md",
     "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Biologia/Procesos Biologicos/meiosis.md",
