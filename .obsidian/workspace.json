@@ -67,7 +67,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/centromero.md",
+                "file": "Biologia/Biologia Vegetal/Plantas Vasculares.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5964a71915a0da57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Plantas Vasculares.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cd7717a06dac022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -117,8 +143,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plasmidos",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -146,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/centromero.md",
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/centromero.md",
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/centromero.md"
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md"
               }
             }
           },
@@ -219,8 +245,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "94b5894c676d4877",
+  "active": "9cd7717a06dac022",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Bloque 1.md",
+    "Biologia/Biologia Vegetal/celula vegetal.md",
+    "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
+    "Biologia/Biologia Vegetal/Plantas Vasculares.md",
+    "Biologia/Biologia Vegetal/tipo de planta.md",
+    "Biologia/Biologia Vegetal/Untitled.md",
+    "Biologia/centromero.md",
     "Untitled.canvas",
     "Untitled.md",
     "Personal/Horarios.md",
