@@ -101,6 +101,19 @@
             }
           },
           {
+            "id": "379d208db89621a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Investment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cb799e064f305c00",
             "type": "leaf",
             "state": {
@@ -114,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
+                "file": "Personal/Investment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
+                "file": "Personal/Investment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md"
+                "file": "Personal/Investment.md"
               }
             }
           },
@@ -245,10 +258,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9cd7717a06dac022",
+  "active": "379d208db89621a2",
   "lastOpenFiles": [
-    "Biologia/Microbiologia/Microorganismos/procariota.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
+    "Personal/Investment.md",
+    "Biologia/Microbiologia/Microorganismos/procariota.md",
     "Biologia/Biologia Vegetal/celula vegetal.md",
     "Templates/Tecnicas.md",
     "Templates/Proteina.md",
