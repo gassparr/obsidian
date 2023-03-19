@@ -114,6 +114,16 @@
             }
           },
           {
+            "id": "8939eb6b1f02231f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "cb799e064f305c00",
             "type": "leaf",
             "state": {
@@ -127,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -258,7 +268,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "379d208db89621a2",
+  "active": "8939eb6b1f02231f",
   "lastOpenFiles": [
     "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
     "Personal/Investment.md",
