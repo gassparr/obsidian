@@ -12,13 +12,12 @@
 - [[grampositiva]]: 1 capa gruesa
 - [[gramnegativa]]: 2 capas finas
 
-Sera una capa rigida la cual se encuentra solo en el dominio _[[bacteria]]_ que le otorga resistencia a la celula en 2 dimensiones. Aun asi existen agentes que podran destruirlo, entre ellos el _lisozima_
+Sera una capa rigida la cual se encuentra solo en el dominio *[[bacteria]]* que le otorga resistencia a la celula en 2 dimensiones. Aun asi existen agentes que podran destruirlo, entre ellos el *lisozima*
 
 ## Capas S (archaea)
 
 formada por moleculas entrelazadas de proteinas o glicoproteinas.
 Las capas s brindan proteccion frente a la lisis osmotica ademas de generar una interfase y el medio, actuando asi como filtro selectivo permitiendo el paso de solutos de bajo PM
-
 
 # Plantas
 
