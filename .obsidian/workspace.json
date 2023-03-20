@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88ed38aa19557625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28db6bc216e4885f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b78dc81328552d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/centromero.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "30d88bf5007eda57",
             "type": "leaf",
             "state": {
@@ -67,20 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Plantas Vasculares.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5964a71915a0da57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Plantas Vasculares.md",
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,20 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Investment.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb799e064f305c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingenieria Genetica/Teorias/Plasmidos.md",
+                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/peroxisoma.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Investment.md",
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Investment.md",
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Investment.md"
+                "file": "Biologia/Biologia Vegetal/celula vegetal.md"
               }
             }
           },
@@ -245,23 +180,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9cd7717a06dac022",
+  "active": "94b5894c676d4877",
   "lastOpenFiles": [
-    "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
+    "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia/Biologia Vegetal/Plantas Vasculares.md",
-    "Ingenieria Genetica/Teorias/Plasmidos.md",
-    "Personal/Investment.md",
-    "Biologia/Microbiologia/Microorganismos/procariota.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/peroxisoma.md",
+    "Untitled.canvas",
+    "Biologia/centromero.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
     "Biologia/Biologia Vegetal/celula vegetal.md",
+    "Untitled.md",
+    "Personal/Investment.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
+    "Ingenieria Genetica/Teorias/Plasmidos.md",
+    "Biologia/Microbiologia/Microorganismos/procariota.md",
     "Templates/Tecnicas.md",
     "Templates/Proteina.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
-    "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia/Biologia Vegetal/tipo de planta.md",
     "Biologia/Biologia Vegetal/Untitled.md",
-    "Biologia/centromero.md",
-    "Untitled.canvas",
-    "Untitled.md",
     "Personal/Horarios.md",
     "Biologia/genetica clasica.md",
     "Biologia/Procesos Biologicos/meiosis.md",
