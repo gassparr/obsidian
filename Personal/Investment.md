@@ -6,4 +6,5 @@
 
 VELAS: baja en el corto plazo. Es una alerta
 BOLLINGER: está en el medio. indica nada.
-MACD: converge a la baja y cruzó a la baja. Es una alerta. RSI: en el medio. indica nada
+MACD: converge a la baja y cruzó a la baja. Es una alerta. 
+RSI: en el medio. indica nada
