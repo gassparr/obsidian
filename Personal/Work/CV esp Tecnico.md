@@ -16,7 +16,7 @@ Información de contacto:
 
 **Experiencia**:
 
-- **Técnico Químico, KPK Works, 2020 → 2022**
+- **Técnico Quimico, KPK Works, 2020 → 2022**
 
     - Responsabilidades:
 
