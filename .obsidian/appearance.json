@@ -1,12 +1,13 @@
 {
   "baseFontSize": 14,
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Atom",
   "translucency": false,
   "enabledCssSnippets": [
     "Anupuccin"
   ],
   "baseFontSizeAction": true,
   "accentColor": "#443672",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "Arial"
 }

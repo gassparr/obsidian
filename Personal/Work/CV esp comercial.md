@@ -16,7 +16,7 @@ Nombre: Gaspar Kaswalder
 
 **Experiencia**:
 
-**Administrativo, KPK Works, 2020 → 2022**
+**Administrativo, KPK Works, Dic 2020 → Feb 2023**
 
 - Responsabilidades:
 
@@ -29,8 +29,7 @@ Nombre: Gaspar Kaswalder
 **Habilidades**:
 
 - Análisis de mercado: Conocimientos de análisis técnico y fundamental de los mercados financieros, incluyendo el seguimiento de tendencias y la identificación de oportunidades de inversión.
-- Software: Paquete Office, Microsoft Access, Mathlab.
-- Gestión de riesgos: Experiencia en la gestión de riesgos de inversión y en el uso de herramientas de análisis de riesgos.
+- Software: Paquete Office, Microsoft Access, Mathlab, Google Analytics
 - Escritura técnica: Experiencia en la elaboración de informes de mercado y documentos técnicos, incluyendo análisis de tendencias y perspectivas de inversión.
 
 **Idiomas**:

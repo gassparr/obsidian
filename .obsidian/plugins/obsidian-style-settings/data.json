@@ -201,7 +201,6 @@
   "obsidian-prism-theme@@pt-icon-folder-accent": true,
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
-  "things-style@@cursor": "default",
   "things-style@@h1-color": "#BF616A",
   "things-style@@h2-color": "#D08770",
   "things-style@@h3-color": "#EBCB8B",
@@ -258,5 +257,7 @@
   "shimmering-focus@@hide-backlinks-status-bar": false,
   "shimmering-focus@@hide-languagetool-status-bar": false,
   "shimmering-focus@@hide-electron-window-tweaker-status-bar": false,
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle"
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "shimmering-focus@@uncolored-bold": true,
+  "shimmering-focus@@uncolored-italic": true
 }
