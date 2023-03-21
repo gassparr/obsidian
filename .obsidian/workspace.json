@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Work/CV esp comercial.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Work/CV esp comercial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Work/CV esp comercial.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md"
+                "file": "Personal/Work/CV esp comercial.md"
               }
             }
           },
@@ -193,10 +193,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c98f657c9e4505dc",
+  "active": "94b5894c676d4877",
   "lastOpenFiles": [
-    "Personal/Work/CV esp comercial.md",
     "Personal/Work/CV esp Tecnico.md",
+    "Personal/Work/CV esp comercial.md",
     "Personal/Work/CV esp.md",
     "Personal/Work/CV eng 2.md",
     "Fisiologia Animal/Fisiologia animal/Transporte.md",
