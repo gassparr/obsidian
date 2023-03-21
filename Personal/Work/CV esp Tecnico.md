@@ -7,17 +7,18 @@ Información de contacto:
 
 **Educación**:
 
-- **Título en Química de la Universidad Nacional de La Plata, 2023**
+- **Título en Química, Universidad Nacional de La Plata, 2023**
 	- Materias relevantes:
 	    - Química (orgánica, inorgánica y analítica)
 	    - Matemática estadística
 	    - Microbiología
 	    - Biotecnología
+- **Licenciatura en Biotecnologia, Universidad Nacional de La Plata, En progreso**
+	- Estudiante avanzado %80
 
 **Experiencia**:
 
 - **Técnico Quimico, KPK Works, 2020 → 2022**
-
     - Responsabilidades:
 
     1. Realizar controles de seguridad para garantizar que el equipo cumpla con las regulaciones locales y nacionales.
@@ -26,7 +27,6 @@ Información de contacto:
     4. Apoyar el mantenimiento del inventario y solicitar piezas de repuesto según sea necesario.
 
 - **Asistente de laboratorio, Universidad Nacional de La Plata, 2022 → 2023**
-
     - Responsabilidades:
         1. Ayudar en la preparación de muestras y reactivos de laboratorio, incluyendo la esterilización de equipos y medios.
         2. Realizar pruebas y procedimientos de laboratorio rutinarios, como cultivos de bacterias y hongos, tinción de gram y PCR.
