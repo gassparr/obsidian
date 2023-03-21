@@ -1,4 +1,4 @@
-
+```
 dG < 0 significa un proceso espontaneo
 dG > 0 significa un proceso no espontaneo
 
@@ -34,3 +34,4 @@ T = Temperatura K
 C = Concentracion molar del soluto
 i = Numero de iones por disociacion del soluto
 o = Coeficiente osmotico (Vale cerca de 1 )
+```

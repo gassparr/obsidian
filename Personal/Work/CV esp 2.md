@@ -5,16 +5,16 @@ Información de contacto:
 - Número de teléfono: +54 9 221 305 4186
 - Dirección de correo electrónico: [gaspar@kaswalder.net](mailto:gaspar@kaswalder.net)
 
-Educación:
+**Educación**:
 
-- **Título en Química de la Universidad Nacional de La Plata en 2023**
+- **Título en Química de la Universidad Nacional de La Plata, 2023**
 	- Materias relevantes:
 	    - Química (orgánica, inorgánica y analítica)
 	    - Matemática estadística
 	    - Microbiología
 	    - Biotecnología
 
-Experiencia:
+**Experiencia**:
 
 - **Técnico Químico, KPK Works, 2020 → 2022**
 
@@ -33,6 +33,7 @@ Experiencia:
         3. Registrar y mantener datos y registros de laboratorio precisos, incluyendo resultados de pruebas e niveles de inventario.
         4. Ayudar en el mantenimiento y calibración de equipos e instrumentos de laboratorio.
         5. Realizar tareas básicas de limpieza y organización del laboratorio, como lavar vidrio y mantener el laboratorio limpio y ordenado.
+        6. Analisis estadistico de muestras microbiologicas
 
 **Habilidades:**
 
@@ -41,7 +42,7 @@ Experiencia:
 - Seguridad: Conocimientos de protocolos y procedimientos de seguridad, incluyendo el manejo de materiales peligrosos, eliminación de productos químicos y respuesta a emergencias.
 - Escritura técnica: Experiencia en la escritura de informes de laboratorio y documentos técnicos, incluyendo procedimientos operativos estándar (SOPs) y protocolos experimentales.
 
-**Idioms**
+**Idiomas**
 
 - Español (nativo)
 - Ingles (nativo)

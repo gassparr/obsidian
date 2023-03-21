@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisiologia Animal/Fisiologia animal/Transporte.md",
+                "file": "Personal/Work/CV esp 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisiologia Animal/Fisiologia animal/Transporte.md",
+                "file": "Personal/Work/CV esp 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisiologia Animal/Fisiologia animal/Transporte.md",
+                "file": "Personal/Work/CV esp 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisiologia Animal/Fisiologia animal/Transporte.md"
+                "file": "Personal/Work/CV esp 2.md"
               }
             }
           },
@@ -182,6 +182,10 @@
   },
   "active": "94b5894c676d4877",
   "lastOpenFiles": [
+    "Personal/Work/CV esp.md",
+    "Personal/Work/CV eng 2.md",
+    "Personal/Work/CV esp 2.md",
+    "Fisiologia Animal/Fisiologia animal/Transporte.md",
     "Biologia/Biologia Vegetal/celula vegetal.md",
     "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia/Biologia Vegetal/Plantas Vasculares.md",
@@ -204,8 +208,6 @@
     "Biologia/Procesos Biologicos/meiosis.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/reticulo endoplasmico.md",
     "Biologia/fermentacion.md",
-    "Biologia/cromosoma.md",
-    "Biologia/Procesos Biologicos/fecundacion.md",
-    "Biologia/Procesos Biologicos/espermatozoide.md"
+    "Biologia/cromosoma.md"
   ]
 }
