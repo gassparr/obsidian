@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work/CV esp 2.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c98f657c9e4505dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV esp 2.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV esp 2.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV esp 2.md"
+                "file": "Personal/Work/CV esp Tecnico.md"
               }
             }
           },
@@ -180,11 +193,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "94b5894c676d4877",
+  "active": "c98f657c9e4505dc",
   "lastOpenFiles": [
+    "Personal/Work/CV esp comercial.md",
+    "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp.md",
     "Personal/Work/CV eng 2.md",
-    "Personal/Work/CV esp 2.md",
     "Fisiologia Animal/Fisiologia animal/Transporte.md",
     "Biologia/Biologia Vegetal/celula vegetal.md",
     "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
@@ -207,7 +221,6 @@
     "Biologia/genetica clasica.md",
     "Biologia/Procesos Biologicos/meiosis.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/reticulo endoplasmico.md",
-    "Biologia/fermentacion.md",
-    "Biologia/cromosoma.md"
+    "Biologia/fermentacion.md"
   ]
 }
