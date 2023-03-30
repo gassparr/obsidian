@@ -21,4 +21,10 @@ d. Colenquima lagunar
 
 # Esclerenquima
 
-Presenta 2 tipo
+Presenta 2 tipos de celulas con pared celular engrosada secundaria y lignificada. Las celulas no tienen citoplasma y estan muertas. Son fundamentales en celulas que dejaron de alargarse y son provistas de soporto por la esclerenquima. 
+
+**Celulas**
+- Fibras → Celulas alargadas y fusiformes, Origen meristematico
+- Esclereiad → Celulas variadas en su forma, Origen parrenquimatico
+**Localizacion**
+- Esta distribuido por todo el cuerpo y es mas abundante en tallos y hojas
