@@ -13,7 +13,7 @@ Presentan pared primaria delgada o gruesa con plasmodesmos y estas se pueden for
 
 Se encuentra en todos los sistemas de tejidos de la planta y forma masas continuas de celulas, en la corteza, en la medula de tallos y raices.
 
-# Parenquima clorofilico
+## Parenquima clorofilico
 
 Denominado **clorenquima**. Esta especializado en [[fotosintesis]] ya que sus celulas contienen cloroplastos.
 
@@ -24,3 +24,5 @@ Denominado **clorenquima**. Esta especializado en [[fotosintesis]] ya que sus ce
 En las *hojas* el clorenquima (denominado mesofilo) se divide en:
 - Empalizada → mas expuesto al sol, tiene mayor densidad de celulas (mayor tasa de fotosintesis)
 - Parenquima lagunar → menos expuesto al sol, tiene mayor espacio entercelular (ayuda a difusion de Agua y gases)
+
+## Parenquima de reserva
