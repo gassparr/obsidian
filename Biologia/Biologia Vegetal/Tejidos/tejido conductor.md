@@ -65,3 +65,5 @@ Tejido de conduccion formado por celulas vivas
 
 ![](https://i.imgur.com/jq2snbc.png)
 ![350](https://i.imgur.com/Nq5NgXC.png)
+
+Los tubos cribosos son celulas achatadas de disposicion longitudinal y se comunican mediante las placas cribosas, estas contienen poros de gran tamano que comunican los citoplasmas
