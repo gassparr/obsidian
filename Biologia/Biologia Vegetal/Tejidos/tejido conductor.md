@@ -31,4 +31,19 @@ Tienen multiples funciones:
 - Almacen de carbohidratos
 - Reserva de agua
 - Almacen de nitrogeno
-- Comunicacion 
+- Comunicacion e/ xilema y floema
+
+![](https://i.imgur.com/JXx9FDs.png)
+
+### Xilema Primario
+
+Se forma durante el desarrollo de un organo de la planta.
+Primero se forma el protoxilema a partir del procambium y completa su desarrollo durante la elongacion, finalmente desapareciendo
+Segundo, aparece el metaxilema
+
+### Xilema Secundario
+
+Se produce en organos con crecimiento secundario a partir del cambium vascular
+
+## Floema
+
