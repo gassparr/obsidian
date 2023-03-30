@@ -27,6 +27,7 @@ Las celulas parenquimaticas se organizan de forma:
 	  Forman filas perpendiculares a la superficie del organo.
 - Axial
 	  Forman grupos longitudinales al xilema y en el floema.
+
 Tienen multiples funciones:
 - Almacen de carbohidratos
 - Reserva de agua
@@ -47,3 +48,20 @@ Se produce en organos con crecimiento secundario a partir del cambium vascular
 
 ## Floema
 
+Tejido de conduccion formado por celulas vivas
+
+**Funciones**:
+- Transportar sustancias carbonadas producidas durante la fotosintesis o que estaban almacenadas
+
+**Celulas**:
+
+- Elementos conductores
+	- Elementos cribosos
+	- Celulas cribosas
+	Ambos son celulas vivas pero sin nucleo
+- Elementos no conductores
+	- Celulas parenquimaticas
+	- Fibras y esclereidas
+
+![](https://i.imgur.com/jq2snbc.png)
+![350](https://i.imgur.com/Nq5NgXC.png)
