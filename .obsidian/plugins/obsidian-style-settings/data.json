@@ -231,7 +231,7 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-darker",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-dracula",
   "encore-settings@@theme-dark": "encore-theme-dark-atom",
   "encore-settings@@encore-coloured-tooltip": true,
   "minimal-advanced@@window-title-on": false,
@@ -259,5 +259,8 @@
   "shimmering-focus@@hide-electron-window-tweaker-status-bar": false,
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "shimmering-focus@@uncolored-bold": true,
-  "shimmering-focus@@uncolored-italic": true
+  "shimmering-focus@@uncolored-italic": true,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
+  "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
+  "anuppuccin-theme-settings@@anp-translucent-left": false
 }
