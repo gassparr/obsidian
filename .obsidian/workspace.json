@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "fe4eb3727b15b95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c98f657c9e4505dc",
             "type": "leaf",
             "state": {
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md"
               }
             }
           },
@@ -193,8 +206,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "94b5894c676d4877",
+  "active": "fe4eb3727b15b95d",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
+    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Personal/Work/CV esp comercial.md",
     "Personal/Work/CV esp Tecnico.md",
@@ -219,8 +234,6 @@
     "Biologia/Biologia Vegetal/tipo de planta.md",
     "Biologia/Biologia Vegetal/Untitled.md",
     "Personal/Horarios.md",
-    "Biologia/genetica clasica.md",
-    "Biologia/Procesos Biologicos/meiosis.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/reticulo endoplasmico.md"
+    "Biologia/genetica clasica.md"
   ]
 }

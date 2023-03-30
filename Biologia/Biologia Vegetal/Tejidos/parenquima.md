@@ -37,3 +37,15 @@ Reserva de carbohidratos
 Reserva de lipidos y proteinas:
 - Proteinas en proteinoplastos 
 - Lipidos en elaioplastos
+
+## Parenquima acuifero
+
+Parénquima especializado en almacenar agua. 
+Las células parenquimáticas que almacenan agua son grandes, de paredes celulares delgadas y con una gran vacuola donde se acumula el agua. 
+Las paredes celulares son capaces de plegarse y replegarse otra vez para poder alternar entre periodos de sequía y de humedad. Esta capacidad evita la destrucción de la célula.
+
+## Parenquima aerifero
+
+El parénquima aerífero es un tipo de parénquima que se encuentra en las plantas acuáticas y en las plantas que crecen en suelos anegados. 
+Está formado por células parenquimáticas que contienen aire en su interior y que se encuentran intercaladas entre los tejidos conductores de la planta. 
+Su función es la de permitir el intercambio de gases entre la planta y el medio ambiente. El aire que contienen estas células se comunica con el exterior a través de poros o espacios intercelulares.
