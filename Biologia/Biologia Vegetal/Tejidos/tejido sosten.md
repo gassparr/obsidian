@@ -20,3 +20,5 @@ c. Colenquima anular
 d. Colenquima lagunar
 
 # Esclerenquima
+
+Presenta 2 tipo
