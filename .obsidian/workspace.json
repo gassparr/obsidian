@@ -8,74 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d88bf5007eda57",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 337,
-                  "y": 639.1471849031616,
-                  "zoom": -1.9464308656262927
-                }
-              }
-            }
-          },
-          {
-            "id": "94b5894c676d4877",
+            "id": "1af53faf38982639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe4eb3727b15b95d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c98f657c9e4505dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cd7717a06dac022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/peroxisoma.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md"
               }
             }
           },
@@ -206,21 +151,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe4eb3727b15b95d",
+  "active": "1af53faf38982639",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/peroxisoma.md",
+    "Personal/Work/CV esp Tecnico.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Personal/Work/CV esp comercial.md",
-    "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp.md",
     "Personal/Work/CV eng 2.md",
     "Fisiologia Animal/Fisiologia animal/Transporte.md",
     "Biologia/Biologia Vegetal/celula vegetal.md",
     "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
     "Biologia/Biologia Vegetal/Plantas Vasculares.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/peroxisoma.md",
-    "Untitled.canvas",
     "Biologia/centromero.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
     "Untitled.md",
@@ -232,8 +178,6 @@
     "Templates/Proteina.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/tipo de planta.md",
-    "Biologia/Biologia Vegetal/Untitled.md",
-    "Personal/Horarios.md",
-    "Biologia/genetica clasica.md"
+    "Biologia/Biologia Vegetal/Untitled.md"
   ]
 }
