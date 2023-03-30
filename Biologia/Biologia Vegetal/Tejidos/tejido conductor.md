@@ -67,4 +67,6 @@ Tejido de conduccion formado por celulas vivas
 ![350](https://i.imgur.com/Nq5NgXC.png)
 
 Los tubos cribosos son celulas achatadas de disposicion longitudinal y se comunican mediante las placas cribosas, estas contienen poros de gran tamano que comunican los citoplasmas.
-Estas celulas estan acompanadas de celulas parenquimaticas, llamadas acompanantes 
+Estas celulas estan acompanadas de celulas parenquimaticas, llamadas acompanantes.
+
+Las celulas parenquimaticas se asocian al floema
