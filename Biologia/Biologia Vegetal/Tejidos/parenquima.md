@@ -26,3 +26,7 @@ En las *hojas* el clorenquima (denominado mesofilo) se divide en:
 - Parenquima lagunar → menos expuesto al sol, tiene mayor espacio entercelular (ayuda a difusion de Agua y gases)
 
 ## Parenquima de reserva
+
+Las celulas de aca, funcionan como la reserva de almidon y sucrosa.
+- el almidon se guarda en los plastidios de las celulas vegetales
+- La sucrosa se guarda en las vacuolas
