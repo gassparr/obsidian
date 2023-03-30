@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "94b5894c676d4877",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Personal/Work/CV esp comercial.md",
     "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp.md",
@@ -220,7 +221,6 @@
     "Personal/Horarios.md",
     "Biologia/genetica clasica.md",
     "Biologia/Procesos Biologicos/meiosis.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/reticulo endoplasmico.md",
-    "Biologia/fermentacion.md"
+    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/reticulo endoplasmico.md"
   ]
 }

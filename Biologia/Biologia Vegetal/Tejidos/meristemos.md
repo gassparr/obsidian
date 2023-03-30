@@ -87,4 +87,10 @@ En plantas con crecimiento secundario. Aparecen en estados tardios y son respons
 	- Floema Secundario
 	- Xilema Secundario
 - Cambium suberoso
-	-Peridermis
+	- Peridermis
+
+El cambium vascular se localiza entre el Xilema 2 y el Floema 2 y el cambium suberoso, entre la felodermis y el suber
+
+## Meristemas intercalares
+
+En plantas monocotiledoneas, son los encargados del crecimiento longitudinal del tallo, se encuentran localizados entre tejidos no meristematicos

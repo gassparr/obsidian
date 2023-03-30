@@ -9,3 +9,4 @@ Se origina de [[meristemos]] apicales o laterales
 
 **Celulas**:
 Presentan pared primaria delgada o gruesa con plasmodesmos 
+
