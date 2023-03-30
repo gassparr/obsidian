@@ -1,4 +1,5 @@
 # Parenquima
+
 Tejido simple poco especializado y primitivo. Las celulas conservan capacidad de dividirse.
 Se origina de [[meristemos]] apicales o laterales
 
@@ -13,7 +14,7 @@ Presentan pared primaria delgada o gruesa con plasmodesmos y estas se pueden for
 
 Se encuentra en todos los sistemas de tejidos de la planta y forma masas continuas de celulas, en la corteza, en la medula de tallos y raices.
 
-## Parenquima clorofilico
+## Parenquima Clorofilico
 
 Denominado **clorenquima**. Esta especializado en [[fotosintesis]] ya que sus celulas contienen cloroplastos.
 
@@ -25,8 +26,14 @@ En las *hojas* el clorenquima (denominado mesofilo) se divide en:
 - Empalizada → mas expuesto al sol, tiene mayor densidad de celulas (mayor tasa de fotosintesis)
 - Parenquima lagunar → menos expuesto al sol, tiene mayor espacio entercelular (ayuda a difusion de Agua y gases)
 
-## Parenquima de reserva
+## Parenquima de Reserva
 
-Las celulas de aca, funcionan como la reserva de almidon y sucrosa.
+Las celulas de aca, funcionan como:
+
+Reserva de carbohidratos
 - el almidon se guarda en los plastidios de las celulas vegetales
 - La sucrosa se guarda en las vacuolas
+
+Reserva de lipidos y proteinas:
+- Proteinas en proteinoplastos 
+- Lipidos en elaioplastos
