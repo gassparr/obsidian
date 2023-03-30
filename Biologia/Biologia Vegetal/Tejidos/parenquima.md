@@ -10,3 +10,4 @@ Se origina de [[meristemos]] apicales o laterales
 **Celulas**:
 Presentan pared primaria delgada o gruesa con plasmodesmos 
 
+Se encuentra en todos los sistemas de tejidos de la planta y forma masas continuas de celulas, en la cor
