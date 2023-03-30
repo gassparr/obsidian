@@ -9,5 +9,6 @@
   "baseFontSizeAction": true,
   "accentColor": "#443672",
   "nativeMenus": false,
-  "textFontFamily": "Arial"
+  "textFontFamily": "Arial",
+  "showViewHeader": true
 }
