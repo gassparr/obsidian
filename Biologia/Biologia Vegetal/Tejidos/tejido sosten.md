@@ -25,6 +25,8 @@ Presenta 2 tipos de celulas con pared celular engrosada secundaria y lignificada
 
 **Celulas**
 - Fibras → Celulas alargadas y fusiformes, Origen meristematico
-- Esclereiad → Celulas variadas en su forma, Origen parrenquimatico
+- Esclereida → Celulas variadas en su forma, Origen parenquimatico
+
+La lignificacion en estas es variable y depende de la deposicion de auxinas y giberelinas
 **Localizacion**
 - Esta distribuido por todo el cuerpo y es mas abundante en tallos y hojas
