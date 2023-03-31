@@ -69,4 +69,7 @@ Tejido de conduccion formado por celulas vivas
 Los tubos cribosos son celulas achatadas de disposicion longitudinal y se comunican mediante las placas cribosas, estas contienen poros de gran tamano que comunican los citoplasmas.
 Estas celulas estan acompanadas de celulas parenquimaticas, llamadas acompanantes.
 
-Las celulas parenquimaticas se asocian al floema
+Las celulas parenquimaticas se asocian al floema ya que mantienen metabolicamente a los tubos cribosos, debido a que estos carecen de nucleos y tienen citoplasmas reducidos.
+Las celulas acompanantes tienen nucleos muy grandes y citoplasmas ricos en organulos
+
+![](https://i.imgur.com/Ys3zqPc.png)
