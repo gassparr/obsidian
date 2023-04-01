@@ -24,3 +24,14 @@ La caliptra esta separa de el floema por unos milimetros, lo cual dice que el su
 La zona apical, tiene una zona llamada columnela, formada por dos columnas de celulas, las cuales sirven como sensor de gravedad, gracias que las celulas contienen citoplasmas muy grandes con amiloplastos, los cuales por gravedad se depositaran en sus membranas del lado para abajo
 
 **Zona de division celular**
+
+zona que esta a continuacion de la zona apical, se producen la mayoria de las divisiones celulares
+
+**Zona de Elongacion**
+
+zona de pocos mm de longitus, las celulas aumentan su tamano y esta permite la elongacion de la raiz, ademas de la adicion de nuevas celulas
+
+**Zona de Maduracion**
+
+Celulas comienzan a adquirir sus caracteristicas celulares que les permiten ser funcionales. Aqui aparecen los pelos radicales por diferenciacion de la epidermis
+
