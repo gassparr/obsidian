@@ -35,3 +35,10 @@ zona de pocos mm de longitus, las celulas aumentan su tamano y esta permite la e
 
 Celulas comienzan a adquirir sus caracteristicas celulares que les permiten ser funcionales. Aqui aparecen los pelos radicales por diferenciacion de la epidermis
 
+# Raiz primaria
+
+Componente principal responsable de la elongacion de la raiz. Esta organizado en un meritemo apical, el cual esta protegido por la caliptra.
+
+El RAM esta formado por el centro quiescente, el cual forma el nicho de celulas iniciales. Estas rodean a las celulas del centro quiescente y son celulas troncales indiferenciadas, de aqui se generan las celulas progenitoras que dan lugar a todos los tipos celulares de la raiz primaria
+
+![](https://i.imgur.com/V4cFB0B.png)
