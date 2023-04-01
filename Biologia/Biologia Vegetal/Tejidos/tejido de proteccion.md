@@ -39,3 +39,6 @@ Celulas epidermicas especializadas, formadas a partir de celulas epidermicas, ti
 En la epidermis de la raiz, sirven para absorber agua y sales minerales. Crecen perpendicularmente a la raiz y aumentan el area superficial de la misma
 
 ## Peridermis
+
+Sustituye a la epidermis en tallos y raices que tienen crecimiento secundario. Se produce por la actividad del felogeno, el cual es un meristemo 2do y lateral.
+El origen de la peridermis es por la desdiferenciacion de celulas parenquimaticas o colenquimaticas las cuales se encuentran adyacentes a la epidermis
