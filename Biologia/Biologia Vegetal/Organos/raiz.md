@@ -16,4 +16,11 @@ La raiz es la primera estructura que brota del embrion, situado en la semilla. E
 ## Zonas
 
 **Zona apical**
-Se encuentra en el meristema apical radicular (RAM) con una cubierta llamada *caliptra*
+Se encuentra en el meristema apical radicular (RAM) con una cubierta llamada *caliptra*. Esta zona tiene celulas con una baja tasa de division y estan rodeadas de protodermis y procambium, que dan lugar a la epidermis, vasos conductores y tejido fundamental respectivamente.
+Las celulas estan controladas por el *centro quiescente* localizado cerca.
+
+La caliptra esta separa de el floema por unos milimetros, lo cual dice que el suministro de esta, se debe a celulas de la zona de elongacion y maduracion.
+
+La zona apical, tiene una zona llamada columnela, formada por dos columnas de celulas, las cuales sirven como sensor de gravedad, gracias que las celulas contienen citoplasmas muy grandes con amiloplastos, los cuales por gravedad se depositaran en sus membranas del lado para abajo
+
+**Zona de division celular**

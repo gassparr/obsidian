@@ -206,7 +206,7 @@
   "things-style@@h3-color": "#EBCB8B",
   "things-style@@h4-color": "#A3BE8C",
   "things-style@@h5-color": "#B48EAD",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-maroon",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
@@ -229,9 +229,9 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-dracula",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-rosebox",
   "encore-settings@@theme-dark": "encore-theme-dark-atom",
   "encore-settings@@encore-coloured-tooltip": true,
   "minimal-advanced@@window-title-on": false,
@@ -262,5 +262,7 @@
   "shimmering-focus@@uncolored-italic": true,
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
   "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
-  "anuppuccin-theme-settings@@anp-translucent-left": false
+  "anuppuccin-theme-settings@@anp-translucent-left": false,
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-lavender"
 }
