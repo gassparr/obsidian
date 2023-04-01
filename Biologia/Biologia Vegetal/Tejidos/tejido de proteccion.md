@@ -20,4 +20,12 @@ Esta formada comunmente por una sola fila de celulas, en algunas ocasiones esta 
 **Celulas**:
 Las celulas epidermicas son muy abundantes y poco especializadas, no dejan espacios intercelulares. En dicotiledoneas tienen paredes celulares de forma irregular, mientras que en monocotiledoneas tienen paredes alargadas y uniformes.
 
-No tienen cloroplastos. tienen grandes vacuolas y reticulo endoplasmico y aparato de golgi muy desarrollado
+No tienen cloroplastos. tienen grandes vacuolas y reticulo endoplasmico y aparato de golgi muy desarrollado.
+
+En la parte aerea de la planta, las celulas secretan *cutina*, la cual forma la *cuticula*
+En la raiz, secretan *suberina*
+
+### Estomas
+
+Celulas epidermicas especializadas que se organizan para dejar un poro, la cual permite contacto entre el interior y el exterior.
+Hay una camara de aire debajo del poro, la cual se llama *camara subestomatica*. Estas estructuras junto a las celulas oclusivas, forman el *complejo estomatico*
