@@ -1,1 +1,1 @@
-Captacion de agua y sales
+Porcion de la planta que comunmente esta bajo el suelo
