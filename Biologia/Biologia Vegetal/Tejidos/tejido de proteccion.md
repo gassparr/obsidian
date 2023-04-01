@@ -28,4 +28,14 @@ En la raiz, secretan *suberina*
 ### Estomas
 
 Celulas epidermicas especializadas que se organizan para dejar un poro, la cual permite contacto entre el interior y el exterior.
-Hay una camara de aire debajo del poro, la cual se llama *camara subestomatica*. Estas estructuras junto a las celulas oclusivas, forman el *complejo estomatico*
+Hay una camara de aire debajo del poro, la cual se llama *camara subestomatica*. Estas estructuras junto a las celulas oclusivas, forman el *complejo estomatico*.
+
+**Tricomas**
+
+Celulas epidermicas especializadas, formadas a partir de celulas epidermicas, tienen funciones de proteccion o glandulares.
+
+### Pelos Radicales
+
+En la epidermis de la raiz, sirven para absorber agua y sales minerales. Crecen perpendicularmente a la raiz y aumentan el area superficial de la misma
+
+## Peridermis
