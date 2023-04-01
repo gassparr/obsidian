@@ -41,4 +41,6 @@ En la epidermis de la raiz, sirven para absorber agua y sales minerales. Crecen 
 ## Peridermis
 
 Sustituye a la epidermis en tallos y raices que tienen crecimiento secundario. Se produce por la actividad del felogeno, el cual es un meristemo 2do y lateral.
-El origen de la peridermis es por la desdiferenciacion de celulas parenquimaticas o colenquimaticas las cuales se encuentran adyacentes a la epidermis
+El origen de la peridermis es por la desdiferenciacion de celulas parenquimaticas o colenquimaticas las cuales se encuentran adyacentes a la epidermis.
+
+En el felogeno se da lugar a celulas que mueren y suberifican o lignificas, formando el corcho. El corcho es totalmente impermeable, por lo que se formaran lenticelas, las cuales son estructuras que permiten el intercambio de gases entre tejidos internos y el ambiente, mediante los poros
