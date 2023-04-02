@@ -61,3 +61,17 @@ La banda de caspary por eso, es un fuerte control de sustancias que llegan desde
 Debajo de la endordermis, se encuentran celulas parenquimaticas que forman el periciclo, el cual conserva su capacidad meristematica. En los crecimientos secundarios, el periciclo es el *origen cambium vascular y cambium suberoso*
 
 # Raiz secundaria
+
+El crecimiento secundario implica la perdida de:
+- Epiderdermis
+- Cortex 
+	- Hipodermis 
+	- endodermis
+
+Ademas, se forma una corteza suberizada que impide la entrada de agua.
+El crecimiento secundario se ve favorecido por las hormonas:
+- Auxinas
+- Citoquininas
+- Giberelinas
+- Estrilactonas
+Este tipo de crecimiento se inicia cuando el procambium (que esta entre el floema y xilema 1ro) se convierte en cambium vasuclar
