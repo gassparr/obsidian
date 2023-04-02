@@ -35,7 +35,7 @@ zona de pocos mm de longitus, las celulas aumentan su tamano y esta permite la e
 
 Celulas comienzan a adquirir sus caracteristicas celulares que les permiten ser funcionales. Aqui aparecen los pelos radicales por diferenciacion de la epidermis
 
-# Raiz primaria
+# Raiz Primaria
 
 Componente principal responsable de la elongacion de la raiz. Esta organizado en un meritemo apical, el cual esta protegido por la caliptra.
 
