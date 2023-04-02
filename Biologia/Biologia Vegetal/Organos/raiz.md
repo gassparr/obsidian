@@ -58,4 +58,4 @@ La banda de caspary por eso, es un fuerte control de sustancias que llegan desde
 
 ## Periciclo
 
-Debajo de la endordermis, se encuentran celulas parenquimaticas que forman el periciclo, el cual conserva su capacidad meristematica. En los crecimientos secundarios, el periciclo es el *origen del xilema 2do y floema 2do*
+Debajo de la endordermis, se encuentran celulas parenquimaticas que forman el periciclo, el cual conserva su capacidad meristematica. En los crecimientos secundarios, el periciclo es el *origen cambium vascular y cambium suberoso*
