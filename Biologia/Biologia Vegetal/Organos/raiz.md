@@ -60,12 +60,12 @@ La banda de caspary por eso, es un fuerte control de sustancias que llegan desde
 
 Debajo de la endordermis, se encuentran celulas parenquimaticas que forman el periciclo, el cual conserva su capacidad meristematica. En los crecimientos secundarios, el periciclo es el *origen cambium vascular y cambium suberoso*
 
-# Raiz secundaria
+# Raiz Secundaria
 
 El crecimiento secundario implica la perdida de:
 - Epiderdermis
-- Cortex 
-	- Hipodermis 
+- Cortex
+	- Hipodermis
 	- endodermis
 
 Ademas, se forma una corteza suberizada que impide la entrada de agua.
@@ -74,4 +74,14 @@ El crecimiento secundario se ve favorecido por las hormonas:
 - Citoquininas
 - Giberelinas
 - Estrilactonas
-Este tipo de crecimiento se inicia cuando el procambium (que esta entre el floema y xilema 1ro) se convierte en cambium vasuclar
+Este tipo de crecimiento se inicia cuando el procambium (que esta entre el floema y xilema 1ro) se convierte en cambium vasuclar.
+
+![](https://i.imgur.com/yzMCeRd.png)
+
+Las estructuras que nos encontramos en una raíz secundaria desde la superficie hasta el interior son las siguientes:
+
+- Epidermis/córtex/peridermis. Puede haber raíces con crecimiento secundario más o menos desarrollado. Las menos desarrolladas poseen epidermis y un córtex superficial formado principalmente por tejido parenquimático, denominado parénquima cortical. En las raíces con crecimiento secundario avanzado la epidermis y el córtex se sustituyen por la corteza o peridermis, que es un tejido de protección producido por el meristemo denominado felógeno. Como hemos mencionado, éste es un meristemo lateral que procede enteramente del periciclo.
+- Floema secundario. Se forma a partir del cámbium vascular, hacia la parte exterior. Su formación provoca que el floema primario se convierta en tejido residual.
+- Cámbium vascular. Es el meristemo lateral principal responsable del crecimiento en grosor de la raíz. Produce floema secundario hacia el exterior y xilema secundario hacia el interior. Conforme la raíz va creciendo en grosor el cámbium vascular se va alejando del eje central.
+- Xilema secundario. Producido por el cámbium vascular. Forma la madera y en las raíces gruesas es tejido muerto. El xilema secundario más reciente es el más superficial. La proliferación de las células iniciales radiales producen los radios vasculares, claramente visibles en secciones transversales.
+- Xilema primario. Se encuentra en la parte más interna de la raíz y se produjo durante el crecimiento primario. Es tejido muerto.
