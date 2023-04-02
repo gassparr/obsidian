@@ -42,3 +42,7 @@ Componente principal responsable de la elongacion de la raiz. Esta organizado en
 El RAM esta formado por el centro quiescente, el cual forma el nicho de celulas iniciales. Estas rodean a las celulas del centro quiescente y son celulas troncales indiferenciadas, de aqui se generan las celulas progenitoras que dan lugar a todos los tipos celulares de la raiz primaria
 
 ![](https://i.imgur.com/V4cFB0B.png)
+Las raices primarias presentan epidermis, la cual carece de estomas y tiene pelos radicales. En la zona apical tendra celulas epidermicas con pared fina, para facilitar el paso de agua
+
+**Pelos radicales**
+Son los principales responsables en la abosircion de agua y sales. Son extensiones de celulas epidermicas, que aumentan el area superficial de la raiz. Como los pelos se ubican en la zona apical, siempre estan desplazandose
