@@ -45,4 +45,17 @@ El RAM esta formado por el centro quiescente, el cual forma el nicho de celulas 
 Las raices primarias presentan epidermis, la cual carece de estomas y tiene pelos radicales. En la zona apical tendra celulas epidermicas con pared fina, para facilitar el paso de agua
 
 **Pelos radicales**
-Son los principales responsables en la abosircion de agua y sales. Son extensiones de celulas epidermicas, que aumentan el area superficial de la raiz. Como los pelos se ubican en la zona apical, siempre estan desplazandose
+Son los principales responsables en la abosircion de agua y sales. Son extensiones de celulas epidermicas, que aumentan el area superficial de la raiz. Como los pelos se ubican en la zona apical, siempre estan desplazandose.
+
+**Corteza**
+Debajo de la epidermis se encuentra la corteza, la cual esta formada por celulas parenquimaticas, las cuales seran reserva de carbohidratos en forma de almidon
+
+## Banda de Caspary
+
+Formado por endodermis, la cual forma una capa de celulas compactadas con paredes primarias parcialmente impregnadas con suberina.
+Esto hace que el agua y sustancias disueltas que quieran llegar al haz vascular, tengan que hacerlo de forma simplastica.
+La banda de caspary por eso, es un fuerte control de sustancias que llegan desde el exterior.
+
+## Periciclo
+
+Debajo de la endordermis, se encuentran celulas parenquimaticas que forman el periciclo, el cual conserva su capacidad meristematica. En los crecimientos secundarios, el periciclo es el *origen del xilema 2do y floema 2do*

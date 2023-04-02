@@ -157,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a1ca087740067d8a",
+  "active": "0a044516c7595ad5",
   "lastOpenFiles": [
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
