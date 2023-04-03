@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/raiz.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/raiz.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/raiz.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/raiz.md"
+                "file": "Personal/Work/CV esp Tecnico.md"
               }
             }
           },
@@ -179,8 +179,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a044516c7595ad5",
+  "active": "a1ca087740067d8a",
   "lastOpenFiles": [
+    "Personal/Work/CV esp comercial.md",
+    "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
@@ -191,7 +193,6 @@
     "Personal/Work/CV esp Tecnico.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
-    "Personal/Work/CV esp comercial.md",
     "Personal/Work/CV esp.md",
     "Personal/Work/CV eng 2.md",
     "Fisiologia Animal/Fisiologia animal/Transporte.md",
@@ -206,7 +207,6 @@
     "Ingenieria Genetica/Teorias/Plasmidos.md",
     "Biologia/Microbiologia/Microorganismos/procariota.md",
     "Templates/Tecnicas.md",
-    "Templates/Proteina.md",
-    "Biologia/Biologia Vegetal/Bloque 1.md"
+    "Templates/Proteina.md"
   ]
 }
