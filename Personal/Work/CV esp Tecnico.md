@@ -28,7 +28,7 @@ Soy un Técnico Químico con experiencia en controles de seguridad y protocolos 
     3. Participar en el desarrollo e implementación de procedimientos, protocolos y directrices de seguridad.
     4. Apoyar el mantenimiento del inventario y solicitar piezas de repuesto según sea necesario.
 
-- **Asistente de laboratorio, IBBM, Universidad Nacional de La Plata, 2022 → 2023**
+- **Asistente de laboratorio, IBBM, Universidad Nacional de La Plata, 2022 → Presente**
     - Responsabilidades:
         1. Ayudar en la preparación de muestras y reactivos de laboratorio, incluyendo la esterilización de equipos y medios.
         2. Realizar pruebas y procedimientos de laboratorio rutinarios, como cultivos de bacterias y hongos, tinción de gram y PCR.
