@@ -1,13 +1,11 @@
-# CV esp Tecnico
+# Gaspar Kaswalder
 
-Nombre: Gaspar Kaswalder
+Soy un Técnico Químico con experiencia en controles de seguridad y protocolos de seguridad en la industria petrolera y quimica. Actualmente, estoy completando mi Licenciatura en Biotecnología, lo que me ha dado un conocimiento amplio en microbiología y biotecnología. También tengo experiencia en técnicas de laboratorio y análisis de datos estadísticos. Soy alguien altamente motivado, con habilidades en escritura técnica y comunicación efectiva, tanto en español como en inglés.
 
-Información de contacto:
+**Información de contacto:**
 
 - Número de teléfono: +54 9 221 305 4186
 - Dirección de correo electrónico: [gaspar@kaswalder.net](mailto:gaspar@kaswalder.net)
-
-Soy un Técnico Químico con experiencia en controles de seguridad y protocolos de seguridad en la industria petrolera y quimica. Actualmente, estoy completando mi Licenciatura en Biotecnología, lo que me ha dado un conocimiento amplio en microbiología y biotecnología. También tengo experiencia en técnicas de laboratorio y análisis de datos estadísticos. Soy un individuo altamente motivado, con habilidades en escritura técnica y comunicación efectiva, tanto en español como en inglés.
 
 **Educación**:
 

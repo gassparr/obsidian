@@ -1,4 +1,6 @@
-Nombre: Gaspar Kaswalder
+# Gaspar Kaswalder
+
+Soy un Técnico Químico con experiencia en controles de seguridad y protocolos de seguridad en la industria petrolera y quimica. Actualmente, estoy completando mi Licenciatura en Biotecnología, lo que me ha dado un conocimiento amplio en microbiología y biotecnología. También tengo experiencia en técnicas de laboratorio y análisis de datos estadísticos. Soy alguien altamente motivado, con habilidades en escritura técnica y comunicación efectiva, tanto en español como en inglés.
 
 **Información de contacto:**
 
@@ -7,12 +9,14 @@ Nombre: Gaspar Kaswalder
 
 **Educación**:
 
-- Título en Química de la Universidad Nacional de La Plata, 2023
-    - Materias relevantes:
-        - Química (orgánica, inorgánica y analítica)
-        - Matemática estadística
-        - Microbiología
-        - Biotecnología
+- **Título en Química, Universidad Nacional de La Plata, 2023**
+	- Materias relevantes:
+	    - Química (orgánica, inorgánica y analítica)
+	    - Matemática estadística
+	    - Microbiología
+	    - Biotecnología
+- **Licenciatura en Biotecnologia, Universidad Nacional de La Plata, En progreso**
+	- Estudiante avanzado %80
 
 **Experiencia**:
 
@@ -28,7 +32,7 @@ Nombre: Gaspar Kaswalder
 
 **Habilidades**:
 
-- Análisis de mercado: Conocimientos de análisis técnico y fundamental de los mercados financieros, incluyendo el seguimiento de tendencias y la identificación de oportunidades de inversión.
+- Análisis de mercado: Conocimientos de análisis técnico y fundamental de los mercados. Para la toma de decisiones financieras
 - Software: Paquete Office, Microsoft Access, Mathlab, Google Analytics
 - Escritura técnica: Experiencia en la elaboración de informes de mercado y documentos técnicos, incluyendo análisis de tendencias y perspectivas de inversión.
 
