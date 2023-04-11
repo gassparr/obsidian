@@ -1,3 +1,5 @@
+# CV esp Tecnico
+
 Nombre: Gaspar Kaswalder
 
 Información de contacto:
@@ -20,14 +22,6 @@ Soy un Técnico Químico con experiencia en controles de seguridad y protocolos 
 
 **Experiencia**:
 
-- **Técnico Quimico, KPK Works, 2020 → 2022**
-    - Responsabilidades:
-
-    1. Realizar controles de seguridad para garantizar que el equipo cumpla con las regulaciones locales y nacionales.
-    2. Proporcionar capacitación y orientación a otros técnicos y personal junior según sea necesario.
-    3. Participar en el desarrollo e implementación de procedimientos, protocolos y directrices de seguridad.
-    4. Apoyar el mantenimiento del inventario y solicitar piezas de repuesto según sea necesario.
-
 - **Asistente de laboratorio, IBBM, Universidad Nacional de La Plata, 2022 → Presente**
     - Responsabilidades:
         1. Ayudar en la preparación de muestras y reactivos de laboratorio, incluyendo la esterilización de equipos y medios.
@@ -37,10 +31,19 @@ Soy un Técnico Químico con experiencia en controles de seguridad y protocolos 
         5. Realizar tareas básicas de limpieza y organización del laboratorio, como lavar vidrio y mantener el laboratorio limpio y ordenado.
         6. Analisis estadistico de muestras microbiologicas
 
+- **Técnico Quimico, KPK Works, 2020 → 2022**
+    - Responsabilidades:
+
+    1. Realizar controles de seguridad para garantizar que el equipo cumpla con las regulaciones locales y nacionales.
+    2. Proporcionar capacitación y orientación a otros técnicos y personal junior según sea necesario.
+    3. Participar en el desarrollo e implementación de procedimientos, protocolos y directrices de seguridad.
+    4. Apoyar el mantenimiento del inventario y solicitar piezas de repuesto según sea necesario.
+
+
 **Habilidades:**
 
 - Técnicas de laboratorio: cromatografía, espectroscopía, microscopía, centrifugación, destilación, etc.
-- Software: Excel, GraphPad y Matlab.
+- Software: Packete office, GraphPad, Matlab, CAD
 - Seguridad: Conocimientos de protocolos y procedimientos de seguridad, incluyendo el manejo de materiales peligrosos, eliminación de productos químicos y respuesta a emergencias.
 - Escritura técnica: Experiencia en la escritura de informes de laboratorio y documentos técnicos, incluyendo procedimientos operativos estándar (SOPs) y protocolos experimentales.
 - Disponibilidad de reubicación absoluta
@@ -50,4 +53,3 @@ Soy un Técnico Químico con experiencia en controles de seguridad y protocolos 
 
 - Español (nativo)
 - Ingles (nativo)
-

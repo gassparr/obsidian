@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Work/CV esp comercial.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Work/CV esp comercial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Work/CV esp comercial.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md"
+                "file": "Personal/Work/CV esp comercial.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "a1ca087740067d8a",
   "lastOpenFiles": [
+    "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
@@ -190,7 +191,6 @@
     "Untitled.canvas",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/peroxisoma.md",
-    "Personal/Work/CV esp Tecnico.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Personal/Work/CV esp.md",
