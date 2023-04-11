@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
+                "file": "Biologia/Procesos Biologicos/comunicacion celular.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c64fe2b9ab538b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1ca087740067d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Work/CV esp comercial.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV esp comercial.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV esp comercial.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV esp comercial.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md"
               }
             }
           },
@@ -179,34 +179,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a1ca087740067d8a",
+  "active": "8c64fe2b9ab538b9",
   "lastOpenFiles": [
-    "Personal/Work/CV esp Tecnico.md",
-    "Personal/Work/CV esp comercial.md",
-    "Biologia/Biologia Vegetal/Organos/raiz.md",
+    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
+    "Biologia/Temario.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/lipidos.md",
+    "Biologia/Procesos Biologicos/fermentacion.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/cromosoma.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/centromero.md",
+    "Biologia/Procesos Biologicos/comunicacion celular.md",
+    "Biologia/Microbiologia/Estructuras y Organelas/colageno.md",
+    "Biologia/Procesos Biologicos/fision binaria.md",
+    "Biologia/Ideas Centrales/genetica clasica y herencia.md",
+    "Biologia/origen y función.md",
+    "Biologia/Ideas Centrales/genetica clasica.md",
+    "Personal/Work/CV esp comercial.md",
+    "Personal/Work/CV esp Tecnico.md",
+    "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
     "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
     "Untitled.canvas",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/peroxisoma.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Personal/Work/CV esp.md",
     "Personal/Work/CV eng 2.md",
     "Fisiologia Animal/Fisiologia animal/Transporte.md",
-    "Biologia/Biologia Vegetal/celula vegetal.md",
-    "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
-    "Biologia/Biologia Vegetal/Plantas Vasculares.md",
-    "Biologia/centromero.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/aparato de golgi.md",
-    "Untitled.md",
-    "Personal/Investment.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/Pared Celular.md",
-    "Ingenieria Genetica/Teorias/Plasmidos.md",
-    "Biologia/Microbiologia/Microorganismos/procariota.md",
-    "Templates/Tecnicas.md",
-    "Templates/Proteina.md"
+    "Biologia/Biologia Vegetal/celula vegetal.md"
   ]
 }
