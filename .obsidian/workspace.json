@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
+                "file": "Biologia/Biologia Vegetal/Organos/raiz.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
+                "file": "Biologia/Biologia Vegetal/Organos/raiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
+                "file": "Biologia/Biologia Vegetal/Organos/raiz.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md"
+                "file": "Biologia/Biologia Vegetal/Organos/raiz.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "8c64fe2b9ab538b9",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
+    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Temario.md",
     "Biologia/Microbiologia/Estructuras y Organelas/lipidos.md",
     "Biologia/Procesos Biologicos/fermentacion.md",
