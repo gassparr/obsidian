@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "8c64fe2b9ab538b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4fc327ab4a5e4d0",
             "type": "leaf",
             "state": {
@@ -105,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Untitled.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Untitled.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Untitled.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md"
               }
             }
           },
@@ -179,8 +166,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c64fe2b9ab538b9",
+  "active": "d4fc327ab4a5e4d0",
   "lastOpenFiles": [
+    "Biologia/Procesos Biologicos/comunicacion celular.md",
+    "Biologia/Biologia Vegetal/Untitled.md",
     "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
@@ -189,7 +178,6 @@
     "Biologia/Procesos Biologicos/fermentacion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/cromosoma.md",
     "Biologia/Microbiologia/Estructuras y Organelas/centromero.md",
-    "Biologia/Procesos Biologicos/comunicacion celular.md",
     "Biologia/Microbiologia/Estructuras y Organelas/colageno.md",
     "Biologia/Procesos Biologicos/fision binaria.md",
     "Biologia/Ideas Centrales/genetica clasica y herencia.md",
@@ -206,7 +194,6 @@
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Personal/Work/CV esp.md",
     "Personal/Work/CV eng 2.md",
-    "Fisiologia Animal/Fisiologia animal/Transporte.md",
-    "Biologia/Biologia Vegetal/celula vegetal.md"
+    "Fisiologia Animal/Fisiologia animal/Transporte.md"
   ]
 }
