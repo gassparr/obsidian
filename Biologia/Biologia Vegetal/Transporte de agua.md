@@ -25,3 +25,11 @@ Este tipo de movimiento es apoplastico entre las celulas (atraviesa las membrana
 ## Movimiento por Osmosis
 
 A traves de membranas permeables selectivamente, ocurre la osmosis. Donde el agua difusara hacia regiones de menor concentracion de H2O (mayor concentracion de soluto)
+
+**Potencial quimico** 
+Capacidad de hacer trabajo en el caso del agua
+
+Yw → Potencial agua (J/m3) o (MPa)
+Ys = - R . T . (C)sol → Negativo porque al disolverse el soluto, el Yw se reduce
+
+El agua se mueve desde potencial mayor a potencial menor
