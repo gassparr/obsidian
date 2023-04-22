@@ -12,4 +12,7 @@
 - Moviemiento por osmosis (distancias celulares)
 - Movimiento en masa (larga distancia)
 
-## Movimiento 
+## Movimiento por difusion
+
+Las moleculas se mueven de un lugar de mayor concentracion a uno de menor concentracion .
+Este tipo de movimiento es apoplastico entre las celulas (atraviesa las membranas)
