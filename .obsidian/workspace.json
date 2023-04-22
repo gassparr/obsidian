@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md"
               }
             }
           },
@@ -194,9 +194,9 @@
   },
   "active": "45f065e714bdd11a",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/celula vegetal.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",

@@ -39,3 +39,5 @@ Yp → Presion hidrostatica que ejerce sobre la pared
 Yw = Ys + Yp 
 
 ![](https://i.imgur.com/nR7KKYV.png)
+
+Yg → Potencial gravitacional, a pequenas distancias se considera 0, pero con plantas de 20 metros ejerce presion

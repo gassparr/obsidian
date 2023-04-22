@@ -8,3 +8,5 @@ Formado por:
 - [[parenquima]] (almacenamiento): almacenan almidos, aceites, taninos y cristales. Pueden tener crecimiento secundario y lignificarse
 
 ![300](https://i.imgur.com/WLSVLxi.png)
+
+# Transporte de agua y minerales
