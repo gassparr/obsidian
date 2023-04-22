@@ -21,3 +21,7 @@ proteinas transmembrana que permiten el pasaje pasivo de
 
 Las moleculas se mueven de un lugar de mayor concentracion a uno de menor concentracion .
 Este tipo de movimiento es apoplastico entre las celulas (atraviesa las membranas)
+
+## Movimiento por Osmosis
+
+A traves de membranas permeables selectivamente, ocurre la osmosis. Donde el agua difusara hacia regiones de menor concentracion de H2O (mayor concentracion de soluto)
