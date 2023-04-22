@@ -33,3 +33,9 @@ Yw → Potencial agua (J/m3) o (MPa)
 Ys = - R . T . (C)sol → Negativo porque al disolverse el soluto, el Yw se reduce
 
 El agua se mueve desde potencial mayor a potencial menor
+
+Yp → Presion hidrostatica que ejerce sobre la pared
+
+Yw = Ys + Yp 
+
+![](https://i.imgur.com/nR7KKYV.png)
