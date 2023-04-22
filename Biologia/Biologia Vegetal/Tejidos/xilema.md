@@ -10,3 +10,20 @@ Formado por:
 ![300](https://i.imgur.com/WLSVLxi.png)
 
 # Transporte de agua y minerales
+
+El agua se mueve desde el suelo, atravesando la epidermis y cortes de la raiz, endodermis y hacia el cilindro vascular y el xilema
+
+El agua se mueve a traves del xilema por la tension desarrollada en los sitios de evaporacion de las hojas
+
+En la hoja el agua se evapora del xilema hacia los espacios intercelulares y luego a traves de los estomas hacia la atmosfera.
+
+El movimiento del agua a traves de las plantas vasculares se describe como *flujo continuo en estado estacionario*:
+
+1. Suelo - raiz
+2. A traves de la raiz 
+3. Xilema radicular
+4. transporte del tallo 
+5. distribucion en toda la planta
+6. transpiracion
+
+La absorcion del agua **solo ocurre en pelos radiculares**, en la zona de maduracion o diferenciacion del tejido. Esto se debe a que las partes maduras ya se van sellando con ligninica y suberi
