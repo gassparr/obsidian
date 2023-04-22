@@ -27,3 +27,10 @@ El movimiento del agua a traves de las plantas vasculares se describe como *fluj
 6. transpiracion
 
 La absorcion del agua **solo ocurre en pelos radiculares**, en la zona de maduracion o diferenciacion del tejido. Esto se debe a que las partes maduras ya se van sellando con ligninica y suberina.
+
+![](https://i.imgur.com/wOwG1Ly.png)
+
+
+## Transporte del agua de la raiz al tallo
+
+Via simplastica
