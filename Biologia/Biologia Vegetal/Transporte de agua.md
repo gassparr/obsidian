@@ -43,3 +43,6 @@ Yw = Ys + Yp
 
 Yg → Potencial gravitacional, a pequenas distancias se considera 0, pero con plantas de 20 metros ejerce presion
 
+## Movimiento en masa
+
+Se explica el transporte por el [[xilema]] a partir de las propiedades del agua, donde la evaporacion deja un espacio libre el cual sera rellenado por otra molecula de agua impulsada por la tension.
