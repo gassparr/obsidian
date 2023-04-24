@@ -14,5 +14,5 @@ meteorológicos.
 - Ahorro de fertilizantes e insecticidas.
 
 DESVENTAJAS:
-- Puesta en marcha de altos costos
+- Puesta en marcha de altos costos 
 - Si se infecta una planta, se disemina la enfermedad a todas las plantas rapidamente
