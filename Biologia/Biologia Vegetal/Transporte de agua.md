@@ -9,7 +9,8 @@
 
 # Acuaporinas
 
-proteinas transmembrana que permiten el pasaje pasivo de
+proteinas transmembrana que permiten el pasaje pasivo de. 
+En las celulas de la [[endodermis]] las cuales estan adyacentes a la banda de caspary, las acuaporinas estan bloquedas por suberina
 
 # Tres Procesos
 
