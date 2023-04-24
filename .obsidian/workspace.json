@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/endodermis.md"
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
               }
             }
           },
@@ -205,10 +205,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "e80a4c777ef0e96d",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Tejidos/xilema.md",
     "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
+    "Biologia/Biologia Vegetal/Tejidos/xilema.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/tipo de planta.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
