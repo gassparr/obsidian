@@ -1,0 +1,1 @@
+Capa cortical mas interna, que rodea el haz vascular central, actuando como una barrera a la libre difusion de solutos de la rizosfera hasta el xilema
