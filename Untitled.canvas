@@ -1,17 +1,10 @@
 {
 	"nodes":[
-		{"type":"group","label":"Untitled group","id":"f64210f11c188490","x":-581,"y":-976,"width":1381,"height":879},
-		{"id":"4c57903074335a08","x":978,"y":-125,"width":250,"height":60,"type":"text","text":""},
-		{"type":"file","file":"Biologia/Microbiologia/Estructuras y Organelas/Estructura celular/organelas.md","id":"8eb1874882c20b87","x":-514,"y":36,"width":400,"height":473},
-		{"type":"file","file":"Biologia/Microbiologia/Estructuras y Organelas/citosol.md","id":"849e4755f454b5f2","x":227,"y":36,"width":400,"height":400},
-		{"type":"file","file":"Biologia/Microbiologia/Estructuras y Organelas/Neuronas.md","id":"69918f5c7c065c79","x":227,"y":509,"width":400,"height":400},
-		{"type":"file","file":"Biologia/Ideas Centrales/Dogma central de la Biología molecular.md","id":"5429881f3bf7c3a4","x":227,"y":-896,"width":450,"height":143},
-		{"type":"file","file":"Biologia/Ideas Centrales.md","id":"7cb7d8696f2cfa07","x":-545,"y":-896,"width":462,"height":446},
-		{"id":"f12485af3ed488ff","x":-333,"y":-872,"width":250,"height":60,"type":"text","text":""}
+		{"type":"group","id":"77d8c246ce51a426","x":-720,"y":-880,"width":1200,"height":1000,"label":"Anatomia"},
+		{"type":"file","file":"Biologia/Biologia Vegetal/Anatomia/colenquima.md","id":"da7b8c254f3cb8ca","x":-680,"y":-320,"width":400,"height":400},
+		{"id":"cf66500fbf4e5f31","x":-680,"y":-720,"width":400,"height":400,"type":"file","file":"Biologia/Biologia Vegetal/Anatomia/esclerenquima.md"},
+		{"id":"f818065588d51810","x":-200,"y":-720,"width":400,"height":400,"type":"file","file":"Biologia/Biologia Vegetal/Anatomia/lamina media.md"},
+		{"id":"31532e5394cc75a0","x":-138,"y":-510,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[
-		{"id":"e0eb76761ddd619b","fromNode":"7cb7d8696f2cfa07","fromSide":"right","toNode":"5429881f3bf7c3a4","toSide":"left"},
-		{"id":"6dc40bfb537f9ef6","fromNode":"8eb1874882c20b87","fromSide":"right","toNode":"69918f5c7c065c79","toSide":"left"},
-		{"id":"33230efc6cc2f7b5","fromNode":"8eb1874882c20b87","fromSide":"right","toNode":"849e4755f454b5f2","toSide":"left"}
-	]
+	"edges":[]
 }
