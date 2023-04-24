@@ -1,0 +1,1 @@
+Conjunto de tecnicas que permiten el cultivo de plantas en un medio libre de suelo

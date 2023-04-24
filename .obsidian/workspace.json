@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Organos/Transporte de agua.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/estoma.md",
+                "file": "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9c3b93e79bac78d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Organos/Transporte de agua.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7051437794878f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Organos/Transporte de agua.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/estoma.md",
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/estoma.md",
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Organos/estoma.md"
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md"
               }
             }
           },
@@ -218,34 +244,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "c7051437794878f2",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
+    "Biologia/Biologia Vegetal/Organos/Transporte de agua.md",
+    "Biologia/Biologia Vegetal/Hidroponia.md",
+    "Biologia/Biologia Vegetal/Organos/Transporte de minerales.md",
+    "Biologia/Biologia Vegetal/Anatomia/Plantas Vasculares.md",
+    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
+    "Biologia/Biologia Vegetal/Anatomia/celula vegetal.md",
+    "Biologia/Biologia Vegetal/Untitled 1.md",
+    "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
     "Biologia/Biologia Vegetal/Organos/estoma.md",
     "Biologia/Biologia Vegetal/Organos/hoja.md",
-    "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
     "Biologia/Biologia Vegetal/Tejidos/xilema.md",
-    "Biologia/Biologia Vegetal/tipo de planta.md",
+    "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
-    "Biologia/Biologia Vegetal/celula vegetal.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
-    "Biologia/Biologia Vegetal/Plantas Vasculares.md",
     "Personal/Work/CV esp Tecnico.md",
     "Biologia/Procesos Biologicos/comunicacion celular.md",
-    "Biologia/Biologia Vegetal/Untitled.md",
     "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Biologia/Temario.md",
     "Biologia/Microbiologia/Estructuras y Organelas/lipidos.md",
     "Biologia/Procesos Biologicos/fermentacion.md",
     "Biologia/Microbiologia/Estructuras y Organelas/cromosoma.md",
     "Biologia/Microbiologia/Estructuras y Organelas/centromero.md",
-    "Biologia/Microbiologia/Estructuras y Organelas/colageno.md",
-    "Biologia/Procesos Biologicos/fision binaria.md",
-    "Biologia/Ideas Centrales/genetica clasica y herencia.md",
     "Untitled.canvas"
   ]
 }
