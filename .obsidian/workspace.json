@@ -89,14 +89,12 @@
             "id": "c7051437794878f2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -280,
-                  "y": -600.8019904114818,
-                  "zoom": -1.3328992127083654
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -172,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Untitled.md"
               }
             }
           },
@@ -248,9 +246,9 @@
   },
   "active": "c7051437794878f2",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
-    "Untitled.canvas",
     "Untitled.md",
     "Templates/Tecnicas.md",
     "Templates/Proteina.md",
@@ -273,7 +271,6 @@
     "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
     "Personal/Work/CV esp Tecnico.md",
     "Biologia/Procesos Biologicos/comunicacion celular.md",
-    "Biologia/Biologia Vegetal/Organos/raiz.md",
-    "Biologia/Temario.md"
+    "Biologia/Biologia Vegetal/Organos/raiz.md"
   ]
 }
