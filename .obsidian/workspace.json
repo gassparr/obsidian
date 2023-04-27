@@ -99,6 +99,19 @@
             }
           },
           {
+            "id": "324440fe800ad467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e80a4c777ef0e96d",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Ideas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Personal/Ideas.md"
               }
             }
           },
@@ -244,12 +257,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c7051437794878f2",
+  "active": "324440fe800ad467",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Personal/Ideas.md",
     "Untitled.canvas",
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
-    "Untitled.md",
     "Templates/Tecnicas.md",
     "Templates/Proteina.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
