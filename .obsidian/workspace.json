@@ -8,137 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1af53faf38982639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Procesos Biologicos/comunicacion celular.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4fc327ab4a5e4d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c76a21e3f4c02f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45f065e714bdd11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74849fe8d43593f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9c3b93e79bac78d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7051437794878f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324440fe800ad467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Ideas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faee5260fa914f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e80a4c777ef0e96d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -225,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md"
+                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md"
               }
             }
           },
@@ -270,13 +152,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "faee5260fa914f6a",
+  "active": "74849fe8d43593f2",
   "lastOpenFiles": [
-    "Personal/Work/CV esp.md",
+    "Untitled.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
+    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
+    "Personal/Work/CV esp Tecnico.md",
+    "Personal/Work/CV esp.md",
     "Biologia/Biologia Vegetal/Untitled.md",
     "Personal/Ideas.md",
-    "Untitled.md",
     "Untitled.canvas",
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
@@ -285,7 +169,6 @@
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Anatomia/Plantas Vasculares.md",
-    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
     "Biologia/Biologia Vegetal/Anatomia/celula vegetal.md",
     "Biologia/Biologia Vegetal/Untitled 1.md",
     "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
@@ -297,7 +180,6 @@
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
-    "Personal/Work/CV esp Tecnico.md"
+    "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md"
   ]
 }
