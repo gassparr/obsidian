@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
+                "file": "Personal/Work/CV esp Tecnico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md"
+                "file": "Personal/Work/CV esp Tecnico.md"
               }
             }
           },
@@ -272,6 +272,8 @@
   },
   "active": "faee5260fa914f6a",
   "lastOpenFiles": [
+    "Personal/Work/CV esp.md",
+    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Untitled.md",
     "Personal/Ideas.md",
     "Untitled.md",
@@ -282,7 +284,6 @@
     "Templates/Proteina.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
-    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Anatomia/Plantas Vasculares.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
     "Biologia/Biologia Vegetal/Anatomia/celula vegetal.md",
@@ -297,7 +298,6 @@
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md",
-    "Personal/Work/CV esp Tecnico.md",
-    "Biologia/Procesos Biologicos/comunicacion celular.md"
+    "Personal/Work/CV esp Tecnico.md"
   ]
 }
