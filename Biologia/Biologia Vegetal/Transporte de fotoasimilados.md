@@ -13,3 +13,5 @@ Tres vias para el transporte intercelular
 # Translocacion en el floema
 
 ![](https://i.imgur.com/8ABZCcN.png)
+
+Para la entrada de fotoasimilados al tubo criboso, la via es simplastica
