@@ -61,6 +61,8 @@ body {
   --callout-warning: var(--color-orange-rgb);
   --callout-quote: 158, 158, 158;
   /* Canvas */
+  --canvas-background: var(--background-primary);
+  --canvas-card-label-color: var(--text-faint);
   --canvas-dot-pattern: var(--color-base-30);
   --canvas-color-1: var(--color-red-rgb);
   --canvas-color-2: var(--color-orange-rgb);
@@ -295,9 +297,9 @@ body {
   /* File navigator */
   --nav-item-size: var(--font-ui-small);
   --nav-item-color: var(--text-muted);
-  --nav-item-color-hover: var(--text-normal);
-  --nav-item-color-active: var(--text-normal);
-  --nav-item-color-selected: var(--text-normal);
+  --nav-item-color-hover: var(--text-on-accent);
+  --nav-item-color-active: var(--text-on-accent);
+  --nav-item-color-selected: var(--text-on-accent);
   --nav-item-color-highlighted: var(--text-accent-hover);
   --nav-item-background-hover: var(--background-modifier-hover);
   --nav-item-background-active: var(--background-modifier-hover);
@@ -872,11 +874,70 @@ settings:
         label: Gray
         value: var(--ctp-subtext0)
   -
-    id: headings
-    title: Headings
-    type: heading
-    level: 2
-    collapsed: true
+  */
+/* @settings
+name: File Name and Headings
+id: catppuccin-heading-settings
+settings:
+  -
+    id: ctp-page-title
+    title: File name color
+    description: Select your file name color
+    type: variable-select
+    allowEmpty: false
+    default: var(--ctp-text)
+    options:
+      -
+        label: Accent
+        value: var(--ctp-accent)
+      -
+        label: Rosewater
+        value: var(--ctp-rosewater)
+      -
+        label: Flamingo
+        value: var(--ctp-flamingo)
+      -
+        label: Pink
+        value: var(--ctp-pink)
+      -
+        label: Mauve
+        value: var(--ctp-mauve)
+      -
+        label: Red
+        value: var(--ctp-red)
+      -
+        label: Maroon
+        value: var(--ctp-maroon)
+      -
+        label: Peach
+        value: var(--ctp-peach)
+      -
+        label: Yellow
+        value: var(--ctp-yellow)
+      -
+        label: Green
+        value: var(--ctp-green)
+      -
+        label: Teal
+        value: var(--ctp-teal)
+      -
+        label: Sky
+        value: var(--ctp-sky)
+      -
+        label: Sapphire
+        value: var(--ctp-sapphire)
+      -
+        label: Blue
+        value: var(--ctp-blue)
+      -
+        label: Lavender
+        value: var(--ctp-lavender)
+      -
+        label: White
+        value: var(--ctp-text)
+      -
+        label: Gray
+        value: var(--ctp-subtext0)
   -
     id: ctp-h1
     title: H1 color
@@ -1577,17 +1638,17 @@ body {
     blinkmacsystemfont,
     "Segoe UI",
     "Microsoft YaHei Light",
+    roboto,
     inter,
-    sans-serif;
+    serif;
   --font-interface-theme:
     "Nunito Sans",
     -apple-system,
-    system-ui,
     blinkmacsystemfont,
     "Segoe UI",
+    "Microsoft YaHei Light",
     roboto,
-    "Helvetica Neue",
-    arial,
+    inter,
     sans-serif;
 }
 
@@ -1614,7 +1675,7 @@ del,
 
 .cm-em.cm-strong,
 strong > em,
-em > strsong {
+em > strong {
   color: rgb(var(--ctp-teal));
 }
 
@@ -1626,6 +1687,10 @@ em > strsong {
 .mod-cm6 .HyperMD-list-line.cm-line {
   padding-top: 0;
   padding-bottom: 0;
+}
+
+.inline-title {
+  --inline-title-color: rgb(var(--ctp-page-title, var(--ctp-text)));
 }
 
 h1,
@@ -1685,10 +1750,6 @@ h6,
   left: -13px;
 }
 
-.tooltip {
-  color: rgb(var(--ctp-rosewater));
-}
-
 /* markdown ==highlight== colors */
 .markdown-rendered mark,
 .cm-s-obsidian span.cm-formatting-highlight,
@@ -1731,6 +1792,71 @@ h6,
 
 .cm-s-obsidian span.cm-error {
   color: rgb(var(--ctp-red));
+}
+
+.tooltip {
+  border: 1px solid rgb(var(--ctp-rosewater), 60%);
+  background-color: var(--background-secondary);
+  box-shadow: 0 0 4px rgb(var(--ctp-mantle));
+  color: rgb(var(--ctp-rosewater), 80%);
+}
+
+/*
+* From app.css
+*/
+/*
+* TODO: Add border to popups that appear during plugin, theme, etc.
+* updates.
+*/
+/* Triangle hack to make tooltip look like a speech bubble */
+.tooltip .tooltip-arrow {
+  position: absolute;
+  top: -5px;
+  left: 50%;
+  width: 0;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid rgb(var(--ctp-rosewater), 60%);
+  border-left: 5px solid transparent;
+  margin-left: -5px;
+  content: " ";
+  font-size: 0;
+  line-height: 0;
+}
+
+.tooltip.mod-right .tooltip-arrow {
+  top: calc(50% - 5px);
+  left: -5px;
+  border-top: 5px solid transparent;
+  border-right: 5px solid rgb(var(--ctp-rosewater), 60%);
+  border-bottom: 5px solid transparent;
+}
+
+.tooltip.mod-left .tooltip-arrow {
+  top: calc(50% - 5px);
+  left: calc(100% + 5px);
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid rgb(var(--ctp-rosewater), 60%);
+}
+
+.tooltip.mod-top .tooltip-arrow {
+  top: 100%;
+  border-top: 5px solid rgb(var(--ctp-rosewater), 60%);
+  border-bottom: 5px solid transparent;
+}
+
+.tooltip.mod-error .tooltip-arrow {
+  border-bottom-color: rgb(var(--ctp-red), 60%);
+}
+
+.tooltip.mod-error.mod-right .tooltip-arrow {
+  border-right-color: rgb(var(--ctp-red), 60%);
+  border-bottom: 5px solid transparent;
+}
+
+.tooltip.mod-error.mod-left .tooltip-arrow {
+  border-bottom: 5px solid transparent;
+  border-left-color: rgb(var(--ctp-red), 60%);
 }
 
 /* bezier from Josh Comeau's blog */
@@ -1849,7 +1975,7 @@ body {
 .mod-left-split .workspace-tab-header,
 .mod-right-split .workspace-tab-header {
   margin: 0 2px;
-  transition: var(--transition-hover-bg);
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
 }
 .clickable-icon:hover,
 .mod-left-split .workspace-tab-header:hover,
@@ -1874,7 +2000,7 @@ body {
 .mod-right-split .workspace-tab-header.is-active {
   box-shadow: inset 0 0 4px rgb(var(--ctp-crust)), inset 0 0 6px rgb(var(--ctp-base));
   outline: 1px solid rgb(var(--ctp-surface1));
-  transition: var(--transition-hover-bg);
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
 }
 .clickable-icon.is-active svg,
 .mod-left-split .workspace-tab-header.has-active-menu svg,
@@ -1905,7 +2031,7 @@ body {
   background-color: rgb(var(--ctp-red));
   box-shadow: 0 0 2px 1px rgb(var(--ctp-surface1));
   color: rgb(var(--ctp-base));
-  transition: var(--transition-hover-bg);
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
 }
 
 .workspace-tab-header-inner-close-button:hover {
@@ -1923,7 +2049,7 @@ body {
 }
 
 /*
-* Windows and Linux mini, max, and close buttons
+* Windows and Linux min, max, and close buttons
 */
 .mod-linux .titlebar-button,
 .mod-windows .titlebar-button {
@@ -2079,11 +2205,22 @@ input[type=number]:focus-visible {
   color: rgb(var(--ctp-accent));
 }
 
+.empty-state-action {
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+  border-radius: var(--radius-s);
+}
+
+@media (hover: hover) {
+  .empty-state-action:hover {
+    background-color: rgb(var(--ctp-accent));
+    color: var(--text-on-accent);
+  }
+}
 /* TODO Add to Style Settings instead */
 .cm-s-obsidian span.obsidian-search-match-highlight {
-  color: var(--text-on-accent);
-  box-shadow: 0 0 0 3px rgb(var(--ctp-accent));
   background-color: rgb(var(--ctp-rosewater));
+  box-shadow: 0 0 0 3px rgb(var(--ctp-accent));
+  color: var(--text-on-accent);
 }
 
 .search-result-file-matches {
@@ -2145,7 +2282,7 @@ input[type=number]:focus-visible {
 }
 
 .search-result-file-match {
-  transition: var(--transition-hover-bg);
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
 }
 
 .search-result-file-match:hover .search-result-file-matched-text {
@@ -2230,7 +2367,7 @@ input[type=number]:focus-visible {
 }
 
 .tree-item-self {
-  transition: var(--transition-hover-bg);
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
 }
 
 :not(.is-grabbing) .nav-file-title:hover,
@@ -2266,6 +2403,17 @@ input[type=number]:focus-visible {
 
 .is-active .nav-file-tag {
   box-shadow: inset 0 0 2px rgb(var(--ctp-crust)), inset 0 0 4px rgb(var(--ctp-mantle));
+}
+
+/*
+* #TODO?
+* This is trying to minimize how jarring this weird thing
+* that happens when you click the folder name in the header title.
+* It looks odd in the default theme, too.
+*/
+.is-flashing .nav-folder-title,
+.is-flashing .nav-file-title {
+  color: var(--text-on-accent);
 }
 
 .mod-vertical .workspace-tab-header:not(.is-active):hover .workspace-tab-header-inner {
@@ -2328,6 +2476,16 @@ input[type=number]:focus-visible {
   opacity: 40%;
 }
 
+.canvas-control-item {
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+
+@media (hover: hover) {
+  .canvas-control-item:hover {
+    background-color: rgb(var(--ctp-pink));
+    color: var(--text-on-accent);
+  }
+}
 .canvas-node-container {
   border-radius: var(--radius-l);
 }
@@ -2468,7 +2626,7 @@ button.mod-cta:hover {
 .theme-light:not(.css-settings-manager) .nav-folder-title.is-active,
 .ctp-full-palette .nav-file-title.is-active,
 .ctp-full-palette .nav-folder-title.is-active {
-  background-color: rgb(var(--ctp-mauve));
+  --nav-item-background-active: rgb(var(--ctp-mauve));
 }
 .theme-dark:not(.css-settings-manager) :not(.is-grabbing) .nav-file-title:hover,
 .theme-dark:not(.css-settings-manager) :not(.is-grabbing) .nav-folder-title:hover,
@@ -2523,8 +2681,7 @@ button.mod-cta:hover {
 .ctp-full-palette .mod-left-split .workspace-tab-header.is-active svg,
 .ctp-full-palette .mod-right-split .workspace-tab-header.is-active svg {
   color: rgb(var(--ctp-pink));
-  /* extra long to prevent weird super fast move */
-  transition: background-color 4s ease-in-out;
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
 }
 .theme-dark:not(.css-settings-manager) .clickable-icon.is-active:hover, .theme-dark:not(.css-settings-manager) .clickable-icon.is-active:hover svg,
 .theme-dark:not(.css-settings-manager) .mod-left-split .workspace-tab-header.has-active-menu:hover,
@@ -2568,7 +2725,7 @@ button.mod-cta:hover {
 .ctp-full-palette .clickable-icon,
 .ctp-full-palette .mod-left-split .workspace-tab-header,
 .ctp-full-palette .mod-right-split .workspace-tab-header {
-  transition: var(--transition-hover-bg);
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
 }
 .theme-dark:not(.css-settings-manager) .clickable-icon:hover,
 .theme-dark:not(.css-settings-manager) .mod-left-split .workspace-tab-header:hover,
@@ -2794,10 +2951,6 @@ button.mod-cta:hover {
   background-color: rgb(var(--ctp-pink));
 }
 
-/* Better Command Palette */
-/*
-* Fixes highlight error
-*/
 .better-command-palette .suggestion-item.mod-complex.is-selected .suggestion-note {
   color: var(--text-on-accent);
 }
@@ -2819,7 +2972,7 @@ button.mod-cta:hover {
 }
 
 /*
-*Improves spacing around hidden palette items box
+* Improves spacing around hidden palette items box
 */
 .better-command-palette.better-command-palette .suggestion-hotkey {
   padding: var(--size-2-1) var(--size-4-3);
@@ -2875,6 +3028,144 @@ button.mod-cta:hover {
   background-color: rgb(var(--ctp-rosewater), 60%);
 }
 
+/*
+* MAKE.md
+*/
+body:not(.is-mobile) .mk-main-menu-button:hover {
+  background-color: rgb(var(--ctp-accent));
+  color: var(--text-on-accent);
+}
+
+.ctp-full-palette .mk-sidebar-item {
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+.ctp-full-palette .mk-sidebar-item:hover {
+  background-color: rgb(var(--ctp-pink));
+  color: var(--text-on-accent);
+}
+.ctp-full-palette .mk-sidebar-item:hover svg {
+  color: var(--text-on-accent);
+}
+
+.ctp-full-palette .mk-sidebar-item-active {
+  box-shadow: inset 0 0 4px rgb(var(--ctp-crust)), inset 0 0 6px rgb(var(--ctp-base));
+  outline: 1px solid rgb(var(--ctp-surface1));
+  transition: var(--transition-hover-bg), var(--transition-hover-box-shadow);
+}
+.ctp-full-palette .mk-sidebar-item-active svg {
+  color: rgb(var(--ctp-pink)) !important;
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+.ctp-full-palette .mk-sidebar-item-active:hover svg, .ctp-full-palette .mk-sidebar-item-active:hover {
+  background-color: rgb(var(--ctp-pink));
+  box-shadow: none;
+  color: var(--text-on-accent) !important;
+}
+
+.mk-sidebar-item {
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+.mk-sidebar-item:hover {
+  background-color: rgb(var(--ctp-accent));
+  color: var(--text-on-accent);
+}
+.mk-sidebar-item:hover svg {
+  color: var(--text-on-accent);
+}
+
+.mk-sidebar-item-active {
+  box-shadow: inset 0 0 4px rgb(var(--ctp-crust)), inset 0 0 6px rgb(var(--ctp-base));
+  outline: 1px solid rgb(var(--ctp-surface1));
+  transition: var(--transition-hover-bg), var(--transition-hover-box-shadow);
+}
+.mk-sidebar-item-active svg {
+  color: rgb(var(--ctp-accent)) !important;
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+.mk-sidebar-item-active:hover svg, .mk-sidebar-item-active:hover {
+  background-color: rgb(var(--ctp-accent));
+  box-shadow: none;
+  color: var(--text-on-accent) !important;
+}
+
+.mk-tree-item {
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+
+.mk-tree-item svg {
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+
+body:not(.is-mobile) .mk-tree-item:hover {
+  background-color: rgb(var(--ctp-accent));
+  color: var(--text-on-accent);
+}
+
+.mk-tree-item:hover svg {
+  color: var(--text-on-accent) !important;
+}
+
+.mk-options-menu__suggestions li {
+  transition: var(--transition-hover-bg), var(--transition-hover-color);
+}
+
+.mk-options-menu__suggestions li.is-active,
+.mk-options-menu__suggestions li:hover {
+  background-color: rgb(var(--ctp-accent));
+  color: var(--text-on-accent);
+}
+
+.mk-file-context-field,
+.mk-file-context-field-new button,
+.mk-file-context-field-new button svg {
+  color: var(--text-muted) !important;
+}
+
+.mk-file-context-field-new button:hover {
+  color: rgb(var(--ctp-accent)) !important;
+}
+
+body:not(.is-mobile) .mk-tree-wrapper button {
+  transition: var(--transition-hover-bg), var(--transition-hover-color), var(--transition-hover-box-shadow);
+}
+
+body:not(.is-mobile) .mk-folder-buttons button {
+  margin-left: 2px;
+  background-color: transparent !important;
+}
+body:not(.is-mobile) .mk-folder-buttons button svg {
+  border-radius: 4px;
+}
+body:not(.is-mobile) .mk-folder-buttons button:hover svg {
+  background-color: rgb(var(--ctp-surface0));
+  box-shadow: var(--box-shadow-large);
+  color: var(--text-normal) !important;
+  outline: 1px solid rgb(var(--ctp-surface1));
+}
+
+/*
+* TODO: Some of this is redundant in that it's css from app.css
+* but not required for the theme to work when MAKE.md is off, so
+* it should be simplified at some point.
+*/
+body:not(.is-grabbing).ctp-full-palette .mk-sidebar {
+  --nav-item-background-active: rgb(var(--ctp-mauve));
+  --nav-item-background-selected: rgb(var(--ctp-mauve));
+  --nav-item-color-active: var(--text-on-accent);
+  --nav-item-color-selected: var(--text-on-accent);
+}
+
+body:not(.is-grabbing .ctp-full-palette) .mk-sidebar {
+  --nav-item-background-active: rgb(var(--ctp-accent), 90%);
+  --nav-item-background-selected: rgb(var(--ctp-accent), 90%);
+  --nav-item-color-active: var(--text-on-accent);
+  --nav-item-color-selected: var(--text-on-accent);
+}
+
+/*
+* Vollkorn is included as a base64 font in this theme.
+* See font website here: http://vollkorn-typeface.com
+*/
 /* cyrillic-ext */
 @font-face {
   font-display: swap;

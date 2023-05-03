@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Work/CV eng 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,13 +49,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acua",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "acaef0a2ae85e750",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -78,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Work/CV eng 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -90,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Work/CV eng 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Personal/Work/CV eng 2.md"
               }
             }
           },
@@ -154,8 +162,8 @@
   },
   "active": "74849fe8d43593f2",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Untitled.md",
+    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
     "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp.md",
@@ -180,6 +188,4 @@
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md"
-  ]
-}
+    "Biol
