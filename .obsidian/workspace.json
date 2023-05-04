@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work/CV eng 2.md",
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV eng 2.md",
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV eng 2.md",
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV eng 2.md"
+                "file": "Biologia/Biologia Vegetal/Hidroponia.md"
               }
             }
           },
@@ -137,9 +137,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "ef9b33f28247fc4e",
+            "type": "leaf",
+            "state": {
+              "type": "crossbow-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,11 +165,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "crossbow:Crossbow": false
     }
   },
-  "active": "74849fe8d43593f2",
+  "active": "ef9b33f28247fc4e",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Bloque 2.md",
+    "Personal/Work/CV eng 2.md",
     "Untitled.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
@@ -184,10 +195,8 @@
     "Biologia/Biologia Vegetal/Organos/hoja.md",
     "Biologia/Biologia Vegetal/Tejidos/xilema.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
-    "Biologia/Biologia Vegetal/Bloque 2.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
     "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido conductor.md"
+    "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md"
   ]
 }

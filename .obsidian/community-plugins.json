@@ -12,5 +12,7 @@
   "obsidian-table-generator",
   "obsidian-regex-replace",
   "table-editor-obsidian",
-  "better-word-count"
+  "better-word-count",
+  "no-tabs",
+  "crossbow"
 ]

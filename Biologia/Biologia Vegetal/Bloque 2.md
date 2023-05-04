@@ -44,3 +44,4 @@ Requiere de ABA y proteinas especificas protectoras que le confieren tolerancia 
 **Herencia de plastidos** → No respeta mendel
 **Fruto** → estructura, fases de formacion, maduracion 
 
+
