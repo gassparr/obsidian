@@ -4,5 +4,10 @@
 - Servicio de K para biopilas → Degradacion in situ
 
 # Maltego
+
 qytsrvgatauimncbtc@tcwlx.com
 malandrina
+
+# Telecentro
+
+numero clente : 8949178
