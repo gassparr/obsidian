@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "Personal/Work/CV eng 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f49c92f0f9de99fd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "Personal/Work/CV eng 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "Personal/Work/CV eng 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Ideas.md"
+                "file": "Personal/Work/CV eng 2.md"
               }
             }
           },
@@ -180,19 +169,20 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "f49c92f0f9de99fd",
+  "active": "74849fe8d43593f2",
   "lastOpenFiles": [
+    "Personal/Work/CV esp comercial.md",
+    "Personal/Work/CV eng 2.md",
+    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
+    "Personal/Ideas.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
-    "Personal/Work/CV eng 2.md",
     "Untitled.md",
-    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
     "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp.md",
     "Biologia/Biologia Vegetal/Untitled.md",
-    "Personal/Ideas.md",
     "Untitled.canvas",
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
@@ -207,7 +197,6 @@
     "Biologia/Biologia Vegetal/Organos/hoja.md",
     "Biologia/Biologia Vegetal/Tejidos/xilema.md",
     "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido de proteccion.md"
+    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md"
   ]
 }

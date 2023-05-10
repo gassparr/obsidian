@@ -259,5 +259,7 @@
   "id@@h3-color-theme@@dark": "#0049A0",
   "id@@h4-color-theme@@dark": "#265895",
   "id@@h5-color-theme@@dark": "#405977",
-  "id@@h6-color-theme@@dark": "#52657B"
+  "id@@h6-color-theme@@dark": "#52657B",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@color-accent-rgb-d": "83, 112, 159"
 }
