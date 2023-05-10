@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f49c92f0f9de99fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "74849fe8d43593f2",
+  "active": "f49c92f0f9de99fd",
   "lastOpenFiles": [
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
