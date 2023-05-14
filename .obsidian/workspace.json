@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e93438fe60cbac92",
+        "id": "051fd3f8e1bb4fba",
         "type": "tabs",
         "children": [
           {
-            "id": "74849fe8d43593f2",
+            "id": "76376055de2ffa4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Work/CV eng tec.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Work/CV eng tec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Work/CV eng tec.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Personal/Work/CV eng tec.md"
               }
             }
           },
@@ -169,19 +169,20 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "74849fe8d43593f2",
+  "active": "76376055de2ffa4a",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/clase 7.md",
+    "Personal/Work/CV esp Tecnico.md",
+    "Personal/Work/CV eng tec.md",
     "Personal/Work/CV eng 2.md",
+    "Untitled.md",
+    "Biologia/Biologia Vegetal/clase 7.md",
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Personal/Ideas.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
-    "Untitled.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
-    "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp.md",
     "Biologia/Biologia Vegetal/Untitled.md",
     "Untitled.canvas",
@@ -196,7 +197,6 @@
     "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
     "Biologia/Biologia Vegetal/Organos/estoma.md",
     "Biologia/Biologia Vegetal/Organos/hoja.md",
-    "Biologia/Biologia Vegetal/Tejidos/xilema.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md"
+    "Biologia/Biologia Vegetal/Tejidos/xilema.md"
   ]
 }
