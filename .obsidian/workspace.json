@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Investment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Investment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md",
+                "file": "Personal/Investment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Work/CV esp Tecnico.md"
+                "file": "Personal/Investment.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "13fa9b0b9a5a9c30",
   "lastOpenFiles": [
+    "Personal/Work/CV esp Tecnico.md",
     "Biologia/Biologia Vegetal/clase 7.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Untitled.md",
@@ -181,7 +182,6 @@
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
-    "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV esp.md",
     "Biologia/Biologia Vegetal/Untitled.md",
     "Untitled.canvas",
