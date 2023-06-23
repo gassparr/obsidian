@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "694702bf0e6653cd",
+        "id": "1aa0f0f63e9da39b",
         "type": "tabs",
         "children": [
           {
-            "id": "13fa9b0b9a5a9c30",
+            "id": "067c6511c401437a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Investment.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Investment.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Investment.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Investment.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,12 +169,16 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "13fa9b0b9a5a9c30",
+  "active": "067c6511c401437a",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Investment.md",
+    "Personal/Work/CV eng tec.md",
     "Personal/Work/CV esp Tecnico.md",
     "Biologia/Biologia Vegetal/clase 7.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
-    "Untitled.md",
     "Personal/Work/CV eng 2.md",
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
@@ -184,7 +188,6 @@
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
     "Personal/Work/CV esp.md",
     "Biologia/Biologia Vegetal/Untitled.md",
-    "Untitled.canvas",
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
     "Templates/Tecnicas.md",
@@ -193,10 +196,6 @@
     "Biologia/Biologia Vegetal/Anatomia/Plantas Vasculares.md",
     "Biologia/Biologia Vegetal/Anatomia/celula vegetal.md",
     "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
-    "Biologia/Biologia Vegetal/Organos/estoma.md",
-    "Biologia/Biologia Vegetal/Organos/hoja.md",
-    "Biologia/Biologia Vegetal/Tejidos/xilema.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejidos glandulares.md",
-    "Biologia/Biologia Vegetal/Tejidos/tejido sosten.md"
+    "Biologia/Biologia Vegetal/Organos/estoma.md"
   ]
 }
