@@ -210,9 +210,9 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-dracula",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-gruvbox-dark",
   "encore-settings@@theme-dark": "encore-theme-dark-atom",
   "encore-settings@@encore-coloured-tooltip": true,
   "minimal-advanced@@window-title-on": false,
@@ -261,5 +261,6 @@
   "id@@h5-color-theme@@dark": "#405977",
   "id@@h6-color-theme@@dark": "#52657B",
   "sanctum@@dark-mode-contrast-mode": "sanctum-black",
-  "sanctum@@color-accent-rgb-d": "83, 112, 159"
+  "sanctum@@color-accent-rgb-d": "83, 112, 159",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true
 }
