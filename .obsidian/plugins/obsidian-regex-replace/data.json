@@ -1,6 +1,6 @@
 {
-  "findText": "MO",
-  "replaceText": "microorganismo",
+  "findText": "C",
+  "replaceText": "- ",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
