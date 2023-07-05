@@ -27,9 +27,31 @@ __export(main_exports, {
   default: () => CrossbowPlugin
 });
 module.exports = __toCommonJS(main_exports);
+var import_obsidian6 = require("obsidian");
 
 // src/view/view.ts
+var import_obsidian3 = require("obsidian");
+
+// src/view/viewBuilder.ts
 var import_obsidian2 = require("obsidian");
+
+// src/services/loggingService.ts
+var _CrossbowLoggingService = class {
+  constructor(settingsService) {
+    this.settingsService = settingsService;
+  }
+  debugLog(message) {
+    this.settingsService.getSettings().useLogging && console.log(_CrossbowLoggingService.LOGGER_PREFIX + message);
+  }
+  debugWarn(message) {
+    this.settingsService.getSettings().useLogging && console.warn(_CrossbowLoggingService.LOGGER_PREFIX + message);
+  }
+  static forceLog(type, message) {
+    console[type](_CrossbowLoggingService.LOGGER_PREFIX + message);
+  }
+};
+var CrossbowLoggingService = _CrossbowLoggingService;
+CrossbowLoggingService.LOGGER_PREFIX = "\u{1F3F9}: ";
 
 // src/view/treeItem.ts
 var import_obsidian = require("obsidian");
@@ -47,14 +69,17 @@ var TreeItemLeaf = class extends HTMLElement {
       cls: "tree-item-self is-clickable"
     });
     this.inner = this.mainWrapper.createDiv({
-      cls: "tree-item-inner tree-item-inner-extensions",
+      cls: "tree-item-inner cb-tree-item-inner-extensions",
       text: this.text
     });
     this.flairWrapper = this.mainWrapper.createDiv({
       cls: "tree-item-flair-outer"
     });
     this.suffix = this.inner.createEl("span", {
-      cls: "tree-item-inner-suffix"
+      cls: "cb-tree-item-inner-suffix"
+    });
+    this.subtitle = this.inner.createEl("span", {
+      cls: "cb-tree-item-inner-subtitle"
     });
     this.flair = this.flairWrapper.createEl("span", {
       cls: "tree-item-flair"
@@ -82,17 +107,21 @@ var TreeItemLeaf = class extends HTMLElement {
   addTextSuffix(text) {
     this.suffix.innerText = text;
   }
+  addSubtitle(text) {
+    this.subtitle.innerText = text;
+  }
   addButton(label, iconName, onclick) {
     const button = new import_obsidian.ButtonComponent(this.mainWrapper);
     button.setTooltip(label);
     button.setIcon(iconName);
-    button.setClass("tree-item-button");
+    button.setClass("cb-tree-item-button");
     button.onClick(onclick);
     this.buttons.push(button);
   }
 };
 var TreeItem = class extends TreeItemLeaf {
   constructor(value, childrenFactory) {
+    var _a;
     super(value);
     this.childrenFactory = null;
     this.childrenFactory = childrenFactory;
@@ -103,7 +132,7 @@ var TreeItem = class extends TreeItemLeaf {
     this.iconWrapper = this.createDiv({
       cls: ["tree-item-icon", "collapse-icon"]
     });
-    this.iconWrapper.appendChild((0, import_obsidian.getIcon)("right-triangle"));
+    this.iconWrapper.appendChild((_a = (0, import_obsidian.getIcon)("right-triangle")) != null ? _a : new SVGElement());
     this.appendChild(this.childrenWrapper);
     this.mainWrapper.prepend(this.iconWrapper);
     this.mainWrapper.addEventListener("click", () => this.isCollapsed() ? this.expand() : this.collapse());
@@ -140,64 +169,98 @@ var TreeItem = class extends TreeItemLeaf {
   }
 };
 
-// src/view/treeItemBuilder.ts
-var CrossbowTreeItemBuilder = class {
-  static createSuggestionTreeItem(suggestion, markdownLinkGenerator, targetEditor) {
-    const lazySuggestionChildrenBuilder = () => CrossbowTreeItemBuilder.createOccurrenceTreeItems(suggestion, markdownLinkGenerator, targetEditor);
-    const suggestionTreeItem = new TreeItem(suggestion, lazySuggestionChildrenBuilder);
-    const ranks = /* @__PURE__ */ new Set();
-    suggestion.matches.forEach((match) => ranks.add(match.cacheMatch.rank));
-    const availableMatchRanks = Array.from(ranks).sort((a, b) => a.codePointAt(0) - b.codePointAt(0)).join("");
-    suggestionTreeItem.addFlair(availableMatchRanks);
-    suggestionTreeItem.addTextSuffix(`(${suggestion.occurrences.length.toString()})`);
-    return suggestionTreeItem;
-  }
-  static createOccurrenceTreeItems(suggestion, markdownLinkGenerator, targetEditor) {
-    return suggestion.occurrences.map((occurrence) => {
-      const occurrenceEnd = {
-        ch: occurrence.editorPosition.ch + suggestion.word.length,
-        line: occurrence.editorPosition.line
-      };
-      const lazyOccurrenceChildrenBuilder = (self) => CrossbowTreeItemBuilder.createMatchTreeItems(suggestion.word, self, occurrenceEnd, markdownLinkGenerator, targetEditor);
-      const occurrenceTreeItem = new TreeItem(occurrence, lazyOccurrenceChildrenBuilder);
-      const scrollIntoView = () => {
-        targetEditor.setSelection(occurrence.editorPosition, occurrenceEnd);
-        targetEditor.scrollIntoView({ from: occurrence.editorPosition, to: occurrenceEnd }, true);
-      };
-      occurrenceTreeItem.addButton("Scroll into View", "lucide-scroll", (ev) => {
+// src/view/viewBuilder.ts
+var createManualRefreshButton = (parentEl, onClick) => {
+  const button = new import_obsidian2.ButtonComponent(parentEl);
+  button.buttonEl.id = CrossbowViewController.MANUAL_REFRESH_BUTTON_ID;
+  button.setTooltip("Refresh suggestions");
+  button.setIcon("lucide-rotate-cw");
+  button.setClass("cb-tree-item-button");
+  button.onClick(onClick);
+  return button;
+};
+var createSuggestionTreeItem = (suggestion, targetEditor) => {
+  const lazySuggestionChildrenBuilder = () => createOccurrenceTreeItems(suggestion, targetEditor);
+  const suggestionTreeItem = new TreeItem(suggestion, lazySuggestionChildrenBuilder);
+  const ranks = /* @__PURE__ */ new Set();
+  suggestion.matches.forEach((match) => ranks.add(match.cacheMatch.rank));
+  const availableMatchRanks = Array.from(ranks).sort((a, b) => {
+    var _a, _b;
+    return ((_a = a.codePointAt(0)) != null ? _a : 0) - ((_b = b.codePointAt(0)) != null ? _b : 0);
+  }).join("");
+  suggestionTreeItem.addFlair(availableMatchRanks);
+  suggestionTreeItem.addTextSuffix(`(${suggestion.occurrences.length.toString()})`);
+  return suggestionTreeItem;
+};
+var createOccurrenceTreeItems = (suggestion, targetEditor) => {
+  return suggestion.occurrences.map((occurrence) => {
+    const occurrenceEnd = {
+      ch: occurrence.editorPosition.ch + suggestion.word.length,
+      line: occurrence.editorPosition.line
+    };
+    const lazyOccurrenceChildrenBuilder = (self) => createMatchTreeItems(suggestion.word, self, occurrenceEnd, targetEditor);
+    const occurrenceTreeItem = new TreeItem(occurrence, lazyOccurrenceChildrenBuilder);
+    const scrollIntoView = () => {
+      targetEditor.setSelection(occurrence.editorPosition, occurrenceEnd);
+      targetEditor.scrollIntoView({ from: occurrence.editorPosition, to: occurrenceEnd }, true);
+    };
+    occurrenceTreeItem.addButton("Scroll into View", "lucide-scroll" /* Scroll */, (ev) => {
+      scrollIntoView();
+      ev.preventDefault();
+      ev.stopPropagation();
+    });
+    occurrenceTreeItem.addOnClick(() => {
+      if (!occurrenceTreeItem.isCollapsed())
         scrollIntoView();
-        ev.preventDefault();
-        ev.stopPropagation();
-      });
-      occurrenceTreeItem.addOnClick(() => {
-        if (!occurrenceTreeItem.isCollapsed())
-          scrollIntoView();
-      });
-      return occurrenceTreeItem;
     });
-  }
-  static createMatchTreeItems(word, occurrenceTreeItem, occurrenceEnd, markdownLinkGenerator, targetEditor) {
-    return occurrenceTreeItem.value.matches.map((match) => {
-      const matchTreeItem = new TreeItemLeaf(match);
-      const link = match.cacheMatch.item ? markdownLinkGenerator.generateMarkdownLink(match.cacheMatch.file, match.cacheMatch.text, "#" + match.cacheMatch.text, word) : markdownLinkGenerator.generateMarkdownLink(match.cacheMatch.file, match.cacheMatch.text, void 0, word);
-      matchTreeItem.addButton("Use", "lucide-inspect", () => {
-        occurrenceTreeItem.setDisable();
-        targetEditor.replaceRange(link, occurrenceTreeItem.value.editorPosition, occurrenceEnd);
-      });
-      matchTreeItem.addButton("Go To Source", "lucide-search", () => {
-        console.warn("\u{1F3F9}: 'Go To Source' is not yet implemented");
-      });
-      matchTreeItem.addTextSuffix(match.cacheMatch.type);
-      return matchTreeItem;
+    return occurrenceTreeItem;
+  });
+};
+var createMatchTreeItems = (word, occurrenceTreeItem, occurrenceEnd, targetEditor) => {
+  return occurrenceTreeItem.value.matches.map((match) => {
+    const matchTreeItem = new TreeItemLeaf(match);
+    const link = match.cacheMatch.item ? app.fileManager.generateMarkdownLink(match.cacheMatch.file, match.cacheMatch.text, "#" + match.cacheMatch.text, word) : app.fileManager.generateMarkdownLink(match.cacheMatch.file, match.cacheMatch.text, void 0, word);
+    matchTreeItem.addButton("Use", "lucide-inspect" /* Inspect */, () => {
+      occurrenceTreeItem.setDisable();
+      targetEditor.replaceRange(link, occurrenceTreeItem.value.editorPosition, occurrenceEnd);
     });
-  }
+    matchTreeItem.addButton("Go To Source", "lucide-search" /* Search */, () => {
+      const leaf = app.workspace.getLeaf(true);
+      app.workspace.setActiveLeaf(leaf);
+      leaf.openFile(match.cacheMatch.file).then(() => {
+        var _a;
+        if (leaf.view instanceof import_obsidian2.MarkdownView) {
+          if ((_a = match.cacheMatch.item) == null ? void 0 : _a.position) {
+            const { line, col } = match.cacheMatch.item.position.start;
+            leaf.view.editor.setCursor(line, col);
+          }
+        } else {
+          CrossbowLoggingService.forceLog("warn", "Could not go to source, not a markdown file");
+        }
+      });
+    });
+    matchTreeItem.addTextSuffix(match.cacheMatch.type);
+    if (match.cacheMatch.type !== "File")
+      matchTreeItem.addSubtitle(match.cacheMatch.file.name);
+    return matchTreeItem;
+  });
+};
+var viewBuilder = {
+  createManualRefreshButton,
+  createMatchTreeItems,
+  createOccurrenceTreeItems,
+  createSuggestionTreeItem
 };
 
 // src/view/view.ts
-var _CrossbowView = class extends import_obsidian2.ItemView {
-  constructor(leaf) {
+var _CrossbowView = class extends import_obsidian3.ItemView {
+  constructor(leaf, onManualRefreshButtonClick) {
     super(leaf);
-    this.contentEl.createSpan({ text: "Open a note to run crossbow", cls: "crossbow-view-empty" });
+    this.onManualRefreshButtonClick = onManualRefreshButtonClick;
+    this.controlsEl = this.contentEl.createDiv({ cls: "cb-view-controls" });
+    this.treeEl = this.contentEl.createDiv({ cls: "cb-view-tree" });
+    viewBuilder.createManualRefreshButton(this.controlsEl, this.onManualRefreshButtonClick);
+    this.treeEl.createSpan({ text: "Open a note to run crossbow", cls: "cb-view-empty" });
   }
   getViewType() {
     return _CrossbowView.viewType;
@@ -213,21 +276,18 @@ var _CrossbowView = class extends import_obsidian2.ItemView {
     this.navigation = false;
   }
   clear() {
-    this.contentEl.empty();
+    this.treeEl.empty();
   }
-  getCurrentSuggestions() {
-    return this.contentEl.children.length > 0 ? Array.from(this.contentEl.children) : [];
+  update(suggestions, targetEditor, showManualRefreshButton) {
+    showManualRefreshButton ? this.getManualRefreshButton().show() : this.getManualRefreshButton().hide();
+    this.addOrUpdateSuggestions(suggestions, targetEditor);
   }
-  updateSuggestions(suggestions, targetEditor, fileHasChanged) {
-    CrossbowPlugin.debugLog(`${fileHasChanged ? "Clearing & adding" : "Updating"} suggestions`);
-    if (fileHasChanged) {
-      this.clear();
-    }
+  addOrUpdateSuggestions(suggestions, targetEditor) {
     const currentSuggestionTreeItems = this.getCurrentSuggestions();
     suggestions.forEach((suggestion) => {
       const index = currentSuggestionTreeItems.findIndex((item) => item.hash === suggestion.hash);
       const existingSuggestion = index !== -1 ? currentSuggestionTreeItems.splice(index, 1)[0] : void 0;
-      const suggestionTreeItem = CrossbowTreeItemBuilder.createSuggestionTreeItem(suggestion, this.app.fileManager, targetEditor);
+      const suggestionTreeItem = viewBuilder.createSuggestionTreeItem(suggestion, targetEditor);
       if (existingSuggestion) {
         const expandedOccurrencesHashes = existingSuggestion.getTreeItems().filter((item) => !item.isCollapsed()).map((item) => item.hash);
         suggestionTreeItem.getTreeItems().forEach((occurrence) => {
@@ -235,26 +295,72 @@ var _CrossbowView = class extends import_obsidian2.ItemView {
             occurrence.expand();
           }
         });
-        this.contentEl.insertAfter(suggestionTreeItem, existingSuggestion);
+        this.treeEl.insertAfter(suggestionTreeItem, existingSuggestion);
         existingSuggestion.isCollapsed() ? suggestionTreeItem.collapse() : suggestionTreeItem.expand();
         existingSuggestion.remove();
       } else {
         const index2 = currentSuggestionTreeItems.findIndex((item) => suggestion.hash.localeCompare(item.hash) < 0);
         if (index2 === -1) {
-          this.contentEl.appendChild(suggestionTreeItem);
+          this.treeEl.appendChild(suggestionTreeItem);
         } else {
-          this.contentEl.insertBefore(suggestionTreeItem, currentSuggestionTreeItems[index2]);
+          this.treeEl.insertBefore(suggestionTreeItem, currentSuggestionTreeItems[index2]);
         }
       }
     });
     currentSuggestionTreeItems.forEach((item) => item.remove());
   }
+  getManualRefreshButton() {
+    return this.controlsEl.querySelector("#" + CrossbowViewController.MANUAL_REFRESH_BUTTON_ID);
+  }
+  getCurrentSuggestions() {
+    return this.treeEl.children.length > 0 ? Array.from(this.treeEl.children) : [];
+  }
 };
 var CrossbowView = _CrossbowView;
 CrossbowView.viewType = "crossbow-toolbar";
 
+// src/controllers/viewController.ts
+var CrossbowViewController = class {
+  constructor(settingsService) {
+    this.settingsService = settingsService;
+  }
+  async revealOrCreateView() {
+    const existing = app.workspace.getLeavesOfType(CrossbowView.viewType);
+    if (existing.length) {
+      app.workspace.revealLeaf(existing[0]);
+      return;
+    }
+    await app.workspace.getRightLeaf(false).setViewState({
+      type: CrossbowView.viewType,
+      active: true
+    });
+    app.workspace.revealLeaf(app.workspace.getLeavesOfType(CrossbowView.viewType)[0]);
+  }
+  doesCrossbowViewExist() {
+    return app.workspace.getLeavesOfType(CrossbowView.viewType).length > 0;
+  }
+  unloadView() {
+    var _a;
+    (_a = this.getCrossbowView()) == null ? void 0 : _a.unload();
+  }
+  getCrossbowView() {
+    var _a;
+    return (_a = app.workspace.getLeavesOfType(CrossbowView.viewType)[0]) == null ? void 0 : _a.view;
+  }
+  addOrUpdateSuggestions(suggestions, targetEditor, fileHasChanged) {
+    const view = this.getCrossbowView();
+    if (!view)
+      return;
+    if (fileHasChanged)
+      view.clear();
+    const showManualRefreshButton = !this.settingsService.getSettings().useAutoRefresh;
+    view.update(suggestions, targetEditor, showManualRefreshButton);
+  }
+};
+CrossbowViewController.MANUAL_REFRESH_BUTTON_ID = "cb-refresh-button";
+
 // src/icons.ts
-var import_obsidian3 = require("obsidian");
+var import_obsidian4 = require("obsidian");
 var crossbowIcon = {
   name: "crossbow",
   svg: `
@@ -264,133 +370,96 @@ var crossbowIcon = {
   `
 };
 var registerCrossbowIcons = () => {
-  (0, import_obsidian3.addIcon)(crossbowIcon.name, crossbowIcon.svg);
+  (0, import_obsidian4.addIcon)(crossbowIcon.name, crossbowIcon.svg);
 };
 
-// src/main.ts
-var import_obsidian6 = require("obsidian");
+// src/services/indexingService.ts
+var CrossbowIndexingService = class {
+  constructor(settingsService, loggingService) {
+    this.settingsService = settingsService;
+    this.loggingService = loggingService;
+    this.crossbowCache = {};
+  }
+  addOrUpdateCacheEntry(entry, source) {
+    this.crossbowCache[source.path] = this.crossbowCache[source.path] ? this.crossbowCache[source.path] : {};
+    this.crossbowCache[source.path][entry.text] = entry;
+  }
+  getCache() {
+    return this.crossbowCache;
+  }
+  indexVault(vault) {
+    this.clearCache();
+    const files = vault.getFiles();
+    files.forEach((file) => this.indexFile(file));
+  }
+  clearCacheFromFile(fileOrPath) {
+    const path = typeof fileOrPath === "string" ? fileOrPath : fileOrPath.path;
+    this.loggingService.debugLog(`Clearing cache for file ${path}`);
+    delete this.crossbowCache[path];
+  }
+  indexFile(file, cache) {
+    const settings = this.settingsService.getSettings();
+    if (file.extension !== "md")
+      return;
+    if (settings.ignoreVaultFolders.some((folderOrPath) => file.path.startsWith(folderOrPath)))
+      return;
+    if (cache)
+      this.clearCacheFromFile(file);
+    const metadata = cache ? cache : app.metadataCache.getFileCache(file);
+    if (file.basename.length >= settings.minimumSuggestionWordLength)
+      this.addOrUpdateCacheEntry({ file, text: file.basename, type: "File" }, file);
+    if (metadata) {
+      if (metadata.headings)
+        metadata.headings.forEach((headingCache) => this.addOrUpdateCacheEntry({
+          item: headingCache,
+          file,
+          text: headingCache.heading,
+          type: "Heading"
+        }, file));
+      if (metadata.tags)
+        metadata.tags.forEach((tagCache) => this.addOrUpdateCacheEntry({
+          item: tagCache,
+          file,
+          text: tagCache.tag,
+          type: "Tag"
+        }, file));
+    }
+  }
+  clearCache() {
+    this.crossbowCache = {};
+  }
+};
 
-// src/settings.ts
-var import_obsidian4 = require("obsidian");
+// src/services/settingsService.ts
 var DEFAULT_SETTINGS = {
   ignoredWordsCaseSensisitve: ["image", "the", "always", "some"],
   suggestInSameFile: false,
   ignoreSuggestionsWhichStartWithLowercaseLetter: true,
   ignoreOccurrencesWhichStartWithLowercaseLetter: false,
   minimumSuggestionWordLength: 3,
-  useLogging: false
+  useLogging: false,
+  useAutoRefresh: true,
+  autoRefreshDelayMs: 2600,
+  ignoreVaultFolders: []
 };
-var CrossbowSettingTab = class extends import_obsidian4.PluginSettingTab {
-  constructor(app2, plugin) {
-    super(app2, plugin);
-    this.updateSettingValue = async (key, value) => {
-      CrossbowPlugin.settings[key] = value;
-      await this.plugin.saveSettings();
-      this.plugin.runWithCacheUpdate(true);
-    };
-    this.plugin = plugin;
+var CrossbowSettingsService = class {
+  constructor(onSettingsChange) {
+    this.onSettingsChange = onSettingsChange;
+    this.settings = DEFAULT_SETTINGS;
   }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    containerEl.createEl("h2", { text: "Crossbow Settings \u{1F3F9}" });
-    new import_obsidian4.Setting(containerEl).setName("Ignored Words").setDesc("A case-sensitive, comma separated list of words to ignore when searching for items (Headers, tags). (Whitepaces will be trimmed)").addTextArea((textArea) => {
-      var _a, _b;
-      textArea.setValue((_b = (_a = CrossbowPlugin.settings.ignoredWordsCaseSensisitve) == null ? void 0 : _a.join(", ")) != null ? _b : "").onChange(async (value) => await this.updateSettingValue("ignoredWordsCaseSensisitve", value.split(",").map((word) => word.trim())));
-      textArea.inputEl.setAttr("style", "height: 10vh; width: 25vw;");
-    });
-    new import_obsidian4.Setting(containerEl).setName("Ignore suggestions which start with a lowercase letter").setDesc("If checked, suggestions which start with a lowercase letter will be ignored").addToggle((toggle) => toggle.setValue(CrossbowPlugin.settings.ignoreSuggestionsWhichStartWithLowercaseLetter).onChange(async (value) => await this.updateSettingValue("ignoreSuggestionsWhichStartWithLowercaseLetter", value)));
-    new import_obsidian4.Setting(containerEl).setName("Ignore occurrences which start with a lowercase letter").setDesc("If checked, occurrences (Words in the active editor) which start with a lowercase letter will be ignored").addToggle((toggle) => toggle.setValue(CrossbowPlugin.settings.ignoreOccurrencesWhichStartWithLowercaseLetter).onChange(async (value) => await this.updateSettingValue("ignoreOccurrencesWhichStartWithLowercaseLetter", value)));
-    new import_obsidian4.Setting(containerEl).setName("Make suggestions to items in the same file").setDesc("If checked, suggestions to items (Headers, Tags) in the same file be created").addToggle((toggle) => toggle.setValue(CrossbowPlugin.settings.suggestInSameFile).onChange(async (value) => await this.updateSettingValue("suggestInSameFile", value)));
-    new import_obsidian4.Setting(containerEl).setName("Minimum word length of suggestions").setDesc("Defines the min. length an item (Header, Tag) must have for it to be considered a suggestion").addSlider((slider) => {
-      slider.setLimits(1, 20, 1).setValue(CrossbowPlugin.settings.minimumSuggestionWordLength).onChange(async (value) => await this.updateSettingValue("minimumSuggestionWordLength", value)).setDynamicTooltip();
-    });
-    new import_obsidian4.Setting(containerEl).setName("Enable logging").setDesc("If checked, debug logs will be printed to the console").addToggle((toggle) => toggle.setValue(CrossbowPlugin.settings.useLogging).onChange(async (value) => await this.updateSettingValue("useLogging", value)));
+  getSettings() {
+    return this.settings;
+  }
+  setSettings(settings) {
+    this.settings = settings;
+  }
+  async saveSettings(settings) {
+    this.settings = settings != null ? settings : this.settings;
+    await this.onSettingsChange(this.settings);
   }
 };
 
-// src/editorExtension.ts
-var import_obsidian5 = require("obsidian");
-
-// src/util.ts
-function stripMarkdown(md, options) {
-  options = options || {};
-  options.listUnicodeChar = options.hasOwnProperty("listUnicodeChar") ? options.listUnicodeChar : void 0;
-  options.stripListLeaders = options.hasOwnProperty("stripListLeaders") ? options.stripListLeaders : true;
-  options.gfm = options.hasOwnProperty("gfm") ? options.gfm : true;
-  options.useImgAltText = options.hasOwnProperty("useImgAltText") ? options.useImgAltText : true;
-  options.abbr = options.hasOwnProperty("abbr") ? options.abbr : void 0;
-  options.replaceLinksWithUrl = options.hasOwnProperty("replaceLinksWithURL") ? options.replaceLinksWithUrl : true;
-  options.htmlTagsToSkip = options.hasOwnProperty("htmlTagsToSkip") ? options.htmlTagsToSkip : [];
-  var output = md || "";
-  output = output.replace(/^(-\s*?|\*\s*?|_\s*?){3,}\s*/gm, "");
-  try {
-    if (options.stripListLeaders) {
-      if (options.listUnicodeChar)
-        output = output.replace(/^([\s\t]*)([\*\-\+]|\d+\.)\s+/gm, options.listUnicodeChar + " $1");
-      else
-        output = output.replace(/^([\s\t]*)([\*\-\+]|\d+\.)\s+/gm, "$1");
-    }
-    if (options.gfm) {
-      output = output.replace(/\n={2,}/g, "\n").replace(/~{3}.*\n/g, "").replace(/~~/g, "").replace(/`{3}.*\n/g, "");
-    }
-    if (options.abbr) {
-      output = output.replace(/\*\[.*\]:.*\n/, "");
-    }
-    output = output.replace(/<[^>]*>/g, "");
-    var htmlReplaceRegex = new RegExp("<[^>]*>", "g");
-    if (options.htmlTagsToSkip.length > 0) {
-      var joinedHtmlTagsToSkip = "(?!" + options.htmlTagsToSkip.join("|") + ")";
-      htmlReplaceRegex = new RegExp("<" + joinedHtmlTagsToSkip + "[^>]*>", "ig");
-    }
-    output = output.replace(htmlReplaceRegex, "").replace(/^[=\-]{2,}\s*$/g, "").replace(/\[\^.+?\](\: .*?$)?/g, "").replace(/\s{0,2}\[.*?\]: .*?$/g, "").replace(/\!\[(.*?)\][\[\(].*?[\]\)]/g, options.useImgAltText ? "$1" : "").replace(/\[([^\]]*?)\][\[\(].*?[\]\)]/g, options.replaceLinksWithUrl ? "$2" : "$1").replace(/^\s{0,3}>\s?/gm, "").replace(/^\s{1,2}\[(.*?)\]: (\S+)( ".*?")?\s*$/g, "").replace(/^(\n)?\s{0,}#{1,6}\s+| {0,}(\n)?\s{0,}#{0,} #{0,}(\n)?\s{0,}$/gm, "$1$2$3").replace(/([\*]+)(\S)(.*?\S)??\1/g, "$2$3").replace(/(^|\W)([_]+)(\S)(.*?\S)??\2($|\W)/g, "$1$3$4$5").replace(/(`{3,})(.*?)\1/gm, "$2").replace(/`(.+?)`/g, "$1").replace(/~(.*?)~/g, "$1");
-  } catch (e) {
-    console.error(e);
-    return md;
-  }
-  return output;
-}
-
-// src/editorExtension.ts
-import_obsidian5.Editor.prototype.getWordLookup = function() {
-  const plainText = this.getValue();
-  const words = [];
-  for (let i = 0; i < plainText.length; i++) {
-    if (plainText[i].match(/\s/))
-      continue;
-    else {
-      let word = "";
-      let pos = this.offsetToPos(i);
-      while (plainText[i] && !plainText[i].match(/\s/))
-        word += plainText[i++];
-      words.push({ word, pos });
-    }
-  }
-  const filteredWords = words.filter((w) => {
-    if (w.word.length <= 0)
-      return false;
-    if (w.word.startsWith("[[") && w.word.endsWith("]]"))
-      return false;
-    if (w.word.startsWith("#"))
-      return false;
-    return true;
-  });
-  const wordLookup = {};
-  for (let i = 0; i < filteredWords.length; i++) {
-    const word = stripMarkdown(filteredWords[i].word);
-    if (filteredWords[i].word.startsWith("[[")) {
-      while (!filteredWords[++i].word.endsWith("]]") || i >= filteredWords.length) {
-      }
-    }
-    if (word in wordLookup)
-      wordLookup[word].push(filteredWords[i].pos);
-    else
-      wordLookup[word] = [filteredWords[i].pos];
-  }
-  return wordLookup;
-};
-
-// src/suggestion.ts
+// src/model/suggestion.ts
 var Suggestion = class {
   constructor(word, occurrences) {
     this.word = word;
@@ -418,10 +487,13 @@ var Occurrence = class {
     return `${this.editorPosition.line}:${this.editorPosition.ch}`;
   }
   get text() {
-    return `On line ${this.editorPosition.line}:${this.editorPosition.ch}`;
+    return `On line ${this.editorPosition.line + 1}:${this.editorPosition.ch + 1}`;
   }
   sortChildren() {
-    this.matches.sort((a, b) => a.cacheMatch.rank.codePointAt(0) - b.cacheMatch.rank.codePointAt(0));
+    this.matches.sort((a, b) => {
+      var _a, _b;
+      return ((_a = a.cacheMatch.rank.codePointAt(0)) != null ? _a : 0) - ((_b = b.cacheMatch.rank.codePointAt(0)) != null ? _b : 0);
+    });
   }
 };
 var Match = class {
@@ -438,181 +510,312 @@ var Match = class {
   }
 };
 
-// src/main.ts
-var CrossbowPlugin = class extends import_obsidian6.Plugin {
-  constructor() {
-    super(...arguments);
-    this.crossbowCache = {};
-    this.onMetadataChange = (file, data, cache) => {
-      if (this.metadataChangedTimeout)
-        clearTimeout(this.metadataChangedTimeout);
-      if (!this.doesCrossbowViewExist())
-        return;
-      this.metadataChangedTimeout = setTimeout(() => {
-        this.updateCrossbowCacheEntitiesOfFile(file, cache);
-        this.runWithoutCacheUpdate(false);
-        CrossbowPlugin.debugLog(`Metadata cache updated for ${file.basename}.`);
-      }, 2600);
-    };
-    this.onFileOpen = () => {
-      if (!this.doesCrossbowViewExist())
-        return;
-      const prevCurrentFile = this._currentFile;
-      this.setActiveFile();
-      CrossbowPlugin.debugLog("File opened.");
-      if (this.fileOpenTimeout)
-        clearTimeout(this.fileOpenTimeout);
-      this.fileOpenTimeout = setTimeout(() => {
-        if (!prevCurrentFile)
-          this.runWithCacheUpdate(true);
-        else if (this._currentFile !== prevCurrentFile)
-          this.runWithoutCacheUpdate(true);
-      }, 100);
-    };
+// src/services/suggestionsService.ts
+var CrossbowSuggestionsService = class {
+  constructor(settingsService, indexingService) {
+    this.settingsService = settingsService;
+    this.indexingService = indexingService;
   }
-  get currentFile() {
-    return this._currentFile;
-  }
-  static debugLog(message) {
-    CrossbowPlugin.settings.useLogging && console.log(`\u{1F3F9}: ${message}`);
-  }
-  async onload() {
-    await this.loadSettings();
-    registerCrossbowIcons();
-    registerTreeItemElements();
-    this.registerView(CrossbowView.viewType, (leaf) => new CrossbowView(leaf));
-    this.addRibbonIcon("crossbow", "Crossbow", async (ev) => {
-      const existing = this.app.workspace.getLeavesOfType(CrossbowView.viewType);
-      if (existing.length) {
-        this.app.workspace.revealLeaf(existing[0]);
-        return;
-      }
-      await this.app.workspace.getRightLeaf(false).setViewState({
-        type: CrossbowView.viewType,
-        active: true
-      });
-      this.app.workspace.revealLeaf(this.app.workspace.getLeavesOfType(CrossbowView.viewType)[0]);
-      this.setActiveFile();
-      this.runWithCacheUpdate(true);
-    });
-    this.addSettingTab(new CrossbowSettingTab(this.app, this));
-    this.registerEvent(this.app.workspace.on("file-open", this.onFileOpen));
-    this.registerEvent(this.app.metadataCache.on("changed", this.onMetadataChange));
-    CrossbowPlugin.debugLog("Crossbow is ready.");
-  }
-  onunload() {
-    var _a;
-    Object.assign(this.crossbowCache, {});
-    (_a = this.getCrossbowView()) == null ? void 0 : _a.unload();
-    CrossbowPlugin.debugLog("Unloaded Crossbow.");
-  }
-  async loadSettings() {
-    CrossbowPlugin.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
-  }
-  async saveSettings() {
-    await this.saveData(CrossbowPlugin.settings);
-  }
-  runWithCacheUpdate(fileHasChanged) {
-    const files = this.app.vault.getFiles();
-    files.forEach((file) => this.updateCrossbowCacheEntitiesOfFile(file));
-    this.runWithoutCacheUpdate(fileHasChanged);
-  }
-  runWithoutCacheUpdate(fileHasChanged) {
-    var _a, _b;
-    const targetEditor = (_a = this.app.workspace.activeEditor) == null ? void 0 : _a.editor;
-    if (!targetEditor)
-      return;
-    const data = this.getSuggestionsInEditor(targetEditor);
-    (_b = this.getCrossbowView()) == null ? void 0 : _b.updateSuggestions(data, targetEditor, fileHasChanged);
-  }
-  doesCrossbowViewExist() {
-    return this.app.workspace.getLeavesOfType(CrossbowView.viewType).length > 0;
-  }
-  getCrossbowView() {
-    var _a;
-    return (_a = app.workspace.getLeavesOfType(CrossbowView.viewType)[0]) == null ? void 0 : _a.view;
-  }
-  addOrUpdateCacheEntity(entity) {
-    this.crossbowCache[entity.text] = entity;
-  }
-  getSuggestionsInEditor(targetEditor) {
-    const result = [];
-    if (!targetEditor)
-      return result;
-    const wordLookup = targetEditor.getWordLookup();
+  getSuggestionsFromWordlookup(wordLookup, currentFile) {
     if (!wordLookup)
-      return result;
-    Object.entries(wordLookup).forEach((entry) => {
-      const [word, editorPositions] = entry;
+      return [];
+    const result = [];
+    const cache = this.indexingService.getCache();
+    const settings = this.settingsService.getSettings();
+    const wordEntries = Object.entries(wordLookup);
+    for (let i = 0; i < wordEntries.length; i++) {
+      const [word, editorPositions] = wordEntries[i];
+      const lowercaseWord = word.toLowerCase();
       const matchSet = /* @__PURE__ */ new Set();
-      Object.keys(this.crossbowCache).forEach((cacheKey) => {
-        const lowercaseWord = word.toLowerCase();
-        const lowercaseCacheKey = cacheKey.toLowerCase();
-        if (!CrossbowPlugin.settings.suggestInSameFile && this.crossbowCache[cacheKey].file === this._currentFile)
-          return;
-        if (cacheKey === word) {
-          matchSet.add({ ...this.crossbowCache[cacheKey], rank: "\u{1F3C6}" });
-          return;
+      const cacheValues = Object.values(cache);
+      for (let j = 0; j < cacheValues.length; j++) {
+        const cacheLookup = cacheValues[j];
+        const cacheEntries = Object.entries(cacheLookup);
+        for (let k = 0; k < cacheEntries.length; k++) {
+          const [cacheKey, cacheValue] = cacheEntries[k];
+          const lowercaseCacheKey = cacheKey.toLowerCase();
+          if (matchSet.size >= 100)
+            continue;
+          if (!this.settingsService.getSettings().suggestInSameFile && cacheValue.file === currentFile)
+            continue;
+          if (cacheKey === word) {
+            matchSet.add({ ...cacheValue, rank: "\u{1F3C6}" });
+            continue;
+          }
+          if (word.length <= 3)
+            continue;
+          if (cacheKey.length <= settings.minimumSuggestionWordLength)
+            continue;
+          if ((lowercaseCacheKey.includes(lowercaseWord) || lowercaseWord.includes(lowercaseCacheKey)) === false)
+            continue;
+          if (settings.ignoreOccurrencesWhichStartWithLowercaseLetter && cacheKey[0] === lowercaseCacheKey[0])
+            continue;
+          if (settings.ignoreSuggestionsWhichStartWithLowercaseLetter && word[0] === lowercaseWord[0])
+            continue;
+          if (lowercaseCacheKey === lowercaseWord) {
+            matchSet.add({ ...cacheValue, rank: "\u{1F947}" });
+            continue;
+          }
+          if (1 / cacheKey.length * word.length <= 0.2) {
+            matchSet.add({ ...cacheValue, rank: "\u{1F949}" });
+            continue;
+          }
+          matchSet.add({ ...cacheValue, rank: "\u{1F948}" });
         }
-        if (CrossbowPlugin.settings.ignoredWordsCaseSensisitve.includes(word))
-          return;
-        if (word.length <= 3)
-          return;
-        if (cacheKey.length <= CrossbowPlugin.settings.minimumSuggestionWordLength)
-          return;
-        if ((lowercaseCacheKey.includes(lowercaseWord) || lowercaseWord.includes(lowercaseCacheKey)) === false)
-          return;
-        if (CrossbowPlugin.settings.ignoreOccurrencesWhichStartWithLowercaseLetter && cacheKey[0] === lowercaseCacheKey[0])
-          return;
-        if (CrossbowPlugin.settings.ignoreSuggestionsWhichStartWithLowercaseLetter && word[0] === lowercaseWord[0])
-          return;
-        if (lowercaseCacheKey === lowercaseWord) {
-          matchSet.add({ ...this.crossbowCache[cacheKey], rank: "\u{1F947}" });
-          return;
-        }
-        if (1 / cacheKey.length * word.length <= 0.2) {
-          matchSet.add({ ...this.crossbowCache[cacheKey], rank: "\u{1F949}" });
-          return;
-        }
-        matchSet.add({ ...this.crossbowCache[cacheKey], rank: "\u{1F948}" });
-      });
+      }
       if (matchSet.size > 0) {
         const matches = Array.from(matchSet).map((m) => new Match(m));
         const occurrences = editorPositions.map((p) => new Occurrence(p, matches));
         result.push(new Suggestion(word, occurrences));
       }
-    });
+    }
     result.sort((a, b) => a.hash.localeCompare(b.hash)).forEach((suggestion) => suggestion.sortChildren());
+    return this.removeIgnoredWords(result);
+  }
+  removeIgnoredWords(suggestions) {
+    const ignoredWordsCaseSensisitve = this.settingsService.getSettings().ignoredWordsCaseSensisitve;
+    const ignoredWordsCache = {};
+    const result = suggestions.filter((suggestion) => {
+      if (ignoredWordsCache[suggestion.word] === void 0) {
+        ignoredWordsCache[suggestion.word] = !ignoredWordsCaseSensisitve.includes(suggestion.word);
+      }
+      return ignoredWordsCache[suggestion.word];
+    });
     return result;
   }
-  updateCrossbowCacheEntitiesOfFile(file, cache) {
-    if (file.extension !== "md")
-      return;
-    const metadata = cache ? cache : app.metadataCache.getFileCache(file);
-    if (file.basename.length >= CrossbowPlugin.settings.minimumSuggestionWordLength)
-      this.addOrUpdateCacheEntity({ file, text: file.basename, type: "File" });
-    if (metadata) {
-      if (metadata.headings)
-        metadata.headings.forEach((headingCache) => this.addOrUpdateCacheEntity({
-          item: headingCache,
-          file,
-          text: headingCache.heading,
-          type: "Heading"
-        }));
-      if (metadata.tags)
-        metadata.tags.forEach((tagCache) => this.addOrUpdateCacheEntity({
-          item: tagCache,
-          file,
-          text: tagCache.tag,
-          type: "Tag"
-        }));
+};
+
+// src/services/tokenizationService.ts
+var OBSIDIAN_METADATA_REGEX = /^\n*?---[\s\S]+?---/g;
+var OBSIDIAN_TAG_REGEX = /#+([a-zA-Z0-9_/]+)/g;
+var OBSIDIAN_LINKS_REGEX = /\[([^\]]+)\]+/g;
+var HTML_COMMENT_REGEX = /<!--[\s\S]+?-->/g;
+var HTML_TAG_REGEX = /<\/?[\w\s="/.':;#-/?]+>/gm;
+var MARKDOWN_LATEX_BLOCK_REGEX = /\$\$([^$]+)\$\$/g;
+var MARKDOWN_LATEX_INLINE_REGEX = /\$([^$]+)\$/g;
+var MARKDOWN_LINKS_AND_IMAGES_REGEX = /!?\[([^\]]+)\]\((?:<.*>)?\s*([^\s)]+)\s*\)/gm;
+var MARKDOWN_CODE_BLOCK_REGEX = /```[\s\S]+?```/g;
+var CrossbowTokenizationService = class {
+  constructor() {
+    this.SKIP_REGEX = /\s/;
+  }
+  getWordLookupFromEditor(targetEditor) {
+    if (!targetEditor)
+      return {};
+    const wordLookup = {};
+    const rawText = targetEditor.getValue();
+    const plainText = CrossbowTokenizationService.redactText(rawText);
+    for (let i = 0; i < plainText.length; i++) {
+      if (plainText[i].match(this.SKIP_REGEX))
+        continue;
+      else {
+        let word = "";
+        const pos = targetEditor.offsetToPos(i);
+        while (plainText[i] && !plainText[i].match(this.SKIP_REGEX))
+          word += plainText[i++];
+        word = CrossbowTokenizationService.cleanWord(word);
+        if (word.length <= 0)
+          continue;
+        if (word in wordLookup)
+          wordLookup[word].push(pos);
+        else
+          wordLookup[word] = [pos];
+      }
     }
+    return wordLookup;
+  }
+  static redactText(text) {
+    const muteString = (str) => str.replace(/[^\r\n]+/g, (m) => " ".repeat(m.length));
+    return text.replace(MARKDOWN_CODE_BLOCK_REGEX, (m) => muteString(m)).replace(MARKDOWN_LATEX_BLOCK_REGEX, (m) => muteString(m)).replace(MARKDOWN_LATEX_INLINE_REGEX, (m) => muteString(m)).replace(MARKDOWN_LINKS_AND_IMAGES_REGEX, (m) => muteString(m)).replace(OBSIDIAN_METADATA_REGEX, (m) => muteString(m)).replace(OBSIDIAN_TAG_REGEX, (m) => muteString(m)).replace(OBSIDIAN_LINKS_REGEX, (m) => muteString(m)).replace(HTML_COMMENT_REGEX, (m) => muteString(m)).replace(HTML_TAG_REGEX, (m) => muteString(m));
+  }
+  static cleanWord(word) {
+    return word.replace(/[^a-z0-9äöü'-]/gi, "").replace(/^[’'-]+|[’'-]+$/gi, "");
+  }
+};
+
+// src/services/utilsService.ts
+var CrossbowUtilsService = class {
+  constructor() {
+  }
+  toArrayOfPaths(pathArrayLike) {
+    return pathArrayLike.replace(/,*\s*$/, "").replace(/,{2,}/g, ",").split(",").map((folderOrPath) => folderOrPath.trim()).filter((folderOrPath) => folderOrPath.length > 0).map((folderOrPath) => folderOrPath.replace(/^\/+/, "")).map((folderOrPath) => folderOrPath.replace(/\/{2,}/g, "/")).map((folderOrPath) => folderOrPath.endsWith("/") ? folderOrPath : `${folderOrPath}/`);
+  }
+  toWordList(wordArrayLike) {
+    return wordArrayLike.replace(/,*\s*$/, "").replace(/,{2,}/g, ",").split(",").map((word) => word.trim()).filter((folderOrPath) => folderOrPath.length > 0);
+  }
+};
+
+// src/settings.ts
+var import_obsidian5 = require("obsidian");
+var CrossbowSettingTab = class extends import_obsidian5.PluginSettingTab {
+  constructor(app2, plugin, settingsService, utilsService) {
+    super(app2, plugin);
+    this.settingsService = settingsService;
+    this.utilsService = utilsService;
+    this.updateSettingValue = async (key, value) => {
+      const settings = this.settingsService.getSettings();
+      settings[key] = value;
+      await this.settingsService.saveSettings(settings);
+    };
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    containerEl.createEl("h2", { text: "Crossbow Settings \u{1F3F9}" });
+    this.addIndexingSettings(containerEl);
+    this.addSuggestionsSettings(containerEl);
+    this.addAutoRefreshSettings(containerEl);
+    this.addLoggingSettings(containerEl);
+  }
+  addIndexingSettings(containerEl) {
+    containerEl.createEl("h3", { text: "Indexing" });
+    new import_obsidian5.Setting(containerEl).setName("Ignored Vault Folders").setDesc('A case-sensitive, comma separated list of folders (or paths, separated by "/") to ignore when indexing. (Whitepaces around commas will be trimmed)').addTextArea((textArea) => {
+      var _a, _b;
+      textArea.setValue((_b = (_a = this.settingsService.getSettings().ignoreVaultFolders) == null ? void 0 : _a.join(", ")) != null ? _b : "").onChange(async (value) => await this.updateSettingValue("ignoreVaultFolders", this.utilsService.toArrayOfPaths(value)));
+      textArea.inputEl.setAttr("style", "height: 10vh; width: 25vw;");
+    });
+  }
+  addSuggestionsSettings(containerEl) {
+    containerEl.createEl("h3", { text: "Suggestions" });
+    new import_obsidian5.Setting(containerEl).setName("Ignored Words").setDesc("A case-sensitive, comma separated list of words to ignore when searching for items (Headers, tags). (Whitepaces around commas will be trimmed)").addTextArea((textArea) => {
+      var _a, _b;
+      textArea.setValue((_b = (_a = this.settingsService.getSettings().ignoredWordsCaseSensisitve) == null ? void 0 : _a.join(", ")) != null ? _b : "").onChange(async (value) => await this.updateSettingValue("ignoredWordsCaseSensisitve", this.utilsService.toWordList(value)));
+      textArea.inputEl.setAttr("style", "height: 10vh; width: 25vw;");
+    });
+    new import_obsidian5.Setting(containerEl).setName("Ignore occurrences which start with a lowercase letter").setDesc("If checked, occurrences (Words in the active editor) which start with a lowercase letter will be ignored").addToggle((toggle) => toggle.setValue(this.settingsService.getSettings().ignoreOccurrencesWhichStartWithLowercaseLetter).onChange(async (value) => await this.updateSettingValue("ignoreOccurrencesWhichStartWithLowercaseLetter", value)));
+    new import_obsidian5.Setting(containerEl).setName("Ignore suggestions which start with a lowercase letter").setDesc("If checked, suggestions which start with a lowercase letter will be ignored").addToggle((toggle) => toggle.setValue(this.settingsService.getSettings().ignoreSuggestionsWhichStartWithLowercaseLetter).onChange(async (value) => await this.updateSettingValue("ignoreSuggestionsWhichStartWithLowercaseLetter", value)));
+    new import_obsidian5.Setting(containerEl).setName("Make suggestions to items in the same file").setDesc("If checked, suggestions to items (Headers, Tags) in the same file be created").addToggle((toggle) => toggle.setValue(this.settingsService.getSettings().suggestInSameFile).onChange(async (value) => await this.updateSettingValue("suggestInSameFile", value)));
+    new import_obsidian5.Setting(containerEl).setName("Minimum word length of suggestions").setDisabled(!this.settingsService.getSettings().useAutoRefresh).setDesc("Defines the min. length an item (Header, File, Tag) must have for it to be considered a suggestion").addSlider((slider) => {
+      slider.setLimits(1, 20, 1).setValue(this.settingsService.getSettings().minimumSuggestionWordLength).onChange(async (value) => await this.updateSettingValue("minimumSuggestionWordLength", value)).setDynamicTooltip();
+    });
+  }
+  addLoggingSettings(containerEl) {
+    containerEl.createEl("h3", { text: "Debug" });
+    new import_obsidian5.Setting(containerEl).setName("Enable logging").setDesc("If checked, debug logs will be printed to the console").addToggle((toggle) => toggle.setValue(this.settingsService.getSettings().useLogging).onChange(async (value) => await this.updateSettingValue("useLogging", value)));
+  }
+  addAutoRefreshSettings(containerEl) {
+    containerEl.createEl("h3", { text: "Auto refresh" });
+    const autoRefreshSetting = new import_obsidian5.Setting(containerEl).setName("Enable auto refresh").setDesc("If checked, crossbow will automatically refresh if the current note has been edited");
+    const autoRefreshDelaySetting = new import_obsidian5.Setting(containerEl).setName("Auto refresh delay").setDesc("A delay in ms after which crossbow will refresh if the current note has been edited");
+    let autoRefreshSettingUpdateTimeout = void 0;
+    autoRefreshSetting.addToggle((toggle) => toggle.setValue(this.settingsService.getSettings().useAutoRefresh).onChange(async (value) => {
+      autoRefreshDelaySetting.setDisabled(!value);
+      await this.updateSettingValue("useAutoRefresh", value);
+    }));
+    autoRefreshDelaySetting.addSlider((slider) => {
+      slider.setLimits(2600, 2e4, 100).setValue(this.settingsService.getSettings().autoRefreshDelayMs).onChange(async (value) => {
+        if (autoRefreshSettingUpdateTimeout) {
+          clearTimeout(autoRefreshSettingUpdateTimeout);
+        }
+        autoRefreshSettingUpdateTimeout = setTimeout(async () => {
+          await this.updateSettingValue("autoRefreshDelayMs", value);
+        }, 1e3);
+      }).setDynamicTooltip();
+    });
+  }
+};
+
+// src/main.ts
+var CrossbowPlugin = class extends import_obsidian6.Plugin {
+  constructor(app2, manifest) {
+    super(app2, manifest);
+    this.onMetadataChange = (file, data, cache) => {
+      if (this.metadataChangedTimeout)
+        clearTimeout(this.metadataChangedTimeout);
+      if (!this.settingsService.getSettings().useAutoRefresh)
+        return;
+      if (!this.viewController.doesCrossbowViewExist())
+        return;
+      this.metadataChangedTimeout = setTimeout(() => {
+        this.indexingService.indexFile(file, cache);
+        this.runWithoutCacheUpdate(false);
+        this.loggingService.debugLog(`\u26A1Metadata cache updated. '${file.basename}'`);
+      }, this.settingsService.getSettings().autoRefreshDelayMs);
+    };
+    this.onFileDelete = (file) => {
+      this.loggingService.debugLog(`\u26A1File deleted. '${file.name}'`);
+      this.indexingService.clearCacheFromFile(file);
+    };
+    this.onFileRename = (file, oldPath) => {
+      this.loggingService.debugLog(`\u26A1File renamed. '${file.name}'`);
+      this.indexingService.clearCacheFromFile(oldPath);
+      this.app.metadataCache.trigger("changed", file, "");
+    };
+    this.onFileOpen = () => {
+      var _a;
+      if (!this.viewController.doesCrossbowViewExist())
+        return;
+      const prevCurrentFile = this.currentFile;
+      this.setActiveFile();
+      this.loggingService.debugLog(`\u26A1File opened. '${(_a = this.currentFile) == null ? void 0 : _a.basename}`);
+      if (this.fileOpenTimeout)
+        clearTimeout(this.fileOpenTimeout);
+      this.fileOpenTimeout = setTimeout(() => {
+        if (!prevCurrentFile)
+          this.runWithCacheUpdate(true);
+        else if (this.currentFile !== prevCurrentFile)
+          this.runWithoutCacheUpdate(true);
+      }, 100);
+    };
+    this.onSettingsChanged = async (settings) => {
+      this.loggingService.debugLog("\u26A1Settings saved.");
+      await this.saveData(settings);
+      this.runWithCacheUpdate(true);
+    };
+    this.onManualRefreshButtonClick = () => {
+      this.loggingService.debugLog("Manually triggered update.");
+      this.runWithoutCacheUpdate(true);
+    };
+    this.settingsService = new CrossbowSettingsService(this.onSettingsChanged);
+    this.loggingService = new CrossbowLoggingService(this.settingsService);
+    this.indexingService = new CrossbowIndexingService(this.settingsService, this.loggingService);
+    this.tokenizationService = new CrossbowTokenizationService();
+    this.suggestionsService = new CrossbowSuggestionsService(this.settingsService, this.indexingService);
+    this.utilsService = new CrossbowUtilsService();
+    this.viewController = new CrossbowViewController(this.settingsService);
+  }
+  async onload() {
+    const settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+    this.settingsService.setSettings(settings);
+    registerCrossbowIcons();
+    registerTreeItemElements();
+    this.registerView(CrossbowView.viewType, (leaf) => new CrossbowView(leaf, this.onManualRefreshButtonClick));
+    this.addRibbonIcon("crossbow", "Crossbow", async (ev) => {
+      await this.viewController.revealOrCreateView();
+      this.setActiveFile();
+      this.runWithCacheUpdate(true);
+    });
+    this.addSettingTab(new CrossbowSettingTab(this.app, this, this.settingsService, this.utilsService));
+    this.registerEvent(this.app.workspace.on("file-open", this.onFileOpen));
+    this.registerEvent(this.app.metadataCache.on("changed", this.onMetadataChange));
+    this.registerEvent(this.app.vault.on("rename", this.onFileRename));
+    this.registerEvent(this.app.vault.on("delete", this.onFileDelete));
+    this.loggingService.debugLog("Crossbow is ready.");
+  }
+  onunload() {
+    this.viewController.unloadView();
+    this.indexingService.clearCache();
+    this.loggingService.debugLog("Unloaded Crossbow.");
+  }
+  runWithCacheUpdate(fileHasChanged) {
+    this.indexingService.indexVault(this.app.vault);
+    this.runWithoutCacheUpdate(fileHasChanged);
+  }
+  runWithoutCacheUpdate(fileHasChanged) {
+    var _a;
+    const targetEditor = (_a = this.app.workspace.activeEditor) == null ? void 0 : _a.editor;
+    if (!targetEditor)
+      return;
+    const wordLookup = this.tokenizationService.getWordLookupFromEditor(targetEditor);
+    const suggestions = this.suggestionsService.getSuggestionsFromWordlookup(wordLookup, this.currentFile);
+    this.loggingService.debugLog(`Created ${suggestions.length} suggestions.`);
+    this.viewController.addOrUpdateSuggestions(suggestions, targetEditor, fileHasChanged);
   }
   setActiveFile() {
     const leaf = this.app.workspace.getMostRecentLeaf();
     if ((leaf == null ? void 0 : leaf.view) instanceof import_obsidian6.MarkdownView) {
-      this._currentFile = leaf.view.file;
+      this.currentFile = leaf.view.file;
     } else
-      console.warn("\u{1F3F9}: Unable to determine current editor.");
+      CrossbowLoggingService.forceLog("warn", "Unable to determine current editor.");
   }
 };
