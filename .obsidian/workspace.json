@@ -6,6 +6,7 @@
       {
         "id": "1aa0f0f63e9da39b",
         "type": "tabs",
+        "dimension": 39.812332439678286,
         "children": [
           {
             "id": "067c6511c401437a",
@@ -13,11 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "sistema inmune.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb6e59db40d8ad06",
+        "type": "tabs",
+        "dimension": 60.187667560321714,
+        "children": [
+          {
+            "id": "b6142b70f4a453c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "sistema inmune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "sistema inmune.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "sistema inmune.md"
               }
             }
           },
@@ -171,9 +187,9 @@
   },
   "active": "067c6511c401437a",
   "lastOpenFiles": [
+    "sistema inmune.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "1. Sistema inmune.mht",
     "Untitled.md",
     "Biologia/Biologia Vegetal/Untitled.md",

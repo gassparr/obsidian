@@ -1,7 +1,3 @@
-# Untitled 1
-
-
-
 **SISTEMA INMUNE I**
 
 Características generales del funcionamiento del sistema inmune y de la disposición de los órganos que forman parte en este sistema; vías de comunicación que permiten el desplazamiento de los elementos del sistema inmune de un punto al otro del organismo.
