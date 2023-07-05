@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistema inmune.md",
-                "mode": "preview",
+                "file": "Untitled 1.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sistema inmune.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sistema inmune.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sistema inmune.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -171,8 +170,8 @@
   },
   "active": "067c6511c401437a",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "sistema inmune.md",
+    "Untitled 1.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Untitled 2.md",
     "1. Sistema inmune.mht",
