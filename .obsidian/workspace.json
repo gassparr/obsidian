@@ -6,7 +6,6 @@
       {
         "id": "1aa0f0f63e9da39b",
         "type": "tabs",
-        "dimension": 39.812332439678286,
         "children": [
           {
             "id": "067c6511c401437a",
@@ -15,25 +14,10 @@
               "type": "markdown",
               "state": {
                 "file": "sistema inmune.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "eb6e59db40d8ad06",
-        "type": "tabs",
-        "dimension": 60.187667560321714,
-        "children": [
-          {
-            "id": "b6142b70f4a453c7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -187,6 +171,7 @@
   },
   "active": "067c6511c401437a",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "sistema inmune.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Untitled 2.md",
@@ -213,7 +198,6 @@
     "Templates/Proteina.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Anatomia/Plantas Vasculares.md",
-    "Biologia/Biologia Vegetal/Anatomia/celula vegetal.md",
-    "Biologia/Biologia Vegetal/Tejidos/endodermis.md"
+    "Biologia/Biologia Vegetal/Anatomia/celula vegetal.md"
   ]
 }
