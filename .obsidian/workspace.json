@@ -156,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "crossbow:Crossbow": false,
       "auto-moc:AutoMOC": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
