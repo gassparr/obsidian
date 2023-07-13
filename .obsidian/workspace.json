@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "48b65a96d409115a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hormonas Vegetales.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hormonas Vegetales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -92,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hormonas Vegetales.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hormonas Vegetales.md"
+              }
             }
           },
           {
@@ -160,10 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64a0432d31a19d2e",
+  "active": "48b65a96d409115a",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Untitled.canvas",
+    "Hormonas Vegetales.md",
     "Untitled.md",
     "Untitled 2.md",
     "sistema inmune.md",
