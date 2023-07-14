@@ -1,7 +1,9 @@
 # Auxina
 Pueden *Acumularse* por conjugacion a un glucido, para estar en forma activa y poder volver a tener mucha hormona en caso de necesitarse
-- Estimula la division celular
-- Estimula expansion de la celula
+- Estimula
+	- Division celular
+	- Expansion de la celula
+	- Fototropismo
 
 ## SAM
 - Promueve
