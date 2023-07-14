@@ -9,31 +9,23 @@ Pueden *Acumularse* por conjugacion a un glucido, para estar en forma activa y p
 ## SAM
 
 - Promueve
-	- Elongacion celular
-	- Division celular
+    - Proliferación celular
+    - Diferenciación celular
+    - Formación de órganos laterales
 - Inhibe
+    - Crecimiento de ramas laterales
 
 ## RAM
 
 - Promueve
-	- Elongacion celular
-	- Diferenciacion celular
+    - Crecimiento secundario
+    - Formación de raíces laterales
+- Inhibe
+    - División celular
+    - Crecimiento primario
 
 # Citoquinina
 
-## SAM
-
-- Promueve
-	- Iniciacion de organos laterales
-- Inhibe
-	- Crecimiento de ramas laterales
-
-## RAM
-
-- Promueve
-	- Mantenimiento de celulas madres
-- Inhibe
-	- 
 # Giberelina
 
 # Acido Abscísico
