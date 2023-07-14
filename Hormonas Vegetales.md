@@ -1,5 +1,18 @@
 # Auxina
 Pueden *Acumularse* por conjugacion a un glucido, para estar en forma activa y poder volver a tener mucha hormona en caso de necesitarse
+- Estimula la division celular
+- Estimula expansion de la celula
+
+## SAM
+- Promueve
+	- Elongacion celular
+	- Division celular
+- Inhibe
+
+## RAM
+- Promueve
+	- Elongacion celular
+	- Diferenciacion celular
 # Citoquinina
 
 # Giberelina
