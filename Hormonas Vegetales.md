@@ -1,4 +1,5 @@
 # Auxina
+
 Pueden *Acumularse* por conjugacion a un glucido, para estar en forma activa y poder volver a tener mucha hormona en caso de necesitarse
 - Estimula
 	- Division celular
@@ -6,17 +7,33 @@ Pueden *Acumularse* por conjugacion a un glucido, para estar en forma activa y p
 	- Fototropismo
 
 ## SAM
+
 - Promueve
 	- Elongacion celular
 	- Division celular
 - Inhibe
 
 ## RAM
+
 - Promueve
 	- Elongacion celular
 	- Diferenciacion celular
+
 # Citoquinina
 
+## SAM
+
+- Promueve
+	- Iniciacion de organos laterales
+- Inhibe
+	- Crecimiento de ramas laterales
+
+## RAM
+
+- Promueve
+	- Mantenimiento de celulas madres
+- Inhibe
+	- 
 # Giberelina
 
 # Acido Abscísico
@@ -24,6 +41,7 @@ Pueden *Acumularse* por conjugacion a un glucido, para estar en forma activa y p
 # Etileno
 
 # Cross Talk
+
 Las hormonas no actuan en un determinado proceso, sino que trabajan en conjunto haciendo distintos tipos de interacciones
 
 ## Giberelina - Acido Abscisico
