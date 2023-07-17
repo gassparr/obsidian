@@ -156,7 +156,7 @@
             }
           },
           {
-            "id": "1b28bb9aa3986925",
+            "id": "fac0133d09b25b68",
             "type": "leaf",
             "state": {
               "type": "pieces-snippet-list",
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455
+    "width": 260
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +186,11 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "1b28bb9aa3986925",
+  "active": "fac0133d09b25b68",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Hormonas Vegetales.md",
+    "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
     "piecesdb.json",
     "Untitled.canvas",
