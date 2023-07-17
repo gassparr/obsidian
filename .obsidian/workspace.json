@@ -154,14 +154,21 @@
               "type": "crossbow-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "1b28bb9aa3986925",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 455
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +182,16 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pieces-for-developers:Pieces For Developers": false
     }
   },
   "active": "48b65a96d409115a",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Hormonas Vegetales.md",
+    "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
+    "piecesdb.json",
+    "Untitled.canvas",
     "Untitled.md",
     "Untitled 2.md",
     "sistema inmune.md",
