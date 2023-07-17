@@ -58,10 +58,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "query": "RAM",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -186,8 +186,10 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "48b65a96d409115a",
+  "active": "1b28bb9aa3986925",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Organos/raiz.md",
+    "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Hormonas Vegetales.md",
     "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
     "piecesdb.json",
@@ -214,8 +216,6 @@
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
     "Templates/Tecnicas.md",
-    "Templates/Proteina.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
-    "Biologia/Biologia Vegetal/Anatomia/Plantas Vasculares.md"
+    "Templates/Proteina.md"
   ]
 }
