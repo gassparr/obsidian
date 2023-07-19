@@ -47,5 +47,6 @@
       ],
       "key": "Home"
     }
-  ]
+  ],
+  "obsidian-linter:lint-file": []
 }

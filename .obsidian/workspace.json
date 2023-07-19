@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anatomia vegeta.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "922294e32e240341",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Hormonas Vegetales.md",
