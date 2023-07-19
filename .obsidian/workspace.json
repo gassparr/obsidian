@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fb819407d920a21",
+            "id": "922294e32e240341",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "anatomia vegeta.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -28,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -95,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hormonas Vegetales.md",
+                "file": "anatomia vegeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hormonas Vegetales.md",
+                "file": "anatomia vegeta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hormonas Vegetales.md"
+                "file": "anatomia vegeta.md"
               }
             }
           },
@@ -186,8 +191,10 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "fac0133d09b25b68",
+  "active": "922294e32e240341",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Organos/raiz.md",
@@ -199,7 +206,6 @@
     "sistema inmune.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "1. Sistema inmune.mht",
-    "Biologia/Biologia Vegetal/Untitled.md",
     "Biologia/Biologia Vegetal/clase 7.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "conflict-files-obsidian-git.md",
@@ -215,7 +221,6 @@
     "Personal/Work/CV esp.md",
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
-    "Templates/Tecnicas.md",
-    "Templates/Proteina.md"
+    "Templates/Tecnicas.md"
   ]
 }
