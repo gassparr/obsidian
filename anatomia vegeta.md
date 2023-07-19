@@ -9,7 +9,7 @@
 ## Fundamental
 
 - Fundamental
-	- Parenquima
+	- [[parenquima]]
 - Sosten
 	- Colenquima
 	- Esclerenquima
