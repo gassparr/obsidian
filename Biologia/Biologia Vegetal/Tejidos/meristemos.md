@@ -25,6 +25,7 @@ pueden ser permanentes y funcionales durante la vida de la planta o pueden ser p
 - [[reticulo endoplasmico]] escaso
 - complejo de golgi muy desarrollado
 - [[nucleo]] con mucha cromatina
+
 El meristema es un tejido vegetal que se encuentra en las raíces y brotes de las plantas. Es responsable del crecimiento y desarrollo de las plantas. El meristema es un tejido indiferenciado compuesto por células pequeñas y con **alta capacidad de división celular**, lo que permite la producción continua de células nuevas y la formación de nuevos tejidos y órganos.
 
 Existen diferentes tipos de meristemas, como:
@@ -54,7 +55,8 @@ tejido que produce celulas somaticas (celulas con totipotencialidad). Estas celu
 
 Las celulas meristematicas crecen por multiplicacion de sustancia seca (crecimiento embrionario). El engrosamiento celular se basa en el aumento del tamano de las vacuolas .
 
-# Apice Caulinar
+## Meristema Caulinar Apical (SAM)
+- [ ] 
 
 El ápice caulinar es la parte superior de un tallo de una planta. Es el punto de crecimiento donde las células meristemáticas se dividen activamente y generan nuevas células que se diferencian y se especializan en diferentes tipos de tejidos vegetales, como el xilema, el floema, la epidermis y el parénquima.
 
@@ -64,7 +66,6 @@ La función principal del ápice caulinar es la de continuar el crecimiento del 
 
 En resumen, el ápice caulinar es una parte vital de la estructura y función de las plantas, y es responsable de su crecimiento y desarrollo continuo.
 
-## Meristema Caulinar Apical (SAM)
 
 El meristema caulinar apical es una región de crecimiento en la punta del tallo de una planta que contiene células meristemáticas indiferenciadas que se dividen activamente para producir nuevas células. Estas células se diferencian y se especializan en diferentes tipos de tejidos vegetales:
 
