@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/meristemos.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,10 +195,11 @@
   "active": "922294e32e240341",
   "lastOpenFiles": [
     "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+    "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
-    "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
     "piecesdb.json",
@@ -221,7 +222,6 @@
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
     "Personal/Work/CV esp.md",
-    "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
-    "Biologia/Biologia Vegetal/Anatomia/cambium.md"
+    "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md"
   ]
 }

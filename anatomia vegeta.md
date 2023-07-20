@@ -2,7 +2,7 @@
 
 ## Dermico
 
-- Epidermis
+- [[epidermis]]
 - Hipodermis
 - Peridermis
 
@@ -19,7 +19,7 @@
 - Vascular
 
 ## [[meristemos]]
-Grupo de celulas indiferenciadas responsables del crecimientos de las plantas, ya que tienen alta capacidad de division celular y de diferenciacion. No todas se diferencian a el tejido, algunas quedan en estado diferenciados tras la division mitotica (para mantener el meristemo).
+
 
 
 # Organos

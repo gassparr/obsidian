@@ -1,4 +1,3 @@
-
 # Meristema
 
 Tejidos que estan activos a lo largo de toda la vida de la planta, permitiendo su crecimiento.
@@ -56,7 +55,6 @@ tejido que produce celulas somaticas (celulas con totipotencialidad). Estas celu
 Las celulas meristematicas crecen por multiplicacion de sustancia seca (crecimiento embrionario). El engrosamiento celular se basa en el aumento del tamano de las vacuolas .
 
 ## Meristema Caulinar Apical (SAM)
-- [ ] 
 
 El ápice caulinar es la parte superior de un tallo de una planta. Es el punto de crecimiento donde las células meristemáticas se dividen activamente y generan nuevas células que se diferencian y se especializan en diferentes tipos de tejidos vegetales, como el xilema, el floema, la epidermis y el parénquima.
 
@@ -66,8 +64,7 @@ La función principal del ápice caulinar es la de continuar el crecimiento del 
 
 En resumen, el ápice caulinar es una parte vital de la estructura y función de las plantas, y es responsable de su crecimiento y desarrollo continuo.
 
-
-El meristema caulinar apical es una región de crecimiento en la punta del tallo de una planta que contiene células meristemáticas indiferenciadas que se dividen activamente para producir nuevas células. Estas células se diferencian y se especializan en diferentes tipos de tejidos vegetales:
+**El meristema caulinar apical** es una región de crecimiento en la punta del tallo de una planta que contiene células meristemáticas indiferenciadas que se dividen activamente para producir nuevas células. Estas células se diferencian y se especializan en diferentes tipos de tejidos vegetales:
 
 - xilema
 - floema
