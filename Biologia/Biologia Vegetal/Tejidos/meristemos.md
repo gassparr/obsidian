@@ -1,4 +1,7 @@
-tejidos que estan activos a lo largo de toda la vida de la planta, permitiendo su crecimiento.
+
+# Meristema
+
+Tejidos que estan activos a lo largo de toda la vida de la planta, permitiendo su crecimiento.
 
 **Clasificacion**:
 
@@ -22,9 +25,6 @@ pueden ser permanentes y funcionales durante la vida de la planta o pueden ser p
 - [[reticulo endoplasmico]] escaso
 - complejo de golgi muy desarrollado
 - [[nucleo]] con mucha cromatina
-
-# Meristema
-
 El meristema es un tejido vegetal que se encuentra en las raíces y brotes de las plantas. Es responsable del crecimiento y desarrollo de las plantas. El meristema es un tejido indiferenciado compuesto por células pequeñas y con **alta capacidad de división celular**, lo que permite la producción continua de células nuevas y la formación de nuevos tejidos y órganos.
 
 Existen diferentes tipos de meristemas, como:
@@ -91,6 +91,6 @@ En plantas con crecimiento secundario. Aparecen en estados tardios y son respons
 
 El cambium vascular se localiza entre el Xilema 2 y el Floema 2 y el cambium suberoso, entre la felodermis y el suber
 
-## Meristemas intercalares
+## Meristemas Intercalares
 
 En plantas monocotiledoneas, son los encargados del crecimiento longitudinal del tallo, se encuentran localizados entre tejidos no meristematicos
