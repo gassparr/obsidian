@@ -4,7 +4,7 @@
 
 - [[epidermis]]
 - Hipodermis
-- Peridermis
+- [[peridermis]]
 
 ## Fundamental
 

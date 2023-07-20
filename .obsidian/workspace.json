@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7008b93332e5b4d8",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md"
               }
             }
           },
@@ -195,11 +194,12 @@
   "active": "922294e32e240341",
   "lastOpenFiles": [
     "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
     "Biologia/Biologia Vegetal/Organos/raiz.md",
     "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
@@ -221,7 +221,6 @@
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Personal/Ideas.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
-    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
-    "Personal/Work/CV esp.md"
+    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md"
   ]
 }

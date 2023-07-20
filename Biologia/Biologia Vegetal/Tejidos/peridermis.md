@@ -1,4 +1,4 @@
-Capa impermeable, sobre todo el suber o corcho
+Tejido de pretoccion que sustituye a la [[epidermis]], es de crecimiento secundario. Se produce por actividad del cambium 
 **Lenticelas**
 permiten intercambio de gases entre los tejidos interos del tallo y raiz con el medioambiente.
 Son zonas circulas que sobresalen en la superficie
