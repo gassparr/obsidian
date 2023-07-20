@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/peridermis.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/parenquima.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   "active": "922294e32e240341",
   "lastOpenFiles": [
     "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
@@ -220,7 +221,6 @@
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Personal/Ideas.md",
-    "Biologia/Biologia Vegetal/Bloque 1.md",
-    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md"
+    "Biologia/Biologia Vegetal/Bloque 1.md"
   ]
 }
