@@ -15,5 +15,7 @@
   "better-word-count",
   "no-tabs",
   "crossbow",
-  "google-bard-assistant"
+  "google-bard-assistant",
+  "obsidian-pandoc",
+  "theme-picker"
 ]

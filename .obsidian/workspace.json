@@ -21,6 +21,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "af0cbb7c32417657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490f7ffe694ba1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anatomia vegeta.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -159,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,12 +193,14 @@
       "workspaces:Manage workspace layouts": false,
       "auto-moc:AutoMOC": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "crossbow:Crossbow": false,
-      "google-bard-assistant:Open Bard": false
+      "crossbow:Crossbow": false
     }
   },
-  "active": "262f1a0fa0a64859",
+  "active": "490f7ffe694ba1f8",
   "lastOpenFiles": [
+    "anatomia vegeta.md",
+    "Untitled 1.md",
+    "BV Parte I.pdf",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Personal/Ideas.md",
     "Personal/Investment.md",
@@ -187,7 +209,6 @@
     "Personal/Work/CV eng tec.md",
     "sistema inmune.md",
     "piecesdb.json",
-    "anatomia vegeta.md",
     "Hormonas Vegetales.md",
     "1. Sistema inmune.mht",
     "Personal/Work/CV esp Tecnico.md",
@@ -205,8 +226,6 @@
     "Untitled.canvas",
     "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
-    "Templates/Tecnicas.md",
-    "Templates/Proteina.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md"
+    "Templates/Tecnicas.md"
   ]
 }

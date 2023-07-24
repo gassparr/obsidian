@@ -215,7 +215,6 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-gruvbox-dark",
   "encore-settings@@theme-dark": "encore-theme-dark-atom",
   "encore-settings@@encore-coloured-tooltip": true,
-  "minimal-advanced@@window-title-on": false,
   "shimmering-focus@@mac-os-native": true,
   "shimmering-focus@@dark-brightness": 10,
   "shimmering-focus@@highlight-hue-1": 85,
