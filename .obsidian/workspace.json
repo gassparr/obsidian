@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "anatomia vegeta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "anatomia vegeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "anatomia vegeta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Ideas.md"
+                "file": "anatomia vegeta.md"
               }
             }
           },
@@ -177,13 +177,13 @@
       "google-bard-assistant:Open Bard": false
     }
   },
-  "active": "435c34051bc9dced",
+  "active": "262f1a0fa0a64859",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "Personal/Ideas.md",
     "Personal/Investment.md",
     "Personal/Horarios.md",
     "Personal/Quimica papa y gaspar.md",
-    "Personal/Ideas.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Personal/Work/CV eng tec.md",
     "sistema inmune.md",
     "piecesdb.json",
