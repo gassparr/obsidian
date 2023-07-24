@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md"
               }
             }
           },
@@ -196,7 +196,7 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "490f7ffe694ba1f8",
+  "active": "262f1a0fa0a64859",
   "lastOpenFiles": [
     "anatomia vegeta.md",
     "Untitled 1.md",
