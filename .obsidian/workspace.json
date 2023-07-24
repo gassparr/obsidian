@@ -145,14 +145,21 @@
               "type": "crossbow-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "435c34051bc9dced",
+            "type": "leaf",
+            "state": {
+              "type": "BardObsidian-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +173,11 @@
       "workspaces:Manage workspace layouts": false,
       "auto-moc:AutoMOC": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "crossbow:Crossbow": false
+      "crossbow:Crossbow": false,
+      "google-bard-assistant:Open Bard": false
     }
   },
-  "active": "262f1a0fa0a64859",
+  "active": "435c34051bc9dced",
   "lastOpenFiles": [
     "Personal/Investment.md",
     "Personal/Horarios.md",
