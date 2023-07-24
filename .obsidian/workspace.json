@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "Personal/Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "Personal/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "Personal/Ideas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md"
+                "file": "Personal/Ideas.md"
               }
             }
           },
@@ -171,6 +171,10 @@
   },
   "active": "262f1a0fa0a64859",
   "lastOpenFiles": [
+    "Personal/Investment.md",
+    "Personal/Horarios.md",
+    "Personal/Quimica papa y gaspar.md",
+    "Personal/Ideas.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Personal/Work/CV eng tec.md",
     "sistema inmune.md",
@@ -184,7 +188,6 @@
     "Biologia/Biologia Vegetal/clase 7.md",
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
-    "Personal/Ideas.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
@@ -196,9 +199,6 @@
     "Biologia/Biologia Vegetal/Anatomia/cambium.md",
     "Templates/Tecnicas.md",
     "Templates/Proteina.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
-    "Biologia/Biologia Vegetal/Anatomia/Plantas Vasculares.md",
-    "Biologia/Biologia Vegetal/Anatomia/celula vegetal.md",
-    "Biologia/Biologia Vegetal/Untitled 1.md"
+    "Biologia/Biologia Vegetal/Transporte de agua.md"
   ]
 }
