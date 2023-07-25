@@ -215,6 +215,7 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-gruvbox-dark",
   "encore-settings@@theme-dark": "encore-theme-dark-atom",
   "encore-settings@@encore-coloured-tooltip": true,
+  "minimal-advanced@@window-title-on": false,
   "shimmering-focus@@mac-os-native": true,
   "shimmering-focus@@dark-brightness": 10,
   "shimmering-focus@@highlight-hue-1": 85,
@@ -266,5 +267,12 @@
   "catppuccin-heading-settings@@ctp-h2": "var(--ctp-sapphire)",
   "catppuccin-heading-settings@@ctp-h3": "var(--ctp-sky)",
   "catppuccin-heading-settings@@ctp-h4": "var(--ctp-blue)",
-  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-subtext0)"
+  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-subtext0)",
+  "obsidian-joval-theme@@h1-font": "Helvetica",
+  "obsidian-joval-theme@@h2-font": "Helvetica",
+  "obsidian-joval-theme@@h3-font": "Helvetica",
+  "obsidian-joval-theme@@h4-font": "Helvetica",
+  "obsidian-joval-theme@@default-font": "Microsoft YaHei Light",
+  "obsidian-joval-theme@@mermaid-font": "Roboto",
+  "obsidian-joval-theme@@switch-lcol": "col-mod-d"
 }
