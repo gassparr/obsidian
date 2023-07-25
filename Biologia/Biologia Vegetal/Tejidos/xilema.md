@@ -31,7 +31,7 @@ La absorcion del agua **solo ocurre en pelos radiculares**, en la zona de madura
 ![](https://i.imgur.com/wOwG1Ly.png)
 
 
-## Transporte del agua de la raiz al tallo
+## Transporte del agua de la raiz al tallo 
 
 Via simplastica a partir del endodermis y transmembrana (aquaporinas). 
 Para el transporte en masa, antes de la endodermis el mayor volumen de agua va por via apoplastica (pared celular). 
