@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c5412e50632783a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48b65a96d409115a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anatomia vegeta.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c10c0f2224e03908",
         "type": "tabs",
         "children": [
@@ -33,6 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee55537b28e4dc50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b65a96d409115a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anatomia vegeta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "anatomia vegeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "anatomia vegeta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "anatomia vegeta.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "dcf17069cc842b68",
+  "active": "48b65a96d409115a",
   "lastOpenFiles": [
-    "anatomia vegeta.md",
     "Untitled 1.md",
+    "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
