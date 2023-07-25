@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -197,8 +197,9 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "48b65a96d409115a",
+  "active": "dcf17069cc842b68",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Tejidos/xilema.md",
     "anatomia vegeta.md",
     "Untitled 1.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
@@ -227,7 +228,6 @@
     "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV eng 2.md",
     "Personal/Work/CV esp comercial.md",
-    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
-    "Personal/Ideas.md"
+    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md"
   ]
 }
