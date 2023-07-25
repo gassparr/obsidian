@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b37587728acb881",
+        "id": "c5412e50632783a7",
         "type": "tabs",
         "children": [
           {
-            "id": "262f1a0fa0a64859",
+            "id": "48b65a96d409115a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "anatomia vegeta.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "af0cbb7c32417657",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "490f7ffe694ba1f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "query": "RAM",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -166,23 +147,25 @@
             }
           },
           {
-            "id": "435c34051bc9dced",
+            "id": "fac0133d09b25b68",
             "type": "leaf",
             "state": {
-              "type": "BardObsidian-view",
+              "type": "pieces-snippet-list",
               "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 260,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "crossbow:Crossbow": false,
+      "auto-moc:AutoMOC": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,42 +174,41 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "auto-moc:AutoMOC": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "crossbow:Crossbow": false
+      "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "262f1a0fa0a64859",
+  "active": "48b65a96d409115a",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
-    "anatomia vegeta.md",
-    "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
-    "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
     "Untitled 1.md",
     "BV Parte I.pdf",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
-    "Personal/Ideas.md",
-    "Personal/Investment.md",
-    "Personal/Horarios.md",
-    "Personal/Quimica papa y gaspar.md",
-    "Personal/Work/CV eng tec.md",
-    "sistema inmune.md",
+    "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
+    "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
+    "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
+    "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
+    "Biologia/Biologia Vegetal/Organos/raiz.md",
+    "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
     "piecesdb.json",
-    "Hormonas Vegetales.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 2.md",
+    "sistema inmune.md",
+    "Biologia/Biologia Vegetal/Bloque 2.md",
     "1. Sistema inmune.mht",
+    "Biologia/Biologia Vegetal/clase 7.md",
+    "Biologia/Biologia Vegetal/Hidroponia.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Investment.md",
+    "Personal/Work/CV eng tec.md",
     "Personal/Work/CV esp Tecnico.md",
     "Personal/Work/CV eng 2.md",
-    "Untitled.md",
-    "Biologia/Biologia Vegetal/clase 7.md",
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
-    "Biologia/Biologia Vegetal/Bloque 2.md",
-    "Biologia/Biologia Vegetal/Bloque 1.md",
-    "Biologia/Biologia Vegetal/Hidroponia.md",
-    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
-    "Personal/Work/CV esp.md",
-    "Biologia/Biologia Vegetal/Untitled.md",
-    "Untitled.canvas"
+    "Personal/Ideas.md"
   ]
 }
