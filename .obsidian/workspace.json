@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
+                "file": "anatomia vegeta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "anatomia vegeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "anatomia vegeta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "anatomia vegeta.md"
               }
             }
           },
@@ -196,10 +196,13 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "490f7ffe694ba1f8",
+  "active": "262f1a0fa0a64859",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
+    "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
+    "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
+    "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
     "Untitled 1.md",
     "BV Parte I.pdf",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
@@ -224,9 +227,6 @@
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
     "Personal/Work/CV esp.md",
     "Biologia/Biologia Vegetal/Untitled.md",
-    "Untitled.canvas",
-    "Biologia/Biologia Vegetal/Anatomia/tipo de planta.md",
-    "Biologia/Biologia Vegetal/Anatomia/cambium.md",
-    "Templates/Tecnicas.md"
+    "Untitled.canvas"
   ]
 }

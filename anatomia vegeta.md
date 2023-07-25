@@ -11,12 +11,13 @@
 - Fundamental
 	- [[parenquima]]
 - Sosten
-	- Colenquima
-	- Esclerenquima
+	- [[colenquima]]
+	- [[esclerenquima]]
 
 ## Vascular
 
-- Vascular
+- [[floema]]
+- [[xilema]]
 
 ## [[meristemos]]
 
