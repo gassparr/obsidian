@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eae62f1d4d6ebf0b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BV Parte I.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ee55537b28e4dc50",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Ideas.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Ideas.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md"
               }
             }
           },
@@ -197,9 +208,10 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "dcf17069cc842b68",
+  "active": "48b65a96d409115a",
   "lastOpenFiles": [
     "BV Parte I.pdf",
+    "Personal/Ideas.md",
     "BV parte 1.md",
     "Biologia/Biologia Vegetal/Tejidos/xilema.md",
     "anatomia vegeta.md",
@@ -226,7 +238,6 @@
     "Personal/Investment.md",
     "Personal/Work/CV eng tec.md",
     "Personal/Work/CV esp Tecnico.md",
-    "Personal/Work/CV eng 2.md",
-    "Personal/Work/CV esp comercial.md"
+    "Personal/Work/CV eng 2.md"
   ]
 }
