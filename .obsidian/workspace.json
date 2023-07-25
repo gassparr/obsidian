@@ -21,6 +21,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "c10c0f2224e03908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf17069cc842b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anatomia vegeta.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -178,14 +197,14 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "48b65a96d409115a",
+  "active": "dcf17069cc842b68",
   "lastOpenFiles": [
+    "anatomia vegeta.md",
+    "Untitled 1.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
-    "Untitled 1.md",
     "BV Parte I.pdf",
-    "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
