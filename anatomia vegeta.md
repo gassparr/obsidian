@@ -23,7 +23,7 @@
 
 # Organos
 
-Estructura organizada conformada por varios tejidos, se dividen en _los de vida vegetativa (Hoja, Raiz, Tallo)_ y _reproductivos (Flor, fruto, semilla)_
+Estructura organizada conformada por varios tejidos, se dividen en *los de vida vegetativa (Hoja, Raiz, Tallo)* y *reproductivos (Flor, fruto, semilla)*
 
 ## Hoja
 

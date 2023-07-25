@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anatomia vegeta.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/xilema.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "48b65a96d409115a",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "anatomia vegeta.md",
+    "Untitled 1.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
