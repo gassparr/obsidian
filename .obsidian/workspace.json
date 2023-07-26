@@ -43,14 +43,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
+                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8056bbdeec41008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md"
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
               }
             }
           },
@@ -207,16 +221,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48b65a96d409115a",
+  "active": "a8056bbdeec41008",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
-    "Biologia/Biologia Vegetal/Tejidos/floema.md",
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "anatomia vegeta.md",
-    "Biologia/Biologia Vegetal/Tejidos/xilema.md",
+    "Biologia/Biologia Vegetal/Tejidos/floema.md",
     "BV Parte I.pdf",
+    "Biologia/Biologia Vegetal/Tejidos/Caracteristicas.md",
+    "Biologia/Biologia Vegetal/Tejidos/xilema.md",
     "Personal/Ideas.md",
     "BV parte 1.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
@@ -237,7 +251,6 @@
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "conflict-files-obsidian-git.md",
     "Personal/Investment.md",
-    "Personal/Work/CV eng tec.md",
-    "Personal/Work/CV esp Tecnico.md"
+    "Personal/Work/CV eng tec.md"
   ]
 }
