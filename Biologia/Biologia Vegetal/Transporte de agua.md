@@ -1,9 +1,9 @@
 # Sistemas de Transporte
 
 - [[xilema]]
-  El agua se mueve desde el suelo a la atmosfera a traves de celulas muertas
+  El agua se mueve desde el suelo a la atmosfera a traves de celulas muertas (*via apoplastica*)
 - [[floema]]
-  Azucares producidos fotosinteticamente, se mueven desde los tejidos fuente a los tejidos sumidero
+  Azucares producidos fotosinteticamente, se mueven desde los tejidos fuente a los tejidos sumidero (*via simplastica*)
 - Acuaporinas
 - Plasmodesma
 

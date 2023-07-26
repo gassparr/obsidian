@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "BV Parte I.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "BV Parte I.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
+                "file": "BV Parte I.pdf"
               }
             }
           },
@@ -221,8 +221,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8056bbdeec41008",
+  "active": "eae62f1d4d6ebf0b",
   "lastOpenFiles": [
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Tejidos/floema.md",
@@ -234,7 +235,6 @@
     "Hormonas Vegetales.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/peridermis.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
     "Biologia/Biologia Vegetal/Tejidos/meristemos.md",
     "Biologia/Biologia Vegetal/Crecimiento y desarrollo/RAM.md",
