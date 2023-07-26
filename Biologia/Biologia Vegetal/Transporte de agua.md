@@ -5,12 +5,9 @@
 - [[floema]]
   Azucares producidos fotosinteticamente, se mueven desde los tejidos fuente a los tejidos sumidero (*via simplastica*)
 - Acuaporinas
-- Plasmodesma
-
-# Acuaporinas
-
-proteinas transmembrana que permiten el pasaje pasivo de.
-En las celulas de la [[endodermis]] las cuales estan adyacentes a la banda de caspary, las acuaporinas estan bloquedas por suberina
+  proteinas transmembrana que permiten el pasaje pasivo de.
+  En las celulas de la [[endodermis]] las cuales estan adyacentes a la banda de caspary, las acuaporinas estan bloquedas por suberina
+- Plasmodesmo
 
 # Tres Procesos
 
@@ -23,7 +20,7 @@ En las celulas de la [[endodermis]] las cuales estan adyacentes a la banda de ca
 Las moleculas se mueven de un lugar de mayor concentracion a uno de menor concentracion .
 Este tipo de movimiento es apoplastico entre las celulas (atraviesa las membranas)
 
-Este se ven del xilema al espacio intercelular, del espacio intercelular pasa al [[estoma]], donde existe un gradiente de concentracion de vapor de agua 
+Este se ven del xilema al espacio intercelular, del espacio intercelular pasa al [[estoma]], donde existe un gradiente de concentracion de vapor de agua
 
 ## Movimiento por Osmosis
 
