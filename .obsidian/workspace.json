@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BV Parte I.pdf"
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
               }
             }
           },
@@ -221,10 +221,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eae62f1d4d6ebf0b",
+  "active": "a8056bbdeec41008",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "BV Parte I.pdf",
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Tejidos/floema.md",
