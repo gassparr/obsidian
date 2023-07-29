@@ -44,4 +44,4 @@ Yg → Potencial gravitacional, a pequenas distancias se considera 0, pero con p
 
 ## Movimiento en Masa
 
-Se explica el transporte por el [[xilema]] a partir de las propiedades del agua, donde la evaporacion deja un espacio libre el cual sera rellenado por otra molecula de agua impulsada por la tension.
+Se explica el transporte por el [[xilema]] a partir de las propiedades del agua, donde la evaporacion deja un espacio libre el cual sera rellenado por otra molecula de agua impulsada por la tension. 
