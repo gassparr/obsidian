@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BV Parte I.pdf"
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
               }
             }
           },
@@ -193,16 +193,17 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "490f7ffe694ba1f8",
+  "active": "262f1a0fa0a64859",
   "lastOpenFiles": [
-    "anatomia vegeta.md",
     "BV Parte I.pdf",
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
     "Untitled 1.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Personal/Ideas.md",
     "Personal/Investment.md",
     "Personal/Horarios.md",
@@ -222,7 +223,6 @@
     "Biologia/Biologia Vegetal/Bloque 1.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
-    "Personal/Work/CV esp.md",
     "Untitled.canvas"
   ]
 }
