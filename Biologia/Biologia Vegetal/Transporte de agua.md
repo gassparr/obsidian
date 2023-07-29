@@ -46,3 +46,6 @@ Yg → Potencial gravitacional, a pequenas distancias se considera 0, pero con p
 ## Movimiento en Masa
 
 Se explica el transporte por el [[xilema]] a partir de las propiedades del agua, donde la evaporacion deja un espacio libre el cual sera rellenado por otra molecula de agua impulsada por la tension.
+
+# Plasmolisis incipiente
+estado donde el 50% de las celulas se encuentran en plasmolisis.
