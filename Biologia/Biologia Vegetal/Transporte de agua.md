@@ -5,7 +5,7 @@
 - [[floema]]
   Azucares producidos fotosinteticamente, se mueven desde los tejidos fuente a los tejidos sumidero (*via simplastica*)
 - Acuaporinas
-  proteinas transmembrana que permiten el pasaje pasivo de.
+  proteinas transmembrana que permiten el pasaje pasivo de agua.
   En las celulas de la [[endodermis]] las cuales estan adyacentes a la banda de caspary, las acuaporinas estan bloquedas por suberina
 - Plasmodesmo
   Se encuentra en las membranas celulares. Cuando ingresa H2O a una celula, su potencial hidrico aumenta, haciendo que el agua fluya hacia otra celula adyacente con pot. Hidrico menor
@@ -27,7 +27,7 @@ Este se ven del xilema al espacio intercelular, del espacio intercelular pasa al
 
 A traves de membranas permeables selectivamente, ocurre la osmosis. Donde el agua difusara hacia regiones de menor concentracion de H2O (mayor concentracion de soluto)
 
-**Potencial quimico**
+**Potencial hidrico**
 Capacidad de hacer trabajo en el caso del agua
 
 Yw → Potencial agua (J/m3) o (MPa)
