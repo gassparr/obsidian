@@ -50,6 +50,11 @@ Se explica el transporte por el [[xilema]] a partir de las propiedades del agua,
 # Plasmolisis incipiente
 estado donde el 50% de las celulas se encuentran en plasmolisis.
 Para llegar a una plasmolisis incipiente, se debe:
-1. poner el tejido en distintas C de sacarosa y ver en el microscopio hasta la situacion dicha
-2. Cuando se llega a plasmolisis incipiente, el  `Yp = 0`, por lo que `Ywcel = - R . T . C`.
-3. 
+- poner el tejido en distintas C de sacarosa y ver en el microscopio hasta la situacion dicha
+- Cuando se llega a plasmolisis incipiente, el  `Yp = 0`, por lo que `Ywcel = - R . T . C`.
+
+La metodologia aplicada es:
+1. Realizar desgarrados de epidermis abaxial de Tradescantia spp.
+2. Colocar fragmentos de los desgarrados de epidermis de Tradescantia spp. en cajas de Petri que contengan soluciones de sacarosa de distinta molalidad (0; 0,1; 0,.2; 0,3; 0,4 y 0,5).
+3. Dejar equilibrando 40 minutos a temperatura ambiente.
+4. Montar cada uno de los fragmentos de epidermis tratados entre porta y cubre y observar los cambios al microscopio
