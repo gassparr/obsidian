@@ -1,7 +1,7 @@
 # Sistemas de Transporte
 
 - [[xilema]]
-  El agua se mueve desde el suelo a la atmosfera a traves de celulas muertas (*via apoplastica*)
+  El agua se mueve desde el suelo a la atmosfera a traves de celulas muertas (*via apoplastica*) ^ee32a4
 - [[floema]]
   Azucares producidos fotosinteticamente, se mueven desde los tejidos fuente a los tejidos sumidero (*via simplastica*)
 - Acuaporinas
@@ -47,11 +47,12 @@ Yg → Potencial gravitacional, a pequenas distancias se considera 0, pero con p
 
 Se explica el transporte por el [[xilema]] a partir de las propiedades del agua, donde la evaporacion deja un espacio libre el cual sera rellenado por otra molecula de agua impulsada por la tension.
 
-# Plasmolisis incipiente
+# Plasmolisis Incipiente
+
 estado donde el 50% de las celulas se encuentran en plasmolisis.
 Para llegar a una plasmolisis incipiente, se debe:
 - poner el tejido en distintas C de sacarosa y ver en el microscopio hasta la situacion dicha
-- Cuando se llega a plasmolisis incipiente, el  `Yp = 0`, por lo que `Ywcel = - R . T . C`.
+- Cuando se llega a plasmolisis incipiente, el `Yp = 0`, por lo que `Ywcel = - R . T . C`.
 
 La metodologia aplicada es:
 1. Realizar desgarrados de epidermis abaxial de Tradescantia spp.
@@ -59,5 +60,16 @@ La metodologia aplicada es:
 3. Dejar equilibrando 40 minutos a temperatura ambiente.
 4. Montar cada uno de los fragmentos de epidermis tratados entre porta y cubre y observar los cambios al microscopio
 
-# Del suelo a la atmosfera
-Suelos mas arcillosos tienen mayor retencion de agua
+# Del Suelo a la Atmosfera
+
+Suelos mas arcillosos tienen mayor retencion de agua, ya que tiene un radio de menisco menor.
+
+`Yps (suelo) = - 2 . T / R`
+
+A mayor cantidad de agua el radio incrementa (aumenta la superficie).
+
+## Banda de Caspary
+
+Formacion de lignina que rodea solo una cara de una region de la raiz, esta banda fuerza al agua a pasar por via simplastica para asi regular la entrada de H2O, minerales y patogenos.
+
+![](https://i.imgur.com/oh77k73.png)
