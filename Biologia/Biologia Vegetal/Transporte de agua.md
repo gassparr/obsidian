@@ -58,3 +58,5 @@ La metodologia aplicada es:
 2. Colocar fragmentos de los desgarrados de epidermis de Tradescantia spp. en cajas de Petri que contengan soluciones de sacarosa de distinta molalidad (0; 0,1; 0,.2; 0,3; 0,4 y 0,5).
 3. Dejar equilibrando 40 minutos a temperatura ambiente.
 4. Montar cada uno de los fragmentos de epidermis tratados entre porta y cubre y observar los cambios al microscopio
+
+# Del suelo a la atmosfera
