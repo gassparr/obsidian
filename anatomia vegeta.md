@@ -29,5 +29,6 @@ Estructura organizada conformada por varios tejidos, se dividen en *los de vida 
 - [[estoma]]
 
 ## Raiz
+- [[endodermis]]
 
 ## Tallo
