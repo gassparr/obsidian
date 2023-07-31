@@ -60,3 +60,4 @@ La metodologia aplicada es:
 4. Montar cada uno de los fragmentos de epidermis tratados entre porta y cubre y observar los cambios al microscopio
 
 # Del suelo a la atmosfera
+Suelos mas arcillosos tienen mayor retencion de agua
