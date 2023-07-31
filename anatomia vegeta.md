@@ -25,7 +25,8 @@
 
 Estructura organizada conformada por varios tejidos, se dividen en *los de vida vegetativa (Hoja, Raiz, Tallo)* y *reproductivos (Flor, fruto, semilla)*
 
-## Hoja
+## [[hoja]]
+- [[estoma]]
 
 ## Raiz
 

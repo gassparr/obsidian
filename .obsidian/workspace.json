@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "anatomia vegeta.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e46b7a20294726f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Organos/estoma.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af0cbb7c32417657",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Organos/estoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
+                "file": "Biologia/Biologia Vegetal/Organos/estoma.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
+                "file": "Biologia/Biologia Vegetal/Organos/estoma.md"
               }
             }
           },
@@ -193,13 +207,15 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "262f1a0fa0a64859",
+  "active": "2e46b7a20294726f",
   "lastOpenFiles": [
-    "BV Parte I.pdf",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
-    "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Organos/estoma.md",
+    "Biologia/Biologia Vegetal/Organos/hoja.md",
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
+    "BV Parte I.pdf",
+    "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
     "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
@@ -222,7 +238,6 @@
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
     "Biologia/Biologia Vegetal/Bloque 1.md",
-    "Biologia/Biologia Vegetal/Hidroponia.md",
     "Untitled.canvas"
   ]
 }
