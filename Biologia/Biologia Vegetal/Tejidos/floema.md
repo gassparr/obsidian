@@ -39,7 +39,14 @@ En general existen 3 tipos de carga
 - Carga apoplastica
 - Carga simplastica con captura de polimeros
 - Carga simplastica pasiva
-- 
+
 **Descarga**
 1. En el sumidero el azucar es descargado (*plasmodesmo*)
 2. La descarga del floema, aumenta el potencial hidrico, lo cual hace que el agua pase hacia afuera (xilema) y tambien disminuye la presion de turgencia
+## Tejidos fuente y sumidero
+**Fuente**:
+
+- frutos
+- semilla
+- raices 
+- tuberculos
