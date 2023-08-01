@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BV Parte I.pdf"
+                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md"
               }
             }
           },
@@ -193,8 +193,9 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "490f7ffe694ba1f8",
+  "active": "262f1a0fa0a64859",
   "lastOpenFiles": [
+    "BV Parte I.pdf",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "anatomia vegeta.md",
@@ -202,7 +203,6 @@
     "Biologia/Biologia Vegetal/Organos/hoja.md",
     "Biologia/Biologia Vegetal/Organos/estoma.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
-    "BV Parte I.pdf",
     "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
@@ -223,7 +223,6 @@
     "Biologia/Biologia Vegetal/clase 7.md",
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
-    "Biologia/Biologia Vegetal/Bloque 2.md",
     "Untitled.canvas"
   ]
 }
