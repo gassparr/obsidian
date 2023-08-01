@@ -1,3 +1,5 @@
+# Hidroponia
+
 Conjunto de tecnicas que permiten el cultivo de plantas en un medio libre de suelo
 
 ![](https://i.imgur.com/l0vSBlX.png)
@@ -16,3 +18,4 @@ meteorológicos.
 DESVENTAJAS:
 - Puesta en marcha de altos costos 
 - Si se infecta una planta, se disemina la enfermedad a todas las plantas rapidamente
+

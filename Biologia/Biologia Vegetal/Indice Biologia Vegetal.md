@@ -1,5 +1,5 @@
 - [[Hormonas Vegetales]]
-- [[anatomia vegeta]]
+- [[anatomia vegetal]]
 - [[Transporte de agua]]
 - [[Hidroponia]]
 - [[metodo gravimetrico]]

@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "1b37587728acb881",
+        "id": "ab4d0451e263edaf",
         "type": "tabs",
         "children": [
           {
-            "id": "262f1a0fa0a64859",
+            "id": "fe62888083cbdc6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f88c132ff70126f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2fe6edb5ecbbede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metodo gravimetrico.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af0cbb7c32417657",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anatomia vegeta.md",
+                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anatomia vegeta.md"
+                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md"
               }
             }
           },
@@ -193,17 +220,22 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "262f1a0fa0a64859",
+  "active": "1f88c132ff70126f",
   "lastOpenFiles": [
-    "metodo gravimetrico.md",
+    "anatomia vegetal.md",
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "Biologia/Biologia Vegetal/Hidroponia.md",
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "BV Parte I.pdf",
-    "anatomia vegeta.md",
+    "metodo gravimetrico.md",
+    "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
+    "Biologia/Biologia Vegetal/Organos/hoja.md",
+    "Biologia/Biologia Vegetal/Organos/estoma.md",
     "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
     "Untitled 1.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Personal/Ideas.md",
     "Personal/Investment.md",
     "Personal/Horarios.md",
@@ -218,12 +250,6 @@
     "Untitled.md",
     "Biologia/Biologia Vegetal/clase 7.md",
     "Personal/Work/CV esp comercial.md",
-    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
-    "Biologia/Biologia Vegetal/Bloque 2.md",
-    "Biologia/Biologia Vegetal/Bloque 1.md",
-    "Biologia/Biologia Vegetal/Hidroponia.md",
-    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
-    "Personal/Work/CV esp.md",
     "Untitled.canvas"
   ]
 }
