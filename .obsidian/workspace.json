@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "BV Parte I.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "BV Parte I.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md"
+                "file": "BV Parte I.pdf"
               }
             }
           },
@@ -193,10 +193,10 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "262f1a0fa0a64859",
+  "active": "490f7ffe694ba1f8",
   "lastOpenFiles": [
-    "BV Parte I.pdf",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+    "BV Parte I.pdf",
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
