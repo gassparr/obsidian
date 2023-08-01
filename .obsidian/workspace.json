@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab4d0451e263edaf",
+        "id": "af0cbb7c32417657",
         "type": "tabs",
         "children": [
           {
-            "id": "fe62888083cbdc6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f88c132ff70126f",
+            "id": "8d95e80dd003bfaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,25 +19,11 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2fe6edb5ecbbede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metodo gravimetrico.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "af0cbb7c32417657",
+        "id": "fb1f9ec5cfd04e64",
         "type": "tabs",
         "children": [
           {
@@ -220,18 +193,15 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "1f88c132ff70126f",
+  "active": "8d95e80dd003bfaf",
   "lastOpenFiles": [
-    "BV Parte I.pdf",
-    "Biologia/Biologia Vegetal/Tejidos/floema.md",
     "anatomia vegetal.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
-    "Biologia/Biologia Vegetal/Hidroponia.md",
+    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
+    "BV Parte I.pdf",
+    "anatomia vegeta.md",
     "metodo gravimetrico.md",
-    "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
-    "Biologia/Biologia Vegetal/Organos/hoja.md",
-    "Biologia/Biologia Vegetal/Organos/estoma.md",
     "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
@@ -250,6 +220,9 @@
     "Personal/Work/CV eng 2.md",
     "Untitled.md",
     "Biologia/Biologia Vegetal/clase 7.md",
+    "Personal/Work/CV esp comercial.md",
+    "Biologia/Biologia Vegetal/Bloque 2.md",
+    "Biologia/Biologia Vegetal/Bloque 1.md",
     "Untitled.canvas"
   ]
 }

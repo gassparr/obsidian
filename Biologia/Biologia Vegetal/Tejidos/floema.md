@@ -46,6 +46,11 @@ En general existen 3 tipos de carga
 ## Tejidos fuente y sumidero
 **Fuente**:
 
+- hojas maduras
+
+**Sumidero**:
+
+- hojas jovenes
 - frutos
 - semilla
 - raices 
