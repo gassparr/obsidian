@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "anatomia vegeta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "anatomia vegeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "anatomia vegeta.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md"
+                "file": "anatomia vegeta.md"
               }
             }
           },
@@ -195,19 +195,14 @@
   },
   "active": "262f1a0fa0a64859",
   "lastOpenFiles": [
-    "Biologia/Biologia Vegetal/Hidroponia.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
-    "anatomia vegeta.md",
-    "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
-    "Biologia/Biologia Vegetal/Organos/hoja.md",
-    "Biologia/Biologia Vegetal/Organos/estoma.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "BV Parte I.pdf",
+    "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
     "Untitled 1.md",
+    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Personal/Ideas.md",
     "Personal/Investment.md",
     "Personal/Horarios.md",
@@ -224,6 +219,10 @@
     "Personal/Work/CV esp comercial.md",
     "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Biologia/Biologia Vegetal/Bloque 2.md",
+    "Biologia/Biologia Vegetal/Bloque 1.md",
+    "Biologia/Biologia Vegetal/Hidroponia.md",
+    "Biologia/Biologia Vegetal/Anatomia/monocotiledonea.md",
+    "Personal/Work/CV esp.md",
     "Untitled.canvas"
   ]
 }
