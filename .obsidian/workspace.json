@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BV Parte I.pdf"
+                "file": "Biologia/Biologia Vegetal/Tejidos/floema.md"
               }
             }
           },
@@ -220,14 +220,14 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "490f7ffe694ba1f8",
+  "active": "1f88c132ff70126f",
   "lastOpenFiles": [
+    "BV Parte I.pdf",
     "Biologia/Biologia Vegetal/Tejidos/floema.md",
     "anatomia vegetal.md",
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
-    "BV Parte I.pdf",
     "metodo gravimetrico.md",
     "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
     "Biologia/Biologia Vegetal/Organos/hoja.md",
@@ -250,7 +250,6 @@
     "Personal/Work/CV eng 2.md",
     "Untitled.md",
     "Biologia/Biologia Vegetal/clase 7.md",
-    "Personal/Work/CV esp comercial.md",
     "Untitled.canvas"
   ]
 }

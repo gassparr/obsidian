@@ -35,6 +35,11 @@ Proteinas localizadas cerca de placas cribosas con funcion de expansion en caso 
 2. El floema se carga con el azucar de la celulas acompanantes, lo cual disminuye el potencion hidrico, Agua entra desde el xilema y aumento de la presion de turgencia
 3. La presion genera un flujo de agua y soluto desde la fuente hacia el sumidero
 
+En general existen 3 tipos de carga
+- Carga apoplastica
+- Carga simplastica con captura de polimeros
+- Carga simplastica pasiva
+- 
 **Descarga**
 1. En el sumidero el azucar es descargado (*plasmodesmo*)
 2. La descarga del floema, aumenta el potencial hidrico, lo cual hace que el agua pase hacia afuera (xilema) y tambien disminuye la presion de turgencia
