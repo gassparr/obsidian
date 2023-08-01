@@ -2,3 +2,4 @@
 - [[anatomia vegeta]]
 - [[Transporte de agua]]
 - [[Hidroponia]]
+- [[metodo gravimetrico]]

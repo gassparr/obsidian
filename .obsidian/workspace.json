@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b37587728acb881",
+        "id": "ab4d0451e263edaf",
         "type": "tabs",
         "children": [
           {
-            "id": "262f1a0fa0a64859",
+            "id": "fe62888083cbdc6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2fe6edb5ecbbede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metodo gravimetrico.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af0cbb7c32417657",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "metodo gravimetrico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BV Parte I.pdf",
+                "file": "metodo gravimetrico.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BV Parte I.pdf"
+                "file": "metodo gravimetrico.md"
               }
             }
           },
@@ -193,16 +207,17 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "490f7ffe694ba1f8",
+  "active": "c2fe6edb5ecbbede",
   "lastOpenFiles": [
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
     "BV Parte I.pdf",
-    "Biologia/Biologia Vegetal/Hidroponia.md",
+    "metodo gravimetrico.md",
     "anatomia vegeta.md",
+    "Biologia/Biologia Vegetal/Transporte de agua.md",
+    "Biologia/Biologia Vegetal/Hidroponia.md",
     "Biologia/Biologia Vegetal/Tejidos/endodermis.md",
     "Biologia/Biologia Vegetal/Organos/hoja.md",
     "Biologia/Biologia Vegetal/Organos/estoma.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
     "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
     "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
@@ -222,7 +237,6 @@
     "Untitled.md",
     "Biologia/Biologia Vegetal/clase 7.md",
     "Personal/Work/CV esp comercial.md",
-    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
     "Untitled.canvas"
   ]
 }
