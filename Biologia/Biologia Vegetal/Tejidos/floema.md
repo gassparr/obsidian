@@ -31,3 +31,10 @@ Proteinas localizadas cerca de placas cribosas con funcion de expansion en caso 
 # Carga y descarga floematica
 
 **Carga**
+1. Azucar en se carga activamente a las celulas acompanantes por transporte transmembrana (*plasmodesmo*).
+2. El floema se carga con el azucar de la celulas acompanantes, lo cual disminuye el potencion hidrico, Agua entra desde el xilema y aumento de la presion de turgencia
+3. La presion genera un flujo de agua y soluto desde la fuente hacia el sumidero
+
+**Descarga**
+1. En el sumidero el azucar es descargado (*plasmodesmo*)
+2. La descarga del floema, aumenta el potencial hidrico, lo cual hace que el agua pase hacia afuera (xilema) y tambien disminuye la presion de turgencia
