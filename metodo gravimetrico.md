@@ -19,4 +19,11 @@ Masa inicial y final
 
 `%dm = ((mi - mf) . 100 / mi)`
 
-Se grafica curva de calibracion *concentracion X vs %dm*
+Se grafica curva de calibracion *concentracion X vs %dm* y se calcula la ecuacion de la recta. Reemplaza *%dm = 0* y calcula el valor de la concentracion molal
+
+`Ye = -i . R . T. C`
+
+## Posibles errores
+
+- secar mal las porciones de papas y que pesen con error
+- Estado de la papa, si es muy vieja o esta verde, el *Y* no sera igual, la papa vieja estara deshidratada mientras la verde estara muy hidratada

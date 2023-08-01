@@ -73,3 +73,12 @@ A mayor cantidad de agua el radio incrementa (aumenta la superficie).
 Formacion de lignina que rodea solo una cara de una region de la raiz, esta banda fuerza al agua a pasar por via simplastica para asi regular la entrada de H2O, minerales y patogenos.
 
 ![](https://i.imgur.com/oh77k73.png)
+
+# Cavitacion
+Formacion de burbujas dentro del xilema, las cuales no pueden avanzar debido a la presencia de las punteaduras. El agua no podra avanzar, por lo que continua se camino moviendose a traves de los conductos vecinos.
+Las burbujas tambien se pueden eliminar, durante la noche cuando la transpiracion disminuye, aumenta el Yp del xilema, de forma que el vapor de agua y gases tienden a disolverse de nuevo en la solucion del xilema
+
+# Glutacion
+
+Se da en condicion en donde la planta puede absorber mucha agua y nutrientes y entonces esto se va acumulando en el xilema, formando gotas. Ocurre en ambientes de humedad elevados, cuando baja la humedad relativa, la glutacion disminuye. 
+Es una forma de eliminar agua, sin transpirar. La fuerza es ejercida por la raiz para forzar la salida de agua por las [[hoja]]s 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af0cbb7c32417657",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "metodo gravimetrico.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metodo gravimetrico.md",
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metodo gravimetrico.md"
+                "file": "Biologia/Biologia Vegetal/Transporte de agua.md"
               }
             }
           },
@@ -207,11 +206,11 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "c2fe6edb5ecbbede",
+  "active": "fe62888083cbdc6b",
   "lastOpenFiles": [
     "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
-    "BV Parte I.pdf",
     "metodo gravimetrico.md",
+    "BV Parte I.pdf",
     "anatomia vegeta.md",
     "Biologia/Biologia Vegetal/Transporte de agua.md",
     "Biologia/Biologia Vegetal/Hidroponia.md",
