@@ -3,9 +3,9 @@
 ![Uploading file...sxluy]()
 
 ## Central
-- **encefalo**
+- **Encefalo**
 - **Medula espinal**
-## Periferico
+ ## Periferico
 - **nervios**
 - **Ganglios sensoriales**
 - **Ganglios autonomos**
