@@ -1,14 +1,14 @@
 {
   "baseFontSize": 16,
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Minimal",
   "translucency": false,
-  "enabledCssSnippets": [
-    "Anupuccin"
-  ],
+  "enabledCssSnippets": [],
   "baseFontSizeAction": false,
-  "accentColor": "#443672",
-  "nativeMenus": false,
-  "textFontFamily": "Arial",
-  "showViewHeader": true
+  "accentColor": "#6b0000",
+  "nativeMenus": true,
+  "textFontFamily": "Inter",
+  "showViewHeader": true,
+  "interfaceFontFamily": "Cantarell",
+  "monospaceFontFamily": "SourceCodeVF"
 }

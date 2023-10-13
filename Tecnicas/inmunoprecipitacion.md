@@ -26,13 +26,14 @@ A diferencia del [[western blot]], es que esta tecnica no desnaturaliza las prot
 
 ## Mecanismo
 
-Metodo utilizado para determinar la ubicacion de los sitios de union del DNA a una proteina particular de interes o para detectar DNA que se une a histonas.
+Metodo utilizado para **determinar la ubicacion de los sitios de union del DNA a una proteina particular de interes o para detectar DNA que se une a histonas**.
 
 Las proteinas de union en las celulas pueden formar enlaces covalentes con el DNA. Por lo que mediante el uso de un anticuerpo que es especifico para la proteina de union del DNA target, se puede inmunoprecipitar el complejo proteina-DNA
 
 ## Caracteristicas
 
 ### Ventajas
+Permite ver interacciones in-vivo, teniendo resultados con contexto real dentro de una celula
 
 ### Desventajas
 
@@ -68,3 +69,6 @@ El protocolo Co-IP básico es el mismo que se describe para IP pero hay que tene
 ## Protocolo
 
 ### Controles
+
+# Inmunoprecipitacion de DNA metilado (MEDIP)
+Precipitacion de DNA el cual esta metilado

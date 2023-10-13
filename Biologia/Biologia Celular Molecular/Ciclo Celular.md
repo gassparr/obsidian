@@ -4,7 +4,7 @@
 
 La celula crece y hace una copia del ADN
 
-### Fase G1
+### Fase G1 
 
 Copia los organelos y hace componentes moleculares que necesitas en etapas posteriores
 - Celula crece

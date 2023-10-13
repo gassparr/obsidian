@@ -32,3 +32,11 @@ Cadherinas → Proteinas de adhesion, las cuales generan interacciones *celula -
 ## Celula - [[Matriz extracelular]]
 
 Se generan los *contactos focales* a partir de los filamentos de actina e integrinos
+
+# Anticuerpo Policlonal / Monoclonal
+
+- Anticuerpo policlonal
+  Reconoce todos los sitios antigenicos de una proteina
+
+- Anticuerpo monoclonal
+  Reconoce unicamente un unico sitio antigenico de una proteina, se puede utilizar para reconocer fosforilacion en un proteina.

@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"group","id":"77d8c246ce51a426","x":-720,"y":-880,"width":1200,"height":1000,"label":"Anatomia"},
-		{"type":"file","file":"Biologia/Biologia Vegetal/Anatomia/colenquima.md","id":"da7b8c254f3cb8ca","x":-680,"y":-320,"width":400,"height":400},
-		{"type":"file","file":"Biologia/Biologia Vegetal/Anatomia/esclerenquima.md","id":"cf66500fbf4e5f31","x":-680,"y":-720,"width":400,"height":400},
-		{"type":"file","file":"Biologia/Biologia Vegetal/Anatomia/lamina media.md","id":"f818065588d51810","x":-200,"y":-720,"width":400,"height":400}
-	],
-	"edges":[]
-}

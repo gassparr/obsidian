@@ -1,22 +1,22 @@
-# DNA polimerasas
+# DNA Polimerasas
 
-Sintesis de novo de DNA en direccion 5’ → 3’.
+Sintesis de novo de DNA en direccion 5' → 3'.
 
 **En bacterias**:
 - Pol I
-	actividad 5’→3’ exonucleasa la cual se utiliza para remover los primers de RNA del extremo 5’.
+	actividad 5'→3' exonucleasa la cual se utiliza para remover los primers de RNA del extremo 5'.
 	In Vitro, se utiliza esta actividad para nick translation (donde se marca secuencia de DNA utilizando analogos radioactivos de dNTPs).
-	*Fragmentos de Klenow*:  Fragmentos que contienen actividad 5’→3’ Polimerasa y 3’→5’ exonucleasa (proofreading)
+	*Fragmentos de Klenow*: Fragmentos que contienen actividad 5'→3' Polimerasa y 3'→5' exonucleasa (proofreading)
 - Pol II
 - Pol III
 
-Las 3 DNA Pol tienen actividad 5’→3’ Polimerasa y 3’→5’ exonucleasa (proofreading)
+Las 3 DNA Pol tienen actividad 5'→3' Polimerasa y 3'→5' exonucleasa (proofreading)
 
 **T4 DNA polimerasa**:
-- actividad 3’→5’ exonucleasa en la ausencia de dNTPs
-- actividad 5’→3’ polymerasa en la presencia de dNTPs
+- actividad 3'→5' exonucleasa en la ausencia de dNTPs
+- actividad 5'→3' polymerasa en la presencia de dNTPs
 
-Como no excibe actividad 5’→3’ exonucleasa, se puede utilizar en vez de Klenow para llenar los extremos 5’ protuyentes para llevarlos a romo
+Como no excibe actividad 5'→3' exonucleasa, se puede utilizar en vez de Klenow para llenar los extremos 5' protuyentes para llevarlos a romo
 Es mas agresiva que Klenow
 
 **T7 DNA polimerasa**:
@@ -26,14 +26,15 @@ Herramienta ideal para secuenciar DNA, ya que permite la polimerizacion de miles
 
 No excibe actividad exonucleasa
 
-## Convertir 5’ saliente a romo
+## Convertir 5' Saliente a Romo
+
 - Klenow y T4 pueden utilizarse
 
-## Convertir 3’ saliente a romo
-- T4 pol  en exceso de dNTPs 
+## Convertir 3' Saliente a Romo
 
+- T4 pol en exceso de dNTPs
 
-## DNA polimerasa termoestables:
+## DNA Polimerasa Termoestables:
 
 Polimersas que permiten replicar regiones de DNA con alto contenido de C/G ya que para separar estas se necesitan temperaturas altas
 
@@ -64,14 +65,14 @@ RNA y primer
 
 # RNA Polimerasas
 
-Elonga RNA de forma 5’ → 3’ a partir de DNA
+Elonga RNA de forma 5' → 3' a partir de DNA
 
  **SP6 RNA polimerasa**
  **T7 RNA polimerasa**
 
 Enzimas similares, requieren Mg y dsDNA.
 Son muy dependientes de promotores especificos, cuando transcriben pasan por los Poli(A) por lo que pueden en el caso de DNA circular, dar multiples vueltas antes de disociarse.
-Es por esta razon que es mejor linearizar el DNA con extremo 5’ protuyente o romo
+Es por esta razon que es mejor linearizar el DNA con extremo 5' protuyente o romo
 
 # Ligasas
 
@@ -88,7 +89,7 @@ Conecta en extremos romos cuando se lo pone en Ficoll o glycol polietileno
 Requiere de:
 Mg y NAD(+)
 
-## Ligasas termoestables
+## Ligasas Termoestables
 
 **T4 RNA ligasa I**:
 Marcado de RNA y primer extension.
@@ -105,22 +106,23 @@ ATP
 # Fosfatasas
 
 **Fosfatasa alcalina**:
-Remueve fosfato 5’ de los acidos nucleicos, previene la recircularizacion de los vectores de DNA
+Remueve fosfato 5' de los acidos nucleicos, previene la recircularizacion de los vectores de DNA
 
-Usos: 
-- Eliminación de grupos 5'-fosfato de ADN y ARN 
-- Actúa en extremos 5 ‘ salientes, recesivos y en extremos romos 
-- Prevención de la autoligación del vector. 
+Usos:
+- Eliminación de grupos 5'-fosfato de ADN y ARN
+- Actúa en extremos 5 ' salientes, recesivos y en extremos romos
+- Prevención de la autoligación del vector.
 - Eliminación del grupo fosfato 5 'antes de la marcación del extremo
 
 # Polinucleotido Kinasa
 
 PNK del fago T4
-- Transfiere P de ATP hacia el extremo 5’ de DNA o RNA
+- Transfiere P de ATP hacia el extremo 5' de DNA o RNA
 - Si no transfiere, es que hubo accionar de fosfatasa alcalina (desfosforilado)
-- Se utiliza para preparar sondas radioactivas 
+- Se utiliza para preparar sondas radioactivas
 
 # Nucleasas
+
 - Degradan acidos nucleicos al romper enlaces fosfodiester
 - ER son endonucleasas
 - Nucleasas que degradan DNA en extremos se llaman exonucleasas

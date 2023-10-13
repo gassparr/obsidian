@@ -1,20 +1,16 @@
 [
   "hotkey-helper",
   "obsidian-imgur-plugin",
-  "obsidian-git",
   "obsidian-contextual-typography",
   "obsidian-smart-typography",
   "obsidian-style-settings",
-  "auto-moc",
   "markdown-shortcuts",
   "obsidian-linter",
   "obsidian-enhancing-export",
-  "obsidian-table-generator",
   "obsidian-regex-replace",
   "table-editor-obsidian",
+  "obsidian-pandoc",
   "better-word-count",
-  "no-tabs",
-  "crossbow",
-  "obsidian-paste-as-html",
-  "obsidian-pandoc"
+  "obsidian-minimal-settings",
+  "obsidian-git"
 ]

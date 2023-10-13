@@ -10,7 +10,7 @@
 6. Scale up
 7. Purificacion de la proteina (lisado y cromatografia) y analisas funcional
 
-## Eleccion de vector
+## Eleccion de Vector
 
 Tener en cuenta:
 - Capacidad de expresion del sistema
@@ -36,13 +36,13 @@ Desventajas:
 	  - Ventajas: protegen de accion de proteasas citoplasmaticas
 	  - Favorece su formacion: Aumento de velocidad de formado, Disminucion en velocidad de plegado, Aumento de velocidad de agregacion
 
-### Vector de expresion en E.Coli
+### Vector de Expresion en E.Coli
 
 Que debe tener:
 - Promotor eficiente
 - Secuencia de union a ribosoma optimizada (Shine-dalgarno)
 - A 6-10bp downstream de shine-dalgarno, debe situarse el codon ATG que senala el comienzo de la traduccion del ARN,
-- En el extremo 3’ de lo anterior, una secuencia que funcione como terminado de la transcripcion
+- En el extremo 3' de lo anterior, una secuencia que funcione como terminado de la transcripcion
 
 **Promotores regulables**
 - lac
@@ -61,7 +61,7 @@ Que debe tener:
 3. Proteinas Activas
    Considerar la formacion de cuerpos de inclusion
 
-# Proteina de fusion
+# Proteina de Fusion
 
 Una proteina de interes fusionada con una proteina o peptido conocido, denominado *Tag*, pueden estar en cualquier extremo (NH3 o COO)
 
@@ -111,7 +111,7 @@ MCS → Sitio clonado multiple
 - De aumento de solubilidad → NusA.
 - Localizacion de proteinas → GFP, DsRed. Anticuerpos comerciales contra Tags por inmunofluorescencia
 
-## Localizacion de proteinas
+## Localizacion de Proteinas
 
 GFP (Proteina verde fluorescente)
 DsRed (proteina roja fluorescente)
@@ -137,7 +137,7 @@ Metodo de purificacion
 - Hidrofobicidad → HIC
 - Cromatografia de afinidad
 
-## Sistema de expresion His-Tag
+## Sistema de Expresion His-Tag
 
 ### Objetivo
 
@@ -154,10 +154,10 @@ Metodo de purificacion
 - Alteracion de la activdad proteica
 - Problemas en el plegamiento
 
-Para minimizar los problemas, se inserta Tag en los extremos de la proteina donde sea menos probable que afecte su funcion.
-Ademas agrega un sitio proteolitico para su posterior eliminacion
+> Para minimizar los problemas, se inserta Tag en los extremos de la proteina donde sea menos probable que afecte su funcion.
+> Ademas agrega un sitio proteolitico para su posterior eliminacion
 
-### Caracteristicas del vector
+### Caracteristicas Del Vector
 
 - Promotor T7
 - Iniciador de transcripcion T7
@@ -169,7 +169,7 @@ Ademas agrega un sitio proteolitico para su posterior eliminacion
 - Resistencia a Km
 - Origen pBR322 y f1
 
-## Construccion de una proteina de fusion
+## Construccion de Una Proteina de Fusion
 
 Tag a Fusionar // Gen de interes
 
@@ -180,13 +180,14 @@ ATG…………..GTG CGA A*CC ATG G*
 - El stop de traduccion del gen del tag de fusion debe eliminarse
 - El marco de lectura de la proteina de fusion debe ser contiguo
 
-### Preparacion del inserto
+### Preparacion Del Inserto
+
 ![500](https://i.imgur.com/IgB612a.png)
 
-### Preparacion del vector 
+### Preparacion Del Vector
 
 1. [[miniprep]]
-2. Electroforesis en gel de agarosa 
+2. Electroforesis en gel de agarosa
 3. Digestion con NcoI y XhoI
 4. Electroforesis en gel de agarosa (para ver si digirio)
 5. Cortar banda (espacio donde entra inserto), Inactivar enzimas por calor
@@ -200,7 +201,7 @@ Ligacion con T4 DNA ligasa
 **Cepas de clonado**
 
 - recA
-- Deficiente en RNA polimerasa T7 
+- Deficiente en RNA polimerasa T7
 - Kanamicina sensible
 
 Produce gran cantidad de plasmidos que se usan para chequear la secuencia obtenida y verificar la obtencion del marco de lectura adecuado
@@ -210,10 +211,11 @@ Produce gran cantidad de plasmidos que se usan para chequear la secuencia obteni
 Ensayo Preliminar
 1. Cultivo de cepa de expresion con y sin inductor (IPTG)
 2. Lisado de celular
-3. Centrifugacion 
+3. Centrifugacion
 4. Analisis de la presencia de la proteina en el sobrenadante y en el pellet en SDS-PAGE
 
 ### Purificacion
+
 - Se utiliza una columna de afinidad que contiene la resina unida al complejo Acido Nitriloacetico - Ni (+2)
 - Pasos
   1. Lisis celular
@@ -221,8 +223,8 @@ Ensayo Preliminar
   3. Lavado
   4. Elucion
 - Lavado y elucion
-  - concentracion creciente de imidazol 
-  - Disminuir el pH del buffer de elucion 
+  - concentracion creciente de imidazol
+  - Disminuir el pH del buffer de elucion
   - Agregado de Nal 0.5M para que no se una Ni(+2
 
 **His-Tag**

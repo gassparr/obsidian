@@ -1,4 +1,4 @@
-0261
+
 1. Miniprep para obtener mi plasmido
 2. Electroforesis para verificar que miniprep haya funcionado
 3. Digestion con ER

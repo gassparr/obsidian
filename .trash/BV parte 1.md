@@ -1,1 +1,0 @@
-![[BV Parte I.pdf]]

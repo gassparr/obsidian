@@ -1,6 +1,6 @@
 {
-  "findText": "C",
-  "replaceText": "- ",
+  "findText": " IS ",
+  "replaceText": " **IS** ",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

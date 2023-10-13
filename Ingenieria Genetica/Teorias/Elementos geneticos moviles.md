@@ -43,7 +43,7 @@ Mutar un unico gen
 
 Mutar de tal forma que obtengo todos los genes alterados 1 o pocos genes a la vez.
 
-Se van a utilizar [[transposones]], se usan para silenciar gener
+Se van a utilizar [[Ingenieria Genetica/Miscellaneous/transposones]], se usan para silenciar gener
 
 *FAGO P* →
 FAGO U → Se integra a los genomas como un transposon

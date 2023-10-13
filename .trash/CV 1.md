@@ -1,1 +1,0 @@
-<r-c> <c1-2> <-- ffffffffffffffffffffffffffffffffffffffffffffff algo --> </c1-2> <c1-2> <-- dfsdfsdaddddddddddddddddddddddd column --> </c1-2> </r-c>

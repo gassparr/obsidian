@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "75e7e4358d3ce411",
+        "id": "a7132758b75a1de4",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "09af7811bfdc3c13",
+            "id": "7aa3573e210019dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ingenieria Genetica/2 Libro transposicion.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "312375c83b3da0a3",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "e48e462e862f7f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisiologia Animal/Sistema Nervioso.md",
+                "file": "Ingenieria Genetica/Miscellaneous/Como enfocar.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisiologia Animal/Sistema Nervioso.md",
+                "file": "Ingenieria Genetica/Miscellaneous/Como enfocar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisiologia Animal/Sistema Nervioso.md",
+                "file": "Ingenieria Genetica/Miscellaneous/Como enfocar.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisiologia Animal/Sistema Nervioso.md"
+                "file": "Ingenieria Genetica/Miscellaneous/Como enfocar.md"
               }
             }
           },
@@ -153,9 +171,19 @@
               "type": "BardObsidian-view",
               "state": {}
             }
+          },
+          {
+            "id": "9b3b785e5294ce9b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -172,42 +200,47 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "auto-moc:AutoMOC": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "crossbow:Crossbow": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09af7811bfdc3c13",
+  "active": "e48e462e862f7f41",
   "lastOpenFiles": [
-    "Fisiologia Animal/Indice de Fisiologia Animal.md",
-    "Fisiologia Animal/Sistema Nervioso.md",
-    "Fisiologia Animal/Fisiologia animal/Senalizacion.md",
-    "Biologia/Biologia Vegetal/Tejidos/floema.md",
-    "BV Parte I.pdf",
-    "anatomia vegetal.md",
-    "Biologia/Biologia Vegetal/Indice Biologia Vegetal.md",
-    "Biologia/Biologia Vegetal/Transporte de fotoasimilados.md",
-    "Biologia/Biologia Vegetal/Transporte de agua.md",
-    "anatomia vegeta.md",
-    "metodo gravimetrico.md",
-    "Biologia/Biologia Vegetal/Anatomia/esclerenquima.md",
-    "Biologia/Biologia Vegetal/Anatomia/colenquima.md",
-    "Biologia/Biologia Vegetal/Tejidos/parenquima.md",
-    "Biologia/Biologia Vegetal/Tejidos/epidermis.md",
-    "Untitled 1.md",
-    "Personal/Ideas.md",
-    "Personal/Investment.md",
-    "Personal/Horarios.md",
-    "Personal/Quimica papa y gaspar.md",
-    "Personal/Work/CV eng tec.md",
-    "sistema inmune.md",
-    "piecesdb.json",
-    "Hormonas Vegetales.md",
-    "1. Sistema inmune.mht",
-    "Personal/Work/CV esp Tecnico.md",
-    "Personal/Work/CV eng 2.md",
-    "Untitled.md",
-    "Biologia/Biologia Vegetal/clase 7.md",
+    "New Folder/obsidian/sistema inmune.md",
+    "New Folder/obsidian/piecesdb.json",
+    "New Folder/obsidian/metodo gravimetrico.md",
+    "New Folder/obsidian/anatomia vegetal.md",
+    "New Folder/obsidian/Untitled.md",
+    "New Folder/obsidian/Templates/Tecnicas.md",
+    "New Folder/obsidian/Templates/Proteina.md",
+    "New Folder/obsidian/Templates",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/northern blot.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/microarrays.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/dot blot.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/Y1H.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/Union a filtros de nitrocelulosa.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/Primer Extension.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/Genes reporteros.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/Footprinting.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica/EMSA.md",
+    "New Folder/obsidian/Tecnicas/western blot.md",
+    "New Folder/obsidian/Tecnicas/transfer DNA.md",
+    "New Folder/obsidian/Tecnicas/silenciamiento por mRNA.md",
+    "New Folder/obsidian/Tecnicas/microinyeccion.md",
+    "New Folder/obsidian/Tecnicas/mRNA tagging.md",
+    "New Folder/obsidian/Tecnicas/inmunoprecipitacion.md",
+    "New Folder/obsidian/Tecnicas/inmunolocalizacion.md",
+    "New Folder/obsidian/Tecnicas/inmunofluorescencia.md",
+    "New Folder/obsidian/Tecnicas/gradiente de sacarosa.md",
+    "New Folder/obsidian/Tecnicas/gradiente de CsCl.md",
+    "New Folder/obsidian/Tecnicas/fotoblanqueo.md",
+    "New Folder/obsidian/Tecnicas/Herramientas de estudio gentica",
+    "New Folder/obsidian/Tecnicas",
+    "New Folder/obsidian/Personal/Work",
+    "New Folder/obsidian/Personal",
+    "New Folder/obsidian/Ingenieria Genetica/Teorias",
+    "New Folder/obsidian/Ingenieria Genetica/Seminarios",
+    "New Folder/obsidian/Ingenieria Genetica/Miscellaneous",
+    "New Folder/obsidian/Ingenieria Genetica",
     "Untitled.canvas"
   ]
 }

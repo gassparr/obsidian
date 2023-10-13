@@ -1,0 +1,45 @@
+:root {
+  --base0: #100F0F;
+  --base1: #1C1B1A;
+  --base2: #282726;
+  --base3: #343331;
+  --base4: #403E3C;
+  --base5: #575653;
+  --base6: #6F6E69;
+  --base7: #878580;
+  --base8: #B7B5AC;
+  --base9: #CECDC3;
+  --base10: #DAD8CE;
+  --base11: #E6E4D9;
+  --base12: #F2F0E5;
+  --paper: #FFFCF0;
+  --red: #AF3029;
+  --orange: #BC5215;
+  --yellow: #AD8301;
+  --green: #66800B;
+  --cyan: #24837B;
+}
+
+.theme-dark {
+  /* Background */
+  --background-primary-alt: var(--base0);
+  --background-primary: var(--base1);
+  --background-secondary-alt: var(--base2);
+  --background-secondary: var(--base3);
+  /* Foreground */
+  --text-normal: var(--base8);
+  /* Accent */
+  --interactive-accent: var(--cyan);
+}
+
+.theme-light {
+  /* Background */
+  --background-primary-alt: var(--paper);
+  --background-primary: var(--base12);
+  --background-secondary-alt: var(--base11);
+  --background-secondary: var(--base10);
+  /* Foreground */
+  --text-normal: var(--base5);
+  /* Accent */
+  --interactive-accent: var(--cyan);
+}

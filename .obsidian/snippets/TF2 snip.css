@@ -1,0 +1,74 @@
+/* Base colors */
+:root {
+  --base-color: black; /* Black */
+  --accent-color: #f5f5f5; /* Beige */
+  --secondary-color: #ff8c00; /* Orange */
+  --tertiary-color: #ff7300; /* Orange */
+  --quaternary-color: #757575; /* Gray */
+}
+
+/* Text colors */
+body {
+  color: var(--base-color);
+}
+
+a {
+  color: var(--secondary-color);
+}
+
+.markdown-body {
+  color: var(--base-color);
+}
+
+/* Code colors */
+.cm-s-obsidian.CodeMirror-cursor {
+  border-left: 1px solid var(--secondary-color);
+}
+
+.cm-s-obsidian .cm-keyword {
+  color: var(--secondary-color);
+}
+
+.cm-s-obsidian .cm-string {
+  color: #ff0000;
+}
+
+/* Other elements */
+.sidebar {
+  background-color: var(--accent-color);
+}
+
+.header {
+  background-color: var(--base-color);
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  border-bottom: 1px solid var(--quaternary-color);
+}
+
+/* Custom CSS */
+
+/* Use the secondary color for links in the markdown body */
+.markdown-body a {
+  color: var(--secondary-color);
+}
+
+/* Use the tertiary color for code blocks */
+.markdown-body code {
+  color: var(--tertiary-color);
+}
+
+/* Use the quaternary color for headings */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  color: var(--quaternary-color);
+}
